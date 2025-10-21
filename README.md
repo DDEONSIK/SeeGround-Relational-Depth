@@ -21,7 +21,7 @@
 
 ### Table 1. Performance comparison on the Nu3D benchmark (Unit: %). Easy/Hard categorizes performance by query difficulty (number of distractors), while Dep./Indep. by viewpoint dependency. Ours HW 7B+Depth represents the performance of the proposed methodology with the Relational Depth Text module, while Ours HW 7B is the lightweight baseline reproduced in our hardware environment. Ori Baseline values are cited from the original SeoGround paper, with 72B serving as an upper-bound reference, and '-' indicating unavailable values.
 | Method | Easy | Hard | Dep. | Indep. | Acc@25 | Acc@50 |
-|--------|------|------|------|--------|--------|--------|
+|--------|-----------|-------------|-----------|-------------|--------|--------|
 | Ori Baseline 72B | 54.50 | 38.30 | 42.30 | 48.20 | 46.10 | - |
 | Ori Baseline 7B | 40.80 | 26.30 | 31.40 | 34.30 | 33.30 | - |
 | Ours HW 7B | 40.99 | 25.97 | 31.35 | 34.17 | 33.18 | 32.88 |
