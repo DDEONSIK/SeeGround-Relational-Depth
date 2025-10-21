@@ -15,7 +15,7 @@
 3D Visual Grounding, Vision-Language Models, Zero-Shot Grounding, Open-Vocabulary Learning, Spatial Reasoning, Monocular Depth Estimation, Relational Depth Text, Depth-Aware Grounding
 
 ---
-<img width="1010" height="767" alt="image" src="https://github.com/user-attachments/assets/5f303c79-889e-44ff-a0ad-4b588d237a35" />
+<img width="5821" height="4419" alt="image" src="https://github.com/user-attachments/assets/24d89326-e0c8-407b-97ac-be8464cd45bc" />
 
 
 
