@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "25",
+        "target_name": "door",
+        "caption": "a brown wooden door. on the side of the room.",
+        "parsed_query": {
+            "Target": "brown wooden door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "a brown wooden desk. next to another same desk.",
+        "parsed_query": {
+            "Target": "brown wooden desk",
+            "Anchor": [
+                "another same desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "a brown wooden desk. on the right to another same desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "27",
+        "target_name": "cabinet",
+        "caption": "the cabinet is in the northwest corner of the room. the cabinet is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "northwest corner of the room"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "the chair is left of the entrance door. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "entrance door"
+            ]
+        },
+        "unique": false
+    }
+]

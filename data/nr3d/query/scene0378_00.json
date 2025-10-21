@@ -1,0 +1,927 @@
+[
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 37,
+        "caption": "the bookshelf closest to the clock",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 37,
+        "caption": "Facing the door, the shelf to the right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 43,
+        "caption": "Chair directly in front of blackboard",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blackboard"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 37,
+        "caption": "The bookshelf closest to the door.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 31,
+        "caption": "The cup is blue. It is near a magazine that has green on it. It is also the closest to the edge of the table, toward the office chair.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "magazine",
+                "table",
+                "office chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 31,
+        "caption": "This cup is blue and is closest to the magazine.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "magazine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 35,
+        "caption": "the desk with the rolling chair tucked under it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "rolling chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 44,
+        "caption": "Facing the window the desk on the left",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 37,
+        "caption": "Choose the darker colored bookshelf. It's on the same wall as the clock.",
+        "parsed_query": {
+            "Target": "darker colored bookshelf",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 40,
+        "caption": "Blueish green with armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 43,
+        "caption": "The brown chair under the chalkboard",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "chalkboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 35,
+        "caption": "A swivel chair faces this desk, which is the biggest desk.",
+        "parsed_query": {
+            "Target": "swivel chair",
+            "Anchor": [
+                "biggest desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 43,
+        "caption": "The chair under the chalkboard",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chalkboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 0,
+        "caption": "Choose the desk closes to the door.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 41,
+        "caption": "The brown office chair",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 32,
+        "caption": "choose the cup closest to the bookcase.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "bookcase"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 41,
+        "caption": "Choose the brown office chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 43,
+        "caption": "The chair closest to the chalk board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chalk board"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 31,
+        "caption": "This cup is colored blue and is next to a magazine with Toby on it.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "magazine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 31,
+        "caption": "The cup closest to the door.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 42,
+        "caption": "the chair behind the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 31,
+        "caption": "There are two cups on a desk. If you are sitting in the chair at the desk, it is the cup on the right.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 32,
+        "caption": "find the cup closer to the wall clock and the computer",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "wall clock",
+                "computer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 42,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 0,
+        "caption": "The desk closest to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 44,
+        "caption": "The correct desk is the one in the middle of the other two.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 32,
+        "caption": "The cup with the red handle on the desk near the cup with the blue handle.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "red handle",
+                "blue handle"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 32,
+        "caption": "The cup that is not a solid color.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 37,
+        "caption": "The bookshelf in the corner near the desk",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 43,
+        "caption": "The chair underneath the chalk board with no desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chalk board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 44,
+        "caption": "The smallest desk, which is also the computer desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "computer desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 40,
+        "caption": "Chair facing more towards the office door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "office door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 42,
+        "caption": "The chair at the dark brown desk that is in front of the light brown door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dark brown desk",
+                "light brown door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 41,
+        "caption": "Its the brown chair pushed under the desk",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 35,
+        "caption": "the desk closest to the windows",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 0,
+        "caption": "It is the desk closest to the door and furthest from the windows.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 38,
+        "caption": "Find the bookshelf that is beside the black file cabinet.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "black file cabinet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 44,
+        "caption": "The computer desk with a computer monitor at the top",
+        "parsed_query": {
+            "Target": "computer desk",
+            "Anchor": [
+                "computer monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 38,
+        "caption": "The bookshelf near the black file cabinet.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "black file cabinet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 37,
+        "caption": "When facing the door, the gray bookshelf to the right",
+        "parsed_query": {
+            "Target": "gray bookshelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 35,
+        "caption": "The desk in front of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 35,
+        "caption": "The desk in front of the windows.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 40,
+        "caption": "The desk chair that is green.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "green"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 32,
+        "caption": "the cup furthest away from the chalkboard.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 38,
+        "caption": "if facing the door, the bookshelf on your left. there is a jacket hanging next to it",
+        "parsed_query": {
+            "Target": "jacket",
+            "Anchor": [
+                "bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 40,
+        "caption": "dark green office chair",
+        "parsed_query": {
+            "Target": "dark green office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 42,
+        "caption": "The chair behind the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 44,
+        "caption": "Tall grayish desk with the green chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "green chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 43,
+        "caption": "The chair that is under the blackboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blackboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 31,
+        "caption": "The blue coffee cup on the desk.",
+        "parsed_query": {
+            "Target": "coffee cup",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 42,
+        "caption": "Brown, with arms closest to the entrance.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "entrance"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 42,
+        "caption": "The chair in the corner closest to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 35,
+        "caption": "facing the window, right desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 44,
+        "caption": "The middle desk.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 0,
+        "caption": "the desk closest to the door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 38,
+        "caption": "The bookshelf has many items in front of it",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 42,
+        "caption": "This chair is at a desk. The chair is sitting directly in front of the yellow door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "yellow door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 43,
+        "caption": "Chair under the chalk board",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chalk board"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 37,
+        "caption": "The bookshelf is to the left side of the desk when sitting in it",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 32,
+        "caption": "Cup closest to the clock on the wall",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 41,
+        "caption": "it is the office chair, next to the one in front of the computer monitor.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "computer monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 38,
+        "caption": "The bookshelf with more boxes in front of it",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "boxes"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 40,
+        "caption": "The green office chair, on the left when facing the windows.",
+        "parsed_query": {
+            "Target": "green office chair",
+            "Anchor": [
+                "left",
+                "when facing the windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 31,
+        "caption": "The cup nearest the magazine.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "magazine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 41,
+        "caption": "The chair that is facing the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 44,
+        "caption": "The narrow desk with the computer on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "computer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 41,
+        "caption": "When standing in the middle of the room facing the chairs, the correct one is on the right. It brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 32,
+        "caption": "cup nearest the shelfs",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "shelfs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 40,
+        "caption": "The office chair that is green",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 38,
+        "caption": "The yellow shelf not the gray shelf.",
+        "parsed_query": {
+            "Target": "yellow shelf",
+            "Anchor": "gray shelf"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 41,
+        "caption": "The office chair without a computer",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 35,
+        "caption": "The desk is under the black chalkboard",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "black chalkboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 0,
+        "caption": "The desk is the one with the magazine and red pencil on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "magazine",
+                "red pencil"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 38,
+        "caption": "The bookshelf has many items in front of it",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 0,
+        "caption": "Desk closest to the door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 0,
+        "caption": "Do *not* choose the desk closest to the window, and do *not* choose the desk with the computer on it. Choose the one that's closest to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door",
+                "window",
+                "computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": 40,
+        "caption": "The green chair.",
+        "parsed_query": {
+            "Target": "green chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

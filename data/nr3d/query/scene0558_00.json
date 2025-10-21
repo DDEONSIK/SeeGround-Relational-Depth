@@ -1,0 +1,334 @@
+[
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 5,
+        "caption": "The smaller bookshelf.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 1,
+        "caption": "Its the chair with a blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 4,
+        "caption": "The brown armchair is directly in front of one end of this bookshelf.",
+        "parsed_query": {
+            "Target": "brown armchair",
+            "Anchor": [
+                "bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 2,
+        "caption": "Chair around the round table to the right of the brown armchair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "brown armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 5,
+        "caption": "The shorter, lighter bookcase.",
+        "parsed_query": {
+            "Target": "lighter bookcase",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 5,
+        "caption": "The bookshelf close to the blue backpack",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "blue backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 4,
+        "caption": "The L-shaped bookshelf, that piece of it",
+        "parsed_query": {
+            "Target": "L-shaped bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 2,
+        "caption": "The chair without the blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 4,
+        "caption": "The correct bookshelf meets another bookshelf in the corner of the room.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 2,
+        "caption": "the white chair with nothing on it",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 4,
+        "caption": "The bookcase behind the brown chair that the chair with the backpack is facing.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "brown chair",
+                "chair with the backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 1,
+        "caption": "the chair with no backpack on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 4,
+        "caption": "The bookshelf closest to the round table",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "round table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 2,
+        "caption": "the white chair without the back pack on it",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 5,
+        "caption": "the shortest bookcase on the left-hand side",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "left-hand side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 1,
+        "caption": "the chair with a blue backpack on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 1,
+        "caption": "Find the chair that has the bright blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bright blue backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 4,
+        "caption": "The longer of the two bookshelves.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 5,
+        "caption": "the shorter bookshelf, NOT the one that is part of a giant L-shaped shelf",
+        "parsed_query": {
+            "Target": "shorter bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 2,
+        "caption": "One of the chairs has a blue backpack on it. You need ANOTHER one",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 1,
+        "caption": "The chair with a blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 2,
+        "caption": "the chair that does NOT have a blue bag on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 1,
+        "caption": "The correct chair has a blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 1,
+        "caption": "The correct chair has a blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 5,
+        "caption": "Choose the smaller bookshelf that is close to the chair with a blue backpack.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "chair",
+                "blue backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 4,
+        "caption": "Select the bookshelf closest to the window.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 2,
+        "caption": "The chair without the backpack",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": 5,
+        "caption": "The bookshelf that is behind the chair with the backpack.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "chair",
+                "backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

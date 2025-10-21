@@ -1,0 +1,368 @@
+[
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "This bench is a bit shorter and closest to a couch.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 2,
+        "caption": "The couch that is not next to the round coffee table with the in it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 2,
+        "caption": "the object is the couch not beside the round coffee table",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 3,
+        "caption": "It is the couch facing a table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 7,
+        "caption": "The table closest to the white cabinet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white cabinet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "the bench facing the back of the couch",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "back of the couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 3,
+        "caption": "Facing the wall with cards, the couch to the lower left corner.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall with cards"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 3,
+        "caption": "Half couch with round coffee table in front of it and black object on couch",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "round coffee table",
+                "black object on couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 2,
+        "caption": "The correct couch does NOT have a round table infront of it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 7,
+        "caption": "The bench to the left looking at the papers on the wall.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "wall",
+                "paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 7,
+        "caption": "Choose the slatted bench across from the semicircular couch with a donut shaped table in front of it.",
+        "parsed_query": {
+            "Target": "slatted bench",
+            "Anchor": [
+                "semicircular couch",
+                "donut shaped table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "with round seats in front of you, the bench to the right is the correct option",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "round seats"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 2,
+        "caption": "couch section closest to the display on the wall",
+        "parsed_query": {
+            "Target": "couch section",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "Facing the benches, the bench on the right.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "right",
+                "benches"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 2,
+        "caption": "The couch furthest from the circular coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "circular coffee table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "There are two curvy couches but start at the one without a circle table in front of it. Walk towards some rectangles of art on the wall and two benches. The bench on the right is your goal.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "curvy couches",
+                "shapes of art",
+                "two benches"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 2,
+        "caption": "Couch that does NOT contain a small circular table in front of it.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 3,
+        "caption": "It is the couch facing the wall of notices; there is a round table directly in front of it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall of notices",
+                "round table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 7,
+        "caption": "The bench next to the white wall",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "white wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 3,
+        "caption": "couch next to the circular table",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "circular table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 7,
+        "caption": "When standing wtih your back to the round table, facing the benches, the correct bench is on the left.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "round table",
+                "benches"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 2,
+        "caption": "Choose the couch more in the middle of the room, closer to the wood benches",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wood benches"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 7,
+        "caption": "Facing the wall with pictures, the bench on the left.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "wall",
+                "pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "While facing the wall with the bunch of paper on it, it is the bench on the right hand side",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "wall",
+                "paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 3,
+        "caption": "couch nearest the small table",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "small table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "Facing the wall with many frames, choose the bench on the right.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "wall",
+                "frames"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 8,
+        "caption": "Rightmost brown wooden bench in front of wall of postcards",
+        "parsed_query": {
+            "Target": "brown wooden bench",
+            "Anchor": [
+                "wall",
+                "postcards"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 7,
+        "caption": "facing the wall with the posts, the left bench",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "wall with the posts"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": 3,
+        "caption": "The correct couch has a round table in front of it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

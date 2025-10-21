@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "1",
+        "target_name": "ottoman",
+        "caption": "a red squared chair. it is under a round table.",
+        "parsed_query": {
+            "Target": "red squared chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "a round brown table. it is next to a red squared chair.",
+        "parsed_query": {
+            "Target": "round brown table",
+            "Anchor": "red squared chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "a round brown table. it is right behind a long black chair.",
+        "parsed_query": {
+            "Target": "round brown table",
+            "Anchor": [
+                "long black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "a dark blue couch. it is right behind a round table.",
+        "parsed_query": {
+            "Target": "dark blue couch",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "1",
+        "target_name": "ottoman",
+        "caption": "a small red chair. it's shape is square, and it is next to a long blue couch.",
+        "parsed_query": {
+            "Target": "small red chair",
+            "Anchor": [
+                "long blue couch"
+            ]
+        },
+        "unique": false
+    }
+]

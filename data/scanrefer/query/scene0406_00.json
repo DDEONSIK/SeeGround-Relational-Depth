@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "there is one folded white bath towel sitting on top of the toilet tank lid.  the toilet is next to the tub.",
+        "parsed_query": {
+            "Target": "bath towel",
+            "Anchor": [
+                "toilet tank lid",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "there is a sliding cream colored door that leads from the bathroom.  the door is open slightly.",
+        "parsed_query": {
+            "Target": "sliding cream colored door",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "there is a modern type colorful picture hanging in the bathroom.  it hangs above the toilet.",
+        "parsed_query": {
+            "Target": "modern type colorful picture",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "there is a white porcelean sink in the bathroom.  it is next to some personal care products.",
+        "parsed_query": {
+            "Target": "porcelain sink",
+            "Anchor": [
+                "personal care products"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "29",
+        "target_name": "towel",
+        "caption": "there is a white bath towel hanging on the side of the tub.  it is next to the shower curtain near the tub faucet.",
+        "parsed_query": {
+            "Target": "white bath towel",
+            "Anchor": [
+                "tub",
+                "shower curtain",
+                "tub faucet"
+            ]
+        },
+        "unique": false
+    }
+]

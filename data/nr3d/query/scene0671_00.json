@@ -1,0 +1,1225 @@
+[
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 18,
+        "caption": "the backpack is yellow",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 8,
+        "caption": "with the black wall on the left, choose the pillow on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "black wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 16,
+        "caption": "Choose the black backpack hanging on the wall.",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 9,
+        "caption": "The book furthest from the red chair",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "red chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 8,
+        "caption": "these are used to set on in this picture but are normally used for your head at night. there are two of these but the pillow you want is in front of the open notebook.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "open notebook"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 4,
+        "caption": "the middlemost chair",
+        "parsed_query": {
+            "Target": "middlemost chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 1,
+        "caption": "The correct chair is white.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 5,
+        "caption": "The end chair at dining room table without the binder in front.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dining room table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 2,
+        "caption": "Look at the 3 chairs to together, it's the one that's in front of the white paper",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white paper"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 5,
+        "caption": "Facing the green wall, the leftmost chair,.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "green wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 22,
+        "caption": "find the backpack next to the table and the storage unit",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "table",
+                "storage unit"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 19,
+        "caption": "Look from above to the room. Pick the box containing cards that has not a locker/dresser/cabinet across it.",
+        "parsed_query": {
+            "Target": "box containing cards",
+            "Anchor": [
+                "locker",
+                "dresser",
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 8,
+        "caption": "the pillow on the right-hand side of the flower arrangement",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "flower arrangement"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 15,
+        "caption": "the pillow on top of the white blob on the floor",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "white blob"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 22,
+        "caption": "Choose the chair with the red backpack on the back of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red backpack"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 2,
+        "caption": "the chair with a red backpack",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 2,
+        "caption": "The chair with the orange backpack hanging from it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "orange backpack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 16,
+        "caption": "The dark backpack to the right of the light yellowish back pack not at the table.",
+        "parsed_query": {
+            "Target": "dark backpack",
+            "Anchor": [
+                "light yellowish back pack",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 4,
+        "caption": "The middle chair option. next to the red and white chair",
+        "parsed_query": {
+            "Target": "middle chair",
+            "Anchor": [
+                "red and white chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 1,
+        "caption": "It is the chair at the head of the table, the end with all the books.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 1,
+        "caption": "At head of table closest to white object on table",
+        "parsed_query": {
+            "Target": "head of table",
+            "Anchor": [
+                "white object",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 21,
+        "caption": "The book that is open on the table.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 22,
+        "caption": "The chair with the red bag in it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red bag"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 3,
+        "caption": "You sit on these to eat at a table",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 21,
+        "caption": "The correct book is the larger one, closer to the green wall.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "green wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 18,
+        "caption": "gold backpack behind black chair at the end of table",
+        "parsed_query": {
+            "Target": "gold backpack",
+            "Anchor": [
+                "black chair",
+                "end of table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 8,
+        "caption": "The pillow on front of the white object",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "white object"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 16,
+        "caption": "choose the backpack furthest from the flowers.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "flowers"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 20,
+        "caption": "When standing in the room looking at the carts, the correct one is on the left hand side.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "room",
+                "carts"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 3,
+        "caption": "The green box is the highest one in terms of its elevation and size.",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 4,
+        "caption": "The correct chair is the one in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 20,
+        "caption": "the cart with containing what appears to be white towels on the top and second shelf",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "towels",
+                "second shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 21,
+        "caption": "box at head of table closest to all high back chairs",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "high back chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 3,
+        "caption": "The chair on the right hand side of the table, farthest away from the green storage chest",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "green storage chest"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 9,
+        "caption": "smaller book on the table",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 19,
+        "caption": "the dark brown set of drawers on the right-hand side",
+        "parsed_query": {
+            "Target": "set of drawers",
+            "Anchor": [
+                "dark brown",
+                "right-hand side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 5,
+        "caption": "The chair directly in front of whatever gold item is on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "gold item"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 22,
+        "caption": "The red backpack on the chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 4,
+        "caption": "The chair is in the middle of 2 other chairs on one side of the table. Across from the chair is a flower arrangement on the table. There are no other chairs on the otherside of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "table",
+                "table",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 20,
+        "caption": "The car farthest away from the black wall",
+        "parsed_query": {
+            "Target": "car",
+            "Anchor": "black wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 19,
+        "caption": "staring at the chosen shelves, choose the right option",
+        "parsed_query": {
+            "Target": "right option",
+            "Anchor": [
+                "chosen shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 8,
+        "caption": "The square pillow with a open book in front of it on a table",
+        "parsed_query": {
+            "Target": "square pillow",
+            "Anchor": [
+                "open book",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 15,
+        "caption": "The pillow closest to the black wall.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "black wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 16,
+        "caption": "The backpack beside the gold backpack on the wall.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "gold backpack",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 18,
+        "caption": "light colored backpack on the wall.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 20,
+        "caption": "If you sat at the chair with the blue paper, it would be the cart in front of you, to the left.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "chair",
+                "blue paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 9,
+        "caption": "The book furthest from the green cabinets or lockers.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 15,
+        "caption": "Pillow closest to the wall with golden picture on it",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "wall with golden picture"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 20,
+        "caption": "Of the two brown carts, it is the left one.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "second cart"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 19,
+        "caption": "The cart on the right, when facing the carts.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "cart"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 19,
+        "caption": "The cart with less stuff on it.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 3,
+        "caption": "facing the chairs, the second to the right chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 5,
+        "caption": "if looking at the table from the orange shelf, the chair on the far left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "orange shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 3,
+        "caption": "Three sets of chairs, it is the chair to the very left near the black wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 22,
+        "caption": "Choose the backpack that is hanging on a chair at the table.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 8,
+        "caption": "If you are looking at the table with the orange or brown shelves at the bottom.  its the pillow on the right   with the thick black line through the center.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "table",
+                "orange or brown shelves",
+                "bottom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 4,
+        "caption": "The chair is in the middle of the table",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 9,
+        "caption": "Smaller open book on the table.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 2,
+        "caption": "It's the chair with red and white stripes.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 21,
+        "caption": "The larger book directly in front of the chair with the red details and closest to the bouquet of flowers in the center of the table.",
+        "parsed_query": {
+            "Target": "larger book",
+            "Anchor": [
+                "chair with the red details",
+                "bouquet of flowers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 22,
+        "caption": "It is the backpack on a chair at the table.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 1,
+        "caption": "The chair at the end of the table with the most paperwork in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "most paperwork"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 16,
+        "caption": "This backpack is to the right of the yellow one",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "yellow one"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 4,
+        "caption": "When standing in the middle of the room facing the chairs the correct one is in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 2,
+        "caption": "The only chair with a red backpack hanging on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red backpack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 21,
+        "caption": "The book is smaller than the other, and is partially over the edge of the table.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 22,
+        "caption": "the red and white chair at the table   next to the white high seated chair",
+        "parsed_query": {
+            "Target": "red and white chair",
+            "Anchor": [
+                "table",
+                "white high seated chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 9,
+        "caption": "This book is partially hanging off the table",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 8,
+        "caption": "if looking at the table, orange shelf on the left, green cabinet on the right, the pillow in the front left corner.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "orange shelf",
+                "green cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 5,
+        "caption": "The chair closest to the black wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "black wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 20,
+        "caption": "When facing the carts, it is the one on the left",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "carts"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 20,
+        "caption": "The right cart in front of the orange wall.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "orange wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 19,
+        "caption": "Facing the green wall, it is the cart on the left.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "green wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 19,
+        "caption": "facing the carts, right",
+        "parsed_query": {
+            "Target": "carts",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 5,
+        "caption": "the chair at the end of the table with the gold art behind it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "gold art"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 2,
+        "caption": "In the group of 3 chairs on one side of the table this is the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "group of 3 chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 15,
+        "caption": "The correct pillow is closer to the black wall with the gold object on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "black wall",
+                "gold object"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 18,
+        "caption": "If you face the two backpacks on the wall the back pack you need to select is the one on the left.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "backpacks on the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 15,
+        "caption": "it is the set of pillows closest to the yellow object on the wall",
+        "parsed_query": {
+            "Target": "pillows",
+            "Anchor": [
+                "yellow object",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 9,
+        "caption": "The book that is smallest.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 18,
+        "caption": "Backpacks. Choose the one on the wall that is tan",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 1,
+        "caption": "the chair that has the open notebook on top of the table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 3,
+        "caption": "If you are facing the green striped wall, it is the chair farthest to the left of the three chairs on one side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "green striped wall",
+                "three chairs",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 16,
+        "caption": "The black backpack hanging on the wall.",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 1,
+        "caption": "The chair is at the end of the table by itself, near some white papers.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "white papers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 4,
+        "caption": "There are three chairs in a row choose the one in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 3,
+        "caption": "Place the camera so the brown wooden shelves are on the back wall. There are three chairs on the near side of the table. Select the third chair, the one on the right.",
+        "parsed_query": {
+            "Target": "third chair",
+            "Anchor": [
+                "brown wooden shelves",
+                "near side of the table",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 16,
+        "caption": "When facing the large green cabinet, it's the dark colored back pack in the left corner.",
+        "parsed_query": {
+            "Target": "back pack",
+            "Anchor": [
+                "large green cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 9,
+        "caption": "Facing the table with the books on the far end, choose the book on the right.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "book",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 15,
+        "caption": "The pillow farthest from the books on the table",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "books"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 1,
+        "caption": "Facing the green wall, the chair to the far right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "green wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 5,
+        "caption": "The chair at the end of the table, pushed in.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 18,
+        "caption": "The gold object on the black wall behind the table.",
+        "parsed_query": {
+            "Target": "gold object",
+            "Anchor": "black wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 21,
+        "caption": "books closest to the chair with the red backpack.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": [
+                "chair",
+                "red backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 2,
+        "caption": "The red and white striped chair at the table",
+        "parsed_query": {
+            "Target": "red and white striped chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 18,
+        "caption": "on the wall, the left one.  its brown",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 15,
+        "caption": "the pillow that is not below the papers on the table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "papers",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": 21,
+        "caption": "Find the book that is closer to the red and white chair.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "red and white chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

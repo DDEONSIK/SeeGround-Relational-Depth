@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a black leather loveseat in a library.  if you were sitting in it, the long, short bookshelf would be on your right and the tall book shelf, opposite you across the room. .",
+        "parsed_query": {
+            "Target": "black leather loveseat",
+            "Anchor": [
+                "short bookshelf",
+                "tall book shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "10",
+        "target_name": "bookshelf",
+        "caption": "it is a brown wooden square shelf. divided on squares, on the side of the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "it is a brown arm chair. made of leather and placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "it is a brown leather armchair. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "brown leather armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "is is a brown wooden square table. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

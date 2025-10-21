@@ -1,0 +1,357 @@
+[
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 11,
+        "caption": "the chair closest to the whiteboard on the right-hand side",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 2,
+        "caption": "the chair closest to the garbage bin",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "garbage bin"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 3,
+        "caption": "Face the white board and walk to the seat next to the whiteboard on the left.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 11,
+        "caption": "when looking at the blue wall the chair is the farthest one on the right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 11,
+        "caption": "When facing white board it is the chair to the right nearest to the board",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 3,
+        "caption": "the chair in the corner closest to the blue wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 2,
+        "caption": "the chair closest to the trash can",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 2,
+        "caption": "CHoose the black not grey chair closest to the garbage can.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "garbage can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 3,
+        "caption": "The chair against the wall on the left side of the table if you are walking in through the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "table",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 1,
+        "caption": "If you were standing with your back to the waste basket, this chair would be the one nearest to you on your left as you face the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "waste basket",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 3,
+        "caption": "If you face the whiteboard, the chair is the one on the left closer to the board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 1,
+        "caption": "The chair closest to the light switch on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "light switch"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 2,
+        "caption": "The black chair closest to the trash can.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 3,
+        "caption": "facing the wall with the white board it is the chair to the left closest to the white wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white board",
+                "white wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 2,
+        "caption": "The black chair closest to the trash can.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 11,
+        "caption": "hen looking at the table from the position of the trashcan it is the top right chair slightly at an angle",
+        "parsed_query": {
+            "Target": "top right chair",
+            "Anchor": [
+                "trashcan",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 1,
+        "caption": "If you are looking at the blue wall.   Its at the edge of the table on the left of the two chairs.  two white switches or outlets directly behind it",
+        "parsed_query": {
+            "Target": "blue wall",
+            "Anchor": [
+                "table",
+                "two chairs",
+                "two white switches or outlets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 11,
+        "caption": "the chair that isn't pushed in properly",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 3,
+        "caption": "If you looking at the whiteboard its the chair on the back left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 11,
+        "caption": "If you are facing the door it is the chair closest to you on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 1,
+        "caption": "this chair is pushed farthest under the table and the right side aligns with the table's edge.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 11,
+        "caption": "The chair against the whiteboard on the right side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "whiteboard",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 1,
+        "caption": "staring at the whiteboard, you want the chair to the left closer to you than the whiteboard",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 1,
+        "caption": "As you walk towards the table with window facing you, it is the chair closest to you on the left hand side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 3,
+        "caption": "Facing the door you need to select the chair that is closest to you and on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 2,
+        "caption": "Choose the chair that is closest to the trash can.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 1,
+        "caption": "Save that seat the boss will be sitting there! The high back and comfy cushion should fit them just right. They also like the color greay.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "boss",
+                "high back",
+                "comfy cushion",
+                "color greay"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": 2,
+        "caption": "The chair closest to the trash can.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

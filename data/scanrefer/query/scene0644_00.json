@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0644_00",
+        "target_id": "14",
+        "target_name": "monitor",
+        "caption": "this is a rectangular monitor. the monitor is second from left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": "8",
+        "target_name": "cabinet",
+        "caption": "this is a steel cabinet. the cabinet is close to wall.",
+        "parsed_query": {
+            "Target": "steel cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": "22",
+        "target_name": "monitor",
+        "caption": "a monitor faces us on the desk. it's the monitor to the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "a table sits in front of us. it's got lots of monitors on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "a chair sits with other on the floor. it's the second chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "unique": false
+    }
+]

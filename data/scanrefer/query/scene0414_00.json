@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0414_00",
+        "target_id": "27",
+        "target_name": "table",
+        "caption": "this is a large table. it is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "room"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0414_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is the third from the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0414_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of gray chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "gray chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0414_00",
+        "target_id": "26",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular trash can. it is at the end of a row of chairs.",
+        "parsed_query": {
+            "Target": "rectangular trash can",
+            "Anchor": [
+                "row of chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0414_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is square gray chair. it is against the wall and next to a trash can.",
+        "parsed_query": {
+            "Target": "square gray chair",
+            "Anchor": [
+                "trash can",
+                "wall"
+            ]
+        },
+        "unique": false
+    }
+]

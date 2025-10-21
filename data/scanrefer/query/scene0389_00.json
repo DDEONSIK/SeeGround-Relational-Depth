@@ -1,0 +1,57 @@
+[
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "there is a brown double bed. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "brown double bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "there is a dark brown wooden tv set. placed next to the chair.",
+        "parsed_query": {
+            "Target": "dark brown wooden tv set",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a brown wooden table. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "brown wooden table",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "there is a beige plastic bucket. placed next to the fridge.",
+        "parsed_query": {
+            "Target": "beige plastic bucket",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "there is a white door. placed on the left to the curtain.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    }
+]

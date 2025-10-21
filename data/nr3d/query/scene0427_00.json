@@ -1,0 +1,385 @@
+[
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "Facing the door, the bottom left chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "The chair next to the round table that is farthest from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "one of the office chair next to two other chairs, facing towards two other chairs in room corner",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "two other chairs",
+                "two other chairs",
+                "room corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 7,
+        "caption": "It is the chair flat against the wall without the whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 6,
+        "caption": "the chair closest to the whiteboard",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 6,
+        "caption": "This chair is not at a table and sits at an angle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "Facing the door, the chair in the lower left corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 6,
+        "caption": "chair without table, not in corner",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 5,
+        "caption": "The black chair next to the table, closest to the door.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 5,
+        "caption": "The chair close to the table which is also facing the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 7,
+        "caption": "chair farthest away from the door, not next to the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 5,
+        "caption": "It is a black chair closest to the brown door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "if viewing from the table and facing the wall with the whiteboard, it's the chair on the right side near the table and pointing away from the table farthest from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "wall",
+                "whiteboard",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 6,
+        "caption": "The chair in front of the whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 7,
+        "caption": "Find the chair that is NOT at a table and is in the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "corner of the room",
+                "not at a table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 7,
+        "caption": "This chair is the middle chair between the 2 chairs, and is the one closest to the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 7,
+        "caption": "When you enter through the door, it is the chair with no wheels in the corner of the room that is facing you.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "corner",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 5,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 6,
+        "caption": "Chair next to the whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "The chair next to the round table, furthest away from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 5,
+        "caption": "The chair that is at the table, in the corner closest to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 6,
+        "caption": "The chair next to the wall and underneath the whiteboard facing the center of room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "whiteboard",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 6,
+        "caption": "The chair directly under the whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 5,
+        "caption": "It is the chair on the same side of the wall as the door and trash can. It is close to the trashcan.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "Facing the door, the chair in the lower left corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 7,
+        "caption": "This is the office chair that is sitting with it's back against the wall.  It is facing the door and it has arms on it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wall",
+                "door",
+                "office chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 4,
+        "caption": "chair near the table facing the chair in the corner",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 7,
+        "caption": "When facing the door, the chair that is not at a table and is farthest away from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": 5,
+        "caption": "The chair behind the table, closest to the trash can and door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "trash can",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

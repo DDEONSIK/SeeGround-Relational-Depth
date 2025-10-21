@@ -1,0 +1,29 @@
+# Git 관련 파일 무시
+.git
+.gitignore
+
+# 다운로드한 모델, 캐시, 체크포인트 폴더 무시
+models/
+.cache/
+checkpoints/
+SeeGround/models/
+
+# 데이터셋 및 결과물 폴더 무시
+data/
+outputs/
+test_output/
+test_output_docker/
+
+# Python 가상환경 및 캐시 파일 무시
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# IDE 및 에디터 설정 파일 무시
+.vscode/
+.idea/
+
+# 기타 대용량 파일 무시
+*.zip
+*.pth

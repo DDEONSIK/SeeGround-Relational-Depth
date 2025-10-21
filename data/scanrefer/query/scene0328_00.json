@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "7",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is placed on the top of the sink.",
+        "parsed_query": {
+            "Target": "wooden kitchen cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinet",
+        "caption": "it appears to be next to a larger cabinet that is next to a fridge. it is below the countertop.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "fridge",
+                "countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "16",
+        "target_name": "kitchen_cabinets",
+        "caption": "a dark brown wooden wall cabinet, in the corner of the room. it is located above and to the left of the stove.",
+        "parsed_query": {
+            "Target": "dark brown wooden wall cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "a microwave with a metal finish. it is located directly above the stove, between two wall cabinets.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "stove",
+                "two wall cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "a dark brown corner wall cabinet. it is located in the back right corner of the room, above kitchen counter tops.",
+        "parsed_query": {
+            "Target": "dark brown corner wall cabinet",
+            "Anchor": [
+                "back right corner of the room",
+                "kitchen counter tops"
+            ]
+        },
+        "unique": false
+    }
+]

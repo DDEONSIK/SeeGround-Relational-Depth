@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the white square table is sitting in the middle of the room. there is a red wall to the left of it.",
+        "parsed_query": {
+            "Target": "white square table",
+            "Anchor": [
+                "red wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "the window is behind the table in the middle of the room. there is a red wall to the left of the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "red wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a red and black chair is on the right side of the room and behind a table. it is the first chair on the right .",
+        "parsed_query": {
+            "Target": "red and black chair",
+            "Anchor": [
+                "room",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the red and black chair is on the right side of the table. it is in the middle with a chair on each side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "a black chair is sitting on the right side of the room. it is in the middle and one chair on each side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "room",
+                "middle",
+                "one chair"
+            ]
+        },
+        "unique": false
+    }
+]

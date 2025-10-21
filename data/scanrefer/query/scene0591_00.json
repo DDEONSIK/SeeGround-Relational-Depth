@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0591_00",
+        "target_id": "29",
+        "target_name": "shelf",
+        "caption": "this is a brown shelf in an office. it is to the right of the couch in the middle of the room.",
+        "parsed_query": {
+            "Target": "brown shelf",
+            "Anchor": [
+                "couch",
+                "room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0591_00",
+        "target_id": "31",
+        "target_name": "cabinet",
+        "caption": "this is a grey cabinet in an office.  it is against the wall to the right of a bookshelf.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0591_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "this is a white trash can in an office. it is on the floor to the right of the cabinet and to the left of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "cabinet",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0591_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "this is a tall white shelf in an office. it is in the corner next to the door and has a grey cabinet in front of it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door",
+                "grey cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0591_00",
+        "target_id": "30",
+        "target_name": "cabinet",
+        "caption": "a silver file cabinet in front of the left side of the couch. the item is directly positioned in front of the brown wooden door.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "couch",
+                "brown wooden door"
+            ]
+        },
+        "unique": false
+    }
+]

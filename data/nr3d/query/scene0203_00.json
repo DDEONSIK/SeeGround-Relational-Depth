@@ -1,0 +1,1562 @@
+[
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 16,
+        "caption": "pick the blanket that is above the other blanket",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": [
+                "blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 16,
+        "caption": "Locating the two stack of blankets in the corner of the room, please select the blanket on top",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": [
+                "two stack of blankets",
+                "corner of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 16,
+        "caption": "Choose the blanket that is on top of the other blanket.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": [
+                "other blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 16,
+        "caption": "The folded brown blanket that is on top of another blanket.",
+        "parsed_query": {
+            "Target": "folded brown blanket",
+            "Anchor": "another blanket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 15,
+        "caption": "the blue pillow on top of the chair",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 15,
+        "caption": "Dark pillow on round floral chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "floral chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 15,
+        "caption": "there are 2 pillows in a round chair, it is the pillow in the front on the chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "round chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 15,
+        "caption": "In the stack of 2 pillows, it's the bottom pillow.",
+        "parsed_query": {
+            "Target": "bottom pillow",
+            "Anchor": [
+                "stack of 2 pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 17,
+        "caption": "The gray pillow on the floor, in the corner next to the chair.",
+        "parsed_query": {
+            "Target": "gray pillow",
+            "Anchor": [
+                "floor",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 17,
+        "caption": "a stack of pillows with blankets on top, sitting between a bookcase and chair.",
+        "parsed_query": {
+            "Target": "pillows",
+            "Anchor": [
+                "bookcase",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 17,
+        "caption": "The grey pillow under the brown blanket near the papason",
+        "parsed_query": {
+            "Target": "grey pillow",
+            "Anchor": [
+                "brown blanket",
+                "papason"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 17,
+        "caption": "it's the pillow on the floor, under a brown blanket, just in front of the bookcase",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "brown blanket",
+                "bookcase"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 14,
+        "caption": "Of the 2 pillows in the circular chair it's the pillow toward the back on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "circular chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 14,
+        "caption": "The white and brown pillow on the papason",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "papason"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 14,
+        "caption": "The white pillow that's on the chair and next to a blue pillow",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "chair",
+                "blue pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 14,
+        "caption": "Light-colored pillow on the right on the beanbag chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "right",
+                "beanbag chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 18,
+        "caption": "The blankets that are on the floor",
+        "parsed_query": {
+            "Target": "blankets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 18,
+        "caption": "pick the one that is under the other blanket",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": "blanket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 18,
+        "caption": "bottom blanket next to the papason",
+        "parsed_query": {
+            "Target": "bottom blanket",
+            "Anchor": "papason"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 18,
+        "caption": "The blanket on the bottom",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 25,
+        "caption": "the greenish grey pillow on the rug",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "rug"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 25,
+        "caption": "The blue-grey pillow on the floor that is not with other pillows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "floor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 25,
+        "caption": "The pillow on the floor furthest from the other 3 pillows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 25,
+        "caption": "Please select the grey pillow on the floor behind the blue couch",
+        "parsed_query": {
+            "Target": "grey pillow",
+            "Anchor": [
+                "blue couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 18,
+        "caption": "The blanket underneath the other blanket.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": [
+                "other blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 15,
+        "caption": "the dark blue pillow on the papasan chair",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "papasan chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 17,
+        "caption": "grey pillow on the floor next to the wood shelving. It has a brown blanket on top of it.",
+        "parsed_query": {
+            "Target": "gray pillow",
+            "Anchor": [
+                "wood shelving"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 14,
+        "caption": "The white pillow on the chair",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 16,
+        "caption": "There are two boxes in front of the bookshelf. Pick the box on the top.  The one not on the floor.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "bookshelf",
+                "top"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 25,
+        "caption": "If you're sitting on the couch, it's the pillow closest.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 13,
+        "caption": "CHoose the mid sized window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 23,
+        "caption": "The bag on the red and brown rug.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "red and brown rug"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 5,
+        "caption": "furthest away from the window",
+        "parsed_query": {
+            "Target": "furthest",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "Two couches are together.  You want the one facing the brown doors.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 27,
+        "caption": "the box on the right hand side of the sofa",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 7,
+        "caption": "The shelf next to the couch.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 28,
+        "caption": "The correct person is shorter and has white clothes. They are closer to the book shelves.",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": [
+                "book shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 27,
+        "caption": "the person on the left of the couch",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 21,
+        "caption": "The blue bag sitting on top of the side table.",
+        "parsed_query": {
+            "Target": "blue bag",
+            "Anchor": [
+                "side table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 28,
+        "caption": "The person in the middle of the couch.",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "There is a lady on the couch.",
+        "parsed_query": {
+            "Target": "lady",
+            "Anchor": "couch"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 7,
+        "caption": "The shelf at the end of the sofa.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 8,
+        "caption": "This window has panes and is floor-length.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 13,
+        "caption": "If you are facing the bookshelves, it is the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookshelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "It is the couch with people on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 5,
+        "caption": "the short bookshelf on the wall opposite of the black couch, it is next to the two tall bookshelves.",
+        "parsed_query": {
+            "Target": "short bookshelf",
+            "Anchor": [
+                "black couch",
+                "two tall bookshelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 2,
+        "caption": "The black couch without anyone on it",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 2,
+        "caption": "The long black couch in the middle of the room that no one is sitting on.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "long",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 3,
+        "caption": "Floral pattern one seat",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 5,
+        "caption": "the shelf closest to the blue chair",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "blue chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 3,
+        "caption": "couch that is multicolored pattern with two pillows",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "two pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 28,
+        "caption": "2 white dogs sitting at the person's feet",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 23,
+        "caption": "You are looking for the brown paper bag on the floor near the wooden shelf at the end of the black couch.",
+        "parsed_query": {
+            "Target": "brown paper bag",
+            "Anchor": [
+                "wooden shelf",
+                "black couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 28,
+        "caption": "The person sitting on couch closest to bookshelves",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": [
+                "couch",
+                "bookshelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 27,
+        "caption": "The taller person sitting on the left side of the couch when you are facing it.",
+        "parsed_query": {
+            "Target": "taller person",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 8,
+        "caption": "The white doorway right behind the couch",
+        "parsed_query": {
+            "Target": "doorway",
+            "Anchor": "couch"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 12,
+        "caption": "The small window next to the shelves",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelves"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 12,
+        "caption": "smallest window near the shelf",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 12,
+        "caption": "The smallest of the three windows.",
+        "parsed_query": {
+            "Target": "smallest window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 21,
+        "caption": "the bag on top of the shelf next to the couch.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "shelf",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 3,
+        "caption": "papasan style chair, multicolor",
+        "parsed_query": {
+            "Target": "papasan style chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 8,
+        "caption": "The window behind the couch next to all the shoes on the ground",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "couch",
+                "shoes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 23,
+        "caption": "The bag on the floor by the couch",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 2,
+        "caption": "couch facing the shelf",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 13,
+        "caption": "Choose the long window next to the tall bookshelves.",
+        "parsed_query": {
+            "Target": "long window",
+            "Anchor": [
+                "tall bookshelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 27,
+        "caption": "The person who is sitting up and has a green outfit on",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": [
+                "green outfit"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 21,
+        "caption": "the blue bag on the shelf",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "shelf"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 21,
+        "caption": "The blue bag on top of the end table next to the couch.",
+        "parsed_query": {
+            "Target": "blue bag",
+            "Anchor": [
+                "end table",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 13,
+        "caption": "This window is next to a bookcase and the taller of the two",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookcase",
+                "taller"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 2,
+        "caption": "couch with the coffee table in front, no people sitting on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "coffee table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 27,
+        "caption": "Choose the person on the couch.",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 5,
+        "caption": "When looking at the row of open shelves, the shorter one on the right end near the window",
+        "parsed_query": {
+            "Target": "shorter open shelf",
+            "Anchor": [
+                "row of open shelves",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 12,
+        "caption": "the window that the couch is directly facing",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 21,
+        "caption": "It is the blue bag on the table.",
+        "parsed_query": {
+            "Target": "blue bag",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 28,
+        "caption": "the person that is probably lying down?",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 3,
+        "caption": "the couch that is by itself with a window above it, NOT the two couches right next to each other.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "window",
+                "two couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "The couch that a woman is sitting on.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "woman"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "You are looking for the couch that is facing away from the carpet in the middle of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "carpet",
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 23,
+        "caption": "The bag that is on the floor.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 23,
+        "caption": "tall bag on the floor",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 7,
+        "caption": "the smaller shelf in the middle of the room",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 5,
+        "caption": "Choose the larger shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 8,
+        "caption": "select the long window that has panels across it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "panels",
+                "long window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 23,
+        "caption": "the bag that is sitting on the floor.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 7,
+        "caption": "Smaller shelf of the two",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 2,
+        "caption": "the black couch with a blue bag and some other things on it",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": "blue bag"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 27,
+        "caption": "It is the person furthest from the armchair.",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": "armchair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 3,
+        "caption": "select the couch that looks like floral pattern",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "floral pattern"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 28,
+        "caption": "The shorter of the persons.",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 8,
+        "caption": "is the door containing windowpanes",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "windowpanes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 27,
+        "caption": "if facing the two people, the person on your right and is laying down",
+        "parsed_query": {
+            "Target": "laying person",
+            "Anchor": [
+                "two people"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 23,
+        "caption": "the bag on the floor in front of the brown box",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "brown box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 2,
+        "caption": "The couch opposite the bookcase.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "bookcase"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 12,
+        "caption": "The correct window is the smaller square one. When standing in the middle of the room facing the bookshelfs it's on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookshelfs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 5,
+        "caption": "Choose the shelf that is standing on the wall next to other shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 5,
+        "caption": "The shelf along the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 21,
+        "caption": "Choose the bag that is placed above the other bag on the floor.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "bag"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 13,
+        "caption": "Face the two shelves on the wall.  The window you want is to the left of these shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "shelves",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 13,
+        "caption": "the window next to the funny chair that has a couple pillows on it and blankets/pillows next to it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "funny chair",
+                "blankets/pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 12,
+        "caption": "When facing the bookshelf, it's the small window on the right of the shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookshelf",
+                "shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 12,
+        "caption": "The smallest of the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 7,
+        "caption": "The shelf at the end of the couch in front of the tan table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "couch",
+                "tan table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 13,
+        "caption": "the window to the left of all the bookshelves, if you are facing the bookshelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookshelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "The couch with people sitting on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "people"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "This couch is facing away from the maroon rug, it looks like there are people sitting on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "maroon rug"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 8,
+        "caption": "window with a white frame, by the shoes",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shoes"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 2,
+        "caption": "Directly next to the table with a blue bag, furthest from the large shelf",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blue bag",
+                "large shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 26,
+        "caption": "The couch with people on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "people"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 7,
+        "caption": "Choose the shelf that is in the middle of the room next to the couch.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 3,
+        "caption": "the floral purple seat",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 28,
+        "caption": "The person lounging slightly back, with headphones on his head.",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": [
+                "headphones"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 25,
+        "caption": "The pillow on the floor by the couches and coffee table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couches",
+                "coffee table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 15,
+        "caption": "The blue pillow that is on the round chair",
+        "parsed_query": {
+            "Target": "blue pillow",
+            "Anchor": "round chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 16,
+        "caption": "The blanket is stacked on top of other blankets",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": [
+                "blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 14,
+        "caption": "The white pillow on the chair by the window",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 17,
+        "caption": "This pillow is in front of the floral chair, but not on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "floral chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 18,
+        "caption": "The lower blanket, on the floor.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": "floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 3,
+        "caption": "Choose the round chair that has printed fabric. (Don't choose the sofas.)",
+        "parsed_query": {
+            "Target": "round chair",
+            "Anchor": "printed fabric"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 7,
+        "caption": "The lower of the two shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 21,
+        "caption": "the blue one on top the shelf",
+        "parsed_query": {
+            "Target": "blue one",
+            "Anchor": "shelf"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 8,
+        "caption": "The largest window with a white frame, closest to the darker brown door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "darker brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 14,
+        "caption": "The smaller white pillow in the stack of 2 on the couch",
+        "parsed_query": {
+            "Target": "smaller white pillow",
+            "Anchor": [
+                "stack of 2",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 17,
+        "caption": "The pillow is on the ground and near a chair and bookshelf",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "chair",
+                "bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 25,
+        "caption": "Facing the shelves, the lone pillow on the far right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 16,
+        "caption": "Looking at the stack of two folded-up blankets sitting next to the round flowered chair, it's the blanket on top of the stack of two.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": [
+                "stack of two folded-up blankets",
+                "round flowered chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 18,
+        "caption": "It is the bottom box of blankets by the corner of the room.",
+        "parsed_query": {
+            "Target": "bottom box of blankets",
+            "Anchor": "corner of the room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": 15,
+        "caption": "choose the black pillow that is beside the white pillow on the chair",
+        "parsed_query": {
+            "Target": "black pillow",
+            "Anchor": [
+                "white pillow",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

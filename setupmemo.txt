@@ -1,0 +1,363 @@
+##################################### 기본 SeeGround 실행 가이드:
+#필수확인:
+#논문1. SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding
+# -> https://github.com/iris0329/SeeGround
+#논문2. Depth Anything V2
+# -> https://github.com/DepthAnything/Depth-Anything-V2
+
+# 시스템 확인:
+docker --version
+nvidia-smi
+conda --version
+python --version
+
+허깅페이스 토큰 필요.:
+hf_
+
+
+# =====
+# Phase 0: Host Machine - 프로젝트 저장소 복제
+# =====
+git clone https://github.com/iris0329/SeeGround.git
+cd SeeGround
+
+
+# =====
+# Phase 1: Host Machine - Docker 환경 실행
+# =====
+docker pull qwenllm/qwenvl
+docker run -it --rm --gpus all --shm-size=8g -v "$(pwd)":/workspace qwenllm/qwenvl bash
+
+
+# ==============================================================================
+# --- 여기서부터는 Docker Container 내부에서 실행되는 명령. ---
+# ==============================================================================
+
+
+# ========
+# Phase 2: Container - VLM 모델 다운로드
+# ========
+# 1. 작업 디렉토리로 이동
+cd /workspace
+
+# 2. 필수 패키지 설치
+apt-get update && apt-get install git-lfs unzip -y
+
+# 3. 모델 저장 디렉토리 생성 및 이동
+mkdir -p models
+cd models
+
+# 4. Git LFS 활성화 및 모델 클론
+git lfs install
+git clone https://huggingface.co/Qwen/Qwen2-VL-72B-Instruct
+
+# 5. LFS 파일 다운로드 및 완료 확인 (필요시)
+# cd Qwen2-VL-72B-Instruct
+# git lfs pull
+# du -sh .
+
+
+# ========
+# Phase 3: Container - 데이터셋 및 필수 파일 다운로드
+# ========
+# 1. 최상위 작업 디렉토리로 이동
+cd /workspace
+
+# 2. 데이터 저장을 위한 디렉토리 생성
+mkdir -p data/ScanRefer
+mkdir -p data/Nr3D
+
+# 3. 사전 처리된 Object Lookup Table(OLT) 파일 다운로드 및 압축 해제
+wget https://github.com/user-attachments/files/18056532/seeground_object_lookup_table.zip -O data/seeground_object_lookup_table.zip
+unzip data/seeground_object_lookup_table.zip -d data/
+
+# 4. OLT 생성에 필요한 mask3d 예측 결과 다운로드 및 압축 해제
+wget https://huggingface.co/CurryYuan/ZSVG3D/resolve/main/mask3d_pred.zip -O data/mask3d_pred.zip
+unzip data/zsvg3d_mask_pred.zip -d data/
+
+->Hugging Face 회원가입 필요.
+# 1. Hugging Face Hub 라이브러리를 설치.
+pip install huggingface_hub
+
+# 2. Hugging Face CLI에 로그인.
+huggingface-cli login
+
+# --- 위 명령 실행 후 토큰을 붙여넣으라는 메시지가 나옵니다. ---
+# --- 1단계에서 복사한 `hf_...` 토큰을 붙여넣고 Enter 키를 누름. ---
+# --- 로그인이 성공했다는 메시지를 확인. ---
+
+# 3. huggingface-cli를 사용하여 mask3d 예측 결과를 다운로드.
+# 이 명령어가 인증 정보를 사용하여 파일을 직접 받음.
+huggingface-cli download CurryYuan/ZSVG3D zsvg3d_mask_pred.zip --local-dir ./data --local-dir-use-symlinks False
+
+# 4. 다운로드된 파일의 압축 해제.
+unzip data/zsvg3d_mask_pred.zip -d data/
+
+
+
+
+git clone https://github.com/daveredrum/ScanRefer.git
+git clone https://github.com/referit3d/referit3d.git
+
+mv ../code/SeeGround/SeeGround/JsonRepository/ScanRefer /workspace/JsonRepository/
+mv ../code/SeeGround/SeeGround/JsonRepository/referit3d /workspace/JsonRepository/
+ls -la /workspace/JsonRepository/
+
+
+# ========
+# Phase 4: Host Machine - 수동으로 원본 데이터셋 JSON 파일 배치
+# ========
+# 아래 두 파일은 각 공식 GitHub 리포지토리에서 직접 다운로드하여,
+# Host PC의 프로젝트 폴더 내 /data/ 안의 각 폴더에 배치.
+# (예: .../SeeGround/data/ScanRefer/ScanRefer_filtered_val.json)
+#
+# 1. ScanRefer:
+#   - 다운로드 링크: https://github.com/daveredrum/ScanRefer
+#   - 파일: ScanRefer_filtered_val.json
+#
+# 2. Nr3D:
+#   - 다운로드 링크: https://github.com/referit3d/referit3d
+#   - 파일: nr3d.jsonl
+#
+
+
+
+
+
+##################################### 기본 SeeGround 실행:
+
+########터미널1 입력 명령어 목록:
+
+docker run -it --rm --gpus all --shm-size=8g -v "$(pwd)":/workspace qwenllm/qwenvl bash
+
+python -m vllm.entrypoints.openai.api_server \
+  --model Qwen/Qwen2-VL-7B-Instruct \
+  --served-model-name Qwen2-VL-72B-Instruct \
+  --tensor_parallel_size=1 \
+  --download-dir /workspace/models/.cache \
+  --gpu-memory-utilization 0.8 \
+  --max-model-len 8192
+
+############# ,
+
+########터미널2 입력 명령어 목록:
+
+docker ps # CONTAINER ID 확인
+
+docker exec -it 813af0a76213 bash
+
+cd /workspace
+
+python /workspace/test_custom_image.py
+-> #실제 터미널:
+root@d8191e31e550:/workspace# python /workspace/test_custom_image.py
+========================================
+[입력 쿼리] Where are the wipes?
+[쿼리 분석] Target: wipes, Anchor: where
+----------------------------------------
+[최종 추론] VLM에 이미지와 프롬프트 전송 중...
+[추론 완료] 결과:
+----------------------------------------
+  - 예측 ID: 3
+  - VLM 답변: The wet tissues are on the table.
+  - Raw JSON: {"id": 3, "reason": "The wet tissues are on the table."}
+========================================
+root@d8191e31e550:/workspace# 
+
+
+
+
+##################################### 콘다 SG-Depth 프로젝트 실행:
+
+# Depth Map 생성 진행.
+ 
+# 1. 새 Conda 환경 생성:
+conda create -n depth_env python=3.10 -y
+conda activate depth_env
+pip install torch==2.2.2 torchvision==0.17.2 --index-url https://download.pytorch.org/whl/cu121
+pip install Pillow tqdm
+
+# 2. Depth-Anything 레포지토리 클론:
+cd /mnt/hard_disk/SeeGround_hyunPJ/ # 경로에서 실행
+git clone https://github.com/DepthAnything/Depth-Anything-V2.git
+cd Depth-Anything-V2
+pip install -r requirements.txt #opencv-python 포함되어 있음.
+mkdir -p ./checkpoints
+wget https://huggingface.co/depth-anything/Depth-Anything-V2-Large/resolve/main/depth_anything_v2_vitl.pth
+mv depth_anything_v2_vitl.pth ./checkpoints/
+
+# 실행 전 테스트:
+cd /mnt/hard_disk/SeeGround_hyunPJ/Depth-Anything-V2/
+python run.py --encoder vitl --img-path ./assets/examples --outdir ./test_output
+
+
+##################################### 도커 SG-Depth 프로젝트 실행:
+
+# 도커 터미널에서 명령어 입력.
+mv ./Depth-Anything-V2 ./SeeGround/
+cd /workspace/Depth-Anything-V2/
+pip install -r requirements.txt
+
+# 컨테이너가 패키지를 다운로드할 주소를 해외 우분투 서버에서 접속이 원활한 국내 카카오 미러 서버로 변경
+sed -i 's/archive.ubuntu.com/mirror.kakao.com/g' /etc/apt/sources.list && sed -i 's/security.ubuntu.com/mirror.kakao.com/g' /etc/apt/sources.list
+apt-get install -y libglib2.0-0
+apt-get update && apt-get install -y libgl1-mesa-glx
+6 #Asia
+69 #Seoul
+
+pip install fvcore iopath
+pip install --no-cache-dir pytorch3d -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu121_torch2.4.0/download.html
+
+# 기존 호환되지 않는 pytorch3d 삭제
+pip uninstall pytorch3d -y
+
+# 호환되는 최신 pytorch3d 버전 재설치
+pip install "fvcore>=0.1.5,<0.1.6" "iopath>=0.1.7,<0.1.8" \
+&& pip install --no-cache-dir "pytorch3d>=0.7.0" -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu121_torch2.4.0/download.html
+
+#서버 변경 후 재 시도
+python run.py --encoder vitl --img-path ./assets/examples --outdir ./test_output_docker
+
+#추가(수정) 코드
+1. /mnt/hard_disk/SeeGround_hyunPJ/SeeGround/inference/DepthV2_inference_nr3d.py
+2. /mnt/hard_disk/SeeGround_hyunPJ/SeeGround/inference/DepthV2_projection.py
+
+
+
+################################################
+# ----------> 안됌. 새로 구축.
+# 작동중인 도커를 빠져 나온 뒤 새로운 터미널에서 진행
+# 모든 터미널 종료.
+exit
+
+# 현재 실행 중인 모든 컨테이너 ID 확인
+docker ps -q
+
+# 위 명령으로 ID가 나오면, 해당 ID들을 이용해 컨테이너 중지 및 삭제
+# 예: docker stop ID1 ID2 && docker rm ID1 ID2
+# 만약 실행 중인 컨테이너가 없다면 이 단계는 건너뜀.
+
+
+# 터미널 1 (VLM 서버 실행): Host PC에서 SeeGround 프로젝트 폴더로 이동한 후, VLM 서버를 위한 Docker 컨테이너를 실행
+# 중요: 반드시 SeeGround 프로젝트 경로에서 실행
+cd /mnt/hard_disk/SeeGround_hyunPJ/SeeGround
+
+# VLM 서버 컨테이너 실행
+docker run -it --rm --gpus all --shm-size=8g -v "$(pwd)":/workspace --name sg_depth_server qwenllm/qwenvl python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen2-VL-7B-Instruct --served-model-name Qwen2-VL-7B-Instruct --tensor_parallel_size=1 --download-dir /workspace/models/.cache --gpu-memory-utilization 0.8 --max-model-len 8192
+
+
+# 터미널 2 (작업용 컨테이너 접속): Host PC에서 새 터미널을 열고, 아래 명령어로 방금 생성한 sg_depth_server 컨테이너에 접속. 
+# 이후 모든 작업은 이 터미널 2
+docker exec -it sg_depth_server bash
+
+cd /workspace
+
+sed -i 's/archive.ubuntu.com/mirror.kakao.com/g' /etc/apt/sources.list && sed -i 's/security.ubuntu.com/mirror.kakao.com/g' /etc/apt/sources.list
+apt-get update && apt-get install -y libgl1-mesa-glx libglib2.0-0
+
+pip install open3d
+
+pip install "fvcore>=0.1.5,<0.1.6" "iopath>=0.1.7,<0.1.8"
+pip install --no-cache-dir "pytorch3d>=0.7.0" -f https://dl.fbaipublicfiles.com/pytorch3d/packaging/wheels/py38_cu121_torch2.4.0/download.html
+# ERROR: Could not find a version that satisfies the requirement pytorch3d>=0.7.0 (from versions: 0.1.1, 0.2.0, 0.2.5, 0.3.0)
+# ERROR: No matching distribution found for pytorch3d>=0.7.0
+
+pip install matplotlib
+
+
+
+
+
+
+################################################
+# ----------> 안됌. 새로 구축.
+# 작동중인 도커를 빠져 나온 뒤 새로운 터미널에서 진행
+# 모든 터미널 종료.
+# 실행 중인 모든 컨테이너 강제 중지 및 삭제 (오류가 발생해도 무시)
+# Host PC 터미널
+docker stop $(docker ps -aq) 2>/dev/null
+docker rm $(docker ps -aq) 2>/dev/null
+
+# 중요: SeeGround_hyunPJ 경로에서 실행
+cd /mnt/hard_disk/SeeGround_hyunPJ/
+docker system prune -a --volumes -f && docker build -t sg-depth:integrated .
+
+#### 새로운 통합 이미지로 프로젝트 실행
+
+1.  터미널 1 (VLM 서버 실행): Host PC의 `SeeGround` 프로젝트 폴더(`SeeGround_hyunPJ/SeeGround/`)로 이동한 후, 아래 명령어 실행.
+# Host PC 터미널 1
+# SeeGround 프로젝트 폴더로 이동
+cd /mnt/hard_disk/SeeGround_hyunPJ/SeeGround/
+# VLM 서버 컨테이너 실행
+docker run -it --rm --gpus all --shm-size=8g -v "$(pwd)":/workspace --name sg_depth_server sg-depth:integrated python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen2-VL-7B-Instruct --served-model-name Qwen2-VL-7B-Instruct --tensor-parallel-size=1 --download-dir /workspace/models/.cache --gpu-memory-utilization 0.8 --max-model-len 8192 --trust-remote-code
+
+
+2.  터미널 2 (SG-Depth 추론 실행): Host PC에서 새 터미널을 열고, 아래 명령어로 실행 중인 컨테이너 접속.
+# Host PC 터미널 2
+# 실행 중인 sg_depth_server 컨테이너에 접속
+docker exec -it sg_depth_server bash
+cd /workspace
+
+
+
+
+
+3. SG-Depth 성능 측정:
+########################### Depth 모델 평가
+
+# Nr3D 기준: 
+python /workspace/inference/DepthV2_inference_nr3d.py --use_depth
+python /workspace/eval/DepthV2_eval_nr3d.py --pred_dir outputs/DepthV2_nr3d/val/pred
+
+# ScanRefer 기준: 
+python /workspace/inference/DepthV2_inference_scanrefer.py --use_depth
+python /workspace/eval/DepthV2_eval_scanrefer.py --pred_dir outputs/DepthV2_scanrefer/val/pred
+
+
+########################### 논문 자료 뽑기
+# 비교 세트: QA, GT/Pred ID, Depth Text, 이미지/뎁스맵 경로
+# 1. Nr3D 데이터셋에서 성공 사례 5개씩 추출 및 생성
+python /workspace/eval/generate_qualitative_analysis.py --dataset nr3d --num_cases 15
+
+# 2. ScanRefer 데이터셋에서 성공 사례 5개씩 추출 및 생성
+python /workspace/eval/generate_qualitative_analysis.py --dataset scanrefer --num_cases 15
+
+
+
+########################### 원본 비교 평가
+# 터미널2
+
+# 원본 SeeGround 기준점(baseline) 성능 측정
+# Nr3D 기준:
+python /workspace/inference/inference_nr3d.py
+python /workspace/eval/eval_nr3d.py
+
+# ScanRefer기준:
+python /workspace/inference/inference_scanrefer.py
+python /workspace/eval/eval_scanrefer.py
+
+
+
+
+
+
+
+# 추론 삭제:
+sudo rm -rf /mnt/hard_disk/SeeGround_hyunPJ/SeeGround/outputs/DepthV2_nr3d
+sudo rm -rf /mnt/hard_disk/SeeGround_hyunPJ/SeeGround/outputs/DepthV2_scanrefer
+sudo rm -rf /mnt/hard_disk/SeeGround_hyunPJ/SeeGround/outputs/paper_case_data
+sudo rm -rf /mnt/hard_disk/SeeGround_hyunPJ/SeeGround/outputs/projection_img
+
+
+
+# 터미널 재 실행:
+############ 실행:
+# 터미널1
+# SeeGround Docker 컨테이너 내부에서 실행
+python -m vllm.entrypoints.openai.api_server \
+  --model Qwen/Qwen2-VL-7B-Instruct \
+  --served-model-name Qwen2-VL-72B-Instruct \
+  --tensor_parallel_size=1 \
+  --download-dir /workspace/models/.cache \
+  --gpu-memory-utilization 0.8 \
+  --max-model-len 8192

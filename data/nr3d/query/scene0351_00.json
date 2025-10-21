@@ -1,0 +1,904 @@
+[
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 22,
+        "caption": "A chair is in front of this monitor, which is not near the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "monitor",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 3,
+        "caption": "The black chair which is next to the blue chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "blue chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 0,
+        "caption": "Select the chair over by the wardrobes/cupboards with 4 doors and a jacket hanging on them.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wardrobes/cupboards with 4 doors",
+                "jacket hanging on them"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 23,
+        "caption": "Pick the computer monitor which is located closest to the windows.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 1,
+        "caption": "If you are facing the windows, it is the chair closest to the windows on the right at 2 o'clock.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 18,
+        "caption": "The keyboard that is slightly to the left of its monitors and closest to the window sill",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "monitors",
+                "window sill"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 21,
+        "caption": "the closest keyboard to the whiteboard",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "square object use to project images from computer found on table and positioned furthest away from window.",
+        "parsed_query": {
+            "Target": "projector",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 21,
+        "caption": "The keyboard farthest from the window",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 21,
+        "caption": "The keyboard more towards the middle of the desk.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 3,
+        "caption": "This chair is by another chair, but of the two is further from the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 22,
+        "caption": "when sitting at the desk so that the whiteboard is visible, the monitor to the right",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 2,
+        "caption": "This chair is in the corner, nearest the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 2,
+        "caption": "chair in the corner closest to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 23,
+        "caption": "on the side of the table facing the big ghost shaped shadow, choose the monitor on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "big ghost shaped shadow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 2,
+        "caption": "Walk over to the window and look at the seat in the corner on the left.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "window",
+                "corner",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 2,
+        "caption": "The chair in the corner, closest to the window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "corner",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 1,
+        "caption": "chair closest to white board",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "The correct monitor is farthest from the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 18,
+        "caption": "This keyboard is closer to the windows.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 3,
+        "caption": "Facing the windows, the chair in the lower left corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 18,
+        "caption": "When facing the windows, choose the keyboard on the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "windows",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 21,
+        "caption": "The keyboard closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 23,
+        "caption": "the computer monitor closest to the window.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 3,
+        "caption": "The black chair next to the blue chair and immediately to the right of the electric outlet on the wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "blue chair",
+                "electric outlet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 1,
+        "caption": "chair closest to the white board",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 13,
+        "caption": "First screen facing the whiteboard",
+        "parsed_query": {
+            "Target": "screen",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 18,
+        "caption": "the keyboard that is NOT in front of the whiteboard.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 13,
+        "caption": "If you look at the side of the desk with the single chair turned sideways, this is the monitor on the right if you were sitting on the chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "single chair",
+                "side",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 0,
+        "caption": "The chair that's farthest away from the windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 23,
+        "caption": "The monitor closest to the windows",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 13,
+        "caption": "Staring the window, you want the desk on the right, the monitor on the right",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "staring window",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 0,
+        "caption": "It's the chair by itself, not near the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 23,
+        "caption": "The monitor closest to the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 21,
+        "caption": "If you face the windows, it is the keyboard on your right.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 22,
+        "caption": "If you are facing the window, this monitor is on the left desk. If you then face the monitors on the left desk, it is the monitor on the right (furthest from the window).",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "left desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 18,
+        "caption": "The keyboard closest to the window.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 1,
+        "caption": "CHoose the chair closest to the whiteboard with writing on it.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 3,
+        "caption": "Two chairs sit together closely at a desk, you want to grab the one that is inside theroom and not the one closer to the window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 1,
+        "caption": "the chair pushed back from the desk and up against the big whiteboard with writing on it. Its closer to the window than the other chair on that side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "big whiteboard",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 2,
+        "caption": "if looking at the window, the chair in the back left corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 21,
+        "caption": "stand at what would be the door as yo enter the room. the window would be in front of you. choose the box  with the keyboard that is on the left side of the room closest to the window.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "window",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "Turn so that you're facing the windows and it's the first monitor on the right desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "windows",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 3,
+        "caption": "Where the two chairs are right next to each other, it is the chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two chairs",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "It is the monitor furthest from the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 0,
+        "caption": "select the chair near the locker with the most pictures on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "locker",
+                "pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 22,
+        "caption": "Face your camera towards the windows in the room.  The monitor you want is the one that is NOT closer to the window, on the left side of the room.  It is facing a pair of desk chairs.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "desk chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 1,
+        "caption": "If you are facing the windows, it is the closest chair to the windows on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "on the right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "The monitor that is furthest away from the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 22,
+        "caption": "on the center table there are four monitors.   you will see what appears to be a chalkboard with writing.  The monitor is on the opposite of the room.  Select the monitor that is fatherst away from the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "center table",
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 13,
+        "caption": "when facing blank white wall, the monitor on the right",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "white wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "This computer monitor is in the center of the room",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 13,
+        "caption": "There are 4 monitors on the table.  Position the window at the top of the frame.  The monitor we are looking for is on the right nearest the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 2,
+        "caption": "The chair furthest from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 23,
+        "caption": "if looking at the window from the middle of the room, the back left monitor.",
+        "parsed_query": {
+            "Target": "back left monitor",
+            "Anchor": [
+                "window",
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 21,
+        "caption": "The keyboard closer to the whiteboard",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "Choose the monitor that is right next to the plant.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "plant"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 0,
+        "caption": "When standing in the middle of the room facing the window, the correct chair is on the far right, farthest from the window, almost in the corner and next to the light colored cabinet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "light colored cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 20,
+        "caption": "It is the furthest monitor from the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 1,
+        "caption": "looking at the windows, the chair on the right closest to the window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 0,
+        "caption": "please click the chair in the corner closest to the white board",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 18,
+        "caption": "The keyboard that is by the windows",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 22,
+        "caption": "Facing the window, the front left monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 3,
+        "caption": "When standing in the middle of the room facing the window, the correct chair is on the left, farthest from the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "midst of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 18,
+        "caption": "If facing the window, select the keyboard that is sitting on the desk on your left",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 23,
+        "caption": "Staring above, there is a plant on the desk, make it go to the right side of your screen, the monitor in front of you to your left, closest to the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 0,
+        "caption": "The chair is closest to where there's a closet and there's a poster hung from it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "closet",
+                "poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 22,
+        "caption": "facing the windows, on the left desk, pick the monitor farthest from the windows",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "left desk",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 2,
+        "caption": "The chair at the back left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "back",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 13,
+        "caption": "The top right monitor facing the whiteboard.",
+        "parsed_query": {
+            "Target": "top right monitor",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": 13,
+        "caption": "the black monitor facing wall with white board and closest to window",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "wall",
+                "white board",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0435_00",
+        "target_id": "32",
+        "target_name": "trash_can",
+        "caption": "it is a trash can. it is beside the water closet on the left side under the toilet roll holder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "water closet",
+                "toilet roll holder"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": "40",
+        "target_name": "pillow",
+        "caption": "the object is a pillow . it is the top pillow to the right side at the lamp in between the beds.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "lamp",
+                "beds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": "61",
+        "target_name": "cabinet",
+        "caption": "it is a black cabinet. the cabinet is under the tv.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": "39",
+        "target_name": "nightstand",
+        "caption": "it is a black nightstand. the nightstand is in between two beds.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "it is a white pillow. the pillow is on the left of the left bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "left bed"
+            ]
+        },
+        "unique": false
+    }
+]

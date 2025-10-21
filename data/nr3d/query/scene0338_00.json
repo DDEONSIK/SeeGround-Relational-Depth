@@ -1,0 +1,790 @@
+[
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 18,
+        "caption": "The stack of four boxes that are closed, your box is the top one in the front (not against the wall).",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "four boxes",
+                "closed boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 21,
+        "caption": "Standing at the door, the box on the left, far back against the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 20,
+        "caption": "Facing the stack of boxes you are going to pick the box in the front (closest to you) on the floor.  It has one box stacked on top of it.  You want the box on the bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "stack of boxes",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 20,
+        "caption": "The box is in the front of the box pile and underneath another box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box pile",
+                "another box"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 18,
+        "caption": "Facing the box, it is the box out in front that is on top of the other box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "box"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 20,
+        "caption": "the box on the floor closest to the door",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 21,
+        "caption": "Facing the boxes, the box in the back on the left side.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "The cabinet closest to the door and near the garbage can with the green lid.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "door",
+                "garbage can with the green lid"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 19,
+        "caption": "This box is one of the three boxes on the top of the stack and touches two of the top boxes.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "top of the stack",
+                "two of the top boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 19,
+        "caption": "The top box, closed from the top, closest to the wall",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 17,
+        "caption": "The correct cabinet is on the ground.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 19,
+        "caption": "The top left box leaning against wall",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "top",
+                "left",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 21,
+        "caption": "The brown box that is on the bottom and in the back of the stack of boxes, closest to the wall.  The one on the bottom.",
+        "parsed_query": {
+            "Target": "brown box",
+            "Anchor": [
+                "stack of boxes",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 19,
+        "caption": "the small box in the back of the stack on the left side",
+        "parsed_query": {
+            "Target": "small box",
+            "Anchor": [
+                "stack",
+                "left side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 6,
+        "caption": "Facing the door, the bin to the right.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 6,
+        "caption": "bin with the green bag NOT THE RED ONE",
+        "parsed_query": {
+            "Target": "green bag",
+            "Anchor": "bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "The higher of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 6,
+        "caption": "Recycling bin nearest to the black cabniets",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "black cabinets"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 21,
+        "caption": "The box at the bottom and up against the wall facing something red on a cabinet",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "wall",
+                "cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 0,
+        "caption": "This box is on the right by itself, when viewed facing the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 20,
+        "caption": "Facing the boxes, the box on the bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "boxes"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 18,
+        "caption": "Facing the boxes, the closest box that is elevated.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 1,
+        "caption": "It is the tall recycling bin to the left if you are facing the door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 21,
+        "caption": "small box",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 1,
+        "caption": "select the bin on your left of the door",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 18,
+        "caption": "The box closest to the door that's on top of another box",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "door",
+                "another box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 17,
+        "caption": "The black row of cabinets directly in front of the rug.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "rug"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 19,
+        "caption": "the box behind  the other boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "other boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 6,
+        "caption": "The green recycling bin",
+        "parsed_query": {
+            "Target": "green recycling bin",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "the cabinets at the top",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 0,
+        "caption": "The large brown box on the opposite side of the black cabinets",
+        "parsed_query": {
+            "Target": "large brown box",
+            "Anchor": "black cabinets"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "The higher cabinets mounted to the wall.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 18,
+        "caption": "Locate the box that is both on top and NOT touching the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 17,
+        "caption": "choose The floor cabinets, with cupboards and a worktop.",
+        "parsed_query": {
+            "Target": "floor cabinets",
+            "Anchor": [
+                "cupboards",
+                "worktop"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 1,
+        "caption": "tall black one in the corner",
+        "parsed_query": {
+            "Target": "tall black one",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 20,
+        "caption": "the one in front on the bottom",
+        "parsed_query": {
+            "Target": "the one",
+            "Anchor": [
+                "front",
+                "bottom"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "The cabinets above the countertop to the left side.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "countertop",
+                "left side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 6,
+        "caption": "The recycling bin furthest from the pint and closest to the black countertop.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "pint",
+                "black countertop"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 1,
+        "caption": "The taller of the two bins.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "Set of cabinets directly to the left of the black striped panels.",
+        "parsed_query": {
+            "Target": "set of cabinets",
+            "Anchor": "black striped panels"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 17,
+        "caption": "The cabinets on the floor.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 1,
+        "caption": "It's the bin with wheels, closest to the copy machine.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "copy machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "the upper cabinets.",
+        "parsed_query": {
+            "Target": "upper cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 17,
+        "caption": "The black lower cabinet.",
+        "parsed_query": {
+            "Target": "black lower cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 17,
+        "caption": "It is the lower set of cabinets.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 6,
+        "caption": "The smaller recycling bin.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 17,
+        "caption": "its the cabinet closer to the floor",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 1,
+        "caption": "large black trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 15,
+        "caption": "The taller of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 21,
+        "caption": "The box in the bottom closest to the wall, that is sticking out a little bit.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 18,
+        "caption": "Facing the boxes, the four closed boxes on the left, it is the top box in the front.",
+        "parsed_query": {
+            "Target": "top box",
+            "Anchor": [
+                "closed boxes",
+                "front"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 20,
+        "caption": "The box on the ground and closest to the door.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 19,
+        "caption": "The highest stacked box against the wall closest to the double cabinet doors.",
+        "parsed_query": {
+            "Target": "boxed",
+            "Anchor": [
+                "double cabinet doors",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 0,
+        "caption": "The open box with the blue/white things inside it.",
+        "parsed_query": {
+            "Target": "open box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 6,
+        "caption": "The recycling bin to the right.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "recycling bin"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 0,
+        "caption": "The box on right facing the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 0,
+        "caption": "Facing the boxes, the boxes on the far right.",
+        "parsed_query": {
+            "Target": "boxes",
+            "Anchor": "boxes"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 0,
+        "caption": "The box that is against the wall and is open.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 1,
+        "caption": "The tall black trash bon on wheels next to the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 21,
+        "caption": "This box is has 2 boxes on top, one in front, is on your left, and against the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 20,
+        "caption": "choose the bottom box with a closed box stacked on top of it.",
+        "parsed_query": {
+            "Target": "bottom box",
+            "Anchor": [
+                "closed box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 0,
+        "caption": "facing the wall the boxes are against, chose the boxes on the right, closest to the copier.",
+        "parsed_query": {
+            "Target": "boxes",
+            "Anchor": [
+                "wall",
+                "copier"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 19,
+        "caption": "the box is closest to the wall on the top behind the other boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "wall",
+                "other boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": 18,
+        "caption": "When standing in the door, the box immediately in front of you and on top of another box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "door",
+                "another box"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

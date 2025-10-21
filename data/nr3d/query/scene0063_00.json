@@ -1,0 +1,794 @@
+[
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "the chair below the tv",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tv"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 0,
+        "caption": "The microwave near the sink and next to the fridge.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "sink",
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 7,
+        "caption": "There are two chairs at the edge of the kitchen. If you are going to sit in the correct chair, and you are facing the refrigerator, it is the one on the left.",
+        "parsed_query": {
+            "Target": "correct chair",
+            "Anchor": [
+                "kitchen",
+                "refrigerator",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 3,
+        "caption": "Gray boxed microwave object on the tan desk.",
+        "parsed_query": {
+            "Target": "gray boxed microwave",
+            "Anchor": "tan desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 0,
+        "caption": "The microwave in the kitchen.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "kitchen"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 7,
+        "caption": "the chair right next to another chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 7,
+        "caption": "The chair closer to the wall of the two chairs at the kitchen bar.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "kitchen bar"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 10,
+        "caption": "the lower ones",
+        "parsed_query": {
+            "Target": "lower ones",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 7,
+        "caption": "in front of the cabinet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 7,
+        "caption": "the chair is on the left in front of the stove",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 10,
+        "caption": "the black counter to the left of the fridge",
+        "parsed_query": {
+            "Target": "black counter",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "The chair is closest to the silver fridge",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "silver fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "the chair by itself with no table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "When facing the refrigerator, the box closest to the refrigerator on the right.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 16,
+        "caption": "The higher of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 0,
+        "caption": "The microwave closest to a fridge.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "tall chair near the centre of the room, most directly facing the fridge",
+        "parsed_query": {
+            "Target": "tall chair",
+            "Anchor": [
+                "centre of the room",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "The brown chair closest to the TV on the wall",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "TV on the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 3,
+        "caption": "the microwave on the beige table",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "beige table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 10,
+        "caption": "The correct cabinet is the one on the ground.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 3,
+        "caption": "the microwave on the light brown desk",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "light brown desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 3,
+        "caption": "the microwave on the beige table",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "beige table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "The only chair at the table against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 10,
+        "caption": "It is the under counter cabinet next to the refrigerator, not the one over the refrigerator.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "under counter",
+                "refrigerator"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "You want the chair that is next to the small tan table coming out from the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "small tan table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "Find the chair sitting under the tv mounted on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tv",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "of the group of two chairs it is the smaller one",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "group",
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "This chair isn't next to another chair or by a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 16,
+        "caption": "the kitchen cabinet above the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "facing the kitchen, the back right chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "chair near the yellow desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "yellow desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 16,
+        "caption": "the upper kitchen cabinet",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "upper"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 16,
+        "caption": "Choose the cabinet that is above the refrigerator.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 0,
+        "caption": "Microwave on the light colored wood counter close to television",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "light colored wood counter",
+                "television"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "lone chair at the wood table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wood table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "The chair closest to the wall and not in front of a table, that we can see",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 3,
+        "caption": "The microwave on the table with a chair next to it.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 0,
+        "caption": "The microwave near the fridge",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "the chair sitting at the wood table in the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wood table",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 7,
+        "caption": "If you were standing in front of the sink, facing away from the sink, out of the two chairs closest to you it's the one on the right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "look at the refrigerator there are two chairs in front of it as you are looking at the refrigerator choose the box on your right",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "two chairs",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 16,
+        "caption": "This cabinet is up on the wall, NOT on the floor.  This cabinet is above the one on the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "from the kitchen, the chair at the counter on the left, away from the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen",
+                "counter",
+                "left",
+                "away from the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 0,
+        "caption": "microwave next to the fridge",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 10,
+        "caption": "This kitchen cabinet is ground level. If positioned facing the fridge this cabinet is on the left.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 0,
+        "caption": "The microwave on top of the small tan desk",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "small tan desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 3,
+        "caption": "microwave on the small wood table.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "small wooden table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 10,
+        "caption": "The kitchen cabinet to the left of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "the chair in front of the wood table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wood table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 16,
+        "caption": "The cabinet over the fridge",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "This chair appears to be under a monitor on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "monitor",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 10,
+        "caption": "The larger of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 7,
+        "caption": "Face the fridge, in the middle of the room its the chair to the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 3,
+        "caption": "The microwave is sitting on the table.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 16,
+        "caption": "The small kitchen cabinet located above fridge",
+        "parsed_query": {
+            "Target": "small kitchen cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "There is a small square table/counter jutting out from against the wall; this chair is the only one at that table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "The chair is by the table which appears to have a toaster oven on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "toaster oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "A chair at a table with an appliance on top",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "appliance"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 4,
+        "caption": "chair sitting alone at left side of the yellow table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "yellow table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "if we face the small yellow table the chair to the far right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "yellow table"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 5,
+        "caption": "chair close to an electrical outlet and under a television.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "electrical outlet",
+                "television"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "the chair on the right of the row of the two chairs, across the fridge.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "bar chair on the right, as we face towards the kitchen",
+        "parsed_query": {
+            "Target": "bar chair",
+            "Anchor": [
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0063_00",
+        "target_id": 6,
+        "caption": "the chair closest to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

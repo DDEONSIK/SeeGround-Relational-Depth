@@ -1,0 +1,490 @@
+[
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 8,
+        "caption": "cabinet touching the wall farthest from entrance door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "entrance door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 10,
+        "caption": "Facing them, it's the bigger trash can, on the left.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 10,
+        "caption": "Choose the large, black trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 10,
+        "caption": "Select the large black bin next to the bench top",
+        "parsed_query": {
+            "Target": "large black bin",
+            "Anchor": "bench"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 10,
+        "caption": "Facing the closed door, the trash can furthest from the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "closed door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 8,
+        "caption": "The trash can nearest the large copier.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "large copier"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 8,
+        "caption": "small trash can near the printer, grey in color.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "printer",
+                "grey"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 8,
+        "caption": "The smaller, lighter colored trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 1,
+        "caption": "It's the bigger box, on the bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "box"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 1,
+        "caption": "The box that is on the ground by the door",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 1,
+        "caption": "the lower box near the buckets",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "buckets"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 1,
+        "caption": "There are two boxes on the floor near the copier. Both are placed in front of a closed door, but the box you are looking for is closest to the door and on top of the second box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "closed door",
+                "second box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 21,
+        "caption": "the box against the wall",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 21,
+        "caption": "Smaller box behind a slightly bigger box.",
+        "parsed_query": {
+            "Target": "smaller box",
+            "Anchor": [
+                "slightly bigger box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 21,
+        "caption": "The smaller box closest to the door.",
+        "parsed_query": {
+            "Target": "smaller box",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 21,
+        "caption": "The smaller box on top",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 1,
+        "caption": "This is the bigger box on the bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 21,
+        "caption": "The smaller white colored box against the wall next to the green bucket",
+        "parsed_query": {
+            "Target": "smaller white colored box",
+            "Anchor": [
+                "green bucket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 10,
+        "caption": "We are looking for the big black trash can situated right next the small grey one.",
+        "parsed_query": {
+            "Target": "big black trash can",
+            "Anchor": "small grey one"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 8,
+        "caption": "pick the smaller trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 16,
+        "caption": "the door that is closed",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 6,
+        "caption": "This door appears to be open fairly wide.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 6,
+        "caption": "This door is open and has nothing blocking it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 16,
+        "caption": "This closed door is directly next to the row of white shelves.",
+        "parsed_query": {
+            "Target": "closed door",
+            "Anchor": "white shelves"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 16,
+        "caption": "The door closer to the copy machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "copy machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 16,
+        "caption": "the door with a box in front of it",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 6,
+        "caption": "the door next to the copy machine",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "copy machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 6,
+        "caption": "The door that is open",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 6,
+        "caption": "Door that is partially open",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 6,
+        "caption": "CHoose the door next to the big grey box, NOT the one with the cardboard box iront of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "big grey box",
+                "cardboard box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 16,
+        "caption": "The door with a green bucket and brown box in front of it",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "green bucket",
+                "brown box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 16,
+        "caption": "The door that is shut.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 6,
+        "caption": "The door that is open in the room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 1,
+        "caption": "It is the box that is touching the green trash can.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "green trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 10,
+        "caption": "The big black trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 21,
+        "caption": "The box behind the other box when facing them straight on.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 8,
+        "caption": "Small white trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 16,
+        "caption": "The door with the green bucket nearby.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "green bucket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 1,
+        "caption": "the larger of the two boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 8,
+        "caption": "the trash can next to the black big one",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "black big one"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 21,
+        "caption": "Printer on left, shelving on right, you want the back option of the two boxes",
+        "parsed_query": {
+            "Target": "back option",
+            "Anchor": [
+                "printer",
+                "shelving"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": 10,
+        "caption": "The black trash can at the end of the counter",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "counter"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

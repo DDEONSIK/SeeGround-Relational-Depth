@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "a door, on the right hand side is a small washbasin  . the left hand side is nothing.",
+        "parsed_query": {
+            "Target": "washbasin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "a soap dispenser is on the wall in the laundry room.  it is to the right of the brown door. door",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "a soap dispenser, on the right is a hand sanitizer. c on the left is a door.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "hand sanitizer",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "there is a gray wooden cabinet. placed next to the door of the laundry room.",
+        "parsed_query": {
+            "Target": "gray wooden cabinet",
+            "Anchor": "door of the laundry room"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "there is a rectangular white self with two compartments right about the sink and the washing machine. to the left of the cabinet there is soap and tissue dispenser.",
+        "parsed_query": {
+            "Target": "soap and tissue dispenser",
+            "Anchor": [
+                "cabinet",
+                "sink",
+                "washing machine"
+            ]
+        },
+        "unique": true
+    }
+]

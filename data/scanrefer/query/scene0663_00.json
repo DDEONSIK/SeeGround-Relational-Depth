@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0663_00",
+        "target_id": "35",
+        "target_name": "office_chair",
+        "caption": "the chair is black. it is to the left of the computer monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "computer monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "the chair is red and green. it is to the right of the black chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": "32",
+        "target_name": "shelf",
+        "caption": "the shelf are mounted on the wall. they are above the computer monitor.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "computer monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": "1",
+        "target_name": "door",
+        "caption": "the door is wooden. it is to the right of the shelf.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the trash can is small and black. it is to the left of the shelf.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    }
+]

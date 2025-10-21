@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0351_00",
+        "target_id": "13",
+        "target_name": "monitor",
+        "caption": "there is a black monitor. placed next to another same monitor.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "another same monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "there is a beige wooden cabinet. placed on the side of the room.",
+        "parsed_query": {
+            "Target": "beige wooden cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": "22",
+        "target_name": "monitor",
+        "caption": "there is a black monitor. placed on the right to the same another monitor.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "another monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": "20",
+        "target_name": "monitor",
+        "caption": "there is a black monitor. placed on the left to the same monitor.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": "black monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0351_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a black arm chair. placed in front of the working table.",
+        "parsed_query": {
+            "Target": "black arm chair",
+            "Anchor": [
+                "working table"
+            ]
+        },
+        "unique": false
+    }
+]

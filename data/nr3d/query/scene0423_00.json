@@ -1,0 +1,374 @@
+[
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 3,
+        "caption": "How's the 3 chairs that are aligned, the chair is in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "3 chairs aligned"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 2,
+        "caption": "3 of the chairs facing the table all sit very much at 90 degrees to each other.  You should select the other chair which is a little further away from the table and is angled differently to the other 3.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "Pick the chair with the non-tilted line-up as compared to the table, the one further away from the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 2,
+        "caption": "It is the chair furthest from the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 4,
+        "caption": "When facing toward the two chairs closest to the small round table, this chair is on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "small round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 2,
+        "caption": "The one chair not arranged properly.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 3,
+        "caption": "If you center your screen so that the chairs further away from the round table are on your right, choose the chair closer to the table on the bottom.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 3,
+        "caption": "there are two that are closest to the table,from behind its the armchair on the right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "armchair",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "A beidge airmchair  around  three others airmchairs.",
+        "parsed_query": {
+            "Target": "a beidge airmchair",
+            "Anchor": [
+                "three others airmchairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "looking straight down with the angled chair at 9 o'clock, it's the chair at the 12 o'clock position.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 4,
+        "caption": "Choose the chair with the second most damage to the seat cushion.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "The arm chair at 12 oclock, use the one that is at a smalll angle which will make it 10 oclock Position the chair so that one is at 12 another at 3 and another at 6 and another at 10",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "chair",
+                "12 oclock",
+                "small angle",
+                "10 oclock",
+                "12",
+                "3",
+                "6",
+                "10"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 2,
+        "caption": "the armchair furthest from the table",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 4,
+        "caption": "When facing the two armchairs that are closer to the round table, it's the armchair on the right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "armchair",
+                "round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 4,
+        "caption": "This armchair has the stool sitting closest to it and from the top has less see-through on it",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 4,
+        "caption": "It is one of the two chairs which are closest to the round table.  If you are facing the round table from the position of being between these to chairs, the correct chair is the one on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 3,
+        "caption": "It's the left armchair between the two closest to the table.",
+        "parsed_query": {
+            "Target": "left armchair",
+            "Anchor": [
+                "table",
+                "two closest"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 4,
+        "caption": "Of the 2 armchairs that are closest to the table, if you're facing their fronts, this is the one on your right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "armchair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "if looking from the top down, with the angled chair at the 12 o clock, the chair in the 3 o clock",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "angled chair",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 3,
+        "caption": "Choose the dirtiest looking chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 2,
+        "caption": "The arm chair not aligned with the other chairs.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "This armchair is further from the small round table, but not askew.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "small round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "The chair next to the chair farthest from the other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 2,
+        "caption": "Choose the chair that is farthest away from the circle table in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "circle table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 4,
+        "caption": "select the armchair that sits itself",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 3,
+        "caption": "Choose the dirty chair closest to the black table.",
+        "parsed_query": {
+            "Target": "dirty chair",
+            "Anchor": [
+                "black table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 2,
+        "caption": "pick the armchair that is most at an angle as compared to how the others are lined up to the desk.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "desk",
+                "others"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 1,
+        "caption": "quantity of four. object that is used to seat individuals that supports upper extremities.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": 3,
+        "caption": "there are two chairs closer to the little table,,facing these two (from the table) it is the one on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "little table",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

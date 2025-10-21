@@ -1,0 +1,62 @@
+[
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a brown wooden chair. in the corner of the room.",
+        "parsed_query": {
+            "Target": "brown wooden chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "a brown wooden door. on the side of the room.",
+        "parsed_query": {
+            "Target": "brown wooden door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a beige wooden arm chair. in front of a round table.",
+        "parsed_query": {
+            "Target": "beige wooden arm chair",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a beige wooden arm chair. next to the table in the corner.",
+        "parsed_query": {
+            "Target": "beige wooden arm chair",
+            "Anchor": [
+                "table",
+                "corner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "a black chair. next to the round table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    }
+]

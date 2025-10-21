@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "37",
+        "target_name": "office_chair",
+        "caption": "a rolling chair with a tan seat and black back. .  it is sitting in front of a white filing box and is in the middle of the room.",
+        "parsed_query": {
+            "Target": "rolling chair",
+            "Anchor": [
+                "white filing box",
+                "room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this is a rolling office chair. the chair is with cushion seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "39",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is black. it is to the right of the desk in the back left corner.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "back left corner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "1",
+        "target_name": "file_cabinet",
+        "caption": "this is a black filing cabinet. it is on the floor on the left of the wooden desk.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a black moniter. it is sitting on the center of the wooden desk in the back corner of the room.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "center of the wooden desk",
+                "back corner of the room"
+            ]
+        },
+        "unique": false
+    }
+]

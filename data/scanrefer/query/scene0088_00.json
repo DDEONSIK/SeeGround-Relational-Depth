@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the black chair, in front of the chair with a brown table, on the right has 2 black chairs. . on the left is a black chair with the left to right it is the first chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair with a brown table",
+                "black chair",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a black office office chair. the third chair from the left.",
+        "parsed_query": {
+            "Target": "office office chair",
+            "Anchor": [
+                "third chair from the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "a black office office chair. a black chair who is in between with other similar chairs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "other similar chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is black with metal legs. the chair is back against the wall and has two chairs to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "two chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "33",
+        "target_name": "door",
+        "caption": "the door is wooden with a window in the middle. the door is in the corner by the white board.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white board",
+                "corner"
+            ]
+        },
+        "unique": false
+    }
+]

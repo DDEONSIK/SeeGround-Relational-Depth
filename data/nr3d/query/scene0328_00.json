@@ -1,0 +1,741 @@
+[
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 27,
+        "caption": "The paper on the bulletin board.",
+        "parsed_query": {
+            "Target": "paper",
+            "Anchor": "bulletin board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 18,
+        "caption": "the kitchen cabinet that's near and below the kitchen sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "kitchen sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "The sign that is furthest from the stove and the window.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "stove",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 16,
+        "caption": "When standing in the middle of the room facing the cabinets, the correct cabinet is on the far left.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 29,
+        "caption": "There are two sign under the kitchen cabinet next to the sink. Pick the one that is still under the cabinet but is closer to the sink.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "kitchen cabinet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 28,
+        "caption": "Facing the signs, the sign second to the left.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "sign"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 29,
+        "caption": "Sign in the middle of a group of 3 signs. left hand sign of 2 underneath a cupboard",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "group of 3 signs",
+                "left hand sign",
+                "cupboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 25,
+        "caption": "the cabinets below the sink",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 19,
+        "caption": "This is an upper cabinet that you can see into.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 18,
+        "caption": "the smallest cabinet in the corner above the counter",
+        "parsed_query": {
+            "Target": "smallest cabinet",
+            "Anchor": [
+                "corner",
+                "above",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 19,
+        "caption": "the cabinet to the left of the sink hanging on the wall",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "The sign on the far right when facing the double kitchen cabinet.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "double kitchen cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 29,
+        "caption": "there are three boxes on the counter above the dishwasher, this one is in the middle",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "counter",
+                "dishwasher"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 28,
+        "caption": "the sign immediately to the right of the sink.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 27,
+        "caption": "sign higher than the others",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "white paper towel dispenser below shelf",
+        "parsed_query": {
+            "Target": "white paper towel dispenser",
+            "Anchor": "shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "Find the sign that is under the cabinet and furthest away from the sink.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "cabinet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 19,
+        "caption": "The overhead cabinet closest to the sink",
+        "parsed_query": {
+            "Target": "overhead cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 28,
+        "caption": "the sign directly to the right of the sink and not hanging",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 29,
+        "caption": "Of the 3 signs grouped together, its the middle sign",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "sign",
+                "sign"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 25,
+        "caption": "The bottom cabinet touching the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 16,
+        "caption": "cabinets to the left of the stove.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 28,
+        "caption": "Choose the sign directly beside the sink on the right.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "sink",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 18,
+        "caption": "It is the upper cabinet just to the right of the stove and microwave.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove",
+                "microwave"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 29,
+        "caption": "In the room you will see what appears to be a sink.  Directly to the right are three signs.  Select the middle sign. This sign is located under the first cabinet",
+        "parsed_query": {
+            "Target": "middle sign",
+            "Anchor": [
+                "sink",
+                "three signs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 16,
+        "caption": "The kitchen cabinet on the top just to the left of the stainless steel microwave.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "stainless steel microwave"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 25,
+        "caption": "The long, horizontal cabinet along the ground.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 19,
+        "caption": "The tall kitchen cabinet almost on top of the sink.",
+        "parsed_query": {
+            "Target": "tall kitchen cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 18,
+        "caption": "The smallest cabinet, it is in the upper corner.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 27,
+        "caption": "The sign hanging on the wall behind the sink",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "sink",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 29,
+        "caption": "the group of three signs on the right side of the counter, the middle sign.",
+        "parsed_query": {
+            "Target": "middle sign",
+            "Anchor": [
+                "group of three signs",
+                "right side of the counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 19,
+        "caption": "Choose the highest cabinets.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 16,
+        "caption": "The correct cabinet is furthest from the sink, above and to the left of the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "Find the signs under the cabinet to the right of the sink. It is the sign that is farthest to the right.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "cabinet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 25,
+        "caption": "The biggest set of kitchen cabinets, directly across from the refrigerator and closest to the floor",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "refrigerator",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 27,
+        "caption": "the sign to the left by itself on the windowsill",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": "windowsill"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 16,
+        "caption": "Cabinet not near the others",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 16,
+        "caption": "Place the camera so you are looking straight at the stove. Select the cabinet to the upper left.",
+        "parsed_query": {
+            "Target": "camera",
+            "Anchor": [
+                "stove",
+                "cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 19,
+        "caption": "It is the upper kitchen cabinets to the left of the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "Facing the 3 signs, the sign on the far right.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "sign"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 19,
+        "caption": "the top cabinet closest to the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 25,
+        "caption": "The kitchen cabinets that are on the floor.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 29,
+        "caption": "under the cabinet thee are two signs together.  choose the left one",
+        "parsed_query": {
+            "Target": "left sign",
+            "Anchor": [
+                "cabinet",
+                "two signs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 27,
+        "caption": "the sign above the sink",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 28,
+        "caption": "This sign is next to the sink and on the counter.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "sink",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "The sign that is farthest from the microwave and oven",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "microwave",
+                "oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 25,
+        "caption": "The kitchen cabinet close to the ground, under the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 28,
+        "caption": "Sign to the left of two others",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "two others"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 25,
+        "caption": "I am the kitchen cabinets sitting on the floor",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 27,
+        "caption": "The highest sign in between the 2 cabinets.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "cabinet",
+                "cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 30,
+        "caption": "When facing the kitchen sink, choose the sign farthest to the right.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "kitchen sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 18,
+        "caption": "Facing the oven, select the cabinets to the upper right, going into the corner.",
+        "parsed_query": {
+            "Target": "upper right cabinets",
+            "Anchor": [
+                "oven",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 18,
+        "caption": "The cabinet is in the corner.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 18,
+        "caption": "I am the cabinet above the stove on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove",
+                "stove",
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 16,
+        "caption": "A brown top cabinet on the left side of the stove and microwave, a spatula is underneath it.",
+        "parsed_query": {
+            "Target": "spatula",
+            "Anchor": [
+                "brown top cabinet",
+                "stove",
+                "microwave"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 28,
+        "caption": "The object you are looking for is a sign. The sign is sitting on the counter. The sign is the one that is furthest to the left, next to the sink.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "counter",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": 27,
+        "caption": "The sign that is in the window to the upper left of the sink.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": [
+                "window",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

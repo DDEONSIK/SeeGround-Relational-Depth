@@ -1,0 +1,68 @@
+[
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "it is white sink. the white sink sits at the right of the left wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "left wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is brown and rectangular. it is to the right of the tall cabinet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "tall cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "6",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is brown with a white counter top. it is to the right of the picture.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is dark brown. it is above the left sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "left sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "23",
+        "target_name": "towel",
+        "caption": "the towel is white and hanging on the hook. it is the second one from the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "hook",
+                "second one from the right"
+            ]
+        },
+        "unique": false
+    }
+]

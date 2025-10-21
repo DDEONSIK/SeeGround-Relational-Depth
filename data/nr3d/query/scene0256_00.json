@@ -1,0 +1,410 @@
+[
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 4,
+        "caption": "The box at the bottom of the stack",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 12,
+        "caption": "The middle box of the stack",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "stack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 3,
+        "caption": "Of the 3 boxes stacked pick the top one.",
+        "parsed_query": {
+            "Target": "top box",
+            "Anchor": [
+                "3 boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 3,
+        "caption": "It is the box on top.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 3,
+        "caption": "The box is stacked on top of two other boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 3,
+        "caption": "the top white box on the floor",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 4,
+        "caption": "It's the bottom box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 4,
+        "caption": "The bottom box in the stack of three boxes.",
+        "parsed_query": {
+            "Target": "bottom box",
+            "Anchor": "stack of three boxes"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 4,
+        "caption": "the large white box on the bottom",
+        "parsed_query": {
+            "Target": "large white box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 12,
+        "caption": "Middle box in the stack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 12,
+        "caption": "The box that is between the other two boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 12,
+        "caption": "The box in the middle",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 12,
+        "caption": "The box is in the middle of the stack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 4,
+        "caption": "The box on the bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 3,
+        "caption": "pick the box that is on top of all the other boxes.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 9,
+        "caption": "Tallest cabinet in the room",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 9,
+        "caption": "the curtains are white",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 7,
+        "caption": "Black curtain covering a large window.",
+        "parsed_query": {
+            "Target": "black curtain",
+            "Anchor": [
+                "large window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 9,
+        "caption": "Curtains on the wall behind the lamp, taller than they are wide.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "wall",
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 7,
+        "caption": "the darker set of curtains",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 7,
+        "caption": "The curtains that are much darker",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 9,
+        "caption": "the large set of curtains touching the table",
+        "parsed_query": {
+            "Target": "set of curtains",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 7,
+        "caption": "The dark curtains near the open walk way.",
+        "parsed_query": {
+            "Target": "dark curtains",
+            "Anchor": "open walk way"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 9,
+        "caption": "the curtains are grey",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 7,
+        "caption": "The smaller curtain, further from the table.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 9,
+        "caption": "it is a set of curtains touching the table",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 7,
+        "caption": "The shorter of the curtains.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 4,
+        "caption": "The box on the bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 3,
+        "caption": "It's the box on the top of the stack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 12,
+        "caption": "In this room you will find a stack of 3 white boxes, pick the one that is in the middle.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "stack of 3 white boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 9,
+        "caption": "Find the curtains that are touching the desks.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 7,
+        "caption": "The large dark wall across from the table",
+        "parsed_query": {
+            "Target": "large dark wall",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 4,
+        "caption": "The box that is on the ground with two boxes above it",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 3,
+        "caption": "The box is against the wall on top of the stack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "wall",
+                "stack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": 12,
+        "caption": "Choose the box that is in the middle of the other two boxes.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box",
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,2393 @@
+[
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 16,
+        "caption": "The desk beneath the clock on the right hand side of the two desks grouped together",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "clock",
+                "two desks grouped together",
+                "right hand side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 18,
+        "caption": "The desk on the end along the solid wall closest to the wall with the whiteboard",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "solid wall",
+                "wall with the whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 16,
+        "caption": "The desk directly under the clock",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "clock"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 16,
+        "caption": "There are three desks under the windows, you are looking for the middle one.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 16,
+        "caption": "Facing the windows, chose the center desk under the clock.",
+        "parsed_query": {
+            "Target": "center desk",
+            "Anchor": [
+                "windows",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 17,
+        "caption": "Facing the whiteboard, the desk is on the right side of the room farthest from the whiteboard.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 17,
+        "caption": "Desk opposite wall with whiteboard, has a chair pulled away from it and has a black angled monitor on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall with whiteboard",
+                "chair",
+                "black angled monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 17,
+        "caption": "Facing windows, desk closest to you on left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 17,
+        "caption": "Looking directly at the white board choose the desk that is on the opposite wall as the clock and if the white board is the front of the room then its the last desk on the right and right closest to you.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "clock",
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 13,
+        "caption": "if you're looking at the room so that there's a clock facing you it's the desk that's in the far right corner",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 13,
+        "caption": "pick the desk that is in the corner facing the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "corner",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 13,
+        "caption": "The desk that lets you see outside the window by looking straight ahead while at the desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 13,
+        "caption": "Facing windows, desk furthest on right.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 18,
+        "caption": "The desk is next to the door that you would use to enter the room",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door",
+                "entrance"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 18,
+        "caption": "Desk closest to and parallel to the big whiteboard on wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "big whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 18,
+        "caption": "The desk with a black cart filled with boxes next to it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "black cart",
+                "boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 16,
+        "caption": "the desk in the middle of the room, with a covered white box on the edge of it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "covered white box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 15,
+        "caption": "When you are facing the white board, look at the 3 desks on your right and pick the one in the middle.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "white board",
+                "3 desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 32,
+        "caption": "pick the white box that is on a table.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 14,
+        "caption": "If you are facing the two touching desks, it's the desk on the left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 13,
+        "caption": "It's the desk in the corner, under the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 52,
+        "caption": "facing the 2 boxes , the box on the left",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 18,
+        "caption": "Choose the desk on the opposite side of the room from the windows and closest to the white board.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "windows",
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 38,
+        "caption": "It's the box furthest from the white board.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 17,
+        "caption": "Facing the windows, the desk in the bottom left of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 51,
+        "caption": "there are two boxes directly in front of the white board that is to the left of another white board. of the two boxes in front of the white board, it is the one on the right.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "white board",
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 40,
+        "caption": "The correct keyboard is farthest from the window. It is in front of two monitors.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "window",
+                "two monitors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 39,
+        "caption": "cabinet with a white box directly in front of it on the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "white box"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 1,
+        "caption": "black filing cabinet at the end of a desk topped with three boxes (three of them in a stack)",
+        "parsed_query": {
+            "Target": "black filing cabinet",
+            "Anchor": [
+                "desk",
+                "three boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 22,
+        "caption": "When standing in the middle of the room facing the trash cans, the correct one is on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 51,
+        "caption": "Facing the boxes, the box second from the left.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "boxes"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 25,
+        "caption": "It is the furthest window from the whiteboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 22,
+        "caption": "If your looking straight on the trash cans below the whiteboard it is the one of the right farthest away from the windows.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "whiteboard",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 46,
+        "caption": "The backpack that is next to the white and black partition wall and is not on the same side of the room as the windows.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "white and black partition wall",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 8,
+        "caption": "The whiteboard by the backpack on the floor.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "backpack",
+                "floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "Two tiered square object that houses files often under desk",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 28,
+        "caption": "the back next to the small drawer",
+        "parsed_query": {
+            "Target": "back",
+            "Anchor": "small drawer"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 32,
+        "caption": "Choose the box on top of the brown desk.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "brown desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 38,
+        "caption": "white box on the floor",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 52,
+        "caption": "Of the boxes in front of the whiteboard, it's the lower box on the left (the Amazon box).",
+        "parsed_query": {
+            "Target": "Amazon box",
+            "Anchor": [
+                "boxes",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 46,
+        "caption": "The back pack on the floor in the center of the room against the middle cubicle.",
+        "parsed_query": {
+            "Target": "back pack",
+            "Anchor": [
+                "floor",
+                "middle cubicle"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 1,
+        "caption": "it is the only file cabinet with a drawer open",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 23,
+        "caption": "trash can on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 33,
+        "caption": "Its the keyboard closest to the window with a clock on its upper right hand side.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "window",
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 11,
+        "caption": "The board closest to the whiteboard on the wall.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 40,
+        "caption": "This keyboard is not by a window.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 8,
+        "caption": "The board furthest from the white board on the wall",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "white board",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 11,
+        "caption": "The whiteboard that has a blue note on top.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "blue note"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 25,
+        "caption": "the window to the left of the clock",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 51,
+        "caption": "This box is next to another one, but is above it.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "another box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 23,
+        "caption": "It's the trash can closest to the windows.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 52,
+        "caption": "Of the two boxes next to one another, the lower box.",
+        "parsed_query": {
+            "Target": "lower box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 0,
+        "caption": "The corner cabinet near leftmost window",
+        "parsed_query": {
+            "Target": "corner cabinet",
+            "Anchor": "leftmost window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 38,
+        "caption": "The white box that is on the floor",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": "floor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "The file cabinet is tucked under a desk in a cubicle.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "cubicle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 0,
+        "caption": "The small file cabinet in the corner of the room with a white box on top next to the windows.",
+        "parsed_query": {
+            "Target": "small file cabinet",
+            "Anchor": [
+                "white box",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 32,
+        "caption": "it is the box on a large table in the middle of the room.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "large table",
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 1,
+        "caption": "the drawers right next to the bag",
+        "parsed_query": {
+            "Target": "drawers",
+            "Anchor": [
+                "bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 46,
+        "caption": "backpack in front on the whiteboard on an endcap",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "whiteboard",
+                "endcap"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 38,
+        "caption": "The box that is sitting on the floor.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 39,
+        "caption": "the file cabinet behind the white box in the middle of the floor",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "white box",
+                "middle of the floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 8,
+        "caption": "The board closest to the cubicle with two desks.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "cubicle",
+                "two desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 27,
+        "caption": "Facing the white board, the upper left file cabinet.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 52,
+        "caption": "The box closest to the white board.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 39,
+        "caption": "This filing cabinet is all the way across the room, opposite the wall whiteboard. A white box is in front of it.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "wall whiteboard",
+                "white box"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 1,
+        "caption": "The wide table with many boxes on top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "The second desk on the right of whiteboard",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 51,
+        "caption": "pile of two boxes, the taller white box.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "pile of boxes",
+                "taller box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 39,
+        "caption": "Facing the white board, the file cabinet in the lower right corner.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 27,
+        "caption": "The correct file cabinet has a back pack on the ground in front of it and a purple/burgandy item on top of it.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "back pack",
+                "purple/burgandy item"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 14,
+        "caption": "Facing the clock, and in the back row, it is the leftmost desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "clock",
+                "back row"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 14,
+        "caption": "were two desks are joined, select the desk to your left",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 14,
+        "caption": "Facing the windows, choose the leftmost desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 15,
+        "caption": "face the white board at one end of the room the desk is the middle desk on the right hand side as you face the white board",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "white board",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 15,
+        "caption": "facing the whiteboard, the desk on the right wall in the middle",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "whiteboard",
+                "right wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 15,
+        "caption": "Facing the clock, the closest table in the middle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "clock"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 15,
+        "caption": "Facing the whiteboard, the second desk from the right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 46,
+        "caption": "the backpack with a dry erase white board right above it.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "dry erase white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 14,
+        "caption": "The lightest colored desk , under the clock, closest to the file box on the black cabinet",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "clock",
+                "file box",
+                "black cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 25,
+        "caption": "The window to the left of the clock.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 7,
+        "caption": "the windows are the ones to the the left of the clock in the middle of the wall.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": [
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 22,
+        "caption": "The black garbage can which has a brown box cleaning on it closest to the wall receptacle",
+        "parsed_query": {
+            "Target": "garbage can",
+            "Anchor": [
+                "brown box",
+                "wall receptacle"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 23,
+        "caption": "The bin nearest the window.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 52,
+        "caption": "At the end of one of the room dividers, there is a cupboard with several boxes sitting on top. You are looking for the brown cardboard box nearest the large whitebaord, on the cupboard,",
+        "parsed_query": {
+            "Target": "brown cardboard box",
+            "Anchor": [
+                "room divider",
+                "large whiteboard",
+                "cupboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 40,
+        "caption": "Look for the keyboard that is on a tray attached to the desk in the corner.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "tray",
+                "desk",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 51,
+        "caption": "The box that is sitting on top of another box that is on top of a file cabinet.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "file cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "File cabinet drawer under middle desk",
+        "parsed_query": {
+            "Target": "file cabinet drawer",
+            "Anchor": [
+                "middle desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 23,
+        "caption": "Trash can closest to the chair",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 23,
+        "caption": "The trash can that is most centered under the white board.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 7,
+        "caption": "the window closest to the whiteboard",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 11,
+        "caption": "A vertical white board with a blue paper attached to the top closest to the large white board on the back wall.",
+        "parsed_query": {
+            "Target": "vertical white board",
+            "Anchor": [
+                "blue paper",
+                "large white board",
+                "back wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 27,
+        "caption": "The filing cabinet closest to the black chair",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "black chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 38,
+        "caption": "This white box is on the floor.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": "floor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 27,
+        "caption": "The file cabinet that is at the desk next to the window and close to the large white board.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "window",
+                "large white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 28,
+        "caption": "Choose the backpack that sits near the desk at the window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "Choose the black cabinet that is sticking out from under a desk with a black chair with a tan seat.",
+        "parsed_query": {
+            "Target": "black cabinet",
+            "Anchor": [
+                "desk",
+                "black chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 0,
+        "caption": "The file cabinets in the back corner near the window.",
+        "parsed_query": {
+            "Target": "file cabinets",
+            "Anchor": [
+                "back corner",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 33,
+        "caption": "Find the keyboard that is on top of the desk.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 40,
+        "caption": "the keyboard farthest from the windows",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 39,
+        "caption": "Of the two file cabinets furthest from the white board, this is the smaller one.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "file cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 33,
+        "caption": "this keyboard is sitting on the desk near the windows",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 8,
+        "caption": "Choose the whiteboard over the blue backpack.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": []
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 1,
+        "caption": "It is one of the two filing cabinets with boxes stacked on top of it, but it is not the filing cabinet closest to to a window.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "filing cabinet",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 0,
+        "caption": "Set of two file cabinets in the corner by the windows.",
+        "parsed_query": {
+            "Target": "file cabinets",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 11,
+        "caption": "facing the boards, the left board",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "boards"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 33,
+        "caption": "Find the keyboard on the desk that is in front of the windows and under the clock that hangs on the wall between the windows.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "clock",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 22,
+        "caption": "Find the two black trash cans, the one you want is closest to the electrical outlet on the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "electrical outlet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "the file cabinet that has a colorful case on top of it there is also a white box the desk.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "colorful case",
+                "white box",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 39,
+        "caption": "the file cabinet behind the white cabinet",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "white cabinet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 33,
+        "caption": "The keyboard on top of the desk directly beside a window.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 27,
+        "caption": "If you face the white board on the wall it is the filing cabinet to the on the left.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "white board",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 8,
+        "caption": "it is the board behind backpack",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 25,
+        "caption": "The windows to the left of the clock.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 11,
+        "caption": "The board closest to the white board on the back wall",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "white board",
+                "back wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "The file cabinet that is under the center desk with the backpack resting against it.   the desk is on the side of the room that does not have the windows",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "center desk",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 7,
+        "caption": "This window is closest to the wall with the whiteboard on it. It is behind the single desk pushed in to the corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "whiteboard",
+                "single desk",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "file cabinet that is under/in front of the desk with a blue and white top",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 46,
+        "caption": "The backpack on the floor that is against the cubicle wall that is black with white paper.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "cubicle wall",
+                "black with white paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 27,
+        "caption": "The file cabinet has something purple on it and a backpack is sitting right by it.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "something purple",
+                "backpack"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 28,
+        "caption": "Choose the backpack that is sitting in the floor in front of a filing cabinet.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "filing cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 0,
+        "caption": "This file cabinet is the ONLY file cabinet directly under the huge window to the left of the wall clock",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "huge window",
+                "wall clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 28,
+        "caption": "The backpack closest to a window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 7,
+        "caption": "The window to the right of the clock face.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "clock face"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "The file cabinet that is under a desk and up against the wall",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "It's the file cabinet underneath the desk that's underneath the clock on the wall.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 22,
+        "caption": "The trash can on the right when facing the trash cans and the whiteboard they're under.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash cans",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 23,
+        "caption": "Standing in the middle of the room looking at both trash cans, its the can on the left",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 7,
+        "caption": "You want the window with the desk and monitor leaning on it to the right of the clock",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window",
+                "monitor",
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 0,
+        "caption": "short file cabinet with a printer on it under a window",
+        "parsed_query": {
+            "Target": "short file cabinet",
+            "Anchor": [
+                "printer",
+                "under",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 8,
+        "caption": "Look at the column right behind the black bag.",
+        "parsed_query": {
+            "Target": "column",
+            "Anchor": "black bag"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 1,
+        "caption": "it is the filing cabinet located under a whiteboard with the blue note of it",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "whiteboard",
+                "blue note"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 25,
+        "caption": "The window that does not have a computer facing directly away from it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "computer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 1,
+        "caption": "dark cabinet below white board with blue post it note and open drawer.",
+        "parsed_query": {
+            "Target": "dark cabinet",
+            "Anchor": [
+                "white board",
+                "blue post it note",
+                "open drawer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 11,
+        "caption": "the board with the blue note on it",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "blue note"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 40,
+        "caption": "it is the keyboard in the corner of the room",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "The black filing cabinet near the table that is in center of the room, under the wall clock.",
+        "parsed_query": {
+            "Target": "black filing cabinet",
+            "Anchor": [
+                "table",
+                "wall clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 7,
+        "caption": "if you are facing the clock it's the window to the right of the clock",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 27,
+        "caption": "There is a chair next to the designated file cabinet.  If you were seated in this chair, the file cabinet would be on your left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "file cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 28,
+        "caption": "Choose the backpack that is closest to the large white board on the back wall, and sitting in front of what looks like a black file cabinet.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "large white board",
+                "black file cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 7,
+        "caption": "the window closest to the whiteboard",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 33,
+        "caption": "keyboard close to the window, its tilted sideways",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 22,
+        "caption": "Trash can under the whiteboard on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "whiteboard",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 8,
+        "caption": "Directly across from this board is a clock",
+        "parsed_query": {
+            "Target": "clock",
+            "Anchor": [
+                "board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "the file cabinet at the middle work station by the windows under the table with the white box aon top of it",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 25,
+        "caption": "The window to the left of the clock",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 30,
+        "caption": "the file cabinet under one of the middle desks that is against the wall with windows",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "middle desks",
+                "wall with windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "Facing the blue windows chose the file cabinet furthest away from the clock.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "blue windows",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 46,
+        "caption": "It's the backpack in the middle of the room.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "The filing cabinet completely under the desk.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 40,
+        "caption": "The correct keyboard is the one farthest from the window, closest to the corner.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "window",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "The file cabinet that is on the cubical that has a wall, on that first cubical the one that is between the two chairs",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "cubical",
+                "wall",
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 39,
+        "caption": "It is the file cabinet that has a design on the top and a white box  in front of it. The window and clock should be on the right side and the cabinet is in the very back.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "white box",
+                "window",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 44,
+        "caption": "The file cabinet furthest from the windows on the back wall.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 22,
+        "caption": "when looking at the whiteboard, it is the trashcan on the right-hand side",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 25,
+        "caption": "Facing the windows, the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "left"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 28,
+        "caption": "The backpack on the floor next to the drawers.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 0,
+        "caption": "The filing cabinet in the corner by itself under the window.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 46,
+        "caption": "Choose the backpack farthest away from the window that is in the middle of the room.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "window",
+                "middle of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 23,
+        "caption": "Facing the white board, the trash can on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 40,
+        "caption": "Choose the keyboard that is on a tray it looks like it is not sitting on the desk but a tray that pulls out from under the desk.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "tray",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 38,
+        "caption": "It's in the center of the room and on the floor.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 32,
+        "caption": "White box on table under clock.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "table",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 51,
+        "caption": "The white box with a small brown box on top of it.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "small brown box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 16,
+        "caption": "The desk directly under the clock",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "clock"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 13,
+        "caption": "The desk to the left of the whiteboard when facing it straight on.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 17,
+        "caption": "Face the windows. The desk is against the wall on your left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 18,
+        "caption": "Facing the whiteboard, it's the desk on the right with two monitors, that is closest to and facing the whiteboard.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "whiteboard",
+                "desk",
+                "two monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 14,
+        "caption": "Of the 2 desks pushed together, it has no desk behind it and is less cluttered.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 52,
+        "caption": "In the group of 2 boxes, its lower and closer to the big whiteboard on the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "big whiteboard",
+                "group of 2 boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 15,
+        "caption": "This desk is on the opposite wall that contains the wall clock. It is the one in the back of the room furthest from the white board",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall clock",
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 28,
+        "caption": "The backpack is by the desk in the corner.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "desk",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 33,
+        "caption": "the keyboard closest to the window (no cubicles)",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 11,
+        "caption": "The object you are looking for is a board. The white board has writing on it.  It also has boxes piled in front of it and it has a piece ob blue paper taped to the top of it.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 18,
+        "caption": "The desk on the right side of the room closest to the whiteboard",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 14,
+        "caption": "Of the pair of desks facing each other by the window it's the left desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 17,
+        "caption": "Select the desk in the middle to your left",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "middle",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 32,
+        "caption": "White box on the table in between the windows",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "table",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 15,
+        "caption": "The desk in the middle of the room on the side with no windows",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "room",
+                "no windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 13,
+        "caption": "Computer desk that is flat against the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 38,
+        "caption": "A white box sitting on the floor between two chairs",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 51,
+        "caption": "It's the white box that has a small brown package on top of it.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "brown package"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 52,
+        "caption": "When facing the two black framed white boards, choose the box on the left.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "black framed white boards"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 16,
+        "caption": "It's the desk that's immediately under the round clock on the wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "round clock"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 32,
+        "caption": "After entering through the doorway, it is the white box under the clock.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "doorway",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": 32,
+        "caption": "pick the box on the back table, only box on this side of tables",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "back table",
+                "tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

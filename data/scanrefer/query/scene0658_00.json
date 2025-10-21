@@ -1,0 +1,69 @@
+[
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "this is the window that sits low by the wall. it is near lamp by the corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "lamp",
+                "corner"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "3",
+        "target_name": "desk",
+        "caption": "there is a black table with a rectangular glass top. it is to the right of a black dresser, of similar height that also has glass top.",
+        "parsed_query": {
+            "Target": "black table",
+            "Anchor": [
+                "black dresser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is in the back left corner. it is against a window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "there is a black shelf with 3 separate shelves. it is located at the foot or to the rear of the bed. the black shelf also has a lamp ,with a white shade, on top.,",
+        "parsed_query": {
+            "Target": "black shelf",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "6",
+        "target_name": "closet_door",
+        "caption": "the closet door is in the back left corner. there are silver shelves to the right of it.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": [
+                "silver shelves"
+            ]
+        },
+        "unique": true
+    }
+]

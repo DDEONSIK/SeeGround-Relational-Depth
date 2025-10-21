@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "33",
+        "target_name": "tv",
+        "caption": "this tv is against the wall. . it is square.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "15",
+        "target_name": "storage_bin",
+        "caption": "this is a storage bin. the storage bin is close to wall.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "this is a dresser table. the dresser table is attached to wall.",
+        "parsed_query": {
+            "Target": "dresser table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "this is a dresser table. the dresser table is close to wall.",
+        "parsed_query": {
+            "Target": "dresser table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "6",
+        "target_name": "nightstand",
+        "caption": "this is a wooden night stand. the night stand is next to bed.",
+        "parsed_query": {
+            "Target": "wooden night stand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    }
+]

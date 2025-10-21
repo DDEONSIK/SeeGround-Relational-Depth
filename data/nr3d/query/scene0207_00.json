@@ -1,0 +1,1590 @@
+[
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 13,
+        "caption": "It's the window closest to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 10,
+        "caption": "blue colored stool near blue trash can",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "the stove is under",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 60,
+        "caption": "the cabinet in the bathroom above the toilet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bathroom",
+                "above",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 50,
+        "caption": "the entrance door",
+        "parsed_query": {
+            "Target": "entrance door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 10,
+        "caption": "The stool beside the couch",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 45,
+        "caption": "This cabinet is the one on the bottom",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 45,
+        "caption": "Choose the sink and the bottom cabinets that connect to it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "bottom cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 50,
+        "caption": "White door nearest to stove",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 37,
+        "caption": "this is the box sitting on the couch",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 37,
+        "caption": "Its the black backpack that's sitting on the sofa.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 47,
+        "caption": "the white towel hanging off the stove, next to the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "stove",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 47,
+        "caption": "the towels below the stove",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 12,
+        "caption": "The window that is farthest from the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 67,
+        "caption": "This is the rightmost bottle in the shower.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 9,
+        "caption": "The cabinet on the wall closest to the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 10,
+        "caption": "The smaller brown chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 17,
+        "caption": "The sink in the kitchen next to the stove",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "Wall mounted cabinet not the floor one",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "Pick the upper or higher cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 20,
+        "caption": "The large brown bookcase.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 11,
+        "caption": "the chair that is black",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 50,
+        "caption": "The door furthest from the other two",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 10,
+        "caption": "The chair that looks like a wooden stool",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wooden stool"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 12,
+        "caption": "Facing the windows, the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 66,
+        "caption": "The bottle on the left hand side of the shower",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 39,
+        "caption": "the black backpack closest to the sink",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 60,
+        "caption": "It is the cabinet in the bathroom and next to a sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 70,
+        "caption": "The towel in the bathroom.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 57,
+        "caption": "The sink closest to the toilet",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "Cabinet is located above kitchen stove",
+        "parsed_query": {
+            "Target": "Cabinet",
+            "Anchor": "kitchen stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 70,
+        "caption": "The towel is located across from the toilet",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 47,
+        "caption": "The towel hanging from the front of the stove.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 5,
+        "caption": "The door in the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 9,
+        "caption": "Choose the cabinets located above the kitchen sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "kitchen sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 67,
+        "caption": "the bottle on the right in the shower",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "upper cabinet above cooker",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "cooker"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 67,
+        "caption": "The bottle on the right side of the bath when standing outside looking in.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "bath",
+                "right side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 13,
+        "caption": "This window is closer to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 66,
+        "caption": "The bottle closer to the toilet.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 70,
+        "caption": "The blue towel in the bathroom",
+        "parsed_query": {
+            "Target": "blue towel",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 39,
+        "caption": "black backpack beneath the couch",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 39,
+        "caption": "the black backpack on floor directly below stool with object on top, there's a blue bin in front of it",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": [
+                "stool",
+                "floor",
+                "blue bin"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 45,
+        "caption": "The cabinet with the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 67,
+        "caption": "bottle furthest from the toilet  located in the shower.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "toilet",
+                "shower"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 57,
+        "caption": "Bathroom sink next to the toilet.",
+        "parsed_query": {
+            "Target": "bathroom sink",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 70,
+        "caption": "The blue towel in the bathroom",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 66,
+        "caption": "the bottle is closest to the shower curtains",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 47,
+        "caption": "The towel is hanging on the handle of the oven.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 9,
+        "caption": "The cabinet is right above the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 13,
+        "caption": "The window closest to the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 12,
+        "caption": "Locate the window that is further from the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 39,
+        "caption": "The backpack is the one on the floor, leaning against the couch.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 45,
+        "caption": "cabinets under the sink",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 5,
+        "caption": "door inside the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 60,
+        "caption": "Choose the open cabinet above the toilet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 37,
+        "caption": "Find the backpack sitting on the green sofa.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "green sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 11,
+        "caption": "Large dark or black office chair with a high back.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 20,
+        "caption": "This is a large door at the foot of the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 20,
+        "caption": "The closet doors across from the bed.",
+        "parsed_query": {
+            "Target": "closet doors",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 57,
+        "caption": "the sink in the toilet area",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet area"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 39,
+        "caption": "the backpack leaning against the couch on the floor",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "couch",
+                "floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 45,
+        "caption": "The cabinets under the sink",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 17,
+        "caption": "kitchen sink",
+        "parsed_query": {
+            "Target": "kitchen sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 37,
+        "caption": "The backpack is on the couch",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 47,
+        "caption": "The towel that is not in the bathroom",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 37,
+        "caption": "the backpack on the couch",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 57,
+        "caption": "sink next to the toilet",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 17,
+        "caption": "The kitchen sink beneath the open cabinets.",
+        "parsed_query": {
+            "Target": "kitchen sink",
+            "Anchor": [
+                "open cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 20,
+        "caption": "The largest doors that are part of the wwardrobe.",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": "wardrobe"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 50,
+        "caption": "the door that enters the complex",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "complex"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 13,
+        "caption": "if looking into the bedroom from the bathroom, the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 39,
+        "caption": "The backpack closest to the birch stool and nearest to the end of the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "birch stool",
+                "end of the bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 10,
+        "caption": "The brown stool with stuff on top of it.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 70,
+        "caption": "the towel that looks to be blue in color.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 60,
+        "caption": "The upper medicine cabinet in the bathroom, above the toilet.",
+        "parsed_query": {
+            "Target": "upper medicine cabinet",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 11,
+        "caption": "The only office style chair in the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 66,
+        "caption": "The bottle on the shelf in the bathtub to the left",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shelf",
+                "bathtub"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 9,
+        "caption": "It is the cabinet above the silver sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "silver sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 17,
+        "caption": "It is the silver kitchenette sink.",
+        "parsed_query": {
+            "Target": "silver kitchenette sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 57,
+        "caption": "The bathroom sink, the one that is next to the toilet",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 5,
+        "caption": "open door the the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "the cabinet above the stove",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 60,
+        "caption": "cabinet in the bathroom",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 17,
+        "caption": "The sink that is closest to the stove.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 5,
+        "caption": "The door closest to the toilet and bathroom counter.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "toilet",
+                "bathroom counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 37,
+        "caption": "backpack in the pile of other stuff",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "pile of other stuff"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 45,
+        "caption": "choose the cabinet that is on the floor and  holding the sink inside of it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 60,
+        "caption": "select the cabinet above the toilet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 17,
+        "caption": "sink in the kitchen",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 12,
+        "caption": "You want to pick the window that is behind the rolling office chair.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "rolling office chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 50,
+        "caption": "Choose the door in the kitchen.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "kitchen"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 66,
+        "caption": "Facing the shower stall, it's the bottle on the left.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shower stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 57,
+        "caption": "Choose the sink in the bathroom.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 9,
+        "caption": "cabinet above the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 47,
+        "caption": "It's the towel in the kitchen, on the stove.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 13,
+        "caption": "The window closest to the bed, furthest from the dark green couch.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed",
+                "dark green couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 70,
+        "caption": "It's the blue towel hanging across from the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 50,
+        "caption": "The door to the room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "upper kitchen cabinet",
+        "parsed_query": {
+            "Target": "upper kitchen cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 70,
+        "caption": "The towel that is hanging in the bathroom",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 11,
+        "caption": "The chair opposite of the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 10,
+        "caption": "The small stool beside the breakfast bar.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "breakfast bar"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 12,
+        "caption": "window on the side of the sofa",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 66,
+        "caption": "When standing in the middle of the room facing the the bottles in the bath, the correct one is on the left. It is closest to the toilet.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "bottles in the bath",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 11,
+        "caption": "The desk chair in front of the wooden desk near the bed",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "wooden desk",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 47,
+        "caption": "the towel on the stove door",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 20,
+        "caption": "The door is across from the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 20,
+        "caption": "box nearest the bed.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 50,
+        "caption": "This is the door that is closed",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 13,
+        "caption": "the window closest to the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 10,
+        "caption": "The chair closest to the kitchen and furthest from the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 57,
+        "caption": "The sink in the bathroom.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 60,
+        "caption": "Choose the cabinet that is above the toilet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 5,
+        "caption": "The open door that leads to the bathroom.",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 5,
+        "caption": "door leading to the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 3,
+        "caption": "Choose the upper kitchen cabinet that is directly above the stove/oven.",
+        "parsed_query": {
+            "Target": "upper kitchen cabinet",
+            "Anchor": [
+                "stove",
+                "oven"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 45,
+        "caption": "The cabinet directly below the sink with two closed doors.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 39,
+        "caption": "The backpack on the ground",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 37,
+        "caption": "The backpack sitting on the couch closest to the wall.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch closest to the wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 67,
+        "caption": "Facing the bottles in the shower, it's the one on the right.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "bottles"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 67,
+        "caption": "facing the shower, its the bottle to the right",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 9,
+        "caption": "Choose the cabinet above the kitchen sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "kitchen sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 12,
+        "caption": "facing both windows, choose the one on the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 66,
+        "caption": "when facing the shower, it is the bottle on the left-hand side",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shower"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 9,
+        "caption": "The cabinet is located above the kitchen sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "kitchen sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 13,
+        "caption": "Facing the windows, the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 11,
+        "caption": "The office chair that is between the desk and the sofa.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 67,
+        "caption": "It's in the bathtub to the right of the towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bathtub"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 11,
+        "caption": "The black chair with wheels.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 12,
+        "caption": "Look for the window that is closer to the olive green sofa.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "olive green sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 20,
+        "caption": "The correct door is a closet door, closest to the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "closet",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 5,
+        "caption": "nearest the toilet pan.",
+        "parsed_query": {
+            "Target": "toilet pan",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": 17,
+        "caption": "The sink in the kitchen.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "this is a white internal door with glass pannel. right in the middle of the back wall.",
+        "parsed_query": {
+            "Target": "white internal door with glass panel",
+            "Anchor": "back wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "5",
+        "target_name": "monitor",
+        "caption": "this is a grey computer monitor. it is ontop of the brown sideboard next to the window.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "brown sideboard",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a brown wooden chair with dark seat. its located at the corner of the table at the end of the table.",
+        "parsed_query": {
+            "Target": "brown wooden chair",
+            "Anchor": [
+                "corner",
+                "end of the table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a brown wooden chair. it is locted at the side of the table second from the end.",
+        "parsed_query": {
+            "Target": "brown wooden chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this is a dark wooden table. it is located directly in the middle of the room and can not be missed.",
+        "parsed_query": {
+            "Target": "dark wooden table",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

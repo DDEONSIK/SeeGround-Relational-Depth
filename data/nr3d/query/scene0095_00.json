@@ -1,0 +1,1152 @@
+[
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 28,
+        "caption": "If you look directly at end of table, you will see a light brown cabinet, start counting keyboard, it's the second furthest one from that cabinet",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "light brown cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "Facing the windows, choose the one on the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 23,
+        "caption": "the keyboard closest to the cabinets",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 25,
+        "caption": "Keyboard nearest to the cabniet with three other keyboards on same table",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 28,
+        "caption": "The keyboard 3rd monitor in from the left",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "3rd monitor",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 54,
+        "caption": "The window is higher up on the wall, and is the window that is further from the wooden cabinets.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wooden cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 40,
+        "caption": "whiteboard closest to the door.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 25,
+        "caption": "of the four monitors in a row, this is the keyboard furthest left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "four monitors in a row"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 24,
+        "caption": "The mouse close to the two chairs in the corner",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 54,
+        "caption": "The largest of the two windows",
+        "parsed_query": {
+            "Target": "largest window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 46,
+        "caption": "The whiteboard close to the two chairs in the corner",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "two chairs",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 25,
+        "caption": "when facing the five computers on the same side of the desk, it's the keyboard on the far left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "computers",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 40,
+        "caption": "The whiteboard higher up on the wall",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 24,
+        "caption": "the corner mouse, very close to the corner edge of the table",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "corner",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 26,
+        "caption": "standing on the side with all the keyboards, the third from the right.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 23,
+        "caption": "choose the keyboard closest to the wooden cabinets",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "wooden cabinets"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 22,
+        "caption": "The keyboard where there is only one keyboard on its side.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 28,
+        "caption": "Of the 5 monitors facing you, the keyboard that is directly in front of the center monitor",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "center monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 24,
+        "caption": "The mouse on a corner of the table.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 22,
+        "caption": "The keyboard on the bottom left of the long table.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "long table"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 23,
+        "caption": "Of the two keyboards on the end of the table, choose the one on the right, closer to the edge.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "keyboards",
+                "table",
+                "end",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 46,
+        "caption": "The longer object that isn't as tall as the other object.",
+        "parsed_query": {
+            "Target": "longer object",
+            "Anchor": "other object"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 54,
+        "caption": "The higher of the window.s",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 22,
+        "caption": "the keyboard to the left at the end of the table",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "left",
+                "end of the table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 20,
+        "caption": "the second mouse  from the edge of the table which is closer to the tan cabinet",
+        "parsed_query": {
+            "Target": "second mouse",
+            "Anchor": [
+                "table",
+                "tan cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 25,
+        "caption": "CHoose the keyboard closest to the wooden cabinets.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "wooden cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 28,
+        "caption": "The keyboard is the third one in starting from the light brown cabinet.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "light brown cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "When standing in the middle of the room facing the windows the correct one is on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "room",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 25,
+        "caption": "The fourth farthest away monitor from the window at the end of the table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "end of the table",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 22,
+        "caption": "There are chairs in the corner of the room, you want the option closest to those chairs",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 46,
+        "caption": "This is the smaller box to the right",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "smallest"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 29,
+        "caption": "Choose the keyboard at the furthest end from thewooden cabinets.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "wooden cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "The window that's closest to the floor",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 27,
+        "caption": "Only mouse that's placed in front of computer monitor and furthest away from the light brown cabinet",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "computer monitor",
+                "light brown cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 26,
+        "caption": "Facing the whiteboard, the third keyboard from the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 54,
+        "caption": "The one that appears to be letting in two beams of light",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 40,
+        "caption": "Pick the larger of the two whiteboards.",
+        "parsed_query": {
+            "Target": "whiteboards",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 29,
+        "caption": "The imac keyboard on the furthest right of the long row of imacs against the wall. Ignore the computers on the sides of the table and just look at the long row facing the windowless wall. Its the rightmost one of that row - again ignore the ones on the side facing the other way.",
+        "parsed_query": {
+            "Target": "imac keyboard",
+            "Anchor": [
+                "long row of imacs",
+                "wall",
+                "row"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 20,
+        "caption": "Second mouse from the top.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 26,
+        "caption": "When looking at the 5 computer monitors, you want the keyboard that is with the second black monitor from the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "second black monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 24,
+        "caption": "The green box is around a mouse on the very corner of the table.",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": [
+                "mouse",
+                "corner of the table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 27,
+        "caption": "This mouse is farthest away from the other two",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "the lower window with vent on the left with the counter/cabinet on the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "vent",
+                "counter/cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "The window on your left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 46,
+        "caption": "When standing in the middle of room looking at the whiteboards the correct one is on the right.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "whiteboards"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 23,
+        "caption": "the keyboard at the head of the table on your right side",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "your right side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 20,
+        "caption": "the mouse in the center of the 3",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "the center of the 3"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 27,
+        "caption": "Standing in the room looking at the front of all the monitors, it's the mouse on the right.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 23,
+        "caption": "keyboard at the end of the table off the edge",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "end of the table",
+                "edge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 25,
+        "caption": "on the side of the table with four monitors, it is the keyboard furthest left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "four monitors",
+                "side of the table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 29,
+        "caption": "Look at the side of the  table with 5 computers and pick the keyboard that is completely on the right",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "side of the table",
+                "5 computers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 23,
+        "caption": "The keyboard closest to the cabinets at the end of the table.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "cabinets",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 20,
+        "caption": "the mouse in the middle, not at either end.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 54,
+        "caption": "If you face the 4 doors cabinet, this is the window that is the farthest away from it on the right side of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "doors cabinet",
+                "right side of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 27,
+        "caption": "Face the two windows so that you're facing the desk and five computer monitors, and you want to go to the one on the far right, and you want the mouse for that computer.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "five computer monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 20,
+        "caption": "The mouse in the middle of the 3.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 24,
+        "caption": "This mouse is closest to the four cabinets against the wall.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 27,
+        "caption": "the one that is all alone",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 25,
+        "caption": "if looking at the windows, the first horizontal monitor on the left.",
+        "parsed_query": {
+            "Target": "horizontal monitor",
+            "Anchor": [
+                "windows",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 26,
+        "caption": "With the row of keyboards, you want the third one (or middle) option",
+        "parsed_query": {
+            "Target": "third keyboard",
+            "Anchor": [
+                "row of keyboards"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 40,
+        "caption": "Whiteboard closest to the door",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 22,
+        "caption": "the 2 keyboards at the end of the table, facing the cabinets, the one closest to the windows",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "cabinets",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 26,
+        "caption": "If you are on the side of the room by the whiteboards looking toward the conference table, look at the five monitors facing you. It is the keyboard in front of the second to the left monitor. Do not count the keyboard or monitor facing away from you.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "conference table",
+                "second to the left monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "The lower of the two windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 40,
+        "caption": "Choose the whiteboard that is bigger and is close to the door not the cabinet.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door",
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 26,
+        "caption": "The middle keyboard of the five on the same side",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "keyboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 54,
+        "caption": "When facing the windows, it's the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 23,
+        "caption": "Of the two keyboards at the end of the table, it's the keyboard on the right.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "keyboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 26,
+        "caption": "The fourth keyboard from the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "The window on the left and lower down, as seen from them table with computers on it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "computers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 20,
+        "caption": "The corret mouse is in the middle of the other two.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "mouse"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 24,
+        "caption": "The first mouse on the left.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 46,
+        "caption": "While standing in front of the whiteboards, choose the one on the right.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "whiteboards"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 46,
+        "caption": "there is a whiteboard that has bright reflections on the table in front of it. select the OTHER whiteboard that has a darker table in front of it",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "table",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 29,
+        "caption": "when facing all of the four monitors beside each other, it is the monitor on the very right hand side",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 20,
+        "caption": "Facing the 3 mice, the second mouse from the left.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "mice"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 40,
+        "caption": "The whiteboard on the left if you are facing the wall with the whiteboards on it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 53,
+        "caption": "the window on the left, closest to the chairs in the corner near the cabinets",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chairs",
+                "cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 29,
+        "caption": "facing the windows, right keyboard",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "windows",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 24,
+        "caption": "Facing the mice, the mice on the left.",
+        "parsed_query": {
+            "Target": "mice",
+            "Anchor": "mice"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 27,
+        "caption": "The first mouse on the right.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 40,
+        "caption": "The large whiteboard on the left.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "left"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 28,
+        "caption": "in front of lines of keyboard , pick the one 2nd from left",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "lines of keyboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 28,
+        "caption": "Look at the desk with the keyboards on it so that you can see the two windows behind the desk. You will see that there are 4 selected keyboards on the long side of this desk. If you count from left to right, you will choose the third keyboard. This is the keyboard which also appears to be in the middle most part of the desk.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "windows",
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 22,
+        "caption": "from top view keyboard is by itself on one side of the table",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 29,
+        "caption": "the keyboard that has two bright lights from the window in front of it",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 28,
+        "caption": "Along the long side of the table are five computer monitors. This is the keyboard in front of the middle monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "long side of the table",
+                "middle monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 46,
+        "caption": "nearest to the cabinets.",
+        "parsed_query": {
+            "Target": "",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 54,
+        "caption": "the window higher on the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 29,
+        "caption": "keyboard in front of the center of the white board.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 27,
+        "caption": "This mouse is at the other end of the table from the other two mice.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "table",
+                "mice"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": 22,
+        "caption": "The keyboard closest to the radiator.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

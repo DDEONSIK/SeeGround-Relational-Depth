@@ -1,0 +1,438 @@
+[
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 15,
+        "caption": "the rail next to the sink",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 17,
+        "caption": "The towel hanging in front of the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 18,
+        "caption": "Its the green towel hanging on the wall closest to the shower curtain.",
+        "parsed_query": {
+            "Target": "green towel",
+            "Anchor": [
+                "wall",
+                "shower curtain"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 8,
+        "caption": "Face the toilet and then walk over to the cloth on the left.",
+        "parsed_query": {
+            "Target": "cloth",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 8,
+        "caption": "The towel by the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 18,
+        "caption": "The towel bar to the left of the door, above the weight scale.",
+        "parsed_query": {
+            "Target": "towel bar",
+            "Anchor": [
+                "door",
+                "weight scale"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 18,
+        "caption": "The correct rail is beside the door and has a larger towel on it.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "door",
+                "larger towel"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 15,
+        "caption": "The bar closest to the sink.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 20,
+        "caption": "The towel hanging from the shower curtain rod",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower curtain rod"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 20,
+        "caption": "The cloth hanging from the top of the shower curtain pole.",
+        "parsed_query": {
+            "Target": "cloth",
+            "Anchor": "shower curtain pole"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 17,
+        "caption": "towel above the floor scale",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "floor scale"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 17,
+        "caption": "Choose the towel on the towel rod across from the toilet. It is next to the bathtub.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel rod",
+                "toilet",
+                "bathtub"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 8,
+        "caption": "If you were standing in front of the sink, this gray towel would be on the bar on your left.",
+        "parsed_query": {
+            "Target": "gray towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 15,
+        "caption": "Choose the rack with the smaller towel near the sink.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": [
+                "smaller towel",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 8,
+        "caption": "towel hanging on the wall next to the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 17,
+        "caption": "Choose the towels on the towel rack.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": "towel rack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 8,
+        "caption": "The towel hanging next to the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 18,
+        "caption": "rail above the scale",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "scale"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 17,
+        "caption": "This towel is opposite from the toilet, above the scale.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet",
+                "scale"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 20,
+        "caption": "The towels that are highest up.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 18,
+        "caption": "The towel rack holding the larger bath towel, between the shower and the door",
+        "parsed_query": {
+            "Target": "towel rack",
+            "Anchor": [
+                "shower",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 20,
+        "caption": "The towel hanging on the shower curtain rod, closest to the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower curtain rod",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 8,
+        "caption": "the towel next to the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 18,
+        "caption": "The correct rail has a larger towel on it and is closer to the shower.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "towel",
+                "shower"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 15,
+        "caption": "The rail with less towels on it.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 15,
+        "caption": "it is the rail next to the sink",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 20,
+        "caption": "The towel hanging over the bathtub on the railing with the curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bathtub",
+                "railing",
+                "curtain"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 17,
+        "caption": "The towel across from the toilet",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 15,
+        "caption": "Looking for a towel rail, it's the rail closet to the sink, it has a small towel and does not take up the whole rail.",
+        "parsed_query": {
+            "Target": "towel rail",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 8,
+        "caption": "The towel is smaller and closest to the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 17,
+        "caption": "A white scale is on the floor under this towel.",
+        "parsed_query": {
+            "Target": "scale",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 18,
+        "caption": "Holding something soft closest to the entrance.",
+        "parsed_query": {
+            "Target": "something soft",
+            "Anchor": "entrance"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 20,
+        "caption": "The highest of the towels.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 15,
+        "caption": "the rack with the smaller, more wrinkled towel",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": 20,
+        "caption": "towel hanging on the shower curtain rod",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "shower curtain rod"
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

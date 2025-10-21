@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "12",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is the left most one that is left of the door. the paper towel dispenser is gray and square.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "left of the door",
+                "left most one",
+                "gray and square"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "12",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is right of the sink. the paper towel dispenser is gray and square.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "23",
+        "target_name": "toilet",
+        "caption": "the toilet is the right-most one in the room. the toilet is white and ovular.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "24",
+        "target_name": "toilet",
+        "caption": "the toilet is the left-most one. the toilet is white and ovular.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "left-most"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "the bathroom stall door is the right-most one in the room. the bathroom staff door is brown and rectangular.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "right-most one",
+                "brown and rectangular"
+            ]
+        },
+        "unique": false
+    }
+]

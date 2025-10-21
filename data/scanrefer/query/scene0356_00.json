@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "13",
+        "target_name": "radiator",
+        "caption": "a small storage compartment at the end of the bed. there is a bed in front of it along with one window.",
+        "parsed_query": {
+            "Target": "storage compartment",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "9",
+        "target_name": "shelf",
+        "caption": "a small wooden cabinet. there is three small bins near it.",
+        "parsed_query": {
+            "Target": "small wooden cabinet",
+            "Anchor": [
+                "three small bins"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "15",
+        "target_name": "dresser",
+        "caption": "a small document organizer with shelves. there is a door entry near it.",
+        "parsed_query": {
+            "Target": "small document organizer with shelves",
+            "Anchor": "door entry"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "17",
+        "target_name": "trash_bin",
+        "caption": "there is a white plastic basket. placed between another same baskets.",
+        "parsed_query": {
+            "Target": "white plastic basket",
+            "Anchor": [
+                "another same basket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "18",
+        "target_name": "compost_bin",
+        "caption": "there is a green basket. placed  on the right to another same baskets.",
+        "parsed_query": {
+            "Target": "green basket",
+            "Anchor": [
+                "another same baskets"
+            ]
+        },
+        "unique": false
+    }
+]

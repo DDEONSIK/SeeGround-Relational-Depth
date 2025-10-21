@@ -1,0 +1,451 @@
+[
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 2,
+        "caption": "This table is the middle of 3 that are spaced apart in a row.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 5,
+        "caption": "The smallest table, with the red bag sitting on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 5,
+        "caption": "choose the smallest table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 1,
+        "caption": "The table near the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 1,
+        "caption": "See double table in front of brown door, the one furthest from it, just focus on that table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 4,
+        "caption": "Facing the tables, the table on the upper left corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 5,
+        "caption": "The single back desk to your right",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "single back"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 1,
+        "caption": "The table closest to the open door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 5,
+        "caption": "The table with an object setting on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 4,
+        "caption": "Choose the table that is across from the one table by itself.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "one table by itself"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 4,
+        "caption": "This table is the farthest from the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 4,
+        "caption": "In the row with 3 tables, the leftmost table.",
+        "parsed_query": {
+            "Target": "leftmost table",
+            "Anchor": [
+                "row with 3 tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 3,
+        "caption": "On the side of the room with three tables its the one near the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "three tables",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 4,
+        "caption": "The white desk with 3 chairs tuck in it on one side and only 1 chair tuck in the other side",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chair",
+                "chair",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 1,
+        "caption": "The double table near the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 2,
+        "caption": "The Green box is the box in the middle of the row of three boxes.",
+        "parsed_query": {
+            "Target": "Green box",
+            "Anchor": [
+                "box",
+                "row of three boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 5,
+        "caption": "The smaller table of the two in a row.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 1,
+        "caption": "If your back is to the door, in front of you there are two table to the left of the corridor, and three tables to the right.  It is the table which is closest to you on your left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door",
+                "corridor",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 4,
+        "caption": "Two tables together on wall near the two single tables",
+        "parsed_query": {
+            "Target": "tables",
+            "Anchor": [
+                "wall",
+                "two single tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 2,
+        "caption": "This table is in the middle of two other tables",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 2,
+        "caption": "Where there is a row of three tables, the one in the middle of the three",
+        "parsed_query": {
+            "Target": "middle table",
+            "Anchor": [
+                "row",
+                "three tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 3,
+        "caption": "Of the two rectangular tables (not square), choose the one closest to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 3,
+        "caption": "The table furthest back in the room (by itself) closest to the brown door",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 1,
+        "caption": "If you are standing at the door, it is the very first table that is marked on the left hand side.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 4,
+        "caption": "If you were standing at the door, it would be the table in the far right corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 1,
+        "caption": "The table closest to the open door",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "open door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 2,
+        "caption": "Face the door.  The table you want is across the room from the door, in the middle of the other two tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door",
+                "two tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 5,
+        "caption": "The table by itself in the back of the room, with the red items on it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red items"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 5,
+        "caption": "The table with the backpack on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "backpack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 2,
+        "caption": "table with 4 chairs, the one  at the end not pushed in",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "4 chairs",
+                "one at the end not pushed in"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 2,
+        "caption": "the table by itself in the middle of the room furthest away from the wall",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 3,
+        "caption": "looking in from the door, the front right table.",
+        "parsed_query": {
+            "Target": "front",
+            "Anchor": [
+                "right",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 3,
+        "caption": "it is the table in the back of the room closest to the brown door",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 3,
+        "caption": "The single desk on the same side of the room as the door and furthest from that door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": 3,
+        "caption": "GO THE ENTRY WHERE THE DOOR IS, AS YOU ENTER THE ROOM CHOOSE THE BOX THATS THE FIRST ON THE RIGHT SIDE AS YOU ENTER FROM THE DOOR",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "door",
+                "entry"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

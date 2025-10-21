@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this is a pillow in white color. the pillow is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a long table.",
+        "parsed_query": {
+            "Target": "rectangular window",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "24",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it is hanging over a bed.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it is next to a window.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a wooden table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a rolling cushion chair. the chair is placed at the corner of the room.",
+        "parsed_query": {
+            "Target": "rolling cushion chair",
+            "Anchor": []
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this is a table in diameter shape. the wooden table is attached to wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the object is not a chair. the object is the back of a whiteboard misidentified as a chair. it is a brown color and not a chair.",
+        "parsed_query": {
+            "Target": "brown object",
+            "Anchor": [
+                "back of a whiteboard",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the object is a wooden chair. it is the right most chair against the wall. there is a large window behind it.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "large window",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "the object is a large boardroom style table. there are many chairs surrounding the table, and the table is in the center of the room. it is a brown wood color.",
+        "parsed_query": {
+            "Target": "large boardroom style table",
+            "Anchor": [
+                "many chairs",
+                "center of the room",
+                "brown wood color"
+            ]
+        },
+        "unique": false
+    }
+]

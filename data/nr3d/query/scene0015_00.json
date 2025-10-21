@@ -1,0 +1,362 @@
+[
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 2,
+        "caption": "When standing in the middle of the room facing the windows the correct one is on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 6,
+        "caption": "select the window near the middle row of tables",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "middle row of tables"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 47,
+        "caption": "position the room so it is a vertical rectangle, and the windows are on the right wall, you will be facing the box, choose the one on the back wall from this position.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "windows",
+                "right wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 6,
+        "caption": "The middle of the three windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 40,
+        "caption": "Whiteboard with four chairs and desk in front of it",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "four chairs",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 47,
+        "caption": "The larger whiteboard next to the square table in the corner.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "square table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 6,
+        "caption": "When standing in the middle of the room facing the windows, the correct one is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 2,
+        "caption": "The window closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 2,
+        "caption": "The first window near the front of the room, closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 40,
+        "caption": "Locate the white board directly above the rectangular table with the 4 chairs.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "rectangular table",
+                "4 chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 47,
+        "caption": "face the front of the classroom, most of the chairs are behind the desks facing the front of the room, when facing the front of the room there is windows to the left. there are 4 longs tables on the right side of the room if your facing the front. CHOOSE THE BOX IN THE FRONT OF THE CLASSROOM. THIS BOX IS THE LARGER ONE, THERE IS A BLACK PLUG IN UNDER IT AND NO DESKS UNDER IT BUT THERE IS A DESK TO THE LEFT",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "front of the classroom",
+                "front of the room",
+                "windows to the left",
+                "longs tables on the right side of the room",
+                "larger one"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 40,
+        "caption": "The smaller of the two whiteboards",
+        "parsed_query": {
+            "Target": "whiteboards",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 47,
+        "caption": "The whiteboard above the outlet on the wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "outlet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 40,
+        "caption": "the smaller whiteboard",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 40,
+        "caption": "whiteboard with narrow table under it",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "narrow table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 6,
+        "caption": "CHoose the window that is NOT on the end.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 2,
+        "caption": "The window nearest the corner of the room, above the shortest table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "corner of the room",
+                "shortest table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 6,
+        "caption": "It is the middle window on a wall with three windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "three windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 47,
+        "caption": "The longer whiteboard on the wall furthest away from the doorway.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "doorway"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 2,
+        "caption": "The window closest to the corner of the room and whiteboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "corner of the room",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 47,
+        "caption": "Entering the room from the door, you will turn left and walk towards a whiteboard which is at the end of a row of aligned desks and has a red marker on it. The whiteboard is your goal.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "row of aligned desks",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 40,
+        "caption": "The whiteboard that has a long table in the middle",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 6,
+        "caption": "facing the windows, right window",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 2,
+        "caption": "Pick the window closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 2,
+        "caption": "Facing the windows, the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "left",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 47,
+        "caption": "click the longer white board",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": "white board"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 40,
+        "caption": "whiteboard with the long table directly under it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": 6,
+        "caption": "the middle one of the three windows",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

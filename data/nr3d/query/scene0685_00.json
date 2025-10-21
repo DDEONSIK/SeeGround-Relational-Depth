@@ -1,0 +1,507 @@
+[
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 16,
+        "caption": "The long box in the front of the other, further from the wall",
+        "parsed_query": {
+            "Target": "long box",
+            "Anchor": [
+                "other",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 7,
+        "caption": "The smaller trash can to the right of the door underneath the red cannister.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "red cannister"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "It is on the left side of the room and has a white thing on it.",
+        "parsed_query": {
+            "Target": "white thing",
+            "Anchor": "left side of the room"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 16,
+        "caption": "The bottom box.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 0,
+        "caption": "The tiny trash can by the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 3,
+        "caption": "There are two long tables. One table has a lot of stuff on it, and one is empty. It is the empty one.",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 3,
+        "caption": "The table closest to the talk green trashcan.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green trashcan"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 16,
+        "caption": "The box closest to the center of the room.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 7,
+        "caption": "Find the small trash can to the right of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 0,
+        "caption": "The larger trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 17,
+        "caption": "This box is the one located closest to the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "The table farthest from the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 3,
+        "caption": "The table closest to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 16,
+        "caption": "box in front of another",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 16,
+        "caption": "Its the box that's in front",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 3,
+        "caption": "The green box is around the table on the right, which is also closest to the door.",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 0,
+        "caption": "Find the large green trash can.",
+        "parsed_query": {
+            "Target": "large green trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 0,
+        "caption": "tall green trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 17,
+        "caption": "The box right next to the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 17,
+        "caption": "Choose the cardboard box in the back that has black markings on it.",
+        "parsed_query": {
+            "Target": "cardboard box",
+            "Anchor": [
+                "black markings",
+                "back"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 0,
+        "caption": "Choose the grey two drawer filing cabinet.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "grey two drawer"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 3,
+        "caption": "from the middle of the room, the table on the right",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "middle of the room"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "The far table on the right when entering the room from the brown door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "brown door",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "table farthest away from the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "Turn and face the large, green trash can and it's the table second to the left, closest to the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "trash can",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 7,
+        "caption": "Align your view so you are facing the door in the scene.  The trashcan you want to select is on the lower right side of the door, underneath the red canister.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "door",
+                "red canister"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 0,
+        "caption": "The trash can in front of the grey panels.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "grey panels"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 7,
+        "caption": "small trash can by the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "Looking directly at the door, select the table that is closer to you.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 3,
+        "caption": "the table closest to the green tall trash can",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green tall trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 3,
+        "caption": "The right of the two printers",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "printer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 7,
+        "caption": "The smaller, shorter trashcan closest to the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "When facing the tables, it is the one on the left",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "tables"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 0,
+        "caption": "The trash can on the right when you enter the room through the brown door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 7,
+        "caption": "Choose the small black trashcan that is closest to the door.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 16,
+        "caption": "You want the box closest to the center of the room, not the one against the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 17,
+        "caption": "The box closest to the wall.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 11,
+        "caption": "The lower work table on the left, which has papers and a roll of masking table on it.",
+        "parsed_query": {
+            "Target": "work table",
+            "Anchor": [
+                "lower",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 17,
+        "caption": "The correct box is closer to the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 17,
+        "caption": "Behind a small rectangle table near white noise.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white noise"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 7,
+        "caption": "Look for the smaller trash can that is closer to the door and under the red thing that looks like a fire extinguisher.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "red thing"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 16,
+        "caption": "the box closest to the edge",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": 17,
+        "caption": "The box that is touching the wall",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

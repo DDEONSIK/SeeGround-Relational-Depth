@@ -1,0 +1,1078 @@
+[
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 5,
+        "caption": "it is the cabinet over the lighted sink, closest to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "lighted sink",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 1,
+        "caption": "There is a stack of 2 pictures on the wall. Choose the top one.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "stack of 2 pictures",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 18,
+        "caption": "Where there is two pictures, the lower picture.",
+        "parsed_query": {
+            "Target": "lower picture",
+            "Anchor": [
+                "two pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 23,
+        "caption": "The correct towel is hanging on the wall and furthest from the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "wall",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 23,
+        "caption": "The middle towel of the three towels hung on the wall next to the closed door.",
+        "parsed_query": {
+            "Target": "middle towel",
+            "Anchor": [
+                "three towels",
+                "closed door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 8,
+        "caption": "The picture next to the sink.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 16,
+        "caption": "The leftmost of the sink",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "leftmost"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 30,
+        "caption": "A tall, skinny floor cabinet.",
+        "parsed_query": {
+            "Target": "floor cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 16,
+        "caption": "The one on the back wall nearest your left",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "back",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 1,
+        "caption": "the top picture between the sinks",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 8,
+        "caption": "The picture to the left of the sink",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 5,
+        "caption": "the upper cabinet next to bathroom door",
+        "parsed_query": {
+            "Target": "upper cabinet",
+            "Anchor": [
+                "bathroom door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "The towel is hanging on the left.  Not a folded towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 9,
+        "caption": "The box sitting on a table.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "the longest held in the middle of the wall",
+        "parsed_query": {
+            "Target": "held",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 18,
+        "caption": "In the middle of the two sinks there are two pictures. Pick the one below.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 30,
+        "caption": "The tall floor cabinet",
+        "parsed_query": {
+            "Target": "floor cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 5,
+        "caption": "The cabinet closest to the door with a handle on it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door with a handle on it"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 17,
+        "caption": "Looking at the two sinks, it is the mirror on the right (pictures to the left on the wall)",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "two sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 16,
+        "caption": "As you open the door, the object is directly on your left on a sink or counter.  Lab coats will be on your right.  Ignore them and look directly left.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "sink",
+                "counter"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "It is the right most box on the back wall. It covers what appears to be a towel on a rack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "back wall",
+                "towel on a rack"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 9,
+        "caption": "White piece of paper on top of black table",
+        "parsed_query": {
+            "Target": "white piece of paper",
+            "Anchor": "black table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 17,
+        "caption": "upper cabinet above the right sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "right sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 15,
+        "caption": "facing the sinks, the one on the right",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 18,
+        "caption": "The picture directly above the tablestand",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "tablestand"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 27,
+        "caption": "It is underneath the table.",
+        "parsed_query": {
+            "Target": "underneath",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 17,
+        "caption": "The cabinet above the mostly white colored sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 16,
+        "caption": "Face the two sinks, and choose the one on your left side.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 18,
+        "caption": "Of the two pictures on the wall between the sinks, it's the one on the bottom.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 30,
+        "caption": "The green box is around the large, tall cabinet.",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": [
+                "large, tall cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 9,
+        "caption": "It is the picture under the hangar.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "hangar"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "The towel on the wall close to the door",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 18,
+        "caption": "The picture in between both sinks under another picture",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sinks",
+                "picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 8,
+        "caption": "The picture right next to the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 9,
+        "caption": "the picture under the hanger in the closet",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "hanger",
+                "closet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 17,
+        "caption": "This wall-mounted cabinet is directly across the taller cabinet.",
+        "parsed_query": {
+            "Target": "wall-mounted cabinet",
+            "Anchor": [
+                "taller cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 30,
+        "caption": "This is the tall cabinet that is not mounted above a sink.",
+        "parsed_query": {
+            "Target": "tall cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 1,
+        "caption": "between the mirrors, and the higher one",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "mirror",
+                "higher one"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "long towel on the wall, on the right",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 23,
+        "caption": "Standing in the middle of the room, looking at both towels hanging on the wall, it's the towel on the left",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 27,
+        "caption": "the folded up one",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 15,
+        "caption": "the right sink near the open doorway",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "doorway"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 16,
+        "caption": "The sink closest to the door.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 27,
+        "caption": "The towels closet to the sink",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 15,
+        "caption": "When facing the sinks, it is the one on the right",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 5,
+        "caption": "When you are facing the sinks, please choose the cabinet located above the sink on the left.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "left",
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 16,
+        "caption": "Facing both sinks, it is the one on the left, next to the closed door and hanging robes.",
+        "parsed_query": {
+            "Target": "robe",
+            "Anchor": [
+                "sink",
+                "closed door",
+                "hangings"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 1,
+        "caption": "the picture is in between the two sinks and the higher on the wall",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "two sinks",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 17,
+        "caption": "the cabinet on the wall over the sink to the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 1,
+        "caption": "Facing the sink, it's the highest picture above the floor on the right side of the sink.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sink",
+                "right side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 30,
+        "caption": "The large cabinet next to the wall with a hanger",
+        "parsed_query": {
+            "Target": "large cabinet",
+            "Anchor": [
+                "wall",
+                "hanger"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 5,
+        "caption": "facing the wall with the two sinks, it is the cabinet on the left",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 23,
+        "caption": "The towel on the wall that is LOWER",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 9,
+        "caption": "Four pictures, the one you want seems to be hanging underneath a clothes hanger.",
+        "parsed_query": {
+            "Target": "four pictures",
+            "Anchor": [
+                "clothes hanger"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 1,
+        "caption": "The picture that's immediately above another picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 5,
+        "caption": "the vanity closest to the door.",
+        "parsed_query": {
+            "Target": "vanity",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "towels nearest the door.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 17,
+        "caption": "Facing the side with 2 cabinets, it's the cabinet on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "2 cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "If you face the room with the sink to your right the towel is the first on on the left of the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 27,
+        "caption": "the towel that is on the floor, off by itself",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 11,
+        "caption": "The tower is the right hand and higher of the two that are together.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "tower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 23,
+        "caption": "when facing the white door is a set of towels on the left-hand side of the set of two",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "white door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 15,
+        "caption": "NOT the sink next to the closed door.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 16,
+        "caption": "While standing in front of the sinks, choose the one on the left.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 18,
+        "caption": "Facing the sink there are two picture one on top of the other to the left of the sink, select the bottom picture.",
+        "parsed_query": {
+            "Target": "bottom picture",
+            "Anchor": [
+                "sink",
+                "picture",
+                "top picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 9,
+        "caption": "This picture is under the hanger.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "hanger"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 8,
+        "caption": "It is the picture closest to the bathroom door",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bathroom door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 30,
+        "caption": "It is the only cabinet that is not hanging and has a table right next to it. It is very tall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 27,
+        "caption": "is the set of towels under the cabinet on the floor of the room",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "cabinet",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 23,
+        "caption": "It is the towel on the wall that is the furthest from the sinks.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "wall",
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 18,
+        "caption": "Of the two pictures together on the wall, the bottom one.",
+        "parsed_query": {
+            "Target": "bottom picture",
+            "Anchor": [
+                "two pictures",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 27,
+        "caption": "the lowest folded towel",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 8,
+        "caption": "it is the picture to the right of the white door",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "white door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 9,
+        "caption": "The picture that is by itself.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 23,
+        "caption": "The towel hanging next to another towel and also the farthest from the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 15,
+        "caption": "Facing the sinks, the sink on the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 27,
+        "caption": "The towel at the bottom of the closet",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 15,
+        "caption": "Facing the sinks, the sinks on the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 30,
+        "caption": "This is the longest cabinet and the only one that's touching the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 5,
+        "caption": "Facing the sinks, the cabinet above the left sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sinks",
+                "left sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 8,
+        "caption": "single picture above the sink",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 1,
+        "caption": "The picture above another picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "picture"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 8,
+        "caption": "In this scene you are looking for a letter with black writing on it.  The letter you want is hanging on the wall. The letter has a black blob of writing at the top, then a white space, then a more pronounced blob of dark writing. It is to the left of both sinks.",
+        "parsed_query": {
+            "Target": "letter",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 15,
+        "caption": "sink to the right, next to the door.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": 17,
+        "caption": "When standing in the room facing towards the cabinets, the correct one is in the middle.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

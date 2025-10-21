@@ -1,0 +1,436 @@
+[
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 15,
+        "caption": "The mirror close to the door",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 0,
+        "caption": "The mirror behind the sink and toilet",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 14,
+        "caption": "the window next to the sink",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 0,
+        "caption": "choose the windows up top.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 17,
+        "caption": "If you were standing in front of the sink, this would be the soap dish on your right.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 17,
+        "caption": "the soap dish to the right of the counter",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "counter"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 18,
+        "caption": "when facing into the bathroom, the soap dish on the left, furthest from the toilet.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 14,
+        "caption": "This small mirror is alongside the white cabinet.",
+        "parsed_query": {
+            "Target": "small mirror",
+            "Anchor": "white cabinet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 15,
+        "caption": "Choose the small towel on the wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 18,
+        "caption": "The soap dish on the left of the sink and holding a blue cup.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "sink",
+                "blue cup"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 17,
+        "caption": "Facing the toilet, the dish on the right.",
+        "parsed_query": {
+            "Target": "dish",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 18,
+        "caption": "go to the sink, choose the soap dish furthest from the toilet and closest to the kleenex box. the item inside box is blue",
+        "parsed_query": {
+            "Target": "blue object",
+            "Anchor": [
+                "soap dish",
+                "kleenex box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 15,
+        "caption": "Smaller square on what appears to be a wall, next to a larger square.",
+        "parsed_query": {
+            "Target": "smaller square",
+            "Anchor": [
+                "wall",
+                "larger square"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 14,
+        "caption": "The small rectangle near the sinks",
+        "parsed_query": {
+            "Target": "small rectangle",
+            "Anchor": "sinks"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 17,
+        "caption": "when staring directly at the sink, you want the soap dish closer to the toilet",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 0,
+        "caption": "LARGEST BOX YOU CAN SEE, BOX LOCATED BEHIND THE TOLIET AND THE SINK",
+        "parsed_query": {
+            "Target": "largest box",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 18,
+        "caption": "The green container above the sink",
+        "parsed_query": {
+            "Target": "green container",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 0,
+        "caption": "mirror above toilet and sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 18,
+        "caption": "The soap dish on the left side of the sink",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 14,
+        "caption": "The mirror that would be to the immediate left of anyone standing right next to and facing the sink.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 0,
+        "caption": "The mirror along the same wall as the toilet and sink.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 17,
+        "caption": "select the soap dish above the sink nearest the toilet",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 0,
+        "caption": "Choose the largest mirror that is bounded.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 18,
+        "caption": "the soap dish furthest away from the toilet",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 14,
+        "caption": "The mirror directly above the sink on the left when facing it..",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 15,
+        "caption": "Choose the smallest mirror on the wall.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 15,
+        "caption": "The small mirror closest to the door.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 17,
+        "caption": "The correct soap dish is closer to the toilet.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 18,
+        "caption": "it is the soap dish on the left-hand side of the sink",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 14,
+        "caption": "The mirror on the right of the wall with two mirrors on it.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "wall",
+                "mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 0,
+        "caption": "The mirror in front of the sink and toilet.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 14,
+        "caption": "Find the first mirror to the left of the sink.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 15,
+        "caption": "Choose the small mirror on the wall just next to the sink above the kleenex/tissue box.",
+        "parsed_query": {
+            "Target": "small mirror",
+            "Anchor": [
+                "sink",
+                "kleenex/tissue box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 15,
+        "caption": "It is the mirror closest to the door. It is also the smallest mirror.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": 17,
+        "caption": "The object you are looking for is a soap dish.  The soap dish is on the right hand side of the cabinet. The soap dish does NOT have a blue cup sitting on it.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

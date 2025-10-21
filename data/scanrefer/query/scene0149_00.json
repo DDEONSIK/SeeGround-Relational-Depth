@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0149_00",
+        "target_id": "1",
+        "target_name": "refrigerator",
+        "caption": "this is a white,freezer on top refrigerator. the refrigerator is in the corner,to the left of the stove.",
+        "parsed_query": {
+            "Target": "freezer",
+            "Anchor": [
+                "refrigerator",
+                "stove"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0149_00",
+        "target_id": "10",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a dark brown kitchen cabinet with a tan counter top. this kitchen cabinet is under the sink and, to the left of the dishwasher.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "sink",
+                "dishwasher"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0149_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "this is a blacl,plastic trash can. this trash can sits at the end of the counter that has the sink. this trash can is between the counter and the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "counter",
+                "table",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0149_00",
+        "target_id": "8",
+        "target_name": "kitchen_cabinets",
+        "caption": "these are brown kitchen cabinets. they are above the microwave.",
+        "parsed_query": {
+            "Target": "brown kitchen cabinets",
+            "Anchor": [
+                "microwave"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0149_00",
+        "target_id": "1",
+        "target_name": "refrigerator",
+        "caption": "this is a white refrigerator. it is to the left of the stove.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "unique": true
+    }
+]

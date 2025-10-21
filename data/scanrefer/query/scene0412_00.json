@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "there is a brown single door in the hallway. there is a trash can to the left of this door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown single door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "6",
+        "target_name": "doors",
+        "caption": "there are a set of double doors at the end of the room. there is a ladder next to these double doors.",
+        "parsed_query": {
+            "Target": "ladder",
+            "Anchor": [
+                "double doors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "16",
+        "target_name": "recycling_bin",
+        "caption": "there is a recycling bin half under the white table. the recycling bin is across from the single door in the hallway.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "white table",
+                "single door in the hallway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "there is a circular trash can in between the brown table and the white table. it is to the right of the sink and to the left of the green recycling bin.",
+        "parsed_query": {
+            "Target": "circular trash can",
+            "Anchor": [
+                "brown table",
+                "white table",
+                "sink",
+                "green recycling bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "8",
+        "target_name": "traffic_cone",
+        "caption": "this is a traffic cone in the corner. it is orange.",
+        "parsed_query": {
+            "Target": "traffic cone",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

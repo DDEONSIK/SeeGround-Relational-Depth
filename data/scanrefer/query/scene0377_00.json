@@ -1,0 +1,57 @@
+[
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "12",
+        "target_name": "crate",
+        "caption": "there is a plastic bottle box. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "plastic bottle box",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "7",
+        "target_name": "rack",
+        "caption": "there is a wooden bucket. placed on the corner of the room.",
+        "parsed_query": {
+            "Target": "Wooden bucket",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a wooden chair. placed next to the heater.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "heater"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "12",
+        "target_name": "crate",
+        "caption": "there is a brown plastic bottle box. placed on the corner of the room.",
+        "parsed_query": {
+            "Target": "brown plastic bottle",
+            "Anchor": "corner of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "there is a window. placed on the corner of the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

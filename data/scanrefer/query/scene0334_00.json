@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "there is a brown wooden bench. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "brown wooden bench",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "5",
+        "target_name": "coffee_table",
+        "caption": "there is a brown round table. placed in front of the seats.",
+        "parsed_query": {},
+        "unique": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "5",
+        "target_name": "coffee_table",
+        "caption": "there is a brown circle table. placed in the middle of the hall in front of seats.",
+        "parsed_query": {
+            "Target": "brown circle table",
+            "Anchor": [
+                "hall",
+                "seats"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "8",
+        "target_name": "bench",
+        "caption": "there is a brown wooden bench. placed next to another same bench.",
+        "parsed_query": {
+            "Target": "brown wooden bench",
+            "Anchor": "another same bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there are brown round leather seats. placed in front of the round table.",
+        "parsed_query": {
+            "Target": "brown round leather seats",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": false
+    }
+]

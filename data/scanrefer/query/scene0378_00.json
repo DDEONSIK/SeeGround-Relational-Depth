@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0378_00",
+        "target_id": "34",
+        "target_name": "printer",
+        "caption": "this is the printer in the corner. it is grey.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "corner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": "1",
+        "target_name": "cabinet",
+        "caption": "this is a storage case in the corner. it is brown.",
+        "parsed_query": {
+            "Target": "storage case",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": "37",
+        "target_name": "bookshelf",
+        "caption": "the color of the bookshelf is dark green. it is spaced against the wall and is in the corner. it has 5 shelves to hold the papers",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": "1",
+        "target_name": "cabinet",
+        "caption": "it is a gray file cabinet in the far corner of the room, to the right of a desk. there is a printer sitting on top of it.",
+        "parsed_query": {
+            "Target": "gray file cabinet",
+            "Anchor": [
+                "desk",
+                "printer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0378_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is the color brown. it is along the wall right in the front. as you walk in the door is spaced against the wall",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": true
+    }
+]

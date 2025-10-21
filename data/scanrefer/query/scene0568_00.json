@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "26",
+        "target_name": "curtain",
+        "caption": "a white curtain. covering the window.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "a blue wooden chair. next to the window.",
+        "parsed_query": {
+            "Target": "blue wooden chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "19",
+        "target_name": "shelf",
+        "caption": "a brown wooden shelf. on the side of the room.",
+        "parsed_query": {
+            "Target": "brown wooden shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "a green wooden table. next to the window.",
+        "parsed_query": {
+            "Target": "green wooden table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is to the left of another blue chair.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "another blue chair"
+            ]
+        },
+        "unique": false
+    }
+]

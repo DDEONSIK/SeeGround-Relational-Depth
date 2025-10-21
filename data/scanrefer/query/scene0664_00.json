@@ -1,0 +1,72 @@
+[
+    {
+        "scan_id": "scene0664_00",
+        "target_id": "3",
+        "target_name": "sink",
+        "caption": "this is a white sink. it is located in the back of the room in the middle of the counter.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "counter",
+                "back of the room"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": "16",
+        "target_name": "shower_curtain",
+        "caption": "the shower curtain is between the door and bathtub. the shower curtain is white and wavy.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "door",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a framed picture on the wall in the bathroom. it is above the toilet.",
+        "parsed_query": {
+            "Target": "framed picture",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "the door is right of the bathroom sink. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom sink",
+                "white rectangle"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a black framed picture. it is hanging on the wall above the toilet.",
+        "parsed_query": {
+            "Target": "black framed picture",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": true
+    }
+]

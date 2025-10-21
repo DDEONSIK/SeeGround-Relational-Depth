@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "10",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a rectangle shaped tan/brown bathroom door for a stall. from this angle, it appears slightly to the left.",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": [
+                "tan/brown",
+                "rectangle shaped",
+                "for a stall",
+                "slightly to the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this is a tan paper towel dispenser. it's a mostly square shape and is to the right of both sinks.",
+        "parsed_query": {
+            "Target": "tan paper towel dispenser",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "17",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this is another paper towel dispenser. this one is above the tan one, is mostly square and to the right of the two sinks.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "tan",
+                "two sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "this is an average looking rectangle white door for an office building or an apartment for the outer doors maybe to the stairs. it's to the left of the bathroom stall.",
+        "parsed_query": {
+            "Target": "average looking rectangle white door",
+            "Anchor": "bathroom stall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "this is an average looking white toilet like what you would find in an office building or store. it is round and below the rail in the stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "rail",
+                "stall"
+            ]
+        },
+        "unique": false
+    }
+]

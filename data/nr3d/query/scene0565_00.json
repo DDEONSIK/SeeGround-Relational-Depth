@@ -1,0 +1,2192 @@
+[
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 25,
+        "caption": "The chair to the far left hand side of the taller  desk with the computer monitor on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "taller desk",
+                "computer monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 25,
+        "caption": "Facing the row of 4 chairs, it's furthest left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "row of chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 25,
+        "caption": "chair next to the large table with monitor and not in front of it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "large table with monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 25,
+        "caption": "The chair is located farthest away from the printers on the table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "printers",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 0,
+        "caption": "Please select the chair closest to the white printer",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 0,
+        "caption": "the grey chair next to the green one in the room",
+        "parsed_query": {
+            "Target": "grey chair",
+            "Anchor": [
+                "green chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 0,
+        "caption": "You are looking for one of four chairs. 3 chairs are along one of the longer walls, with one chair along one of the shorter walls. This chair in front of the short wall is the one you are looking for. It is light gray, facing a door and a paper recycling bin, with a teal chair next to it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "longer walls",
+                "shorter wall",
+                "light gray chair",
+                "door",
+                "paper recycling bin",
+                "teal chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 0,
+        "caption": "Facing the door, the chair that is closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 24,
+        "caption": "It's the dark greenish chair beside the gray chair.",
+        "parsed_query": {
+            "Target": "dark greenish chair",
+            "Anchor": [
+                "gray chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 24,
+        "caption": "The GREEN chair that is next to a brown chair.",
+        "parsed_query": {
+            "Target": "green chair",
+            "Anchor": [
+                "brown chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 24,
+        "caption": "The green chair next to the grey",
+        "parsed_query": {
+            "Target": "green chair",
+            "Anchor": "grey"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 24,
+        "caption": "the green coloured chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 1,
+        "caption": "The dark brown table in front of the cabinets has a chair slid under it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dark brown table",
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 8,
+        "caption": "pick the box on the left, the smallest one.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "left"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 25,
+        "caption": "The black chair in the corner next to, NOT in front of the desk with the monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 24,
+        "caption": "Of the side-by-side chairs, this is the darker greenish chair by the open box.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "side-by-side chairs",
+                "open box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 7,
+        "caption": "starring at the boxes, the one on the right",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 0,
+        "caption": "pick the grey chair next to the green one.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "green chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 6,
+        "caption": "pick the one in the middle",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 7,
+        "caption": "Facing the boxes, the rightmost one that is in front of a green chair.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "green chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 36,
+        "caption": "This shelf is in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 23,
+        "caption": "Dark, tall cart on the far right.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "far right"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 22,
+        "caption": "the cart nearest to the door in the middle",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 6,
+        "caption": "in the middle",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 12,
+        "caption": "The taller desk with white filing cabinets behind it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "white filing cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 5,
+        "caption": "the monitor is beside the white printer",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "white printer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 35,
+        "caption": "It's the shelf behind the statue.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "statue"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 22,
+        "caption": "It's a white rack that close to a door. There are a few pictures on the wall above it.",
+        "parsed_query": {
+            "Target": "white rack",
+            "Anchor": [
+                "door",
+                "pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 6,
+        "caption": "the middle object",
+        "parsed_query": {
+            "Target": "middle",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 3,
+        "caption": "Facing the door, the monitor in the lower left corner raised on a table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "lower left corner",
+                "front of the door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 5,
+        "caption": "It is the monitor on the desk with printers. There are also two chairs in front of it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "printers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 15,
+        "caption": "choose the printer furthest from the door.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 12,
+        "caption": "The large dark brown desk with monitor on it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 8,
+        "caption": "the box that's farthest away from the statue.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 8,
+        "caption": "The box farthest away from the Angel statue.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "Angel statue"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 4,
+        "caption": "the monitor on the floor next to the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 13,
+        "caption": "The desk at the end of the room, with printers and a computer monitor on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "printers",
+                "computer monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 4,
+        "caption": "monitor is on the floor beside the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 14,
+        "caption": "choose the printer with the black front sitting next to the door",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 22,
+        "caption": "It's the brown cart that's located beside the door, the cart is the middle one out of the 3 carts",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "door",
+                "3 carts"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 7,
+        "caption": "The open box next to the angel statue.",
+        "parsed_query": {
+            "Target": "open box",
+            "Anchor": "angel statue"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 12,
+        "caption": "the black desk with a monitor on it and the chair pushed in",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chair",
+                "monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 2,
+        "caption": "Facing the four monitors, the second monitor from the right.",
+        "parsed_query": {
+            "Target": "second monitor",
+            "Anchor": "four monitors"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 31,
+        "caption": "window above garbage can with blue top",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "garbage can",
+                "blue top"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 19,
+        "caption": "It is a door that is close to a table that has a monitor and printer on top of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "table",
+                "monitor",
+                "printer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 15,
+        "caption": "Facing the printers, the printer on the left.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "printers"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 36,
+        "caption": "choose the shelf in the corner next to the angel statue.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "angel statue"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 7,
+        "caption": "The box closest to the door.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 20,
+        "caption": "choose the mostly white door",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 34,
+        "caption": "the window on the far right",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 36,
+        "caption": "It is a shelf with a poster on it touching the corner of the room behind the green chair",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "poster",
+                "green chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 12,
+        "caption": "The desk that has just a computer monitor on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "computer monitor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 40,
+        "caption": "Choose the cart that's nearest the bin with the blue top.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "bin with the blue top"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 5,
+        "caption": "monitor at end of room by printer",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "end of room",
+                "printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 23,
+        "caption": "face the door and then look at the cart to the far right against the wall.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "door",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 23,
+        "caption": "select the cart furthest from the bin",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "bin"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 33,
+        "caption": "Facing the windows, the middle window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 14,
+        "caption": "The copy machine that's closest to the door.",
+        "parsed_query": {
+            "Target": "copy machine",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 40,
+        "caption": "The cart to the left of the bin with the blue lid.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "bin",
+                "blue lid"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 15,
+        "caption": "printer closest to the monotior",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "monitor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 7,
+        "caption": "The open cardboard box on the floor closest to the green and gray office chairs and in front of the angel statue.",
+        "parsed_query": {
+            "Target": "cardboard box",
+            "Anchor": [
+                "green and gray office chairs",
+                "angel statue"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 33,
+        "caption": "The window that is in the middle and has papers on it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 6,
+        "caption": "Semi-open box in the middle, says \"This side up\".",
+        "parsed_query": {
+            "Target": "semi-open box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 19,
+        "caption": "It is the door located in the corner of the room next to the long table.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 2,
+        "caption": "monitor on the floor nearby statue",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "statue"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 22,
+        "caption": "the cart is in the middle",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 40,
+        "caption": "when standing in the middle of the room facing the carts, the correct cart is on the far left. it is near the trash bin with the blue lid.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "carts",
+                "trash bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 36,
+        "caption": "Facing the shelves, the shelf on the right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 1,
+        "caption": "Find the chair that is at the desk with a computer monitor on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "computer monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 1,
+        "caption": "Facing the section of cabinets, it is on the left side tucked into where a monitor rests.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "cabinet",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 1,
+        "caption": "I am the chair in the middle of the room in front of the computer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "computer"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 4,
+        "caption": "the white object to the left of the white monitor",
+        "parsed_query": {
+            "Target": "white object",
+            "Anchor": "white monitor"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 15,
+        "caption": "The correct printer is white and farther from the door.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 1,
+        "caption": "In front of a brown desk that has a light coloured object on its left side and a black rectangle on its right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "light colored object",
+                "black rectangle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 3,
+        "caption": "The monitor is sitting on the black table",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "black table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 2,
+        "caption": "The computer monitor that is on top of a pile of junk on the floor, right in front of some filing cabinet.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "pile of junk",
+                "filing cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 20,
+        "caption": "box surrounds door with glass inset",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "door with glass inset"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 2,
+        "caption": "The monitor on the ground closest to the statue",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "ground",
+                "statue"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 19,
+        "caption": "The target door is the one that is in a corner of the room, not the one in closer to the middle of a wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "corner of the room",
+                "closer to the middle of a wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 8,
+        "caption": "The box on the ground that looks burnt",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "ground"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 35,
+        "caption": "It is the bookshelf directly behind the statue.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "statue"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 34,
+        "caption": "The option to the right of the whiteboard with pictures",
+        "parsed_query": {
+            "Target": "whiteboard with pictures",
+            "Anchor": "option"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 35,
+        "caption": "tall shelf behind the statue",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "statue"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 4,
+        "caption": "the monitor on the floor closest to the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 23,
+        "caption": "There is a green wall right above this cart",
+        "parsed_query": {
+            "Target": "green wall",
+            "Anchor": "cart"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 33,
+        "caption": "the whiteboard with 6 images attached to it",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "images"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 20,
+        "caption": "Find the door that is beside the trash can with the blue lid.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 14,
+        "caption": "The printer right next to the door.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 34,
+        "caption": "This object is on the far right side of the room.  There is a 3 shelf cart on wheels where this is, it is the wall area above that cart.  It is to the right of the portion of the wall with pictures hanging on it.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "wall area above the 3 shelf cart on wheels",
+                "portion of the wall with pictures hanging on it"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 15,
+        "caption": "The printer next to the monitor.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "monitor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 5,
+        "caption": "Turn to face the statue in front of the green office chair and it's the monitor behind the green office chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "statue",
+                "green office chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 34,
+        "caption": "The window that somehow looks green in the corner opposite one of the computers",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 3,
+        "caption": "The correct monitor is sitting on top of a table. NOT on the floor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 4,
+        "caption": "The monitor on the floor underneath another monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "another monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 31,
+        "caption": "The window above the trashcan with the blue lid.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "trashcan",
+                "blue lid"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 13,
+        "caption": "This desk is closer to the door and has more items on it, such as a monitor and 2 printers.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door",
+                "items"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 15,
+        "caption": "Choose the printer furthest from the door, closest to the chairs.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "door",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 4,
+        "caption": "Choose the monitor standing longways on the floor, leaned against a desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 34,
+        "caption": "the window is the farthest from the computer",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "computer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 3,
+        "caption": "highest monitor",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 34,
+        "caption": "You want the window that is dark greyish green to the right of the window with pictures on it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window with pictures on it"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 13,
+        "caption": "the desk is facing a wall with a door directly to the right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 36,
+        "caption": "Shorter shelf in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 20,
+        "caption": "This door is next to the white board with pictures on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white board",
+                "pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 33,
+        "caption": "The window in the middle of the three.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 13,
+        "caption": "Desk next to both the green and gray chairs.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "green chair",
+                "gray chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 22,
+        "caption": "Facing the carts, the middle cart.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "carts"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 2,
+        "caption": "The monitor that is behind the open boxes, in front of the cabinet of drawers and close to the angel statue.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "open boxes",
+                "cabinet of drawers",
+                "angel statue"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 5,
+        "caption": "The desk that is right next to the door, the monitor on this desk, behind the green and gray chairs",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "door",
+                "green and gray chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 33,
+        "caption": "The window that has six pictures hanging in it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 40,
+        "caption": "The cart closest to the printers.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "printers"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 36,
+        "caption": "The shelf that is tucked in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 31,
+        "caption": "facing the door it is the window to the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 20,
+        "caption": "It is the larger of the two doors in the middle of a wall. This door has a trash/recycling can with a blue top to the left of it. To the right is a board with some photographs on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash/recycling can",
+                "board with some photographs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 35,
+        "caption": "Shelf behind angel staute",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "angel statue"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 31,
+        "caption": "When standing in the middle of the room facing the windows, the correct one is on the left. It is above a bin with a blue lid.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window",
+                "bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 19,
+        "caption": "This door is in the corner to the direct right of a desk.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 40,
+        "caption": "choose the cart that is seperate of the other two carts",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "other two carts"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 33,
+        "caption": "Choose the window in the middle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 12,
+        "caption": "the tall black desk with the rolling chair tucked underneath",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "rolling chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 12,
+        "caption": "This desk does not have a printer on it",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 31,
+        "caption": "The window not alongside another window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 12,
+        "caption": "The desk farthest from the brown door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 36,
+        "caption": "When facing the shelves, choose the one on the right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 14,
+        "caption": "If you look closely at the printers, one of the printers has a black front. It is also sitting right next to the door. Choose this printer.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "printers",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 13,
+        "caption": "The desk has a white printer on it",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 34,
+        "caption": "it is the window located to the right of the set of six pictures",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "set of six pictures"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 14,
+        "caption": "Facing the printers select the printer on the right.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "printers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 15,
+        "caption": "facing the printers, left printer",
+        "parsed_query": {
+            "Target": "printers",
+            "Anchor": [
+                "printers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 4,
+        "caption": "It is the monitor that is not on a desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 3,
+        "caption": "monitor standing on top of black workbench",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "black workbench"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 35,
+        "caption": "Facing the shelves on the back wall, choose the shelf on the left.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "back wall",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 33,
+        "caption": "wndow next to the door above the grey shelf",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door",
+                "grey shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 23,
+        "caption": "When facing the carts it is the one on the very right",
+        "parsed_query": {
+            "Target": "carts",
+            "Anchor": "entrance door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 35,
+        "caption": "The shelf behind the angle statue",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "angle statue"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 2,
+        "caption": "The monitor that is sitting on the floor on a brown wooden board under the white dresser.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "brown wooden board",
+                "white dresser"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 19,
+        "caption": "The first door is in the upper left, while the second door is at the top of the scene.",
+        "parsed_query": {
+            "Target": "first door",
+            "Anchor": [
+                "second door",
+                "top of the scene"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 40,
+        "caption": "the cart next to the blue covered receptacle",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "blue covered receptacle"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 35,
+        "caption": "The shelf we are looking for is behind the statue, not in the corner.  The reference point is the shelves/statue/printer corner in the upper right of the scene.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "statue",
+                "printer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 40,
+        "caption": "When standing in the middle of the room facing the carts, the correct one is on the left. It is next to the bin with the blue lid.",
+        "parsed_query": {
+            "Target": "carts",
+            "Anchor": [
+                "bin",
+                "blue lid"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 14,
+        "caption": "printer closest to the door.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 31,
+        "caption": "The window above the grey bin with the blue lid.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "grey bin",
+                "blue lid"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 23,
+        "caption": "There are two carts sitting next to each other, and if you stand facing them, you want the one on the right, not the one that has the pictures behind it on the wall.",
+        "parsed_query": {
+            "Target": "right cart",
+            "Anchor": [
+                "carts",
+                "wall with pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 22,
+        "caption": "This cart is next to another cart. When looking toward those two, pick the one on the left",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "cart"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 20,
+        "caption": "It is the door with the glass in the middle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "glass"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 23,
+        "caption": "the larger black cart furthest from the door",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "black cart",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 5,
+        "caption": "It is the monitor in the corner on a desk with a bunch of printers.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "corner",
+                "desk",
+                "printers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 3,
+        "caption": "The monitor on the top of the tall desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "tall desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 5,
+        "caption": "The monitor away from the other monitors.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 31,
+        "caption": "I am the window above the blue trash can",
+        "parsed_query": {
+            "Target": "blue trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 22,
+        "caption": "The middle of the carts.",
+        "parsed_query": {
+            "Target": "carts",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 1,
+        "caption": "The chair directly under the tall black desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tall black desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 0,
+        "caption": "The brown chair next to the table with the white printer.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "table",
+                "white printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 25,
+        "caption": "The chair that is farthest away from the printer",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "printer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 24,
+        "caption": "This is the darker grey chair that is directly in front of the white shelving unit and to the right of the statue",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white shelving unit",
+                "statue"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 6,
+        "caption": "The middle box, in front of the tv.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 7,
+        "caption": "The open box on the floor closest to the two brown office chairs.",
+        "parsed_query": {
+            "Target": "open box",
+            "Anchor": [
+                "two brown office chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 8,
+        "caption": "This box is furthest from the green and gray desk chairs.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "green desk chairs",
+                "gray desk chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 14,
+        "caption": "A black printer sitting on a table close to a door.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 3,
+        "caption": "The monitor that is highest.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 2,
+        "caption": "The monitor closest to the statue.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "statue"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 13,
+        "caption": "The desk with three printers on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "printers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 13,
+        "caption": "It is the desk with printers on it, next to two chairs.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "printers",
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 19,
+        "caption": "The door closest to the printers.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "printers"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 20,
+        "caption": "door in the middle of the wall next to a recycling bin",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall",
+                "recycling bin"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 8,
+        "caption": "The smallest box on the left near the dark brown desk",
+        "parsed_query": {
+            "Target": "small box",
+            "Anchor": [
+                "dark brown desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 19,
+        "caption": "The door is the smaller one in the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 6,
+        "caption": "The object in the center of the 3 boxes.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "3 boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 7,
+        "caption": "the large open box on the right",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "right"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 6,
+        "caption": "It's the box that's between the other two boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "other two boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 24,
+        "caption": "The small dark green chair in the corner of the room, next to the larger, brownish gray office chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "office chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 1,
+        "caption": "The black chair pushed under the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 8,
+        "caption": "When standing in the middle of the room looking at the boxes the correct one is the smaller one on the far left.",
+        "parsed_query": {
+            "Target": "smallest box",
+            "Anchor": [
+                "middle of the room",
+                "boxes",
+                "far left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 0,
+        "caption": "grey chair facing the doorway to the right of the entrance",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "doorway",
+                "entrance"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": 25,
+        "caption": "A dark chair in the corner of the room next to the black table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "black table"
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

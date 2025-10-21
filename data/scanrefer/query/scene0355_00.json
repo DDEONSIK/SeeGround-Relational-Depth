@@ -1,0 +1,68 @@
+[
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is around the brown round table. it is in the front right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is small and brown. it is around the brown round table and on the left side in between the two patterned chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown round table",
+                "two patterned chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is brown and round. it is on the right side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is around the round table in the back. it is the solid brown one in the front.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "solid brown"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is around the brown round table on the right. it is on the right side against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown round table",
+                "wall"
+            ]
+        },
+        "unique": false
+    }
+]

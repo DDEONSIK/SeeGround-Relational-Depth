@@ -1,0 +1,329 @@
+[
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 4,
+        "caption": "The cabinet is black and on the ground across from the bed. It is near the table and chair.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bed",
+                "table",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 9,
+        "caption": "This shelving unit is located inside the closet with the sliding doors.",
+        "parsed_query": {
+            "Target": "shelving unit",
+            "Anchor": [
+                "closet",
+                "sliding doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 8,
+        "caption": "The large cabinet at the wall",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 8,
+        "caption": "the cabinet in the closet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 4,
+        "caption": "the dark cabinet on the ground",
+        "parsed_query": {
+            "Target": "dark cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 8,
+        "caption": "the cabinet inside the closet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 10,
+        "caption": "short shelves, left of the door, white lamp on top",
+        "parsed_query": {
+            "Target": "white lamp",
+            "Anchor": [
+                "short shelves",
+                "left of the door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 4,
+        "caption": "the cabinet touching the ground",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 10,
+        "caption": "The correct shelf is not as tall and is black.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 8,
+        "caption": "the cabinet in the closet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 10,
+        "caption": "The black shelves near the bed.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 4,
+        "caption": "smaller cabinet, on the floor.",
+        "parsed_query": {
+            "Target": "smaller cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 9,
+        "caption": "This white shelf is empty and located inside the closet.",
+        "parsed_query": {
+            "Target": "white shelf",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 9,
+        "caption": "The taller set of shelves.",
+        "parsed_query": {
+            "Target": "set of shelves",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 4,
+        "caption": "Small dresser next to the desk with a lamp on it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "desk",
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 10,
+        "caption": "The black shelf that has a lamp on it and is not in the closet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "lamp",
+                "closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 10,
+        "caption": "the smaller shelf closest to the foot of the bed.",
+        "parsed_query": {
+            "Target": "smaller shelf",
+            "Anchor": "foot of the bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 8,
+        "caption": "Select the cabinet in the closet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 9,
+        "caption": "The tallest of the shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 10,
+        "caption": "The bookcase/shelf against the wall near the foot of the bed.",
+        "parsed_query": {
+            "Target": "bookcase/shelf",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 4,
+        "caption": "The dark cabinet that is sitting to the immediate left of the desk",
+        "parsed_query": {
+            "Target": "dark cabinet",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 9,
+        "caption": "The tallest shelf in the room",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 10,
+        "caption": "The shorter of the two shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 9,
+        "caption": "It is the shelves that are in the closet.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 8,
+        "caption": "Taller cabniet on the wall",
+        "parsed_query": {
+            "Target": "taller cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 4,
+        "caption": "Choose the cabinet next to the desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 8,
+        "caption": "The tall and thin box in the closet near the doorway",
+        "parsed_query": {
+            "Target": "tall and thin box",
+            "Anchor": "closet",
+            "Direction": "near doorway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": 9,
+        "caption": "larger shelf that appears to be in a closet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

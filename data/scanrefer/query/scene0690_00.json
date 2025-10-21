@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "10",
+        "target_name": "lamp",
+        "caption": "this is a lamp . the lamp is at the corner of the room.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "corner of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "it is a brown wooden bookcase in the middle. it is protruding from the wall.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "16",
+        "target_name": "armchair",
+        "caption": "it is a brown armchair. it is in the middle of the room near an identical armchair.",
+        "parsed_query": {
+            "Target": "brown armchair",
+            "Anchor": [
+                "middle of the room",
+                "identical armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "it is a small black lamp with a white shade. it is on an end table near the sofa.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "end table",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "16",
+        "target_name": "armchair",
+        "caption": "it is a brown armchair. it is located in the middle of the room next to an identical armchair.",
+        "parsed_query": {
+            "Target": "brown armchair",
+            "Anchor": [
+                "middle of the room",
+                "identical armchair"
+            ]
+        },
+        "unique": false
+    }
+]

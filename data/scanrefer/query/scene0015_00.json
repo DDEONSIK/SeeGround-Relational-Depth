@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "33",
+        "target_name": "table",
+        "caption": "there is a brown wooden desk. placed on the first raw of the clasroom.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "classroom",
+                "first raw"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "there is an office chair. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "36",
+        "target_name": "table",
+        "caption": "there is a beige wooden desk. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "beige wooden desk",
+            "Anchor": "side of the wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "there is an office chair. placed in front of a desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "35",
+        "target_name": "table",
+        "caption": "there is a wooden steel desk. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "wooden desk",
+            "Anchor": "wall"
+        },
+        "unique": false
+    }
+]

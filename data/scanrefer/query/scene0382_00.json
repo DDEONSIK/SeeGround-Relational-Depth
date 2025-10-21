@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0382_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "an office chair sit's to the left of a desk. to it's left is a white wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "white wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0382_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "an office chair sits under a desk. it's got a black surface near it off to the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0382_00",
+        "target_id": "3",
+        "target_name": "mattress",
+        "caption": "a mattress leans against a wall. it's to the right of a radiator.",
+        "parsed_query": {
+            "Target": "mattress",
+            "Anchor": [
+                "radiator"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0382_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "an office chair sits to the right of a desk. it's got a mattress above it to the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "mattress"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0382_00",
+        "target_id": "10",
+        "target_name": "radiator",
+        "caption": "a radiator is installed on the wall running along the floor. it's got some wood on the floor to it's left.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "floor",
+                "wood"
+            ]
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 15,
+        "caption": "Table with chairs one of them is black",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 16,
+        "caption": "The correct table has four chairs and plant near it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "plant"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 16,
+        "caption": "the table is next to the plant",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 16,
+        "caption": "Round table nearest to the plant",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 15,
+        "caption": "This is one of the round tables.  It's the one that doesn't have a tall plant on the floor near it.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "tall plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 16,
+        "caption": "Table nearest to the plant",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 16,
+        "caption": "This table is next to a plant.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 15,
+        "caption": "The table with five chairs and no plant.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "plant"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 16,
+        "caption": "The table next to the plant.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 15,
+        "caption": "The table that's not next to a plant.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 15,
+        "caption": "it is the table in the back of the room where there is no plant next to it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "back of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 16,
+        "caption": "Select the table that has a plant next to it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 15,
+        "caption": "The correct table does NOT have the tall plant near it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": 15,
+        "caption": "The correct table does not have a plant near it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

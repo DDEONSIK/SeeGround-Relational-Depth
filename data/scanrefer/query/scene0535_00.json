@@ -1,0 +1,58 @@
+[
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a black chair. in front of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a black chair. in front of the brown shelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "11",
+        "target_name": "desk",
+        "caption": "a white wooden desk. next to the window.",
+        "parsed_query": {},
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "a window. next to the white desk.",
+        "parsed_query": {
+            "Target": "a window",
+            "Anchor": "white desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "a white wooden shelf. in front of the desk.",
+        "parsed_query": {
+            "Target": "white wooden shelf",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "unique": true
+    }
+]

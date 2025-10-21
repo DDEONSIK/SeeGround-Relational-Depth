@@ -1,0 +1,1518 @@
+[
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "The table is the one further from the bulletin board with clouds painted on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bulletin board"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 30,
+        "caption": "The correct picture is large with a tree and some mushrooms on it.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "tree",
+                "mushrooms"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "Pick the round table the table that is closer to the window and fireplace.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "window",
+                "fireplace"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 17,
+        "caption": "Its the entrance door with a tiny blue poster on its left and a large blue sky poster on its right.",
+        "parsed_query": {
+            "Target": "entrance door",
+            "Anchor": [
+                "small blue poster",
+                "large blue sky poster"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 13,
+        "caption": "The chair that is close to the fireplace and not near a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fireplace"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 28,
+        "caption": "The correct door is closest to the chair and fire place.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "chair",
+                "fire place"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 5,
+        "caption": "Facing the mural, the leftmost table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "mural"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 12,
+        "caption": "Facing the mural, the third chair from the left.",
+        "parsed_query": {
+            "Target": "third chair",
+            "Anchor": "mural"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 27,
+        "caption": "The picture above the two arm chairs",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "two arm chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 7,
+        "caption": "This armchair is farther from the hearth.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "hearth"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 5,
+        "caption": "It has a lamp on it.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 30,
+        "caption": "this is the mural on wall with the tree in it",
+        "parsed_query": {
+            "Target": "mural",
+            "Anchor": [
+                "wall",
+                "tree"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 1,
+        "caption": "The trash can closest to the brown door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 13,
+        "caption": "The chair that is facing away from the table towards the two softer arm chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "two softer arm chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 9,
+        "caption": "Facing the door, the chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "The table in the center of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 27,
+        "caption": "the chair below the frame",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "frame"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "Pick the round table without the lamp on it.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "lamp"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 26,
+        "caption": "the tall dark painting",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 30,
+        "caption": "This is a large mural depicting a tree and mushroom.",
+        "parsed_query": {
+            "Target": "mural",
+            "Anchor": [
+                "tree",
+                "mushroom"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 10,
+        "caption": "blue chair close to round white table",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "round white table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 13,
+        "caption": "The chair is the one most directly in front of the fireplace.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "fireplace"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 5,
+        "caption": "Facing the mural, the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "mural"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 17,
+        "caption": "The brown door to the left of the sky and clouds.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": [
+                "sky",
+                "clouds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 17,
+        "caption": "The door with the blue and white picture (like a sky) next to it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "blue and white picture"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 30,
+        "caption": "Choose the picture directly to the left of window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "The trash can closest to the chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 7,
+        "caption": "choose the armchair furthest from the fireplace.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "fireplace"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 13,
+        "caption": "The chair that is directly in front of the fireplace but facing away from the round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fireplace",
+                "round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "The white round table closest to the fireplace.",
+        "parsed_query": {
+            "Target": "white round table",
+            "Anchor": [
+                "fireplace"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 7,
+        "caption": "This armchair is further from a door.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 26,
+        "caption": "the picture above the bins",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bins"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 10,
+        "caption": "The chair next to the chair closest to the fireeplace.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "fireplace"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 26,
+        "caption": "The poster directly above the recycling and garbage cans",
+        "parsed_query": {
+            "Target": "poster",
+            "Anchor": [
+                "recycling can",
+                "garbage can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 12,
+        "caption": "Of the two chairs around the bright white table, it is the chair that is closer to the darker table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bright white table",
+                "darker table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 12,
+        "caption": "Comfortable with a dark color in the middle of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 9,
+        "caption": "The yellow chair closest to the door.",
+        "parsed_query": {
+            "Target": "yellow chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 7,
+        "caption": "facing the picture, the armchair on the right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 28,
+        "caption": "The door by the fireplace",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "fireplace"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 11,
+        "caption": "The chair closest to the wall painting containing a tree and mushrooms",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall painting",
+                "tree",
+                "mushrooms"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 26,
+        "caption": "When looking at the wall with the two small pictures, you want to choose the picture on the right hand side, above the trash bins.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "trash bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 29,
+        "caption": "The wall to the right of the door",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 29,
+        "caption": "the smaller side of the large mural, the picture that has a bulletin board",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bulletin board",
+                "large mural"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 1,
+        "caption": "This trashcan is further from the two armchairs.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 12,
+        "caption": "the green chair facing the big door",
+        "parsed_query": {
+            "Target": "green chair",
+            "Anchor": "big door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 29,
+        "caption": "The large picture on the same wall as the door",
+        "parsed_query": {
+            "Target": "large picture",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "Trash can closest to brown chairs",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 27,
+        "caption": "the artwork above the two couches",
+        "parsed_query": {
+            "Target": "artwork",
+            "Anchor": [
+                "couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 13,
+        "caption": "The chair directly in front of the fireplace.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fireplace"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 1,
+        "caption": "Furthest away from armchair.",
+        "parsed_query": {
+            "Target": "furthest away",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "the trash can to the left of the recycle bin",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "recycle bin"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 8,
+        "caption": "Find the armchair box  located closes to the fireplace mantel.",
+        "parsed_query": {
+            "Target": "armchair box",
+            "Anchor": [
+                "fireplace mantel"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 10,
+        "caption": "One to the left of the fireplace",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": "fireplace"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "The trash can that's touching the chair",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 11,
+        "caption": "It is the chair under the pink bridge in the mural.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "pink bridge",
+                "mural"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 5,
+        "caption": "The round table in the corner of the room.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "corner of the room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 8,
+        "caption": "It is the armchair closest to the fireplace.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "fireplace"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 9,
+        "caption": "brown chair facing the lamp in the corner of the room",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "lamp",
+                "corner of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 17,
+        "caption": "The door is by the colorful wall",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "colorful wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 10,
+        "caption": "chair in front of fireplace on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fireplace",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 11,
+        "caption": "Chair closest to the west wall.  It is in between two tables has another chair east of it.  North of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "west wall",
+                "two tables",
+                "east chair",
+                "north table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 26,
+        "caption": "It is the dark picture on the wall to the right of the couch and above the two trash cans.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "couch",
+                "trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 29,
+        "caption": "the large picture to directly right of the main door",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "main door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 5,
+        "caption": "table in the corner of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 27,
+        "caption": "The picture above the two tan sofa chairs.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "two tan sofa chairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "Choose the round table that is NOT in the corner.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 1,
+        "caption": "The trash can on the right.  It appears to be blue and closer to the brown door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 13,
+        "caption": "the blue and white chair facing away from the tables",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "select the trash can nearest the arm chair",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "arm chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 5,
+        "caption": "This round table is located in the corner; the only thing on top if it is a lamp.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 8,
+        "caption": "armchair closest to the fireplace",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "fireplace"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 26,
+        "caption": "the picture on the white wall that doesnt have two chairs right below it",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "white wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 8,
+        "caption": "Facing the fireplace, the arm chair in the upper right corner.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "fireplace"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 7,
+        "caption": "Choose the armchair with the two trashcans sitting next to it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "trashcan",
+                "trashcan"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 10,
+        "caption": "The grey chair nearest to the window.",
+        "parsed_query": {
+            "Target": "grey chair",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "click the table in front of the window",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 29,
+        "caption": "big picture near the door",
+        "parsed_query": {
+            "Target": "big picture",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 1,
+        "caption": "Facing the 2 armchairs, choose the trash can furthest to the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "2 armchairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 17,
+        "caption": "The door beside the gold trimmed bulletin board",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "gold trimmed bulletin board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 13,
+        "caption": "Facing the fireplace, the chair in the upper right corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fireplace"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 29,
+        "caption": "Pick the big picture next to the door.",
+        "parsed_query": {
+            "Target": "big picture",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 27,
+        "caption": "Select the picture that is above the two arm chairs.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "two arm chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 29,
+        "caption": "the picture with a door on the left of it and a blue board on the left of that door",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door",
+                "blue board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 11,
+        "caption": "the chair that is touching the radiator on the painted wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "radiator",
+                "painted wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 11,
+        "caption": "There is a round table in the corner with two chairs and a lamp. Select the darker of these two chairs, the one that is against the wall air/heater unit.",
+        "parsed_query": {
+            "Target": "darker chair",
+            "Anchor": [
+                "round table",
+                "wall air/heater unit"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 7,
+        "caption": "The armchair furthest from the fireplace and closest to the exit door.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "fireplace",
+                "exit door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 17,
+        "caption": "Choose the door next to the blue wall with clouds.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "blue wall",
+                "clouds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 26,
+        "caption": "The picture above the two trash cans",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "trash can 1",
+                "trash can 2"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 4,
+        "caption": "It is the round table in front of the windows.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 8,
+        "caption": "Stand in front of the two chairs and choose the chair on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 5,
+        "caption": "The round table in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 9,
+        "caption": "the brown chair at the gray table",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "gray table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 12,
+        "caption": "Select the chair who's back is facing the door next to the notice board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "notice board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 1,
+        "caption": "If your back is against the fireplace, it is the trash can which is furthest from you, closest to the door, not the one closest to an armchair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "fireplace",
+                "door",
+                "armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 28,
+        "caption": "The black door beside the 2 chairs.",
+        "parsed_query": {
+            "Target": "black door",
+            "Anchor": [
+                "2 chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 10,
+        "caption": "The chair that is closest to the vacuum",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "vacuum"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 28,
+        "caption": "The door in the corner of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 30,
+        "caption": "The huge picture on the wall to the left of the double window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "double window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 10,
+        "caption": "When standing in the middle of the room facing the chairs, the correct one is second from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 12,
+        "caption": "it is the blue chair pulled up behind the yellow chair",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "yellow chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 1,
+        "caption": "Facing the trash cans the trash can on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 28,
+        "caption": "The door near the fireplace",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "fireplace"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 28,
+        "caption": "the door that is NOT next to the blue painted wall",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "the trashcan nearest to the couch.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 30,
+        "caption": "The large mural with the tree and the big red mushrooms.",
+        "parsed_query": {
+            "Target": "mural",
+            "Anchor": [
+                "tree",
+                "big red mushrooms"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 8,
+        "caption": "Facing the two arm chairs select the arm chair on the left.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 27,
+        "caption": "The picture directly over the 2 sofa chairs",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "2 sofa chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 9,
+        "caption": "Choose the brown chair pushed in by the circle table.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "circle table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "when facing the two arm chairs is the trashcan just to the right of them",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "two arm chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 0,
+        "caption": "The trash can is the one closer to the two brown chairs.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 11,
+        "caption": "I am the chair closest to the mushroom on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "mushroom",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 30,
+        "caption": "Painting that is next to a window, on the right side of the door.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "window",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 12,
+        "caption": "Dark color chair. The one most in the middle of the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 9,
+        "caption": "The only wooden chair in the room by the lamp on the table",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "lamp",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 8,
+        "caption": "Find the armchair that is closer to the fireplace.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "fireplace"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 9,
+        "caption": "There is an wood chair  and has  the wood color.",
+        "parsed_query": {
+            "Target": "wood chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 28,
+        "caption": "A door on the same wall as two tan chairs next to a fireplace",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "tan chairs",
+                "fireplace"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 17,
+        "caption": "The walls on either side of this dark door have blue squares, like bulletin boards.",
+        "parsed_query": {
+            "Target": "bulletin boards",
+            "Anchor": [
+                "dark door",
+                "walls"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 27,
+        "caption": "The box is strait above the 2 comfy living chairs beside the door",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "2 comfy living chairs",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 11,
+        "caption": "table closest to the wall with the outdoor painting.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "outdoor painting"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": 7,
+        "caption": "The arm chair on the right.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

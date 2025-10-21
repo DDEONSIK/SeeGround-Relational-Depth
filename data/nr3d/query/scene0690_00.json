@@ -1,0 +1,917 @@
+[
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "'If you are facing the large cabinet, it is the lamp on the left hand side. If you are sitting on the loveseat, it is the lamp on the left hand side.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "large cabinet",
+                "loveseat"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "'The lamp nearest the two strange chairs. The lamp to the right if you are sitting on the loveseat.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "two strange chairs",
+                "loveseat"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 23,
+        "caption": "The smaller chair closest to the bookshelves and not directly behind the blush chair.",
+        "parsed_query": {
+            "Target": "smaller chair",
+            "Anchor": [
+                "bookshelves",
+                "blush chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 15,
+        "caption": "facing the loveseat, the chair in back left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "loveseat"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 22,
+        "caption": "The chair farthest from the cabinets.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 23,
+        "caption": "The plant to the left of the chair and NOT directly behind it",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "If you are standing at the \"top\" of the U shaped furniture by the cabinet, you want the lamp on the left.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "top",
+                "U shaped furniture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 18,
+        "caption": "Facing the cabinets, the chair in the lower left corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "if looking at the living from from the large cabinet, the back right lamp.",
+        "parsed_query": {
+            "Target": "back right lamp",
+            "Anchor": [
+                "large cabinet",
+                "living room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 23,
+        "caption": "chair closest to the large brown shelf on the right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "large brown shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 18,
+        "caption": "chair on the left side closest to couch",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 13,
+        "caption": "If you look directly at glass cabinet, it's to your right",
+        "parsed_query": {
+            "Target": "glass cabinet",
+            "Anchor": [
+                "entrance door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 16,
+        "caption": "If your sitting on the couch its the armchair farthest away on the left",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 17,
+        "caption": "the armchair closest to the dark brown shelf",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "dark brown shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 15,
+        "caption": "Walking towards the sofas, it's the left sofa furthest away from wooden cabinets",
+        "parsed_query": {
+            "Target": "left sofa",
+            "Anchor": [
+                "southern sofa",
+                "wooden cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 17,
+        "caption": "When standing in the middle of the room facing the arm chairs the correct one is on the left and fartherst from the lamps.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "lamps",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 14,
+        "caption": "When facing the tan 'china' cabinet, this table is at the left.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 17,
+        "caption": "the armchair is the top right when looking at the bookcase",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "bookcase"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 22,
+        "caption": "This chair is directly behind an armchair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 15,
+        "caption": "Facing the armchairs, the chair in the upper right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "armchairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "2 of the sofas are facing each other.  The other sofa faces 2 storage cabinets - if you were SITTING in this sofa, you should select the lamp on your RIGHT.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "sofa",
+                "storage cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "When facing the loveseat that has a coffee table in front of it, it is the lamp on the left side.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "loveseat",
+                "coffee table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 18,
+        "caption": "When looking at the couch, choose the chair on the right closest to the couch.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "couch"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "Facing the window the lamp on the right.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "when looking at the cabinet the lamp is on the left",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "cabinet"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 16,
+        "caption": "Facing the drawers, the chair on the upper left corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "drawers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 14,
+        "caption": "If you pretend that you are sitting on the love seat, the table will be on your left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "love seat"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 13,
+        "caption": "Standing in the open space between the chairs, looking at the lamps. it's the table on the left",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "lamps"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "The lamp on the back left",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "back",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "One at the bottom right",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 15,
+        "caption": "When sitting on the couch(sofa) and facing the bookshelf, it's the first chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch",
+                "bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 18,
+        "caption": "the cream-colored chair on the right-hand side of the room closest to the lamp",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "room",
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 14,
+        "caption": "When viewed from the display cases, it's the table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 16,
+        "caption": "If sitting on the 2 seater chair, select the chair that is furthest away on your left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "2 seater chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 18,
+        "caption": "The armchair closest to the table on the right when facing the largest couch",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "largest couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "The blue lamp on the left, facing the couch.",
+        "parsed_query": {
+            "Target": "blue lamp",
+            "Anchor": [
+                "left",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 17,
+        "caption": "If you were sitting on the couch, it is the furthest chair on your right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "The lamp on the left when facing the lamps.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 22,
+        "caption": "This chair is closest to the lamps and furthest from the bookshelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "lamps",
+                "bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 15,
+        "caption": "Looking at the seating area towards the sofa, it the chair next to the lamp on the left side",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "facing the china cabinet, the left lamp",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "china cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 17,
+        "caption": "Facing the cabinet, choose the armchair on the right closest to the cabinet.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "if the sofa is at the top and a lamp is either side, select the lamp on your left",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 16,
+        "caption": "facing the cabinets, the chair closest to the cabinets on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "cabinets",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 13,
+        "caption": "if looking into the living room from the china cabinet it's the table in the back left",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 14,
+        "caption": "The table to the right when facing the larger couch",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "larger couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 14,
+        "caption": "When you are looking/facing towards the big cabinet, this table is on the left",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "big cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 15,
+        "caption": "Facing the cabinets select the armchair on the bottom right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 17,
+        "caption": "Face the sofa the chairs on the right it is the first chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sofa",
+                "first chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 23,
+        "caption": "When standing in the middle of the room facing the two chairs, the correct one is on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 23,
+        "caption": "The chair you want to pick is the one closest to the book shelving",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "book shelving"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 13,
+        "caption": "if you are looking straight on at the sofa, its the end table on the left",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 23,
+        "caption": "The larger of the two chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 18,
+        "caption": "if you look at the couch against the wall with tables with lamps on either side of it, this armchair is the one closest to this couch to its left.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch",
+                "tables",
+                "lamps"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 22,
+        "caption": "The chair directly behind the last armchair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "last armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 15,
+        "caption": "A person in this armchair would have the coffee table directly in front of them and an end table to their left.",
+        "parsed_query": {
+            "Target": "person",
+            "Anchor": [
+                "coffee table",
+                "end table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 13,
+        "caption": "you need to be facing the double-seater sofa, and then it will be the table on the left",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "double-seater sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 14,
+        "caption": "Standing in the middle of the room looking at both lamps, it's the lamp on the right.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 17,
+        "caption": "when facing the Brown cabinet, it is the armchair on the right-hand side closest to it",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "Brown cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 16,
+        "caption": "If you are standing in front of the long couch you will want to pick the chair that is on your left but furthest from you.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "long couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 13,
+        "caption": "Table on the left of the love seat.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "love seat"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 16,
+        "caption": "If facing the large cabinet, this is the chair that is on the left and closest to the cabinet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "large cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 11,
+        "caption": "This one you'll need a reference.  Place the hardwood floor section of the room on the bottom of the scene.  The lamp you are looking for is on the upper right.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "hardwood floor section",
+                "bottom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 10,
+        "caption": "When standing in the middle of the room facing the lamps, the correct one is on the right.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "lamps"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 13,
+        "caption": "Facing the brown cabinet, choose the table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "brown cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 14,
+        "caption": "The table to the right of the couch",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 23,
+        "caption": "Facing the chairs, the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 16,
+        "caption": "The top LEFT of the U in the shaped chairs and couches when you are facing the shelving with four doors.",
+        "parsed_query": {
+            "Target": "U",
+            "Anchor": [
+                "shelving with four doors",
+                "shaped chairs and couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 22,
+        "caption": "The object directly behind the chair.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 18,
+        "caption": "This armchair is next to the two-seated loveseat and to its right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "two-seated loveseat"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 22,
+        "caption": "The one directly behind the chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": 22,
+        "caption": "The chair on the right behind the comfortable looking chairs in the middle of the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "comfortable looking chairs",
+                "middle of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

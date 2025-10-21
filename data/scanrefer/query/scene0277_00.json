@@ -1,0 +1,74 @@
+[
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "the white bookshelf is above the brown desk, beside the telephone.  it is attached to the wall in the corner.",
+        "parsed_query": {
+            "Target": "white bookshelf",
+            "Anchor": [
+                "brown desk",
+                "telephone"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the gray trash can is beside the blue recycle bin, and near the brown desk in the corner of the room. the trashcan is empty.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue recycle bin",
+                "brown desk",
+                "brown desk",
+                "corner of the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "the white telephone is attached to the wall in the corner of the room.  it is between the white bookshelf and the window.",
+        "parsed_query": {
+            "Target": "white telephone",
+            "Anchor": [
+                "white bookshelf",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "it is a two-level shelf on top of a desk. the shelf is to the right of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window",
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "12",
+        "target_name": "radiator",
+        "caption": "it is a radiator underneath a window. the radiator is to the right of the bed.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    }
+]

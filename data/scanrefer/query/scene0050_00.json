@@ -1,0 +1,72 @@
+[
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "6",
+        "target_name": "tissue_box",
+        "caption": "this is a white box of tissues. it is on a brown leather ottoman. there is also a black back pack on the brown leather ottoman. it is infront of a brown leather sofa . the sofa and the ottoman are the same color.",
+        "parsed_query": {
+            "Target": "black back pack",
+            "Anchor": [
+                "brown leather ottoman",
+                "brown leather sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "12",
+        "target_name": "piano_bench",
+        "caption": "this is a brown wooden piano bench. it is in front of a piano. there is a blue  tool box and a red tool box next to the piano that the bench is in front of.",
+        "parsed_query": {
+            "Target": "brown wooden piano bench",
+            "Anchor": [
+                "piano",
+                "blue tool box",
+                "red tool box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "30",
+        "target_name": "toolbox",
+        "caption": "this is a green tool box. . the green tool box is in front of a red tool box on the floor next to a piano.",
+        "parsed_query": {
+            "Target": "green tool box",
+            "Anchor": [
+                "red tool box",
+                "piano"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "30",
+        "target_name": "toolbox",
+        "caption": "to the right of the door is a red tool box. this is the green tool box in front of the red tool box,to the right of this tool box is a piano.",
+        "parsed_query": {
+            "Target": "piano",
+            "Anchor": [
+                "red tool box",
+                "green tool box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "11",
+        "target_name": "ottoman",
+        "caption": "this is a brown ottoman in front of a brown sofa. the ottoman has a black back pack,and a black duffel bag,and a box of tissues.",
+        "parsed_query": {
+            "Target": "brown ottoman",
+            "Anchor": [
+                "brown sofa"
+            ]
+        },
+        "unique": false
+    }
+]

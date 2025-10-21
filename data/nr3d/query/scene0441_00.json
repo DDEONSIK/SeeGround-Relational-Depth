@@ -1,0 +1,173 @@
+[
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 16,
+        "caption": "It is the bar over the toilet.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 14,
+        "caption": "This bar is alongside the toilet.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 16,
+        "caption": "The hand rail behind the toilet",
+        "parsed_query": {
+            "Target": "hand rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 14,
+        "caption": "The hand rail in the toilet stall that's above the toilet paper.",
+        "parsed_query": {
+            "Target": "hand rail",
+            "Anchor": [
+                "toilet",
+                "toilet paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 14,
+        "caption": "the bar not directly above the toilet over what looks like a sink",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 14,
+        "caption": "Choose the rail to the side of the toilet, NOT behind it.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet",
+                "side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 16,
+        "caption": "The bar on the wall behind the toilet.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 14,
+        "caption": "The bar next to the toilet so you can grab it to stand up (on the left of you)",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 16,
+        "caption": "The bar directly above the toilet",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 16,
+        "caption": "The bar directly above the toilet.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 14,
+        "caption": "It is the bar on the wall to the left of the toilet.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 16,
+        "caption": "The bar behind the toilet",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 16,
+        "caption": "The bar directly above the toilet.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": 14,
+        "caption": "the bar beside the toilet and not behind the toilet",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": [
+                "toilet",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "8",
+        "target_name": "bed",
+        "caption": "there is a brown cotton bed cover. placed on the bed of the room.",
+        "parsed_query": {
+            "Target": "brown cotton bed cover",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "8",
+        "target_name": "bed",
+        "caption": "there is a brown bed cover. covering the double bed.",
+        "parsed_query": {
+            "Target": "brown bed cover",
+            "Anchor": "double bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "there is a white pillow. placed next to another same pillow.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "another white pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "24",
+        "target_name": "radiator",
+        "caption": "the radiator is right of the rightmost bed. the radiator is a white trapezoidal prism.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "rightmost bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the office chair is left of the hexagonal table. the office chair is black and has armrests.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "hexagonal table",
+                "black"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,515 @@
+[
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 8,
+        "caption": "The pillow to the right closest to the purple pink thing",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "purple pink thing"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 16,
+        "caption": "Backpack nearer to the pillows",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "pillows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 16,
+        "caption": "The correc backpack is closest to the window. It is on a chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 25,
+        "caption": "The door farthest from the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 8,
+        "caption": "choose the pillow on the right side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 25,
+        "caption": "The door that's against wall, brown dresser in front of it also",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall",
+                "brown dresser"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 9,
+        "caption": "the backpack to the left of the bed",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 9,
+        "caption": "on the floor",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 25,
+        "caption": "the door in the corner of the room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 26,
+        "caption": "Facing the foot of the bed, the door in the upper left corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 17,
+        "caption": "It's Closest to the lamp",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 26,
+        "caption": "find the door next to the lamp that is in the corner of the room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 9,
+        "caption": "The backpack is on the ground on the left side of the bed. There is a brown door near it and a red lamp.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "ground",
+                "brown door",
+                "red lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 26,
+        "caption": "closest of the lamp",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 26,
+        "caption": "The correct door is the one not in the corner, it is closer to the lamp.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "lamp"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 16,
+        "caption": "The backpack on a chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 9,
+        "caption": "The backpack is the one closest to the bed, on the floor.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 26,
+        "caption": "If you are facing the two doors this is the door on the right. It is closest to the bedside table with a red lamp.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "two doors",
+                "bedside table",
+                "red lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 8,
+        "caption": "White and fluffy farthest away from the entrance.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "entrance"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 25,
+        "caption": "Standing at the window, facing the doors, it is the one on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "doors"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 9,
+        "caption": "The correct backpack is on the floor in front of the lamp and by the double doors",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "lamp",
+                "double doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 16,
+        "caption": "facing the bed, backpack on the right",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 17,
+        "caption": "If you are laying in bed on your back, with your head on the pillows, it is the pillow on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "pillow"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 16,
+        "caption": "It is the backpack in the corner behind the purple chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "purple chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 17,
+        "caption": "The pillow farthest from the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 8,
+        "caption": "the pillow closer to the window",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 17,
+        "caption": "If you are standing at the foot of the bed, choose the pillow on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 8,
+        "caption": "From the foot of the bed, this pillow is on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 16,
+        "caption": "Find the backpack sitting on a chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 9,
+        "caption": "On the left hand side of the bed on the floor next to the door",
+        "parsed_query": {
+            "Target": "floor",
+            "Anchor": [
+                "bed",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 16,
+        "caption": "Choose the backpack in the corner closer to the window",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "corner",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 26,
+        "caption": "facing the doors, right",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 9,
+        "caption": "The backpack on the floor next to the ipad on the bed",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "ipad",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 17,
+        "caption": "When standing in the middle of the room facing the bed the correct pillow is on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 8,
+        "caption": "The pillow closest to the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 8,
+        "caption": "Facing the bed select the pillow on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 17,
+        "caption": "Light blue, soft and fluffy next to a red structure.",
+        "parsed_query": {
+            "Target": "light blue, soft and fluffy",
+            "Anchor": "red structure"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 25,
+        "caption": "Facing the doors, the door on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 17,
+        "caption": "the pillow that is on the bed and plush to the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "plush"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 26,
+        "caption": "If your back is against the window with the curtains, the correct door is the one furthest to your right, and closest to the lamp.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "window with the curtains",
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 25,
+        "caption": "door close to the dresser",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "dresser"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": 25,
+        "caption": "When standing in the room facing towards the doors, the correct one is on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

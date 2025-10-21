@@ -1,0 +1,173 @@
+[
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 4,
+        "caption": "The shelf closest to the window",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 4,
+        "caption": "the larger ones in the corner",
+        "parsed_query": {
+            "Target": "objects",
+            "Anchor": [
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 4,
+        "caption": "Find the shelf that has two levels and is next to the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 4,
+        "caption": "the shelf in the corner, not as tall as the other",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 3,
+        "caption": "Shelf that is next to the pool stick, higher of the two",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "pool stick"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 3,
+        "caption": "Pick the shelves that are not under the window, and are closer to the blue machine.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "window",
+                "blue machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 4,
+        "caption": "The shelf by the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 3,
+        "caption": "It is the shelf with many items on it, furthest from the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 3,
+        "caption": "The shelf you are looking for has 5 white shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 4,
+        "caption": "The larger, lower shelf furthest from the chair in the corner of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "chair",
+                "corner of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 3,
+        "caption": "If you face the grey utility cabinet on the wall it is the shelf to the right of it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "grey utility cabinet on the wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 4,
+        "caption": "The shelf in the corner of the room that looks to have only 2 levels.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 3,
+        "caption": "shelf towards the middle of the room",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": 3,
+        "caption": "The shelf hanging in the middle of the room on the wall",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    }
+]

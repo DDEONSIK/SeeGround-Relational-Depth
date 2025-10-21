@@ -1,0 +1,606 @@
+[
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 23,
+        "caption": "when standing in the middle of the room facing the windows, the correct window is on the far right. closest to the black board.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window",
+                "black board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 23,
+        "caption": "Choose the window closest to the blackboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 26,
+        "caption": "In a row of five windows, the third window from the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 28,
+        "caption": "Has four wooden chairs directly under it",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "wooden chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 17,
+        "caption": "Small one, two chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": []
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 23,
+        "caption": "The window near the blackboard",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "blackboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 26,
+        "caption": "Facing the chalkboard, the window in the bottom left corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 26,
+        "caption": "The small window where there are no chairs in front of it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "no chairs in front of it"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 25,
+        "caption": "The window directly opposite the brown door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "brown door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 27,
+        "caption": "When facing the five windows, it is 2nd from left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "five windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 26,
+        "caption": "he window 3rd from the back of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "back of the room"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 17,
+        "caption": "The small round table next to the chalk board",
+        "parsed_query": {
+            "Target": "small round table",
+            "Anchor": "chalk board"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 23,
+        "caption": "Choose the largest window on the far right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "far right"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 18,
+        "caption": "The Green box is around the large table in the middle of the room.",
+        "parsed_query": {
+            "Target": "Green box",
+            "Anchor": [
+                "large table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 18,
+        "caption": "The large table in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 28,
+        "caption": "only window on this wall",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 17,
+        "caption": "The small table next to the blackboard.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": "blackboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 17,
+        "caption": "This is the smaller, half-round table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 28,
+        "caption": "When standing in the middle of room looking at the windows the correct one is on the far left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 25,
+        "caption": "Window in the middle of the wall and behind the long row of chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "long row of chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 25,
+        "caption": "The lowest window directly behind the row of chairs that are along the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "row of chairs",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 27,
+        "caption": "The window in the corner of the room that does not have a blackboard or whiteboard. There are two chairs directly in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "corner of the room",
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 27,
+        "caption": "The window on the far left that's on the wall with four windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "four windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 25,
+        "caption": "The correct window is the one in the center of the long table. About 2-3 chairs sit under it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "long table",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 28,
+        "caption": "The window in the back of the room (assuming the blackboard is the front). Directly across the room from the board",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blackboard",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 23,
+        "caption": "It is the window closest to the blackboard on it's left if you are facing the blackboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 23,
+        "caption": "When facing the blackboard, the set of windows closest to the blackboard on the left",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 28,
+        "caption": "This is the farthest window from the chalk board, and stands directly across the room from it. there are 4 chairs in front of the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chalk board",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 26,
+        "caption": "The window with no chairs in front of it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 18,
+        "caption": "You want the huge table in the center of the room.",
+        "parsed_query": {
+            "Target": "huge table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 17,
+        "caption": "The smaller table of the two.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 18,
+        "caption": "the long table in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 25,
+        "caption": "It is the window in the middle of the room, above the chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 27,
+        "caption": "Facing the wall with 4 windows, the first window from the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall with 4 windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 26,
+        "caption": "with the chalkboard to the right.   its the third window from either direction.  the center window",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 18,
+        "caption": "The largest table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 23,
+        "caption": "If you are standing at the table facing the windows with the blackboard on your right, you are looking for the large window all the way to the right, closest to the blackboard.",
+        "parsed_query": {
+            "Target": "large window",
+            "Anchor": [
+                "blackboard",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 28,
+        "caption": "The widow is on a wall by itself, behind a row of four chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "four chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 25,
+        "caption": "The middle rectangular window on the wall left of the chalkboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 17,
+        "caption": "Choose the smaller table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 28,
+        "caption": "The window by itself.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 25,
+        "caption": "There is a chalkboard to the right and chairs to the left. The window is in the middle two from the left side of the room and one in from the right. On the left it would be the third window on the right it would be the second.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 27,
+        "caption": "With you back up to the blackboard its the second window from the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blackboard",
+                "second window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 18,
+        "caption": "I am the huge table in the middle of the room",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 27,
+        "caption": "the first window to the right of the door with windows in the corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 17,
+        "caption": "The small round table in the corner",
+        "parsed_query": {
+            "Target": "small round table",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 18,
+        "caption": "The long table in the middle of the room.",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 27,
+        "caption": "The window is located on the right wall, furthest one from the table",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "right wall",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": 26,
+        "caption": "This four-paned window is on a wall with several windows and is second from the left.",
+        "parsed_query": {
+            "Target": "four-paned window",
+            "Anchor": [
+                "wall",
+                "several windows",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

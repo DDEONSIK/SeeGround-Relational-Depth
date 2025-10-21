@@ -1,0 +1,778 @@
+[
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 8,
+        "caption": "The chair closest to the laptop",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "laptop"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 1,
+        "caption": "The screen on the left from the middle",
+        "parsed_query": {
+            "Target": "screen",
+            "Anchor": [
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 1,
+        "caption": "if one monitor is facing you, select the one on your left",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "your left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 10,
+        "caption": "This monitor has two chairs right in frotn of it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 9,
+        "caption": "No chair is in front of this keyboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 11,
+        "caption": "Laptop with a colorful scene on it.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 3,
+        "caption": "chair in front of the shelfs",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "shelfs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 3,
+        "caption": "The chair closest to the triple shelves.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "triple shelves"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 3,
+        "caption": "The correct chair is closest to the wall and does not have a computer directly in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 9,
+        "caption": "The keyboard on table, no chair in front of it",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 4,
+        "caption": "The chair opposite of the laptop.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "laptop"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 4,
+        "caption": "The office chair by itself by round-table",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "round-table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 7,
+        "caption": "The chair at the table farthest away from the laptop.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 1,
+        "caption": "the monitor with no chair in front of it",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 7,
+        "caption": "Of the two chairs that are next to each other, choose the one in front of the monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two chairs",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 2,
+        "caption": "The computer with no chair in front of it.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 2,
+        "caption": "The monitor that does not have a chair in front of it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 10,
+        "caption": "the monitor with green and grey on it",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 8,
+        "caption": "chair that has another chair close by on its left hand side",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 4,
+        "caption": "The two chairs that are side by side select the left one ABOVE those two",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "above"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 2,
+        "caption": "The computer that DOES NOT have a chair right in front of it.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 8,
+        "caption": "The chair directly facing the side of the laptop on the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "laptop",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 8,
+        "caption": "One of the chairs that is beside the table, but not facing the table. It is not facing a laptop but facing sideways across the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "laptop"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 9,
+        "caption": "A keyboard on the laptop that doesn't have a chair in front of it.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "laptop"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 3,
+        "caption": "The chair is farthest from the circular table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "circular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 10,
+        "caption": "The monitor that you would class as in the middle of the other two",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "other two"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 10,
+        "caption": "This particular computer monitor faces a pair of office chairs.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "pair of office chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 11,
+        "caption": "the keyboard with a chair in front of it.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 9,
+        "caption": "The correct keyboard does NOT have a chair in front of it.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 2,
+        "caption": "the laptop with no chair in front of it",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 9,
+        "caption": "keyboard with no chair in front of it.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 11,
+        "caption": "It is a keyboard with a chair in front of it.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 7,
+        "caption": "Stand facing the shelves on the opposite side of the room, select the office chair to your left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "shelves"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 4,
+        "caption": "facing the chair face, the farthest chair away",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair face"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 9,
+        "caption": "the keyboard without a chair directly in front of it",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 2,
+        "caption": "If you were looking at the correct monitor, the shelving unit is on your right",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "shelving unit"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 2,
+        "caption": "It is the laptop that has no chairs in front of it",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 1,
+        "caption": "It is not the monitor which is closest to the two chairs which are side-by-side.  If stand between those two chairs facing the incorrect monitor, the correct monitor is the one on the left, not the one on the right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 8,
+        "caption": "Facing the shelves, choose the chair on the right closest to you.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "shelves",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 1,
+        "caption": "The only monitor that does not have another monitor on its left side",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 10,
+        "caption": "The monitor that has bright yellow-green colors on the left side of the screen and blue on the right side of the screen and brown and light blue at the top, and when you face the monitor the wall is directly in front of you.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 10,
+        "caption": "The correct monitor is in front of a chair, turned on, with a grassy green picture on the display.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "chair",
+                "grass green"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 4,
+        "caption": "Face towards the shelves and it's the office chair on the left by the windows.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "shelves",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 9,
+        "caption": "The keyboard on the table with no chair directly in front of it,",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 1,
+        "caption": "The monitor with one chair in front of it",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 11,
+        "caption": "keyboard near the chair",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 11,
+        "caption": "It is the keyboard that is closest to the two chairs at the table.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "two chairs",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 4,
+        "caption": "click the office chair where only the back of the chair is visible.  There is a laptop in front of it.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 2,
+        "caption": "Of the two monitors displaying something on the screen it is NOT the monitor in the middle",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitor in the middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 10,
+        "caption": "it is the monitor directly in front of the chair",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 8,
+        "caption": "The chair that is to the left of the laptop which is by itself on the table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "laptop",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 1,
+        "caption": "Facing the three shelves, it's the monitor on the left, closest to the three shelves.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "three shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 3,
+        "caption": "The chair by itself away from the other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 8,
+        "caption": "when facing the table, the office chair is the one that's at the table and on the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 7,
+        "caption": "If you are looking directly at the monitor and keyboard it is the chair directly to the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "monitor",
+                "keyboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 11,
+        "caption": "pick the keyboard that is in front of the middle chair",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "middle chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 7,
+        "caption": "The office chair  facing the monitor, keyboard and mouse.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "monitor",
+                "keyboard",
+                "mouse"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 4,
+        "caption": "click the chair directly infront of one the laptops",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "laptops"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 3,
+        "caption": "Select the office chair that is furthest away from the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 3,
+        "caption": "The chair directly in front of the brown shelving.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown shelving"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 7,
+        "caption": "A chair sits in front of a keyboard and monitor to the left of another chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "keyboard",
+                "monitor",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 11,
+        "caption": "the keyboard directly in front of the chair.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": 7,
+        "caption": "chair in front of the monitor that appears to have an outdoor picture on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "monitor"
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

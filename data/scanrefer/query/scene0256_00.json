@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "9",
+        "target_name": "curtain",
+        "caption": "there is gray curtain. it is next to the table with a sewing machine on it.",
+        "parsed_query": {
+            "Target": "gray curtain",
+            "Anchor": [
+                "table",
+                "sewing machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "7",
+        "target_name": "curtain",
+        "caption": "there is gray curtain. it is facing a ladder next to a table.",
+        "parsed_query": {
+            "Target": "gray curtain",
+            "Anchor": [
+                "ladder",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "0",
+        "target_name": "table",
+        "caption": "there is a white table. it is near the side of the room and has a sewing machine on it.",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": [
+                "side of the room",
+                "sewing machine"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "6",
+        "target_name": "tray_rack",
+        "caption": "there is a dark tray rack. it is near the table and in front of a curtain.",
+        "parsed_query": {
+            "Target": "dark tray rack",
+            "Anchor": [
+                "table",
+                "curtain"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "11",
+        "target_name": "clothing_rack",
+        "caption": "there is a dark clothing rack. it is next to a stack of plastic containers.",
+        "parsed_query": {
+            "Target": "dark clothing rack",
+            "Anchor": [
+                "stack of plastic containers"
+            ]
+        },
+        "unique": false
+    }
+]

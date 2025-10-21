@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "there is a brown leather couch. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "brown leather couch",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "17",
+        "target_name": "picture",
+        "caption": "there is a black white picture. placed next to another picture on the wall.",
+        "parsed_query": {
+            "Target": "black and white picture",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the chair is black and pushed into a desk. it is the chair furthest to the left. that is on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "the door is to the left of the blue bin. it is the last door on the left and to the right of eight pictures.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "blue bin",
+                "eight pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "it is a white square cube office storage organizer. it is located between the two sets office desks.",
+        "parsed_query": {
+            "Target": "white square cube office storage organizer",
+            "Anchor": [
+                "office desks"
+            ]
+        },
+        "unique": true
+    }
+]

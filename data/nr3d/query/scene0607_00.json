@@ -1,0 +1,1151 @@
+[
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 6,
+        "caption": "The smallest chair furthest away from sinks",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 6,
+        "caption": "Stand against the wall with the table in front of you, facing the kitchen. You want the chair on your side, furthest to the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 24,
+        "caption": "The top oven next to the sink.",
+        "parsed_query": {
+            "Target": "top oven",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 10,
+        "caption": "the middle chair closest to the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 11,
+        "caption": "on the same side as the sinks the chair on your left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 15,
+        "caption": "Cup nearest the sink",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 13,
+        "caption": "Facing the cups, the Cup in the lower right corner.",
+        "parsed_query": {
+            "Target": "Cup",
+            "Anchor": [
+                "cups"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 8,
+        "caption": "This chair is at the end of the table not by the wall and it faces the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 14,
+        "caption": "the cup in the middle.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 10,
+        "caption": "The middle chair closest to sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 10,
+        "caption": "It is the middle chair with its back to the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 7,
+        "caption": "When facing the sinks, the correct chair is in the middle, farthest from the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 9,
+        "caption": "from the sink, the front row of chairs, the leftmost",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "sink",
+                "front row",
+                "leftmost"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 11,
+        "caption": "When facing the sink counter, this chair is furthest left with its back to the counter.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 14,
+        "caption": "choose the item in the corner.",
+        "parsed_query": {
+            "Target": "item",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 14,
+        "caption": "the cup in the corner of the counter",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "corner",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 6,
+        "caption": "Facing the wall, the upper left chair opposite the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 10,
+        "caption": "On the side of the table nearest the sink, choose the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 23,
+        "caption": "The oven on the bottom.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 9,
+        "caption": "If you stand so the sink is on the opposite side of the room from you, the chair is the one across the table on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 16,
+        "caption": "The sink to the right next to the coffee mugs.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "coffee mugs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 8,
+        "caption": "when facing the sink, the rightmost one on your side.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "rightmost"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 7,
+        "caption": "When standing in the middle of the room facing the the sinks. The correct chair is in the middle and farther from the cabinets with the sinks.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "middle",
+                "cabinets",
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 14,
+        "caption": "The Cup in the corner.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 23,
+        "caption": "the oven closest to the floor",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 6,
+        "caption": "If you stand at the sinks, it is the chair on the other side of the table, furthest on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 17,
+        "caption": "This item is square and has a drain in the bottom.  You can fill it up with water in order to clean dishes and pots ad pans.  It is usually found in a kitchen; but it can also be found in a bathroom.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 9,
+        "caption": "The chair that closet to the refrigerator",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 14,
+        "caption": "the cup on the top of a plate",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "plate"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 17,
+        "caption": "The left bucket of the sink",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 16,
+        "caption": "facing the sinks, choose the one on the right",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 23,
+        "caption": "the oven closest to the floor",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 9,
+        "caption": "The chair is in front of the table brown cabinet by sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown cabinet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 24,
+        "caption": "Choose the top oven.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 13,
+        "caption": "It is the cup closest to the edge of the counter.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 15,
+        "caption": "On the counter by the sink you will find a cup directly underneath the soap dispenser.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "counter",
+                "sink",
+                "soap dispenser"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 16,
+        "caption": "the sink is to the right of the metal thing on the wall and on the right of the sink on the wall is so meting white and elongated. also to the right of the sink are plastic containers.",
+        "parsed_query": {
+            "Target": "metal thing",
+            "Anchor": [
+                "sink",
+                "wall",
+                "plastic containers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 8,
+        "caption": "When facing the sink, it's the chair on the right that is also facing the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 7,
+        "caption": "This is the middle of three chairs that are further from the sink counter.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 16,
+        "caption": "the sink on the right-hand side",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "right-hand side"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 11,
+        "caption": "if looking across the table at the sinks, the chair in the back left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 17,
+        "caption": "When facing the sinks it is the sink to the right closest to the fridge.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "fridge",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 13,
+        "caption": "This cup is in front of the other 2 cups, it is closest to the table.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 24,
+        "caption": "The higher oven of the two.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 23,
+        "caption": "The oven on the bottom just to the left of the counter.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": [
+                "bottom",
+                "left",
+                "counter"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 17,
+        "caption": "sink under the paper towel dispenser",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "paper towel dispenser"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 6,
+        "caption": "if you are facing the sink you would be seated on the far left",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 10,
+        "caption": "The chair in the middle of the table on the side closest to the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "middle of the table on the side closest to the sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 8,
+        "caption": "The chair that's on the far right, on the opposite side of the table from the sinks.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 7,
+        "caption": "Stand with the table between you and the sink and it's the chair in the middle, closest to you, not on the sink side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 7,
+        "caption": "The chair in the middle on the side of the table that is farthest away from the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 17,
+        "caption": "facing the sinks, the one on the left",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "sinks"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 13,
+        "caption": "The cup furthest from the back of the worktop.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 16,
+        "caption": "This is the think with the tap",
+        "parsed_query": {
+            "Target": "think",
+            "Anchor": "tap"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 15,
+        "caption": "The cup that is closer to the sink and directly under the soap dispenser",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "sink",
+                "soap dispenser"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 23,
+        "caption": "It is the lower oven just to the left of the countertop.",
+        "parsed_query": {
+            "Target": "lower oven",
+            "Anchor": "countertop"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 10,
+        "caption": "facing the sink, the back middle chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink",
+                "back middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 8,
+        "caption": "If you face the sinks, the item you need to select is the chair closest to you on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 15,
+        "caption": "The cup closer to the sinks facet",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "sinks facet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 7,
+        "caption": "facing the sink, middle chair furthest from sink",
+        "parsed_query": {
+            "Target": "middle chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 9,
+        "caption": "Standing with your back to the sink, it's the chair on the far left that's on the side of the table closest to the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 14,
+        "caption": "The middle cup in the corner.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 13,
+        "caption": "The white cup closest to the edge of the counter next to the refrigerator.",
+        "parsed_query": {
+            "Target": "white cup",
+            "Anchor": [
+                "counter",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 16,
+        "caption": "The sink on the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 7,
+        "caption": "the chair in the middle furthest away from the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 11,
+        "caption": "Looking at the sink, I am the chair to the left closest to the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 9,
+        "caption": "it is the chair at the end of the table closest to the refrigerator",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 10,
+        "caption": "Facing the sinks you need to select the chair that is in the row furthest away from you and in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks",
+                "row",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 9,
+        "caption": "The chair on the corner closest to the brown cabinet",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 14,
+        "caption": "is the cup that is in the middle of the 3 cups",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "cup"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 13,
+        "caption": "Facing the cups, the Cup on the far right.",
+        "parsed_query": {
+            "Target": "Cup",
+            "Anchor": "cups"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 17,
+        "caption": "Choose the sink closer to the paper towel dispenser that is on your left if you face the sinks.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "paper towel dispenser"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 11,
+        "caption": "When standing in the middle of the room facing the kitchen sinks, the correct chair is on the far left and closest to the counter.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen sinks",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 24,
+        "caption": "The oven that is on the top.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 16,
+        "caption": "The sink on the right side",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 6,
+        "caption": "facing the sink, chair on the left furthest from sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 24,
+        "caption": "Pick the oven on top of the other oven.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": "oven"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 11,
+        "caption": "Facing the sinks. select the chair that is on the row furthest away from you and on the far left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sinks",
+                "row furthest away from you",
+                "far left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 23,
+        "caption": "It's the oven below the other oven.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 8,
+        "caption": "Facing the sink, choose the chair on the right side of the table furthest from the sink area.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 15,
+        "caption": "This cup is not against the brown side of the cabinet.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "brown side of the cabinet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 23,
+        "caption": "the bottom oven, the one on the bottom",
+        "parsed_query": {
+            "Target": "bottom oven",
+            "Anchor": "bottom oven"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 8,
+        "caption": "Facing the sink select the chair that is in the row closest to you and on the far right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink",
+                "row",
+                "far right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 11,
+        "caption": "When facing the sink, it's the first chair on the left that is on the side closest to the sink.",
+        "parsed_query": {
+            "Target": "first chair",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 13,
+        "caption": "Find the cup that is closest to the table.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 6,
+        "caption": "When facing the white wall, it is the chair on the left hand side, closest to the white wall (at the end of table)",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white wall",
+                "end of table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 15,
+        "caption": "These cups are closest to the sink.",
+        "parsed_query": {
+            "Target": "cups",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 24,
+        "caption": "The higher of the two ovens.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 24,
+        "caption": "the top half of a black oven level with the counter.",
+        "parsed_query": {
+            "Target": "top half of a black oven",
+            "Anchor": "counter"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 17,
+        "caption": "The sink is under the paper towel holder.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "paper towel holder"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": 15,
+        "caption": "the cup closest to the sink and the wall directly under the soap dispenser",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "sink",
+                "soap dispenser"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

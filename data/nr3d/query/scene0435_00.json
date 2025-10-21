@@ -1,0 +1,1483 @@
+[
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "'The lamp between the two beds.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "'The lamp next to the window.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 11,
+        "caption": "The bed closest to the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 30,
+        "caption": "find the towel on top of the toilet",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 57,
+        "caption": "This picture is above the dark desk.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "dark desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 63,
+        "caption": "The suitcase is the one at the foot of a bed.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "the suitcase is by the desk",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 58,
+        "caption": "The trash can in the bedroom under the desk",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bedroom",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "Object used to transport clothes while traveling, found on the right of the TV.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 11,
+        "caption": "The bed closer to the windows.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 58,
+        "caption": "The trash can that's outside of the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 32,
+        "caption": "The trash can in the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 13,
+        "caption": "Door heading out of room not the door across from the other",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door heading out of room",
+                "door across from the other"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 11,
+        "caption": "The correct bed is the one closer the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 10,
+        "caption": "The bed closest to the door and bathroom.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "door",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 11,
+        "caption": "It is the bed closest to the windows and furthest from the bathroom.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "windows",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 63,
+        "caption": "This suitcase is at the foot of a bed.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 13,
+        "caption": "Facing the exit door, the exit door.",
+        "parsed_query": {
+            "Target": "exit door",
+            "Anchor": "exit door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 34,
+        "caption": "The white cabinet on the wall.",
+        "parsed_query": {
+            "Target": "white cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 32,
+        "caption": "the trash can in the bathroom next to the toilet",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 21,
+        "caption": "The door to the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "Choose the lamp on the nightstand between the two beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "nightstand",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 63,
+        "caption": "The suitcase at the foot of the bed.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 18,
+        "caption": "The door to the room next door that has shoes in front of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "room next door",
+                "shoes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "The correct lamp is in front of the window.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 32,
+        "caption": "the trashcan next to the toilet",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 57,
+        "caption": "picture on wall facing beds and next to tv",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "beds",
+                "tv"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 32,
+        "caption": "It is the trash can in the bathroom, next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 21,
+        "caption": "if beds are left, it is the door also on left.",
+        "parsed_query": {
+            "Target": "beds",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 21,
+        "caption": "The square next to the bathroom door.",
+        "parsed_query": {
+            "Target": "square",
+            "Anchor": "bathroom door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 34,
+        "caption": "the towels hanging from the shower.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": "shower"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 16,
+        "caption": "These shoes are adjacent to the nearby door rather than in front of it.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 10,
+        "caption": "When standing at the foot of the beds,  the one on the right.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 28,
+        "caption": "Find the picture hanging above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 57,
+        "caption": "This picture hangs above a dark desk.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "dark desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "Find the suitcase to the right of the desk.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 21,
+        "caption": "The door that goes into the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 16,
+        "caption": "The silver dome that is the closest to the center or middle of the room.",
+        "parsed_query": {
+            "Target": "silver dome",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 30,
+        "caption": "The towel located on top of the water tank of toilet",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "water tank",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 32,
+        "caption": "The can in the bathroom.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 18,
+        "caption": "Find the door across from the bathroom door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 13,
+        "caption": "the door that houses a knob sign.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 16,
+        "caption": "The grey bag on floor near the bed.",
+        "parsed_query": {
+            "Target": "grey bag",
+            "Anchor": "floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 58,
+        "caption": "The trash can is under the desk to the left of the chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 18,
+        "caption": "Choose the picture that is across the hall from the bathroom door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bathroom door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 21,
+        "caption": "The correct door leads to the toilet and bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "toilet",
+                "bathroom"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 57,
+        "caption": "the picture is above the desk.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 10,
+        "caption": "The correct bed is closer to the toilet.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 34,
+        "caption": "Enter the bathroom. Pick the towel hanging from the shower. Do not pick the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower",
+                "shower curtain"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 17,
+        "caption": "The shoe box that is more in front of the door",
+        "parsed_query": {
+            "Target": "shoe box",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 30,
+        "caption": "A white box on top of the toilet.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "The lamp between the beds",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "This lamp is between the two bed headboards.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed headboard",
+                "bed headboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "on the floor near the window",
+        "parsed_query": {
+            "Target": "floor",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "The lamp between the two beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 58,
+        "caption": "the trash can under the desk near the television",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk",
+                "television"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 13,
+        "caption": "The door is not the door to the bathroom or the door across from the bathroom. The door you are looking for is the door with the push handle that has a rectangular metal area where the handle is. If you were to walk in this door, the bathroom and the beds would be on your right as you could walk directly to the window and see the curtains.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom",
+                "beds",
+                "window",
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 28,
+        "caption": "The picture above the toilet",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 28,
+        "caption": "the picture in the bathroom",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "The lamp that is at the end of the room between the brown curtains, with a black mini fridge on the left and a brown chair on the right.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "brown curtains",
+                "black mini fridge",
+                "brown chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "standing lamp by the window",
+        "parsed_query": {
+            "Target": "standing lamp",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "When you enter the room, walk towards the window and find the suitcase directly opposite the bed closest to the window.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 18,
+        "caption": "door directly in front of the bathroom door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 30,
+        "caption": "Walking through the room and past both beds to the bathroom. There you will find a toilet. On the back top lid to the toilet. Where it's guts would be inside. There is a towel sitting on the lid. That towel is your boxed object.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 11,
+        "caption": "The bed farthest from the bathroom",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 34,
+        "caption": "It is the towel closest to the door, not the towel sitting on the back of the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "door",
+                "back of the toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 63,
+        "caption": "suitcase at the end of the bed closest to the bathroom",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": [
+                "bed",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 13,
+        "caption": "It is the door that is furthest from the beds.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "beds"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 32,
+        "caption": "The trash can right next to the toilet",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 28,
+        "caption": "Picture in the bathroom",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 34,
+        "caption": "The towel hanging on the wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 16,
+        "caption": "The shoes that are farthest away from the doors.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 17,
+        "caption": "the black shoes in front of the door",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 16,
+        "caption": "The shoes that are farther from the bathroom",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 17,
+        "caption": "when looking at the room with both shoes facing you it is the shoe to the left on the floor",
+        "parsed_query": {
+            "Target": "shoe",
+            "Anchor": [
+                "room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 10,
+        "caption": "It is the bed closest to the door, not the bed closest to the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "door",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 11,
+        "caption": "the bed closest to the window and without any clothes on it",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "window",
+                "clothes"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 21,
+        "caption": "The door that is connected to the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 63,
+        "caption": "The suitcase closest to the door.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "The talk lamp in front of the window.",
+        "parsed_query": {
+            "Target": "talking lamp",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 10,
+        "caption": "The bed with clothes on the bottom",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "clothes"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 18,
+        "caption": "The door that adjoins the next hotel room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "next hotel room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 16,
+        "caption": "The shoes furthest from the front door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 34,
+        "caption": "If you are standing at the door into the bathroom, looking directly at the toilet, the towel to the right, that is hanging on the shower is the towel you are looking for.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet",
+                "shower"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 10,
+        "caption": "Facing the foot of the bed, the bed on the right.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "foot of the bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "The lamp located between the two beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 10,
+        "caption": "This is the bed that has close on it currently.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 58,
+        "caption": "The trash can not in the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 57,
+        "caption": "The picture above the desk.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "lamp in front of the window",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 57,
+        "caption": "It is the picture above the desk.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 13,
+        "caption": "The exit door to the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 32,
+        "caption": "Choose the trash can in the bathroom area.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "Facing the foot of the bed, the suitcase on the left.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 50,
+        "caption": "Facing the foot of the bed, the lamp on the left.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 28,
+        "caption": "Start with your back to the door and walk a few steps into the room until you see the door to the bathroom on the right, go into the bathroom, and you want the picture above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "I am the lamp between the beds",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 30,
+        "caption": "the towel on the toilet",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 57,
+        "caption": "The picture on the wall behind the desk.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 18,
+        "caption": "The door on the left wall when facing the window and curtains.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "left wall",
+                "window",
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 17,
+        "caption": "The shoes directly in front of the door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 11,
+        "caption": "the bed closer to the window",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 28,
+        "caption": "picture in the bathroom",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 34,
+        "caption": "The towels that are hangin on the entrance to the shower",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "entrance",
+                "shower"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 17,
+        "caption": "The shoes closer to the door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 17,
+        "caption": "It is the shoes closest to the door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 30,
+        "caption": "The towel on the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 16,
+        "caption": "the pair of shoes that is farther away from the entrance door",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 18,
+        "caption": "Choose the door oppose of the bathroom door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "The black suitcase that's next to the desk and chair.",
+        "parsed_query": {
+            "Target": "black suitcase",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 58,
+        "caption": "The trash can under the desk, next to the desk chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk",
+                "desk chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 63,
+        "caption": "Face the beds.  The suitcase you want to pick is the one on the left.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "beds"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 63,
+        "caption": "The suitcase right at the foot of the bed.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "the lamp between the beds",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 21,
+        "caption": "Select the door that would go into the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 38,
+        "caption": "A lamp on a table between two beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "table",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 60,
+        "caption": "The suitcase closest to the window.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 17,
+        "caption": "The correct shoes are closer to the door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 58,
+        "caption": "The trash can is under the desks",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desktop",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 13,
+        "caption": "it is the main door into the room",
+        "parsed_query": {
+            "Target": "main door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 28,
+        "caption": "the picture in the bathroom.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0435_00",
+        "target_id": 30,
+        "caption": "The folded towel above the toilet.",
+        "parsed_query": {
+            "Target": "folded towel",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

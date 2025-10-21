@@ -1,0 +1,177 @@
+[
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 32,
+        "caption": "A whiteboard in a office conference room.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "office conference room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 31,
+        "caption": "Standing in the middle of the room, looking at both white boards, its the board on the right",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "white boards"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 32,
+        "caption": "The whiteboard that is bigger and more distorted looking",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 32,
+        "caption": "wall in the corner",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 31,
+        "caption": "the whiteboard nearest the door",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 31,
+        "caption": "On the wall with two splotches of paint/color, choose the smaller one.",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "paint",
+                "color"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 31,
+        "caption": "Choose the smaller whiteboard on the right.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 31,
+        "caption": "It is the whiteboard closest to the black door.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "black door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 31,
+        "caption": "White board on the right when facing them, nearest to the door",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 31,
+        "caption": "The  correct white board is the larger one that is more in the middle of the room.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "more in the middle of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 32,
+        "caption": "the whiteboard closer to the windows",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 32,
+        "caption": "The whiteboard furthest from the closed black door.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "closed black door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 32,
+        "caption": "The larger whiteboard on the left, as seen from the table.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": 32,
+        "caption": "This is a somewhat larger whiteboard to the left of the other board against the wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "whiteboard",
+                "board",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

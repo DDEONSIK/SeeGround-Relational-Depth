@@ -1,0 +1,180 @@
+[
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 7,
+        "caption": "pipes above the washer/dryer",
+        "parsed_query": {
+            "Target": "pipes",
+            "Anchor": [
+                "washer",
+                "dryer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 15,
+        "caption": "This is the lower pipe, behind the laundry machines.",
+        "parsed_query": {
+            "Target": "pipe",
+            "Anchor": "laundry machines"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 15,
+        "caption": "pipes behind the washer and sink",
+        "parsed_query": {
+            "Target": "pipes",
+            "Anchor": [
+                "washer",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 15,
+        "caption": "Choose the hose that goes from the bottom of the white sink down, over and up to behind the washer/dryer.",
+        "parsed_query": {
+            "Target": "hose",
+            "Anchor": [
+                "white sink",
+                "washer/dryer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 7,
+        "caption": "The pipe at the top of the room above the stackable dryers",
+        "parsed_query": {
+            "Target": "pipe",
+            "Anchor": [
+                "room",
+                "stackable dryers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 15,
+        "caption": "The pipe is located in between the laundry machines and sink",
+        "parsed_query": {
+            "Target": "pipe",
+            "Anchor": [
+                "laundry machines",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 7,
+        "caption": "The highest pipe.",
+        "parsed_query": {
+            "Target": "pipe",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 15,
+        "caption": "It is the pipes on the wall next to the two side by side washing machines, not the pipes above the stacked washing machines.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 15,
+        "caption": "The lower set of pipes.",
+        "parsed_query": {
+            "Target": "pipes",
+            "Anchor": "pipes"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 7,
+        "caption": "The correct pipes are above the stackable washer/dryer, up high.",
+        "parsed_query": {
+            "Target": "pipes",
+            "Anchor": "stackable washer/dryer"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 7,
+        "caption": "the pipes above the washer and dryer and not to the side",
+        "parsed_query": {
+            "Target": "pipes",
+            "Anchor": [
+                "washer",
+                "dryer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 7,
+        "caption": "The box closest to the ceiling above the washer and dryer.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "ceiling",
+                "washer",
+                "dryer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 15,
+        "caption": "The pipe between the utility sink and the washer.",
+        "parsed_query": {
+            "Target": "pipe",
+            "Anchor": [
+                "utility sink",
+                "washer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": 7,
+        "caption": "the vent close to the ceiling",
+        "parsed_query": {
+            "Target": "vent",
+            "Anchor": [
+                "ceiling"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "there is a monitor sitting on the left side of a desk.  the desk is smaller and curved of the two desks sitting back to back next to the window.  the monitor is more of a light gray, where the second one nearest the window is yellowed a little bit.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "second desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "30",
+        "target_name": "keyboard",
+        "caption": "the keyboard is sitting on top of the desk. it is in front of the left-side monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "left-side monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "the cabinet is next to the couch. it is located on the right side of the couch, against the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "couch",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "30",
+        "target_name": "keyboard",
+        "caption": "the keyboard sits atop the workstation desk. it is located in front of the left-side monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "workstation desk",
+                "left-side monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "it is a dark colored two seater futon located by the door. it is located underneath a whiteboard.",
+        "parsed_query": {
+            "Target": "two seater futon",
+            "Anchor": [
+                "door",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    }
+]

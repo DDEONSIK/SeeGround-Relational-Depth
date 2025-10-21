@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "0",
+        "target_name": "door",
+        "caption": "a door sits to the right of a painting on the wall. it's partially standing open.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "painting on the wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "3",
+        "target_name": "mattress",
+        "caption": "a mattress leans against a wall. it's to the right of a picture and it partially covers the picture.",
+        "parsed_query": {
+            "Target": "mattress",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "shelves sit in a recess in the wall. they are to the left of a painting on the wall.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "wall",
+                "painting"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "14",
+        "target_name": "picture",
+        "caption": "a painting faces us hanging on the wall. it's to the left of an open door.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "wall",
+                "open door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "this is a brown table. it is in the corner.",
+        "parsed_query": {
+            "Target": "brown table",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,1339 @@
+[
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 14,
+        "caption": "Choose the box that is closest to the table.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 15,
+        "caption": "A brown box with a white sticker in the upper left corner, in the closet below hanging clothes.",
+        "parsed_query": {
+            "Target": "brown box",
+            "Anchor": [
+                "closet",
+                "hanging clothes"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 14,
+        "caption": "The box that is outside of the closet.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 31,
+        "caption": "Of the three bags near the bed, it is the one closest to the wall.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 31,
+        "caption": "in the group of three boxes, it is the bag closest to the wall.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "three boxes",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 25,
+        "caption": "Facing the foot of the bed, the pillow on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 33,
+        "caption": "choose the black bag on the floor.",
+        "parsed_query": {
+            "Target": "black bag",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 36,
+        "caption": "The smaller of the blankets.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 15,
+        "caption": "The correct box is the one inside the closest and it's taller.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "closest",
+                "taller"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 18,
+        "caption": "The correct door is very small and in the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 26,
+        "caption": "the pillow on the side near the kitchen table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "kitchen table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 28,
+        "caption": "The window closest to a table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 33,
+        "caption": "the bag is closest to the desk",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 27,
+        "caption": "This backpack is closer to the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 14,
+        "caption": "It is the box that is not in the closet.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 14,
+        "caption": "This box is not inside the closet.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 37,
+        "caption": "Bag located in closet",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 18,
+        "caption": "The tiny door in the corner that is closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 26,
+        "caption": "Standing at the foot of the bed, looking at the head of the bed, it's the pillow on the left",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "foot of the bed",
+                "head of the bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 34,
+        "caption": "The bag closest to, but not in, the closet.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "closet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 22,
+        "caption": "the window above the radiator",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "radiator"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 34,
+        "caption": "face the foot of the bed, three boxes are on your left, pick the one closest to you",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "foot of the bed",
+                "three boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 34,
+        "caption": "The light brown bag on the floor closest to the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 33,
+        "caption": "Black bag behind chair.",
+        "parsed_query": {
+            "Target": "black bag",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 34,
+        "caption": "This bag is closest to the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 18,
+        "caption": "The door is the very small one, like an entrance to a storage area.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 37,
+        "caption": "the blue bag in the closet",
+        "parsed_query": {
+            "Target": "blue bag",
+            "Anchor": "closet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 32,
+        "caption": "Its the black backpack right behind the white chair and desk.",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": [
+                "white chair",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 22,
+        "caption": "The air conditioner in the window",
+        "parsed_query": {
+            "Target": "air conditioner",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 32,
+        "caption": "The backpack by the red laundry basket.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "red laundry basket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 15,
+        "caption": "A brown box inside of a closet with a white label on the front of the box that is on the top-left.",
+        "parsed_query": {
+            "Target": "brown box",
+            "Anchor": [
+                "closet",
+                "white label"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 37,
+        "caption": "The blue bin in the closet.",
+        "parsed_query": {
+            "Target": "blue bin",
+            "Anchor": "closet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 17,
+        "caption": "A door near the closet doors, that leads to a hallway.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "closet doors",
+                "hallway"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 27,
+        "caption": "the backpack closest to the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 8,
+        "caption": "the blankets on the bed",
+        "parsed_query": {
+            "Target": "blankets",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 32,
+        "caption": "The box that is farther away from the bed and directly behind the white chair at the table.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "bed",
+                "white chair",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 37,
+        "caption": "the blue bag in the closet",
+        "parsed_query": {
+            "Target": "blue bag",
+            "Anchor": "closet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 17,
+        "caption": "The door for people.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 22,
+        "caption": "The window with the AC.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "AC"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 18,
+        "caption": "The correct door is the very small one that is closed in the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "very small one",
+                "closed",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 36,
+        "caption": "The blanket is in the closet on the floor under the rack. It is red in color.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": [
+                "closet",
+                "rack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 32,
+        "caption": "the taller pile of clothes further from the bed",
+        "parsed_query": {
+            "Target": "clothes",
+            "Anchor": [
+                "taller pile",
+                "further from the bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 33,
+        "caption": "The green box is the tallest and largest one overall.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 27,
+        "caption": "Directly to the left of the bed.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 36,
+        "caption": "You are looking for the pile of blankets that are on the floor in the wardrobe/cupboard.",
+        "parsed_query": {
+            "Target": "pile of blankets",
+            "Anchor": [
+                "wardrobe/cupboard",
+                "floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 26,
+        "caption": "The pillow that is closer to the table and chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 25,
+        "caption": "The pillow on the right next to the small wooden table that has a chest on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "small wooden table",
+                "chest"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 25,
+        "caption": "A pillow on the side of the bed next to the small brown night table with the chest on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "small brown night table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 15,
+        "caption": "You are looking for the brown cardboard box that is in the closet.",
+        "parsed_query": {
+            "Target": "brown cardboard box",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 33,
+        "caption": "It is the bag on the wall, not in the closet.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "wall",
+                "closet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 32,
+        "caption": "It is the backpack near the chair, not near the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 26,
+        "caption": "Looking down it is your right",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 25,
+        "caption": "when staring at the bed, the pillow to the right, near the window",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 8,
+        "caption": "gray blanket on a bed",
+        "parsed_query": {
+            "Target": "gray blanket",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 26,
+        "caption": "If you look at the bed with the headboard away from you, the pillow is the one on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 25,
+        "caption": "Choose the pillow closest to the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 18,
+        "caption": "the small door, the one that looks like a mini door",
+        "parsed_query": {
+            "Target": "small door",
+            "Anchor": "mini door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 8,
+        "caption": "the bed with the green comforter",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "green comforter"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 14,
+        "caption": "the box on the floor in front of the closet",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "floor",
+                "closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 15,
+        "caption": "there is some clothes handing on the wall. Right underneath them is a brown box with a white sticker on. This is what you are looking for.",
+        "parsed_query": {
+            "Target": "brown box with white sticker",
+            "Anchor": [
+                "clothes hanging on the wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 28,
+        "caption": "The small window over the brown desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "brown desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 28,
+        "caption": "The window above the brown desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "brown desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 17,
+        "caption": "tall open door to the hallway",
+        "parsed_query": {
+            "Target": "tall open door",
+            "Anchor": "hallway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 17,
+        "caption": "The human size door with brass door knob that is open.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "human size",
+                "brass door knob",
+                "open"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 22,
+        "caption": "Choose the window with two vents under it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "vent"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 27,
+        "caption": "The backpack next to the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 8,
+        "caption": "The blanket is on the bed",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 8,
+        "caption": "It is the blanket on the bed.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 28,
+        "caption": "The window that is above the brown desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "brown desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 31,
+        "caption": "It is the bag against the wall, not in the closet.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 22,
+        "caption": "window to the right of the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 25,
+        "caption": "The pillow closest to the small brown table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "small brown table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 33,
+        "caption": "The bag nearest the white chair",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "white chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 22,
+        "caption": "Facing the foot of the bed, the window to the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 18,
+        "caption": "tiny door in the corner",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 31,
+        "caption": "Select the bag that is closest to the wall.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 36,
+        "caption": "The blanket that is in the closet",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 17,
+        "caption": "The larger of the 2 doors.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 32,
+        "caption": "Choose the backpack right behind the white chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "white chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 36,
+        "caption": "the red pile of blankets nearest to the closet",
+        "parsed_query": {
+            "Target": "red pile of blankets",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 34,
+        "caption": "I am the bag closest to the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 27,
+        "caption": "the backpack closest to the bed",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 34,
+        "caption": "The bag in front of the others on the floor closest to the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 27,
+        "caption": "The backpack close to the bed on the floor",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 26,
+        "caption": "the pillow that DOES NOT have a night stand right next to it",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 36,
+        "caption": "Find the red blanket located in the closet.",
+        "parsed_query": {
+            "Target": "red blanket",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 8,
+        "caption": "It is the light blue blanket that is on the bed.",
+        "parsed_query": {
+            "Target": "light blue blanket",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 31,
+        "caption": "Facing the closet, the bag on the top right corner.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "closet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 37,
+        "caption": "The correct bag is the one in the closest.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "closest"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 28,
+        "caption": "The smaller of the two windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 34,
+        "caption": "If you are standing behind the desk, facing the window, select the bag on the floor on the far right",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 17,
+        "caption": "The larger door that's open.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 31,
+        "caption": "The bag along the wall not in the closest",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 37,
+        "caption": "the bag in the closet next to the cardboard box.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "closet",
+                "cardboard box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 8,
+        "caption": "The red blanket that's on the closet floor.",
+        "parsed_query": {
+            "Target": "red blanket",
+            "Anchor": "closet floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 17,
+        "caption": "it is the white door opening to the room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 18,
+        "caption": "select the small door, looks like a trap door",
+        "parsed_query": {
+            "Target": "small door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 26,
+        "caption": "White and fluffy that is on the opposite side of the brown structure.",
+        "parsed_query": {
+            "Target": "fluffy object",
+            "Anchor": "brown structure"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 36,
+        "caption": "The red blanket in the closet, on the floor and under the black jacket.",
+        "parsed_query": {
+            "Target": "red blanket",
+            "Anchor": [
+                "closet",
+                "floor",
+                "black jacket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 33,
+        "caption": "Choose the bag that is closest to the desk chair.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "desk chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 32,
+        "caption": "the backpack furthest away from the bed",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 28,
+        "caption": "The smaller window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 28,
+        "caption": "the window by the desk",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 37,
+        "caption": "The bag by itself in the closet.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 25,
+        "caption": "The pillow closest to the air conditioning unit.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "air conditioning unit"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 31,
+        "caption": "It is the red bag closest to the wall.",
+        "parsed_query": {
+            "Target": "red bag",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 15,
+        "caption": "A brown cardboard box in a cupboard with clothes hanging above it.",
+        "parsed_query": {
+            "Target": "brown cardboard box",
+            "Anchor": [
+                "cupboard",
+                "clothes"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 14,
+        "caption": "We are searching for a white box with a yellow sticker situated in front of the 2 door build-in wardrobe.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": [
+                "yellow sticker",
+                "2 door build-in wardrobe"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 27,
+        "caption": "It's the backpack next to the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 22,
+        "caption": "The window next to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 15,
+        "caption": "The box that is fully in the closet",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": 14,
+        "caption": "The box in the bedroom",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "",
+            "Anchor List": [
+                ""
+            ],
+            "Anchor Count": 0
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

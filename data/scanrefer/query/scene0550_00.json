@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "22",
+        "target_name": "shower_curtain",
+        "caption": "a white curtain. on side of the bath tub.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": [
+                "bath tub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "a gray bin. next to the heater of the bath.",
+        "parsed_query": {
+            "Target": "gray bin",
+            "Anchor": [
+                "heater of the bath"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "a dark brown door. on the ending of the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "22",
+        "target_name": "shower_curtain",
+        "caption": "a white curtain. in front of the toilet.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "a dark brown wooden door. on the hall.",
+        "parsed_query": {
+            "Target": "dark brown wooden door",
+            "Anchor": "hall"
+        },
+        "unique": false
+    }
+]

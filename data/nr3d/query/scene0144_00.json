@@ -1,0 +1,496 @@
+[
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 14,
+        "caption": "Dresser nearest to the closet",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 4,
+        "caption": "Choose the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 14,
+        "caption": "Find the black dresser.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 18,
+        "caption": "Its the entire white dresser.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 2,
+        "caption": "This curtain is closest to the closet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 18,
+        "caption": "This is a wide white dresser and is not by the foot of the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "foot of the bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 18,
+        "caption": "This is a horizontal white dresser.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 17,
+        "caption": "When standing in the middle of the room facing the window, the correct curtain is on the right.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 2,
+        "caption": "Facing the window, the curtain on the left.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 17,
+        "caption": "Walking in from the door, looking at the curtains on the right.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 14,
+        "caption": "The correct dresser is black and taller.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 2,
+        "caption": "It' s the curtain on the left, closest to the closet.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 18,
+        "caption": "Facing the monitor, the dresser on the right.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 18,
+        "caption": "Select the white dresser near the desk.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 3,
+        "caption": "the chair closest to the bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 3,
+        "caption": "It is the chair closest to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 3,
+        "caption": "It is the chair closest to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 2,
+        "caption": "The curtain at the foot of the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 2,
+        "caption": "Curtain next to the small piece of artwork on the wall.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "small piece of artwork"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 3,
+        "caption": "The chair closest to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 3,
+        "caption": "chair, near the bed and window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 14,
+        "caption": "It is the tall dresser at the foot of the bed",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 18,
+        "caption": "The white dresser further from the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 17,
+        "caption": "It is the curtain which is above the bed, closest to the pillow.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "bed",
+                "pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 3,
+        "caption": "The chair closest to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 18,
+        "caption": "When facing the computer monitor, the dresser to the right.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "computer monitor"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 4,
+        "caption": "The chair you want is the one that is furthest from the bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 2,
+        "caption": "The curtains closest to the closet.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 14,
+        "caption": "The dresser opposite of the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 3,
+        "caption": "The chair closest to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 14,
+        "caption": "dresser at the foot of the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 4,
+        "caption": "The chair furthest from the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 14,
+        "caption": "The black dresser next to the closet.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 17,
+        "caption": "The curtains that are over the head of the bed.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 17,
+        "caption": "curtains close to the bed pillow",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": "bed pillow"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 4,
+        "caption": "Turn so you're looking in by the foot of the bed. There are 2 chairs next to the bed its the second one on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 17,
+        "caption": "The curtains on the right, closest to the pillow.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 17,
+        "caption": "The curtain closest to the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 2,
+        "caption": "This object is located on the left hand side of the only window in the room, there are two either side of the window and you need to select the left side one.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 4,
+        "caption": "Two chairs at a desk, the one on the right if you were sitting at the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 4,
+        "caption": "facing the desk the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": 4,
+        "caption": "This chair is at the desk, but is not next to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

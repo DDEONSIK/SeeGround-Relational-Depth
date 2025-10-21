@@ -1,0 +1,172 @@
+[
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "the toilet paper on top not the bottom",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 8,
+        "caption": "Choose the bottom roll of toilet paper.",
+        "parsed_query": {
+            "Target": "bottom roll of toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 8,
+        "caption": "The lower roll of toilet paper",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "The higher of the toilet paper.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 8,
+        "caption": "The lower role of toilet paper next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "The top toilet paper roll on the wall to the left of the door.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 8,
+        "caption": "Choose the bottom roll of toilet paper.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "It is the toilet paper on top.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 8,
+        "caption": "The toilet paper closest to the floor.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "top toilet paper",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "top"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 8,
+        "caption": "This is the lower roll of toilet paper.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "the top toilet paper roll",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 8,
+        "caption": "bottom roll on the wall",
+        "parsed_query": {
+            "Target": "bottom roll",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "toilet paper on  top",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": 7,
+        "caption": "Of the two toilet rolls, the top one.",
+        "parsed_query": {
+            "Target": "toilet roll",
+            "Anchor": [
+                "top one"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

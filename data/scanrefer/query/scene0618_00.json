@@ -1,0 +1,76 @@
+[
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the is located in the corner between a table with black chairs and a bump out in the wall. . it is a tall brown chair and it is the chair closest to the bump out in the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table with black chairs",
+                "bump out in the wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is the brown chair with its back against a black chair. it is the brown chair farthest from the white wall. .",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "brown chair",
+                "black chair",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a gray plastic chair with steel legs.  it is backed against a wall between the window (on the left) and a table (on the right).",
+        "parsed_query": {
+            "Target": "gray plastic chair",
+            "Anchor": [
+                "wall",
+                "window",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "a tall, round bar table.  it is against the wall between two chairs.  there is another table and chairs on the right, and yet another on the left.",
+        "parsed_query": {
+            "Target": "tall, round bar table",
+            "Anchor": [
+                "two chairs",
+                "another table and chairs",
+                "yet another on the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "a long, narrow side table up against the wall. there is an electrical outlet to the left. the pool table is visible to the right.",
+        "parsed_query": {
+            "Target": "side table",
+            "Anchor": [
+                "wall",
+                "electrical outlet",
+                "pool table"
+            ]
+        },
+        "unique": false
+    }
+]

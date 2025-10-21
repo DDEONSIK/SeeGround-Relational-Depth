@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "the desk is on the left side of the room. there is a man working at it.",
+        "parsed_query": {
+            "Target": "man",
+            "Anchor": [
+                "desk",
+                "room"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "the desk is on the left side of the room.  there are 2 desks connected.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk. it is the one on the far left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "far left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "11",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk. it is the second one in from the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "second one in from the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "0",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is under the desk. it is on the far left side.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "far left"
+            ]
+        },
+        "unique": false
+    }
+]

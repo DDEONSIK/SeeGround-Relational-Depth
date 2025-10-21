@@ -1,0 +1,171 @@
+[
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 14,
+        "caption": "The window nearest corner",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 13,
+        "caption": "If you are SITTING on the chair at the desk, select the SMALLER window on the RIGHT.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 13,
+        "caption": "The window that is on the right out of the two.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 14,
+        "caption": "The window furthest from the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 13,
+        "caption": "smaller window on the right",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 14,
+        "caption": "the window closest to the black telephone",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "telephone"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 13,
+        "caption": "if looking at the desk, the window to the top right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 14,
+        "caption": "Green box above desk to the left above the phone. Red box above desk to the right.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 14,
+        "caption": "window closer to the phone",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "phone"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 13,
+        "caption": "Facing the windows,  it is the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 14,
+        "caption": "The window we are looking for is next to the corner above the telephone.  To the left as you are sitting at the desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "telephone",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 13,
+        "caption": "Face the windows the smaller window on the right is the correct choice",
+        "parsed_query": {
+            "Target": "smaller window",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 14,
+        "caption": "The larger of the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": 13,
+        "caption": "Find the window that is further away from the phone.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "phone"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

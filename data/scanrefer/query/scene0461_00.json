@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "there is a small dark brown coffee table. it is square in shape and in front of a large cream chair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "large cream chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "there is an armchair in the right corner of the room. it is under the window.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "window",
+                "corner of the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "there is a dark brown square coffee table. it is not touching any other furniture in the room.",
+        "parsed_query": {
+            "Target": "dark brown square coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "there is a grey armchair in the corner of the room to the left of a coffee table. it is partially under a window but not fully.",
+        "parsed_query": {
+            "Target": "grey armchair",
+            "Anchor": [
+                "coffee table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "there is a large square grey armchair in the corner of the room. it is directly next to a coffee table.",
+        "parsed_query": {
+            "Target": "grey armchair",
+            "Anchor": [
+                "coffee table"
+            ]
+        },
+        "unique": false
+    }
+]

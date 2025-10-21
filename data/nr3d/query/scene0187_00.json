@@ -1,0 +1,802 @@
+[
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 7,
+        "caption": "The table is close to a small orange stool",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "small orange stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 7,
+        "caption": "The longest table in the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 7,
+        "caption": "Long rectangular table with two chairs underneath it.",
+        "parsed_query": {
+            "Target": "long rectangular table",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 0,
+        "caption": "A white and brown chair with a circular table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "circular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 9,
+        "caption": "the table in front of the chair with a circular stand",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "circular stand"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 13,
+        "caption": "The chair at the work table and nearest to the coffee table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "work table",
+                "coffee table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 1,
+        "caption": "The cream arm chair near two tables no other seats infront of it",
+        "parsed_query": {
+            "Target": "cream arm chair",
+            "Anchor": [
+                "two tables",
+                "no other seats"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 8,
+        "caption": "Light brown tan table with a green stool underneath it.",
+        "parsed_query": {
+            "Target": "light brown tan table",
+            "Anchor": "green stool"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 10,
+        "caption": "The coffee table in front of the chair WITHOUT the little brown attached table.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "chair",
+                "little brown attached table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 10,
+        "caption": "the table closest to the small square beige stool",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "small square beige stool"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 1,
+        "caption": "the chair withh nothing colorful around it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 13,
+        "caption": "Facing the table with two chairs, the chair to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 1,
+        "caption": "The arm chair furthest away  from rectangular table",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "rectangular table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 14,
+        "caption": "The correct chair is a small blue chair that is farthest from the wall. Directly behind it is a green stool.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue chair",
+                "wall",
+                "green stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 0,
+        "caption": "chair against wall with a small round table next to it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "small round table",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 14,
+        "caption": "The correct chair is farthest from the wall. It is blue/black and there is a yellow stool directly behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "yellow stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 13,
+        "caption": "Of the two chairs on the table, the chair on the right closest to the other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "table",
+                "other chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 8,
+        "caption": "the box in the center, between the two other boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 9,
+        "caption": "Table closest to the red stool",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red stool"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 8,
+        "caption": "There is a green stool next to this square table",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "square table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 7,
+        "caption": "facing top down it is the table to the right",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 6,
+        "caption": "Find the small table near the wall.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 0,
+        "caption": "Chair with a small round table hanging over the front corner",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 6,
+        "caption": "the only table that is a bar table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 14,
+        "caption": "The black chair of the left hand side of the long, cream colored table",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "left hand side of the long, cream colored table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 1,
+        "caption": "Choose the single tan chair that has the black cord laying on the floor beside of it.",
+        "parsed_query": {
+            "Target": "tan chair",
+            "Anchor": [
+                "black cord"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 1,
+        "caption": "This chair is further from the others and is an armchair against a wall, without a round lap-desk.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "wall",
+                "round lap-desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 9,
+        "caption": "It is the coffee table closest to the orange stool.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "orange stool"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 6,
+        "caption": "a white table in the back of the room",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 10,
+        "caption": "This coffee table is near the high-top white table and is not near the orange footstool.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "white table",
+                "orange footstool"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 9,
+        "caption": "coffee table in front of the long white table.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "white table"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 7,
+        "caption": "The long rectangular table with two chairs pushed under it.",
+        "parsed_query": {
+            "Target": "long rectangular table",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 13,
+        "caption": "There are 2 chairs beside each other at a table, I am the chair closer to the center of the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "center of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 8,
+        "caption": "The square table with the yellow stool under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "yellow stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 8,
+        "caption": "the square yellow table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 14,
+        "caption": "The black chair that is pushed under a white table, closest to the green stool at the other white table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white table",
+                "green stool",
+                "white table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 1,
+        "caption": "The chair on the right, facing the wall with two chairs against it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 6,
+        "caption": "the smallest table, its has no chairs under/next to it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 9,
+        "caption": "Coffee table closest to the orange stool",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "orange stool"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 10,
+        "caption": "table farthest away from the red/orange chair",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red/orange chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 6,
+        "caption": "the tall white table with nothing underneath",
+        "parsed_query": {
+            "Target": "tall white table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 0,
+        "caption": "the chair with a small round table connected near the orange stool",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "orange stool",
+                "small round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 10,
+        "caption": "The table nearest the armchair that does not have an orange table next to it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "armchair",
+                "orange table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 14,
+        "caption": "looking into the room from the orange stool, the far right chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "orange stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 7,
+        "caption": "The long table",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 13,
+        "caption": "The two chairs on the same table, you want the option closer to the brown square table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown square table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 6,
+        "caption": "The table WITHOUT a chair under it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 0,
+        "caption": "The chair beside the orange can",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "orange can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 10,
+        "caption": "It is the coffee table with the brown top that is not by the orange stool. It is on the other side of the room.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "orange stool",
+                "room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 1,
+        "caption": "facing the wall, right chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 8,
+        "caption": "The center-most box.  In-between the two chairs.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "two chairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 10,
+        "caption": "Facing the wall select the table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 0,
+        "caption": "The chair is against the wall next to an orange and white stool or ottoman",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "orange and white stool",
+                "ottoman"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 8,
+        "caption": "It is the square table with the backpack next to it.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "backpack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 9,
+        "caption": "It is the table in front of the armchair with the built in small circular table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "armchair",
+                "small circular table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 9,
+        "caption": "Choose the coffee table that is NOT sitting next to an orange stool.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "orange stool"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 7,
+        "caption": "The table nearest the orange stool.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "orange stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 6,
+        "caption": "The smallest of the tables.",
+        "parsed_query": {
+            "Target": "tables",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 13,
+        "caption": "The correct chair is fully pushed under the table and has a backpack on the ground directly behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "backpack"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 14,
+        "caption": "Two boxes are under a table.  The target box is the farthest from the other two boxes.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "other two boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 0,
+        "caption": "This chair is against a wall and has a small dark round shelf attached to it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "small dark round shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 14,
+        "caption": "The FURTHEST of the 2 objects CLOSEST to the backpack.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "backpack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": 13,
+        "caption": "The correct chair is not against a wall. It has a backpack directly behind it. It is closest to the middle of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "backpack",
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

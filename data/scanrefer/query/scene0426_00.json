@@ -1,0 +1,73 @@
+[
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "37",
+        "target_name": "monitor",
+        "caption": "it is a black monitor. it is by the vertical side of a piano placed on a brown table.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "brown table",
+                "piano"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "27",
+        "target_name": "organizer_shelf",
+        "caption": "four tiered stacked lidded boxes one square in width. it is next to a desk and a lamp shade.",
+        "parsed_query": {
+            "Target": "boxed",
+            "Anchor": [
+                "desk",
+                "lamp shade"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "28",
+        "target_name": "desk",
+        "caption": "this is a flat wooden, laminate desk. it has metal legs and is in the corner next to the bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "corner",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "1",
+        "target_name": "lamp",
+        "caption": "this is a lamp and lamp shade in front of a door. it is between two sofa couches near a wall.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "lamp shade",
+                "door",
+                "sofa couches",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this is a painted white door with a brass handle. it is in the corner of a room with an office chair in front of it.",
+        "parsed_query": {
+            "Target": "white door with brass handle",
+            "Anchor": [
+                "office chair"
+            ]
+        },
+        "unique": false
+    }
+]

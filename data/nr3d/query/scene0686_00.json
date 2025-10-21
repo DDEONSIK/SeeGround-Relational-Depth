@@ -1,0 +1,520 @@
+[
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 3,
+        "caption": "this is the wall between the two toilets",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "toilet",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 23,
+        "caption": "The seat is lifted up on this toilet.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 2,
+        "caption": "The bathroom stall that is closest to the sink.",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 0,
+        "caption": "choose the open door to the stall furthest from the sink.",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 24,
+        "caption": "the stall that is in the corner",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 23,
+        "caption": "The toilet in the right stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "right stall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 3,
+        "caption": "The door in the middle of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 3,
+        "caption": "choose the open door of the stall next to the sink.",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": [
+                "stall",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 3,
+        "caption": "The stall door closer to the sink.",
+        "parsed_query": {
+            "Target": "stall door",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 2,
+        "caption": "the toilet stall next to the sink",
+        "parsed_query": {
+            "Target": "toilet stall",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 2,
+        "caption": "Full cubicle nearest the sinks.",
+        "parsed_query": {
+            "Target": "cubicle",
+            "Anchor": "sinks"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 1,
+        "caption": "The object is the toilet stall further away from the sink.",
+        "parsed_query": {
+            "Target": "toilet stall",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 24,
+        "caption": "The toilet with the seat down",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 3,
+        "caption": "open door in the middle",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 23,
+        "caption": "The toilet is the one with the seat flipped up.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 1,
+        "caption": "The bathroom stall further away from the sink",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 0,
+        "caption": "The stall that is NOT in between the two toilets",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": "toilets"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 24,
+        "caption": "toilet in the first stall on the left",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "first stall on the left"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 24,
+        "caption": "the toilet thats farthest away from the sink",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 23,
+        "caption": "This toilet is the one with the seat up, and is in the stall closest to the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink",
+                "stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 1,
+        "caption": "bathroom stall in the corner",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 2,
+        "caption": "The correct toilet has the seat up and is closer to the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 0,
+        "caption": "the stall against the wall",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 1,
+        "caption": "The toilet stall is the furthest one from the sink.",
+        "parsed_query": {
+            "Target": "toilet stall",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 0,
+        "caption": "the stall door farthest away from the sink",
+        "parsed_query": {
+            "Target": "stall door",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 2,
+        "caption": "The bathroom stall with the toilet whose lid is up.",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "toilet",
+                "lid"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 1,
+        "caption": "Bathroom stalls, you want the one with the toilet seat down.",
+        "parsed_query": {
+            "Target": "bathroom stalls",
+            "Anchor": [
+                "toilet seat"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 23,
+        "caption": "when facing the sink, choose the toilet closest to the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 3,
+        "caption": "Choose the bathroom stall door that has the toilet lid up and is closest to the sink.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "sink",
+                "toilet lid"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 2,
+        "caption": "The bathroom stall with the toilet seat that is up.",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "toilet seat"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 3,
+        "caption": "it is the bathroom stall door next to the toilet with a lid that is open",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "toilet",
+                "lid",
+                "open"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 24,
+        "caption": "It is the furthest toilet from the sink. The seat is not up.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 2,
+        "caption": "The bathroom stall closest to the sink",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 24,
+        "caption": "Pick the toilet that has the seat down.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 23,
+        "caption": "toilet closest to the sink",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 1,
+        "caption": "The stall farthest from the sink.",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 0,
+        "caption": "door farthest away from the sink",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 23,
+        "caption": "Facing the toilets, select the one on the right.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "toilet",
+                "entrance door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 0,
+        "caption": "The stall door in the back corner of the bathroom",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": [
+                "stall door",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 0,
+        "caption": "The door of the stall with the toilet lid down.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "stall",
+                "toilet lid"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 24,
+        "caption": "This toilet does not have a raised seat and is further from the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": 1,
+        "caption": "The stall to the left, furthest from the sink",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

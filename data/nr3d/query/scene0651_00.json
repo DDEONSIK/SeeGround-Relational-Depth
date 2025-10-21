@@ -1,0 +1,598 @@
+[
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 10,
+        "caption": "The chair next to the brightest edge of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brightest edge of the table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 7,
+        "caption": "choose the chais against the wall that runs into the fridge.",
+        "parsed_query": {
+            "Target": "chais",
+            "Anchor": [
+                "wall",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 9,
+        "caption": "Facing the fridge, choose the rightmost chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 7,
+        "caption": "Chair up against same wall as fridge",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 9,
+        "caption": "The furthest chair from the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 9,
+        "caption": "The correct chair is farthest from the kitchen sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 4,
+        "caption": "Choose the kitchen cabinets above the stove and refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "stove",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 8,
+        "caption": "the chair at the table with its back toward the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 3,
+        "caption": "The cabinets above the sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 8,
+        "caption": "the chair closest to the kitchen",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "kitchen"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 5,
+        "caption": "The cabinet with a sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 9,
+        "caption": "Facing the refrigerator, the chair to the far right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 10,
+        "caption": "Face the fridge and then look at the seat on the bottom right.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 3,
+        "caption": "Select the cabinet above the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 4,
+        "caption": "It is the cabinets above the stove and refrigerator.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "stove",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 5,
+        "caption": "cabinet with the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 8,
+        "caption": "Choose the chair that is closest to the kitchen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "kitchen"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 4,
+        "caption": "The large cabinets directly above the fridge and oven",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "fridge",
+                "oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 8,
+        "caption": "This chair has it's back facing the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 10,
+        "caption": "Look at the chair facing the kitchen, now its the one to your left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 10,
+        "caption": "Table and chairs, the one that is facing away from the sink, it is the one beside that on your right",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 5,
+        "caption": "select the kitchen cabinets that include the sink",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 7,
+        "caption": "The chair on the same side as the refrigerator",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 3,
+        "caption": "The kitchen cabinet is directly above the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 7,
+        "caption": "The chair closest to the wall that is next to the fridge.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 7,
+        "caption": "The chair along the wall with the fridge.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 3,
+        "caption": "You want to select the cabinets (row of three) above the kitchen sink.",
+        "parsed_query": {
+            "Target": "cabinets (row of three)",
+            "Anchor": [
+                "kitchen sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 4,
+        "caption": "Choose the upper kitchen cabinet that is directly above the stove and the refrigerator.",
+        "parsed_query": {
+            "Target": "upper kitchen cabinet",
+            "Anchor": [
+                "stove",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 10,
+        "caption": "When you face the room, the blue basket is on the right, the table is on the left and the chair you should choose sits furthest from you at the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue basket",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 8,
+        "caption": "chair closest to the kitchen",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "kitchen"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 8,
+        "caption": "Wooden chair closest to the kitchen.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "kitchen"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 9,
+        "caption": "The fridge should be left in your view and the chair is straight back closest to the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 9,
+        "caption": "The farthest chair from kitchen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 4,
+        "caption": "These are the kitchen cabinets that are located directly above the stove and refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "stove",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 10,
+        "caption": "I am sitting in the chair to the right of the chair that has it's back to the kitchen",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 9,
+        "caption": "chair farthest from the stove",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 3,
+        "caption": "The top cabinet above the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 10,
+        "caption": "The chair adjacent to the blue bin.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue bin"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 4,
+        "caption": "The cabinet that is above the refrigerator.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 5,
+        "caption": "The cabinets below the sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 8,
+        "caption": "The chair closest to the kitchen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "kitchen"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 5,
+        "caption": "The lower cabinet set under the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 5,
+        "caption": "The kitchen cabinet that is on the fllor",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 4,
+        "caption": "kitchen cabinet above the stove",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 7,
+        "caption": "Pick the chair the is leaned to a wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 3,
+        "caption": "The set of kitchen cabinets over the kitchen sink",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "kitchen sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 3,
+        "caption": "When standing in the middle of the room facing the cabinets, the correct one is on the left, above the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinets",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 5,
+        "caption": "The cabinet that includes the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": 7,
+        "caption": "The correct chair has a wall directly behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

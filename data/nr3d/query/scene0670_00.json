@@ -1,0 +1,884 @@
+[
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 25,
+        "caption": "The trash can is small and white. It is near brown cabinets and there is a poster that says \"kitchen\" above it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown cabinets",
+                "poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 30,
+        "caption": "cabinet with the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 25,
+        "caption": "Choose the garbage can  next to the  counter and under the poster that says KITCHEN",
+        "parsed_query": {
+            "Target": "garbage can",
+            "Anchor": [
+                "counter",
+                "poster that says KITCHEN"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 27,
+        "caption": "the desk on the floor",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": []
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 28,
+        "caption": "The lower cabinet closest to the stove and furthest from the fridge.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 27,
+        "caption": "Cabinet attached to the ground.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 30,
+        "caption": "This lower cabinet includes a double sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 30,
+        "caption": "A double sink is on top of this section of low cabinets.",
+        "parsed_query": {
+            "Target": "double sink",
+            "Anchor": [
+                "low cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 14,
+        "caption": "red and white towel hanging on stove handle",
+        "parsed_query": {
+            "Target": "red and white towel",
+            "Anchor": "stove handle"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 14,
+        "caption": "the towel on the right of the stove",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 3,
+        "caption": "THE SMALLEST TRASH CAN FARTHEST FROM THE STOVE AND CLOSEST TO A RED OBJECT ABOVE IT",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "stove",
+                "red object"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 30,
+        "caption": "CHoose the very outside few inches (real world inches, not photo inches) of the granite in front of the sink.",
+        "parsed_query": {
+            "Target": "granite",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 29,
+        "caption": "group of cabinets on top",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 27,
+        "caption": "The cabinet is on the ground. The is a small white trash can on its left. Above the small white trash can is a poster that says \"kitchen\" on it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "cabinet",
+                "trash can",
+                "poster"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "the red towel on the left-hand side of the of and",
+        "parsed_query": {
+            "Target": "red towel",
+            "Anchor": [
+                "of"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 14,
+        "caption": "The plaid towel on the right side of the oven",
+        "parsed_query": {
+            "Target": "plaid towel",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 14,
+        "caption": "towel closest to wall with apron hanging on it",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "wall",
+                "apron"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 24,
+        "caption": "The correct trash can is larger and in the middle. It is closest to the fridge.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 25,
+        "caption": "The small trash can by itself.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 27,
+        "caption": "Cabinet directly below picture frames",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "picture frames"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 24,
+        "caption": "This large blue trash can is surrounded by other receptacles.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "other receptacles"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "This towel is red in color and looks like an ordinary medium size bathroom towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 29,
+        "caption": "The wall mounted cabinet, longest one in room",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 29,
+        "caption": "The larger of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 1,
+        "caption": "cabinets next to the fridge",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 28,
+        "caption": "These have doors and used to store things. These happen to be closest to the floor and next to the stove.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "floor",
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 25,
+        "caption": "This trashcan is between the brown kitchen cabinets.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "brown kitchen cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "The towel closest to the window.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 28,
+        "caption": "lower cabinets next to stove",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 1,
+        "caption": "Choose the higher cabinet that is to the left of the fridge.",
+        "parsed_query": {
+            "Target": "higher cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 24,
+        "caption": "The trash can that is next to the refrigerator.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 14,
+        "caption": "the striped towel on the oven door",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "oven door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 3,
+        "caption": "You want the small trashcan under the red rug hanging",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "red rug"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 27,
+        "caption": "The cabinets next to the trash can on the wall under the pictures.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "trash can",
+                "wall",
+                "pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 29,
+        "caption": "higher section of kitchen cabinets",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "The towel on the stove that is closer to the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "stove",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 1,
+        "caption": "cabinet to the left of the fridge",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 28,
+        "caption": "The lower cabinet right next to/ touching the stove",
+        "parsed_query": {
+            "Target": "lower cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "The red towel hanging on the oven.",
+        "parsed_query": {
+            "Target": "red towel",
+            "Anchor": "oven"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 25,
+        "caption": "The trash can that is closest to the stove.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 1,
+        "caption": "upper cabinets next to fridge",
+        "parsed_query": {
+            "Target": "upper cabinets",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 1,
+        "caption": "Choose the higher cabinet that is next to the refridgerator.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "refridgerator"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 24,
+        "caption": "When facing the refrigerator it is the largest trash can directly to the left of the refrigerator.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 3,
+        "caption": "The smallest of the three trash cans.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 29,
+        "caption": "The highest kitchen cabinet.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 29,
+        "caption": "Long cabinet on the top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 3,
+        "caption": "The smaller trashcan near the red wall hanging, farthest away from the refrigerator",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "red wall hanging",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 3,
+        "caption": "This trash can is closest to the red wall art.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "red wall art"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 3,
+        "caption": "the two trash cans next to the fridge, the smaller one",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 24,
+        "caption": "It is the trash can closest to the refrigerator.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 1,
+        "caption": "The cabinet next to the fridge.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 3,
+        "caption": "The small trash can next to the big trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "big trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 27,
+        "caption": "It is the cabinet that is closest to the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 29,
+        "caption": "The hanging kitchen cabinets above the stove.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 30,
+        "caption": "It is the cabinet under the window that includes the dishwasher.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window",
+                "dishwasher"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 25,
+        "caption": "The trash can that is by it self",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "the towel on the left side of the oven door",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "left",
+                "oven door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 30,
+        "caption": "It's the kitchen cabinet that has the sink on it.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 30,
+        "caption": "We want to pick the lower cabinets under the sink, and on the same wall as the dishwasher.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "sink",
+                "dishwasher"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 27,
+        "caption": "Choose the cabinet sitting on the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 14,
+        "caption": "Facing the towel, the towel on the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 14,
+        "caption": "It is the towel furthest from the windows and sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "windows",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 24,
+        "caption": "The largest trash can.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 28,
+        "caption": "The cabinets on the ground, to the LEFT of the oven",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 28,
+        "caption": "The correct cabinet is on the ground and next to the oven.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 24,
+        "caption": "the trash can closest to the fridge.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 28,
+        "caption": "The cabinet on the ground that is next to the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "If you are standing on the rug facing the towels is the one on the left",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "rug",
+                "towels"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 1,
+        "caption": "the cabinet to the top left of the fridge",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "fridge"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 25,
+        "caption": "A white trash bin in the kitchen on a wall between to sets of counters.",
+        "parsed_query": {
+            "Target": "white trash bin",
+            "Anchor": [
+                "kitchen",
+                "wall",
+                "sets of counters"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": 13,
+        "caption": "The solid red towel on the left.",
+        "parsed_query": {
+            "Target": "solid red towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "the pillow is the top-most pillow on the bed. there are multiple pillows under the pillow. the pillow is on top of the bed sheets. the pillow is a cream color (white-light yellow). there is a red blanket in front of the pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "the window is located between two beds. the detail and the panes of the both sides of the window appear to be different.  the window has a large, brown window ledge.  on the ledge, there is a box with multiple rubix cubes.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "13",
+        "target_name": "closet",
+        "caption": "the closet is not very deep.  there are brown shelves to the right/front of the closet. there is a plant on the top shelf.  there are multiple towels hanging inside the closet.",
+        "parsed_query": {
+            "Target": "closet",
+            "Anchor": [
+                "brown shelves",
+                "plant",
+                "towels"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "the small desk is located between two beds. the desk is made from wood and is the color brown. on top of the desk, there is a laptop and headphones.  the desk is in front of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "two beds",
+                "window",
+                "laptop",
+                "headphones"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "24",
+        "target_name": "shelf",
+        "caption": "the shelf is brown and made from wood. there are three levels to the brown shelf. there is a plant on the top shelf. there are candles on the shelf. the shelf is in front of the closet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "closet",
+                "three levels"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,519 @@
+[
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 0,
+        "caption": "Choose the lower half of the door next to the short bookshelf.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "short bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 0,
+        "caption": "The small corner door that is away from the potted plant.",
+        "parsed_query": {
+            "Target": "small corner door",
+            "Anchor": "potted plant"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 13,
+        "caption": "Three tiers, has a plant on the top",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "three tiers"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 32,
+        "caption": "shelf behind the door in the bathroom",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 12,
+        "caption": "When standing on the rug with the diamonds facing the doors, the correct is second from the left. Next to the black shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "rug with the diamonds",
+                "doors",
+                "black shelf",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 0,
+        "caption": "When standing  on the diamond carpet facing the doors, the correct one is second from the left.",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": [
+                "diamond carpet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 3,
+        "caption": "When standing in the middle of the room facing the doors, the correct one is on the far left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "middle of the room",
+                "doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 32,
+        "caption": "the shelf located within the bathroom",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 1,
+        "caption": "The bathroom door not the other doors.",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": "doors"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 13,
+        "caption": "The lower shelf on the floor.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 12,
+        "caption": "The correct door is the one by itself, in the corner, next to the black shelf.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "black shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 3,
+        "caption": "The door farthest away from the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 32,
+        "caption": "In the bathroom across from the sink",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 13,
+        "caption": "The smaller shelf with the potted plant on top.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "potted plant"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 1,
+        "caption": "The open door leading into the washroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "washroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 12,
+        "caption": "Its a dark door in the corner next to a plant on a shelf",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "plant",
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 13,
+        "caption": "select the shelf that is in the hallway",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "hallway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 32,
+        "caption": "the shelf inside of the bathroom",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 32,
+        "caption": "The shelf is in the bathroom.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 3,
+        "caption": "When walking up the black stairs it is the FIRST door on the left",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "black stairs"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 13,
+        "caption": "This is the smallest shelf, NOT the one in the bathroom",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 3,
+        "caption": "The door closest to the stairs.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "stairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 0,
+        "caption": "The middle door of the three low, shut doors.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "three low, shut doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 12,
+        "caption": "The door along the wall WITH the open door (it is not the open door)",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door",
+                "open door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 1,
+        "caption": "This door is open and leads into the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 32,
+        "caption": "It is the shelf behind the door in the bathroom.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 0,
+        "caption": "The door is sandwiched between two others in the corner",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "two others"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 13,
+        "caption": "This shelf is NOT in the bathroom.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 1,
+        "caption": "It is the door opening into the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 3,
+        "caption": "if looking into the bathroom the front left door.",
+        "parsed_query": {
+            "Target": "front left door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 3,
+        "caption": "It's the door in the hallway closest to the steps.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "hallway",
+                "steps"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 12,
+        "caption": "Not in the bathroom. It's the door closest to the shelves with the plant.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelves",
+                "plant"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 13,
+        "caption": "The dark, short set of shelves in the room, not the bathroom",
+        "parsed_query": {
+            "Target": "set of shelves",
+            "Anchor": [
+                "dark",
+                "short"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 0,
+        "caption": "middle door in a group of three on a corner",
+        "parsed_query": {
+            "Target": "middle door",
+            "Anchor": [
+                "group of three",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 1,
+        "caption": "the brown door that is open",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 12,
+        "caption": "I am the door beside the bathroom door",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 0,
+        "caption": "In the room with three closed doors, it is the one in the middle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "three closed doors"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 12,
+        "caption": "Find the box that has a tear in the wall next to a table that has a flower pot on it.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 1,
+        "caption": "BOX IS THE TALLEST BOX LEADING INTO THE BATHROOM, NEXT TO THE BATHTUB AND ACROSS FROM SINK",
+        "parsed_query": {
+            "Target": "tallest box",
+            "Anchor": [
+                "bathroom",
+                "bathtub",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 3,
+        "caption": "door furthest to the left, closest to the stairs/banister.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "stairs",
+                "banister"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 1,
+        "caption": "Look for the door that leads to the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": 32,
+        "caption": "large tall one looks like its in the bathroom",
+        "parsed_query": {
+            "Target": "tall one",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is a sink with round shape. the sink is attached to wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "there is a white door with a mirror on it. it is to the right of the box of cat litter with the green top.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": [
+                "box of cat litter",
+                "green top"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "21",
+        "target_name": "container",
+        "caption": "there is a box of cat litter with a green lid. it is the box on the far left.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "cat litter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "19",
+        "target_name": "shower_door",
+        "caption": "there is a clear shower door with silver trim. it is slid to the left side of the shower.",
+        "parsed_query": {
+            "Target": "shower door",
+            "Anchor": "shower"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "16",
+        "target_name": "window",
+        "caption": "there is a window in the wall. it is the window on the left side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "left"
+            ]
+        },
+        "unique": true
+    }
+]

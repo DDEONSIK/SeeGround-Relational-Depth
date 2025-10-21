@@ -1,0 +1,1116 @@
+[
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 16,
+        "caption": "The correct table is a larger one in the middle of the room, that has a wooden top, NOT a white top. It is next to the table with the white table that is also in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white table",
+                "table with wooden top"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 11,
+        "caption": "This table has colorful stripes and is in a corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 15,
+        "caption": "Facing the tables, the second table from the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "first table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 16,
+        "caption": "The central row, the bigger one",
+        "parsed_query": {
+            "Target": "central row",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 14,
+        "caption": "The small credenza near the white door and book shelf.",
+        "parsed_query": {
+            "Target": "small credenza",
+            "Anchor": [
+                "white door",
+                "book shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 14,
+        "caption": "the smallest, plain table along on the wall under the shelves",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "shelves",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 3,
+        "caption": "The correct table is closest to the white arrow on the ground.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white arrow"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 18,
+        "caption": "Facing the 2 chairs the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 12,
+        "caption": "brown table next to table with rainbow top",
+        "parsed_query": {
+            "Target": "brown table",
+            "Anchor": [
+                "table with rainbow top"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 9,
+        "caption": "The beige cart on the right",
+        "parsed_query": {
+            "Target": "beige cart",
+            "Anchor": [
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 5,
+        "caption": "the shelf that is nearest to the big tables",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "big tables"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 12,
+        "caption": "This table is alongside the colorful striped table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "colorful striped table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 12,
+        "caption": "The table that is bare.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 7,
+        "caption": "choose the blue cart.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 11,
+        "caption": "The table that has many colors on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 13,
+        "caption": "choose the tall skinny shelf",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 8,
+        "caption": "The cart next to the teal cart",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "teal cart"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 15,
+        "caption": "the long rectangular cream-colored table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 14,
+        "caption": "The smallest shelf against the wall furthest from the colorful carts",
+        "parsed_query": {
+            "Target": "smallest shelf",
+            "Anchor": [
+                "wall",
+                "colorful carts"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 15,
+        "caption": "This white table is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 13,
+        "caption": "This floor-length white shelf is next to a shorter beige shelf unit.",
+        "parsed_query": {
+            "Target": "white shelf",
+            "Anchor": [
+                "shorter beige shelf unit"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 17,
+        "caption": "the chair is the one closest to the shelves on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "shelves on the wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 17,
+        "caption": "Look at the tables in the center and look at the seat at the center left.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "center",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 16,
+        "caption": "In the middle, the bigger one",
+        "parsed_query": {
+            "Target": "bigger one",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 9,
+        "caption": "This cart is the one in the corner.  It faces a skinny table with multi colored pieces of paper on it.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "cart",
+                "skinny table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 3,
+        "caption": "The table with white chairs under it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 7,
+        "caption": "The correct containing cart is the one that is of the dark green/blue color. The one farthest from the corner.",
+        "parsed_query": {
+            "Target": "containing cart",
+            "Anchor": [
+                "dark green/blue color",
+                "farthest from the corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 12,
+        "caption": "The blank table against the wall next to the table with blue, pink, yellow and green colors on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 13,
+        "caption": "the shelves that reach all the way to the floor",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 15,
+        "caption": "from the two tables in the middle of the room, the smaller with white surface",
+        "parsed_query": {
+            "Target": "smaller table",
+            "Anchor": "two tables"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 17,
+        "caption": "The white chair furthest away from the yellow sale sign hanging on the wall.",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": [
+                "yellow sale sign",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 11,
+        "caption": "It is the table with the colored folders on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "colored folders"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 5,
+        "caption": "the one hanging on the wall",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 14,
+        "caption": "smallest square top table",
+        "parsed_query": {
+            "Target": "small square top table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 11,
+        "caption": "The rainbow colored shelf",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 9,
+        "caption": "It is the cart closest to the multicolored table.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "multicolored table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 5,
+        "caption": "I am shelves beside the yellow price tag.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "yellow price tag"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 18,
+        "caption": "the chair nearest the highchair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "highchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 18,
+        "caption": "There is a white table behind the chair",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 8,
+        "caption": "the cart in the middle",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 15,
+        "caption": "The white desk in middle of room",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 8,
+        "caption": "the one in the middle",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 13,
+        "caption": "the box around the high shelves in the corner",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "high shelves",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 5,
+        "caption": "the shelving next to the yellow item on the wall",
+        "parsed_query": {
+            "Target": "shelving",
+            "Anchor": [
+                "yellow item",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 17,
+        "caption": "Select the chair FURTHEST away from the highchairs",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "highchairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 8,
+        "caption": "the white cart in the middle.",
+        "parsed_query": {
+            "Target": "white cart",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 16,
+        "caption": "table in the middle of the room next to the white table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 17,
+        "caption": "This chair is virtually facing the arrow behind the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "arrow"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 14,
+        "caption": "small table next to the shelves on the wall.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": "shelves"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 3,
+        "caption": "Small table at the end of a table that has white chairs under it,",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": [
+                "table",
+                "white chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 18,
+        "caption": "When pushing in this chair, it is the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 13,
+        "caption": "It is the tall shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 3,
+        "caption": "The table next to the chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 16,
+        "caption": "brown table in the middle",
+        "parsed_query": {
+            "Target": "brown table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 12,
+        "caption": "the table that is across the room from the table with the two white chairs in front of it and has a black table to the right of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table with the two white chairs",
+                "black table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 9,
+        "caption": "Facing the carts, the tan cart on the right.",
+        "parsed_query": {
+            "Target": "tan cart",
+            "Anchor": "carts"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 5,
+        "caption": "the shelf to the right of the yellow thing on the wall",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "yellow thing",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 3,
+        "caption": "the table connects to the table with two white bar chairs",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "white bar chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 9,
+        "caption": "If you are in the centre of the room facing the three carts, it is the cart furthest to the right.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "carts"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 15,
+        "caption": "The table that is lightest in color, in terms of the wood color. It has no other colors on it other than really light brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 15,
+        "caption": "it is the white rectangular table in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 7,
+        "caption": "This is the blue cart at the left.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "blue"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 13,
+        "caption": "the shelf that does not have a yellow sign next to it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 16,
+        "caption": "the thinner of the two tables that are end to end in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 7,
+        "caption": "Facing the 3 carts select the one on the left.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 18,
+        "caption": "select the chair nearest to the white table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 11,
+        "caption": "The multi colored table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 17,
+        "caption": "Facing the back of the chairs, the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 12,
+        "caption": "The table is next to a rainbow colored table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "rainbow colored table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 7,
+        "caption": "When standing in the middle of the room facing the carts the correct one is on the far left and is a green and blue color.",
+        "parsed_query": {
+            "Target": "carts",
+            "Anchor": [
+                "carts",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 14,
+        "caption": "Pick the square small table which is closest to the wall with the shelves.",
+        "parsed_query": {
+            "Target": "square small table",
+            "Anchor": [
+                "wall",
+                "shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 3,
+        "caption": "table next to the 2 white bar stools.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "2 white bar stools"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 11,
+        "caption": "The table that is painted different colors",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 13,
+        "caption": "the shelf that doesnt have a bright yellow thing next to it",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 14,
+        "caption": "it is the smallest square table in the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 18,
+        "caption": "It is the chair closest to the yellow sign hanging on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "yellow sign hanging on the wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 5,
+        "caption": "The correct shelf is off the ground and has a yellow poster beside it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "yellow poster"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 11,
+        "caption": "You want the table standing against the wall that has different colored stripes on top, maybe painted, with blue, red, yellow, green, and blue, and then again on the bottom shelf.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "stripes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 9,
+        "caption": "When facing the three carts, it's the far right one in the corner.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "three carts",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 7,
+        "caption": "the cart farthest from the corner",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 17,
+        "caption": "Facing the back of the chairs, the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 18,
+        "caption": "The right chair under the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 8,
+        "caption": "If facing all three carts, the cart in the middle",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "cart"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 16,
+        "caption": "The tan or brown table in the center of the room.",
+        "parsed_query": {
+            "Target": "tan or brown table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 9,
+        "caption": "The cart closest to the corner of the room.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 3,
+        "caption": "This table is next to a table with white chairs pushed under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "white chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 5,
+        "caption": "The shelf that has a yellow price tag next to it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "yellow price tag"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 8,
+        "caption": "The middle of the carts.",
+        "parsed_query": {
+            "Target": "carts",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 12,
+        "caption": "A table against a wall with strips of blue, orange, yellow and green on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "stripes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 7,
+        "caption": "The teal colored shelf on the wall",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "teal colored"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": 8,
+        "caption": "The middle rolling cart, white in color, next to the teal and tan",
+        "parsed_query": {
+            "Target": "rolling cart",
+            "Anchor": [
+                "teal",
+                "tan"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

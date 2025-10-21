@@ -1,0 +1,77 @@
+[
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "on the wall that is half blue, half white are several square-shaped shelves. they are at different heights and vary in color. most have objects in them such as books.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "wall",
+                "blue",
+                "white",
+                "square",
+                "heights",
+                "color"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "there is a black office chair with mesh backing directly in front of the white desk. to its right is another black chair that has a yellow backpack hanging on it.",
+        "parsed_query": {
+            "Target": "black office chair with mesh backing",
+            "Anchor": [
+                "white desk",
+                "black chair",
+                "yellow backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "there is a white desk against the back wall. there are two black chairs in front of it, and there are some office supplies on top of it.",
+        "parsed_query": {
+            "Target": "white desk",
+            "Anchor": [
+                "two black chairs",
+                "office supplies"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "8",
+        "target_name": "drawer",
+        "caption": "there is a set of white drawers in the upper right hand corner of the room. it is between the white desk and blue wall.",
+        "parsed_query": {
+            "Target": "white drawers",
+            "Anchor": [
+                "white desk",
+                "blue wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "there is a large reddish colored, l-shaped couch in the room. its back is against the wall and it is on top of a black and white rug.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "rug"
+            ]
+        },
+        "unique": true
+    }
+]

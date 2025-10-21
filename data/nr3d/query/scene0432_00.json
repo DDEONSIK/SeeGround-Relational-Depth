@@ -1,0 +1,171 @@
+[
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 2,
+        "caption": "if looking at the yellow wall from the center of the room, the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "yellow wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 2,
+        "caption": "It is the chair with the towel hanging behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 2,
+        "caption": "The correct chair is darker blue and farther from the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "darker blue",
+                "farther from the window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 1,
+        "caption": "Dark blue polka dot chair (right side) with nothing behind it on the wall",
+        "parsed_query": {
+            "Target": "dark blue polka dot chair",
+            "Anchor": [
+                "right side",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 2,
+        "caption": "the lighter blue chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 1,
+        "caption": "The green box is slightly shorter than the red box.",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": "red box"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 1,
+        "caption": "Choose the chair with a rip in the upholstery.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 2,
+        "caption": "Sofa chair to the left when facing them",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "sofa",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 1,
+        "caption": "If you are looking at the coffee table/ottoman thing, it is the chair on the right hand side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "coffee table/ottoman thing"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 1,
+        "caption": "if looking at the two chairs from the ottoman/table, the chair on the right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "ottoman",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 2,
+        "caption": "if the two chairs are on the back wall, pick the sofa chair on your left",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 2,
+        "caption": "the brighter chair; the sofa chair with more light shining on it",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 1,
+        "caption": "The dark blue sofa chair, single seater",
+        "parsed_query": {
+            "Target": "dark blue sofa chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": 1,
+        "caption": "The darker of the soft chairs.",
+        "parsed_query": {
+            "Target": "darker soft chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

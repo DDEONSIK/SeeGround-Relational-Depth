@@ -1,0 +1,798 @@
+[
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 34,
+        "caption": "trash can to the left under the whiteboard.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 16,
+        "caption": "This monitor is further from the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 6,
+        "caption": "choose the backpack on the floor under the whiteboard.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 6,
+        "caption": "Backpack is furthest away from window,closest to the bookshelf",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "window",
+                "bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 1,
+        "caption": "the chair against the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 17,
+        "caption": "This monitor is nearer to the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 17,
+        "caption": "This is the rightmost monitor of the workstation.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "workstation"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 4,
+        "caption": "The can closest to the door.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 16,
+        "caption": "The monitor on the left side of the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 17,
+        "caption": "This is the rightmost monitor of the workstation.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "workstation"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 1,
+        "caption": "The chair with the backpack up against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "backpack",
+                "up against the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 1,
+        "caption": "This chair is not being used at a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 34,
+        "caption": "Two trash cans to the left of shelves.  It is the lefthand trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "shelves",
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 34,
+        "caption": "the trash can closest to the whiteboard",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 16,
+        "caption": "The monitor closest to the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "the tall chair next to the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 16,
+        "caption": "the monitor directly in front of the keyboard",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "keyboard"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 5,
+        "caption": "The backpack closest to the window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 5,
+        "caption": "The backpack is sitting on a chair",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 4,
+        "caption": "the bin with clear plastic lining",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 1,
+        "caption": "The chair closest to a whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 5,
+        "caption": "The chair holding a back pack",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "back pack"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "The tall chair whose back is facing the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 4,
+        "caption": "This waste basket is next to the storage shelf unit.",
+        "parsed_query": {
+            "Target": "waste basket",
+            "Anchor": "storage shelf unit"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 34,
+        "caption": "The trash can closest to the whiteboard",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 6,
+        "caption": "It is the backpack on the floor, not the backpack in the chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 5,
+        "caption": "The backpack higher up on the chair",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 5,
+        "caption": "The backpack that is next to the chair that is by the window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "The smallest chair closest to the exit door.",
+        "parsed_query": {
+            "Target": "smallest chair",
+            "Anchor": "exit door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 6,
+        "caption": "The correct backpack is sitting on the floor under the center of the white board.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "center of the white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 6,
+        "caption": "the backpack on the floor",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 4,
+        "caption": "trash can in the corner",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 1,
+        "caption": "It is the chair on its own under the dry erase board with lots of red writing.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "dry erase board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 34,
+        "caption": "The trash can closest to the white board on the wall and furthest from the large shelf.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "white board",
+                "large shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 4,
+        "caption": "Select the trash can nearest the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "The big chair in the middle",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "The tall chair, in front of the computer monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "computer monitor"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "The chair that is tucked tightly under the table that is further from the windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 5,
+        "caption": "backpack closest to the window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 17,
+        "caption": "This is the monitor closest to the window",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 17,
+        "caption": "Choose the monitor closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "The small chair that is the closet to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 16,
+        "caption": "facing the wall, left monitor",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 5,
+        "caption": "bigger backpack under whiteboard",
+        "parsed_query": {
+            "Target": "bigger backpack",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "The chair with the tall back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "Find the chair with a computer in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "computer"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 16,
+        "caption": "When facing the desk, its the monitor on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 16,
+        "caption": "This is the left monitor of the workstation pair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "workstation pair",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 34,
+        "caption": "The left trashcan under the whiteboard.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 17,
+        "caption": "the right monitor on the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 6,
+        "caption": "The correct backpack is on the ground and farthest from the window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 17,
+        "caption": "Facing the window, the monitor that is closer to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 4,
+        "caption": "Find the trash can close to the shelving unit.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "shelving unit"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "I am the chair with a keyboard in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "The smallest chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 6,
+        "caption": "The backpack on the floor.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 4,
+        "caption": "the trashcan closest to the white door",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "white door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 1,
+        "caption": "When standing in the middle of the room facing the  window the correct chair is on the right. It is against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "This chair is pulled under the table that juts out.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 1,
+        "caption": "the chair underneath the whiteboard in the corner of the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "whiteboard",
+                "corner of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 34,
+        "caption": "The taller trash can almost under the white board.",
+        "parsed_query": {
+            "Target": "taller trash can",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "the chair closest to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 2,
+        "caption": "office chair that is pushed underneath a desk",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "large office chair positioned directly in front of a desk and a computer.",
+        "parsed_query": {
+            "Target": "large office chair",
+            "Anchor": [
+                "desk",
+                "computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": 0,
+        "caption": "office chair with largest back",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

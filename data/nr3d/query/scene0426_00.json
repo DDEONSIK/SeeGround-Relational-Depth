@@ -1,0 +1,1238 @@
+[
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 26,
+        "caption": "The big white box to the right of the tv",
+        "parsed_query": {
+            "Target": "big white box",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 25,
+        "caption": "Choose the box that is on the floor in front of the tv.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "tv",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 33,
+        "caption": "This box is furthest from the other 3 boxes and is on the floor by hanging clothing.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 33,
+        "caption": "The box that is behind a clothes rack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "clothes rack"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 16,
+        "caption": "Find the monitor that sits on the table near the window blinds.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "window blinds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 26,
+        "caption": "It is the box in the corner.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 7,
+        "caption": "two sit side by side, the chair out of these furthest from the bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 4,
+        "caption": "Chair nearest to bedroom door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bedroom door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 22,
+        "caption": "The long brown pillow on top of the comforter on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "comforter",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 39,
+        "caption": "It is the monitor on the floor closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 43,
+        "caption": "Box nearest to the brown chair",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "brown chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 26,
+        "caption": "Box nearest to the tv",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "tv"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 23,
+        "caption": "Long pink object sitting infront of the window with brown horizontal blinds on it.",
+        "parsed_query": {
+            "Target": "long pink object",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 7,
+        "caption": "It is a chair that sits next to a lamp and in front of a dresser.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "lamp",
+                "dresser"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 0,
+        "caption": "It is a pillow with what appears to be a pair of black remote controls near it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "black remote controls"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 43,
+        "caption": "The box underneath chair, chair has a bag on the seat",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 3,
+        "caption": "The chair closest to the bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 38,
+        "caption": "When standing in the middle of the room facing the monitors, the correct one is on the ground and on the right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "room",
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 37,
+        "caption": "The monitor closest to the door, on the table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "door",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 37,
+        "caption": "Monitor beside tower of stack boxes",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "tower",
+                "stack boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 38,
+        "caption": "Of the two on the bottom, choose the one on the right.",
+        "parsed_query": {
+            "Target": "item on the right",
+            "Anchor": [
+                "two on the bottom"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 25,
+        "caption": "Choose the box on the floor in front of the dresser.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "dresser"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 3,
+        "caption": "the chair closest to the bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 7,
+        "caption": "Of the 2 chairs that are side by side, its the black one that has things folded on top of it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "2 chairs",
+                "black"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 43,
+        "caption": "box under the chair in front of the closet door",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "chair",
+                "closet door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 23,
+        "caption": "Directly under window sill",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "window sill"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 33,
+        "caption": "The box behind the coat rack",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "coat rack"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 4,
+        "caption": "The chair by itself.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 25,
+        "caption": "Its the small brown cardboard box in front of the dresser and tv.",
+        "parsed_query": {
+            "Target": "small brown cardboard box",
+            "Anchor": [
+                "dresser",
+                "tv"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 3,
+        "caption": "The chair directly next to the bed with a white paper on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "white paper"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 38,
+        "caption": "facing the monitors, choose the bottom right monitor next to a stack of containers.",
+        "parsed_query": {
+            "Target": "bottom right monitor",
+            "Anchor": [
+                "monitors",
+                "stack of containers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 3,
+        "caption": "The chair closest to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 43,
+        "caption": "the box is underneath black chair in front of closets",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "black chair",
+                "closets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 33,
+        "caption": "the brown box where the pink coat is located",
+        "parsed_query": {
+            "Target": "brown box",
+            "Anchor": "pink coat"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 23,
+        "caption": "red pillow near the window",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 22,
+        "caption": "The pillow in the corner of the bed to the left of the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 16,
+        "caption": "The monitor is on top of the desk, closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 25,
+        "caption": "small box on the floor in front of the dresser",
+        "parsed_query": {
+            "Target": "small box",
+            "Anchor": [
+                "dresser"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 38,
+        "caption": "The monitor on the floor which is farthest from the window, and closest to the coat rack.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "floor",
+                "window",
+                "coat rack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 25,
+        "caption": "on the floor in front of the dresser",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "floor"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 39,
+        "caption": "the monitor under the desk, the middle one",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 4,
+        "caption": "The chair in the upper corner next to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "upper corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 4,
+        "caption": "The chair in the corner opposite of closet",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "closet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 33,
+        "caption": "the box next to the pink jacket",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "pink jacket"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 22,
+        "caption": "the dark colored pillow in the corner.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 38,
+        "caption": "if facing the table, it's the monitor under the table and farthest to the right, near the stack of clear boxes.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "stack"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 39,
+        "caption": "choose the monitor on the floor under the desk closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "floor",
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 16,
+        "caption": "the desk has 2 monitors. you're looking for the one standing next to the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "monitors",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 0,
+        "caption": "It is the white pillow on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 39,
+        "caption": "I am the monitor on the floor to the left",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "floor",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 0,
+        "caption": "The white pillow at the head of the bed by itself.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 23,
+        "caption": "the red body long pillow",
+        "parsed_query": {
+            "Target": "red body long pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 23,
+        "caption": "The red pillow right underneath the window.",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": "underneath window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 7,
+        "caption": "The black chair with items stacked on top of it. It is also the chair closest to the television.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "television"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 39,
+        "caption": "The monitor is on the floor, under the table and to the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 37,
+        "caption": "The monitor on the brown table closest to the stack of bins and the clothes rack",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "brown table",
+                "stack of bins",
+                "clothes rack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 16,
+        "caption": "The monitor on the desk, closest to the window and pink pillow",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window",
+                "pink pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 16,
+        "caption": "Choose the monitor on the desk closest to the window",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 37,
+        "caption": "Choose the monitor on the desk that is close to the coats hanging up.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "coats hanging up"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 37,
+        "caption": "It's the PC monitor on the table that is closest to the stack of clear boxes.",
+        "parsed_query": {
+            "Target": "PC monitor",
+            "Anchor": "table, stack of clear boxes"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 37,
+        "caption": "the monitor on the desk, close to the shelf and coat rack - NOT the one in the corner",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "shelf",
+                "coat rack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 3,
+        "caption": "The chair closest to the bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 39,
+        "caption": "look at the monitor on the floor underneath the desk to the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 0,
+        "caption": "The white pillow towards the end of the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 22,
+        "caption": "These pillows/pillow are dark brown and in the corner of the room",
+        "parsed_query": {
+            "Target": "pillows/pillow",
+            "Anchor": "corner of the room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 0,
+        "caption": "The pillow lying on the bed that is white.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "white"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 23,
+        "caption": "The pillow directly under the window",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 39,
+        "caption": "Facing the monitors, the smaller monitor on the floor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 0,
+        "caption": "The small white pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 38,
+        "caption": "looking in from the door, the first monitor on the floor",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "floor"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 7,
+        "caption": "it is the chair directly under the red diamond on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red diamond"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 0,
+        "caption": "The pillow at the foot of the bed, not against the wall.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 4,
+        "caption": "There is a gray shirt thrown on top of this chair",
+        "parsed_query": {
+            "Target": "gray shirt",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 38,
+        "caption": "Facing the window, the monitor on the floor in the lower right corner.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 4,
+        "caption": "The chair by itself near the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 22,
+        "caption": "The brown pillow against the wall",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 22,
+        "caption": "The correct pillow is the large grey one in the corner next to the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "large grey pillow",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 7,
+        "caption": "Chair with the most items on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 3,
+        "caption": "pick the chair next to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 16,
+        "caption": "the monitor on the desk closest to the window",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 37,
+        "caption": "It is the monitor on the right side of the desk farthest away from the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 3,
+        "caption": "the chair closest the bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 4,
+        "caption": "The chair to the right of the pink coat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "pink coat"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 25,
+        "caption": "The box on the floor under the TV",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "floor",
+                "TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 26,
+        "caption": "If you watching tv the box is to the right.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "box"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 43,
+        "caption": "This box is to the left of the floor lamp if you are facing it and underneath the chair in front of the closet door",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "floor lamp",
+                "chair",
+                "closet door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 33,
+        "caption": "box by the coat rack/storage boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "coat rack/storage boxes"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 23,
+        "caption": "The pillow closest to the blinds.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "blinds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 26,
+        "caption": "The box in the corner of the room.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "corner"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 16,
+        "caption": "monitor on the desk, next to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 7,
+        "caption": "The chair in fornt of the door with the red hazzard warning sticker.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "red hazzard warning sticker"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 26,
+        "caption": "the larger open box in the corner",
+        "parsed_query": {
+            "Target": "open box",
+            "Anchor": "corner"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 43,
+        "caption": "The correct box is under a chair and has a tall lamp beside it.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "chair",
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 22,
+        "caption": "The brown pillow on the unmade bed next to the window.",
+        "parsed_query": {
+            "Target": "brown pillow",
+            "Anchor": [
+                "unmade bed",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 43,
+        "caption": "The box sitting under the chair.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 33,
+        "caption": "the box behind the coat rack",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "coat rack"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 25,
+        "caption": "The small box on the floor in front of the TV",
+        "parsed_query": {
+            "Target": "small box",
+            "Anchor": [
+                "floor",
+                "TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": 26,
+        "caption": "The large white box in the corner of the room next to the closet and desk",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    }
+]

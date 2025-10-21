@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0496_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "if you were looking at the blackboard  ,on the left side of the room are two waste baskets against the wall  . we are looking for the black chair  in front of the blue wastebasket that is for recycling .",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "blackboard",
+                "two waste baskets",
+                "blue wastebasket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a woodenarm chair. placed next to another same chair.",
+        "parsed_query": {
+            "Target": "wooden arm chair",
+            "Anchor": [
+                "another same chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": "19",
+        "target_name": "trash_can",
+        "caption": "a gray bin. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "a black arm chair. placed between other chairs.",
+        "parsed_query": {
+            "Target": "black arm chair",
+            "Anchor": [
+                "other chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a black working chair. placed next to the window.",
+        "parsed_query": {
+            "Target": "working chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    }
+]

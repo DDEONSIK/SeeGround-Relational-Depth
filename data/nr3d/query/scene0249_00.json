@@ -1,0 +1,1058 @@
+[
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 21,
+        "caption": "The larger white board",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 27,
+        "caption": "Facing the cans, the can on the far left.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "cans",
+                "far left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "the blue recycling bin",
+        "parsed_query": {
+            "Target": "blue recycling bin",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 24,
+        "caption": "The longer table with 4 or five chairs under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 32,
+        "caption": "This brown board is at floor level by a trashcan in a corner.",
+        "parsed_query": {
+            "Target": "brown board",
+            "Anchor": [
+                "trashcan",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "rectangular object, against wall and in alcove, used to collect trash",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "alcove",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 25,
+        "caption": "This table is not pushed together with others to form a mega table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "The tall recycling bin against the wall.",
+        "parsed_query": {
+            "Target": "tall recycling bin",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 33,
+        "caption": "The window closest to the blue recycle bin",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "blue recycle bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 26,
+        "caption": "the trashcan in the far back side of the room",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "room"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 36,
+        "caption": "Facing the wall with two cans, the can on the left.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "wall",
+                "cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 34,
+        "caption": "window at foot of tabel",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 34,
+        "caption": "When standing in the middle of the room facing the windows the correct one is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 30,
+        "caption": "The small can next to the blue chair.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": "blue chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "The correct trash bin is the largest and it is a blue recycling bin.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "blue recycling bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 30,
+        "caption": "It is the trash can closest to the blue recycle bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue recycle bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 28,
+        "caption": "the grey trash bin in the center of the room",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "center of the room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 28,
+        "caption": "The trash can across from the middle of the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "middle",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 30,
+        "caption": "The trash can next to the flipped up table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "flipped up table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 25,
+        "caption": "The correct table is against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 26,
+        "caption": "The trash can in the corner of the room next to the white dry erase board.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "corner of the room",
+                "white dry erase board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 21,
+        "caption": "Find the board that is on the wall behind the table.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 27,
+        "caption": "Choose the small object on the floor to the right of the small wooden table.",
+        "parsed_query": {
+            "Target": "small object",
+            "Anchor": [
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 26,
+        "caption": "This trashcan is in a corner away from the others, by a white wall or board.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "white wall",
+                "board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 30,
+        "caption": "choose the trash can to the far right near the desk chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 32,
+        "caption": "the board next to the blue recycling bin",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "blue recycling bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 32,
+        "caption": "The large brown square next to the blue recycling bin.",
+        "parsed_query": {
+            "Target": "large brown square",
+            "Anchor": "blue recycling bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 25,
+        "caption": "The table by itself.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 26,
+        "caption": "The trash can at the upper left corner of the long table",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 33,
+        "caption": "The window close to the recycle bin",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "recycle bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 30,
+        "caption": "trash can nearest to red chairs pulled out left side of what appears to be a screen",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "red chairs",
+                "screen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 24,
+        "caption": "The table in the middle of the room with several chairs along it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 26,
+        "caption": "the trashcan at the end of the long table",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "long table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 36,
+        "caption": "The trash can actually touching a chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 28,
+        "caption": "There is a towel dispenser on the wall, above a small table or coffee area.  Look down at the floor.  The trash can is the one on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "towel dispenser",
+                "coffee area"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 27,
+        "caption": "It is the trash can in the corner with the rectangular table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 21,
+        "caption": "board in the corner, not next to recycle bin",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 24,
+        "caption": "The table that is part of the larger joint tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "larger joint tables"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 21,
+        "caption": "The board furthest from the blue recycling bin.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "blue recycling bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 32,
+        "caption": "It is the board on the wall next to the recycling container.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "recycling container"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 27,
+        "caption": "the small rectangular table on the left has bin next to it.",
+        "parsed_query": {
+            "Target": "small rectangular table",
+            "Anchor": [
+                "bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 34,
+        "caption": "When standing in the middle of room looking at the windows the correct one is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 34,
+        "caption": "Choose the rectangular area closest to the end of the long table.",
+        "parsed_query": {
+            "Target": "rectangular area",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "The trash can tucked in the corner near the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 24,
+        "caption": "the table in the middle section",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "middle section"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 36,
+        "caption": "This trashcan is in a corner by the windows, next to two red chairs and a grey chair.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "two red chairs",
+                "grey chair",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 33,
+        "caption": "The window that is NOT facing the long row of white tables pushed together.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "long row of white tables",
+                "pushed together"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 28,
+        "caption": "if looking at the long desk with the smaller desk in the top left corner, the middle trash can on the floor.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "long desk",
+                "smaller desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 26,
+        "caption": "trash receptacle at the head of the conference table",
+        "parsed_query": {
+            "Target": "trash receptacle",
+            "Anchor": "conference table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 21,
+        "caption": "the board closest to the end of the long table.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 24,
+        "caption": "It's the long table in the center of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 21,
+        "caption": "The board in the corner of the room, not in an alcove.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "corner",
+                "room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "The largest trash can in the room with a white outlet above it. The trash can has a recycling symbol on it and is to the left of a cardboard box.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "white outlet",
+                "cardboard box"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 36,
+        "caption": "the trash can in the corner with the two red chairs",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "two red chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 33,
+        "caption": "CHoose the window that is NOT in front of the long table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "long table"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 32,
+        "caption": "The board is next to a large recycling can",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "large recycling can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 34,
+        "caption": "The window at the end of the long table",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "long table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 28,
+        "caption": "if looking at the window from the end of the long table, the second trash can on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "window",
+                "long table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 34,
+        "caption": "Facing the windows, the window that is on the right side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 27,
+        "caption": "The trash can on the far left of the wall with three trash cans lined up against it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 25,
+        "caption": "It is the table which is by itself against the wall, not the table which is in the middle of the room not against a wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 27,
+        "caption": "Facing the wall with just one desk, it's the trash can to the right of the desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 33,
+        "caption": "The window with  the most chairs beneath it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 30,
+        "caption": "Select the small trashcan next to the folded table.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "folded table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 36,
+        "caption": "Trash can against the wall next to grey chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "grey chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 25,
+        "caption": "Choose the table in the corner of the room against the wall by itself.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 25,
+        "caption": "It is the small table alone by itself against the wall, not the table which forms one quarter of an ensemble of four tables.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": []
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 21,
+        "caption": "The board in the corner without chairs among it",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 32,
+        "caption": "board beside the blue bin",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "blue bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 25,
+        "caption": "The table off on its own.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 34,
+        "caption": "When facing both windows, choose the one on the RIGHT",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 27,
+        "caption": "The box the end of the small table in the corner",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "small table",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 24,
+        "caption": "There are two maroon chairs next to this table",
+        "parsed_query": {
+            "Target": "maroon chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "The largest of the trash cans.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 28,
+        "caption": "This trashcan is closest to the center of the room.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 30,
+        "caption": "Trash can at the board with grey legs on it",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "board",
+                "grey legs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 36,
+        "caption": "two trash cans on one side of long table stand on opposite side table and face the wall trash can on left is the correct one",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "long table",
+                "opposite side table",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 32,
+        "caption": "If you turn and face the Recycling can directly to the right of it there is a board against the wall.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "Recycling can",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 26,
+        "caption": "the trash can is at one end of the large table, near a chair that is pushed out from that table near a white wall",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "large table",
+                "chair",
+                "white wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 23,
+        "caption": "It is the largest trash can with the recycling symbol on it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 33,
+        "caption": "When facing the windows, it's the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 33,
+        "caption": "The window closest to the recycling bin.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "recycling bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 24,
+        "caption": "The table is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 36,
+        "caption": "This trash can is far from the others, in a corner by a gray chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "gray chair",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": 28,
+        "caption": "The middle round trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 6,
+        "caption": "the bag on the gray table.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "gray table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 5,
+        "caption": "The bag is on top of the washers",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "washers"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 5,
+        "caption": "The bag that is on top of the second washing machine from the left.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "second washing machine from the left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 6,
+        "caption": "on the table near the washers and dryers but not ON the washers and dryers",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "washers",
+                "dryers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 5,
+        "caption": "The blue object on top of the washer.",
+        "parsed_query": {
+            "Target": "blue object",
+            "Anchor": "washer"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 5,
+        "caption": "the box on top of the washing machine second from left",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "washing machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 5,
+        "caption": "bag on top of the washing machine",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "washing machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 5,
+        "caption": "bag above the washer/dryer",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "washer",
+                "dryer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 6,
+        "caption": "Select the small bag that is on the darker table.",
+        "parsed_query": {
+            "Target": "small bag",
+            "Anchor": "darker table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 6,
+        "caption": "The black bag on the table.",
+        "parsed_query": {
+            "Target": "black bag",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 5,
+        "caption": "The bag on top of the washing machine.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "washing machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 6,
+        "caption": "The bag farthest from the washing machines.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 6,
+        "caption": "A dark almost black box on the grey table",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "grey table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": 6,
+        "caption": "Small grey table has a black box on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "box"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

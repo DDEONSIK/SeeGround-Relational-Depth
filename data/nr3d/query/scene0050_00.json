@@ -1,0 +1,693 @@
+[
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 32,
+        "caption": "This double door is covered by white curtains.",
+        "parsed_query": {
+            "Target": "double door",
+            "Anchor": [
+                "white curtains"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 25,
+        "caption": "the laptop at the center of the desk",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 28,
+        "caption": "This laptop is facing the smaller chair, not the big brown armchair.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "smaller chair",
+                "big brown armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 8,
+        "caption": "The doors closest to the chair.",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 8,
+        "caption": "Choose the glass doors.",
+        "parsed_query": {
+            "Target": "glass doors",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 14,
+        "caption": "The backpack near the window",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 10,
+        "caption": "The door closest to the set of double doors on the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "double doors"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 25,
+        "caption": "the laptop in front of the brown chair",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "brown chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 18,
+        "caption": "the backpack closer to the piano",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 28,
+        "caption": "The laptop closest to the right hand side glass door.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "right hand side glass door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 9,
+        "caption": "The brown door further from the curtains",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 9,
+        "caption": "of the two brown wooden doors, choose the door on the left when facing them.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "two brown wooden doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 18,
+        "caption": "The backpack closest to the piano.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 18,
+        "caption": "Facing the piano, the backpack on the right.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 28,
+        "caption": "The laptop by the chair with the floral pattern",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "chair",
+                "floral pattern"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 25,
+        "caption": "Facing the windows, the laptop on the right.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 25,
+        "caption": "the black laptop in front of the brown armchair",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "brown armchair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 14,
+        "caption": "The briefcase that is partially off the ottoman with nothing underneath it - closer to the chair than the couch",
+        "parsed_query": {
+            "Target": "briefcase",
+            "Anchor": [
+                "ottoman",
+                "chair",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 8,
+        "caption": "The glass door by the couch",
+        "parsed_query": {
+            "Target": "glass door",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 14,
+        "caption": "The correct backpack is farthest from the piano.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 28,
+        "caption": "Black object near window",
+        "parsed_query": {
+            "Target": "black object",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 32,
+        "caption": "The correct door has white curtains on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white curtains"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 32,
+        "caption": "The door by the piano",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 18,
+        "caption": "The backpack that is closest to the piano",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 8,
+        "caption": "Choose the double doors that are closer to the couch and desk.",
+        "parsed_query": {
+            "Target": "double doors",
+            "Anchor": [
+                "couch",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 28,
+        "caption": "The laptop closest to the floral chair and the windowed doors.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "floral chair",
+                "windowed doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 8,
+        "caption": "The brightest set of doors in the whole room, to the right of the couch",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 8,
+        "caption": "door with blue curtains",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "blue curtains"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 32,
+        "caption": "door with beige curtains",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "beige curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 9,
+        "caption": "if facing the doors, the one on your left",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 18,
+        "caption": "backpack closer to the piano",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 28,
+        "caption": "The laptop closer to the couch, next to the large window",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "couch",
+                "large window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 9,
+        "caption": "There is a brown arm chair directly in front of this door.",
+        "parsed_query": {
+            "Target": "brown arm chair",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 10,
+        "caption": "Choose the door that does NOT have the chair in front of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 25,
+        "caption": "the laptop right infront of the armchair",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 8,
+        "caption": "The door closest to the couch.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 10,
+        "caption": "Two doors are on this wall pick the one nearer the piano",
+        "parsed_query": {
+            "Target": "one nearer the piano",
+            "Anchor": [
+                "wall",
+                "piano"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 14,
+        "caption": "When facing the two brown doors, the backpack that is on the left side of the ottoman.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "two brown doors",
+                "ottoman"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 32,
+        "caption": "Choose the doors that have curtains on them, and are on the same wall as the piano.",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": [
+                "curtains",
+                "piano"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 14,
+        "caption": "Nearest the desk, furthest from the piano.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "piano"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 18,
+        "caption": "The backpack closest to the piano.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 9,
+        "caption": "Place the two doors on the far wall, and select the door on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "far wall",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 32,
+        "caption": "door directly behind the cushioned chair",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "cushioned chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 10,
+        "caption": "it is the door closest to the set of French doors, and the piano",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "set of French doors",
+                "piano"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 18,
+        "caption": "It's the backpack closest to the piano",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 10,
+        "caption": "Facing both doors select the door on the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 25,
+        "caption": "The black laptop in front of the brown leather chair.",
+        "parsed_query": {
+            "Target": "black laptop",
+            "Anchor": [
+                "brown leather chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 28,
+        "caption": "Select the laptop closest to the window.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 9,
+        "caption": "If positioned facing the doors this door is on the left closest to the desk and electric panel.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "desk",
+                "electric panel"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 25,
+        "caption": "Choose the laptop that's directly in front the large, brown armchair. (It's *not* the one nearest the small chair with printed fabric.)",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "large, brown armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 10,
+        "caption": "The correct door does not have the couch infront of it and has vertical lines on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "couch",
+                "vertical lines"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 14,
+        "caption": "The correct backpack is the one farthest from the piano in the corner.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "piano",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 32,
+        "caption": "The door closest to the other doors.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 9,
+        "caption": "The door that is directly south of the arm chair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "arm chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 10,
+        "caption": "The door farthest from the busy desk",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": 14,
+        "caption": "The correct backpack is farthest from the piano.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "piano"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,347 @@
+[
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 22,
+        "caption": "Choose the window between the chair and the crib,",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chair",
+                "crib"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 18,
+        "caption": "Choose the top shelf of the changing table.",
+        "parsed_query": {
+            "Target": "top shelf",
+            "Anchor": [
+                "changing table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 22,
+        "caption": "Largest white curtain in the room.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 25,
+        "caption": "choose the shelf between the chair and the changing table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "chair",
+                "changing table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 8,
+        "caption": "choose the floor lamp behind the chair.",
+        "parsed_query": {
+            "Target": "floor lamp",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 18,
+        "caption": "The diaper changing table. Its the taller of the two.",
+        "parsed_query": {
+            "Target": "diaper changing table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 18,
+        "caption": "The tall shelf to the left closest to the wall",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 25,
+        "caption": "The box/shelf you want is right next to the chair in the corner with the pillow.  It's almost touching the chair.",
+        "parsed_query": {
+            "Target": "box/shelf",
+            "Anchor": [
+                "chair",
+                "pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 8,
+        "caption": "Find the small curtain behind the armchair.",
+        "parsed_query": {
+            "Target": "small curtain",
+            "Anchor": "armchair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 18,
+        "caption": "The shelf furthest from the crib",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "crib"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 22,
+        "caption": "has a small table in front of it",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": "it"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 18,
+        "caption": "The larger of the two shelves that are against the wall with the pictures.",
+        "parsed_query": {
+            "Target": "larger shelf",
+            "Anchor": [
+                "wall",
+                "pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 22,
+        "caption": "The larger set of curtains of the two.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": "two"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 25,
+        "caption": "The long rectangular shelf next to the chair.",
+        "parsed_query": {
+            "Target": "long rectangular shelf",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 22,
+        "caption": "It's the white transparent curtains directly behind the table.",
+        "parsed_query": {
+            "Target": "white transparent curtains",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 25,
+        "caption": "select the shelf nearest the armchair",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 25,
+        "caption": "The shelving unit beside the chair with the checked cushion.",
+        "parsed_query": {
+            "Target": "shelving unit",
+            "Anchor": [
+                "chair",
+                "checked cushion"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 22,
+        "caption": "The curtains closer to the baby crib",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": "baby crib"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 18,
+        "caption": "The taller set of shelves.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 25,
+        "caption": "The shorter of the shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 8,
+        "caption": "The smaller, narrower curtains closest to the lit lamp behind the grey sitting chair.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "lit lamp",
+                "grey sitting chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 8,
+        "caption": "The curtains furthest from the crib.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 18,
+        "caption": "The larger shelf the one that is taller",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 8,
+        "caption": "Find the small curtain located behind the grey armchair.",
+        "parsed_query": {
+            "Target": "small curtain",
+            "Anchor": [
+                "grey armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 22,
+        "caption": "It's the large curtain on the window with a small white table in front of it.",
+        "parsed_query": {
+            "Target": "large curtain",
+            "Anchor": [
+                "window",
+                "small white table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 8,
+        "caption": "The curtain is behind the chair.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 8,
+        "caption": "Choose the small, bunched up curtains, *not* the large, spread out portion.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "small",
+                "bunched up",
+                "not",
+                "large",
+                "spread out portion"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": 25,
+        "caption": "Nearest the armchair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

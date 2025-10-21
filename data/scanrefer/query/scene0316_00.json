@@ -1,0 +1,78 @@
+[
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "14",
+        "target_name": "water_fountain",
+        "caption": "there is a small water fountain located directly to the left of the longer water fountain which is shorter for handicap accessibility.  it is mounted on the wall directly on the left when entering the room from the entryway. .",
+        "parsed_query": {
+            "Target": "small water fountain",
+            "Anchor": [
+                "longer water fountain",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the brown chair is in the corner of the room against the wall next to the water fountain.  it can be seen on the left when entering the room from the entryway.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "wall",
+                "water fountain",
+                "entryway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "there is a table in the corner between the couches with a vase on it.  the table is short in stature and located against the wall directly in front of you when you enter the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couches",
+                "wall",
+                "vase",
+                "couches",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "the brown armchair has two armrests and is located on the wall next to the table.  it is located right next to the door on the left.",
+        "parsed_query": {
+            "Target": "brown armchair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is the same height as the armrest on the chair located next to it.  it is round and has a vase on it and is located in the corner between the couch and the chair.  it on the wall to the left of the door when looking at the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "couch",
+                "chair",
+                "door"
+            ]
+        },
+        "unique": true
+    }
+]

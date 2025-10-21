@@ -1,0 +1,1279 @@
+[
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 5,
+        "caption": "The end table has a vase with flowers in it",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "vase with flowers"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 6,
+        "caption": "Choose the round table that is next to the couch that is ALL BLUE and has a Square table at the other end.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "couch",
+                "Square table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 9,
+        "caption": "chair with long table behind it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 1,
+        "caption": "A plant is on a table next to this couch.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 21,
+        "caption": "The correct chair is the one beside the round table with the plant on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "plant"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 10,
+        "caption": "A person sitting in this chair, would see the same chair across from them, but with a rectangular table behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 9,
+        "caption": "The chair closest to entrance next to wide table near the windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "entrance",
+                "wide table",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 30,
+        "caption": "The section of the wall/windows that is close to and directly in front of the table that is behind the blue chair.",
+        "parsed_query": {
+            "Target": "section of the wall/windows",
+            "Anchor": [
+                "table",
+                "blue chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 21,
+        "caption": "choose the chair closest to the bookcase.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bookcase"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 31,
+        "caption": "the window at the shelf",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 6,
+        "caption": "Facing the window, the table in the lower right corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 0,
+        "caption": "choose the couch which has an askew coffee table in front of it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "coffee table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 5,
+        "caption": "The end table with a plant decoration.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "plant decoration"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 2,
+        "caption": "The round tables by this coffee table are bare on top.",
+        "parsed_query": {
+            "Target": "round tables",
+            "Anchor": [
+                "coffee table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 30,
+        "caption": "The window in the right corner of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 0,
+        "caption": "position the room so the brown rectangular rug is in the back, pick box on right",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "brown rectangular rug",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 3,
+        "caption": "the table closest to the roundtable with flowers on it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "roundtable",
+                "flowers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 10,
+        "caption": "facing the windows, The chair furthest away from the windows on the left hand side",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "left hand side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 11,
+        "caption": "If you are facing the windows and the rug, it is the closest chair on the left, at 7 o'clock.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "rug"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 2,
+        "caption": "The table with the couch and two chairs that have a rectangular table next to them and not an open space",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couch",
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 1,
+        "caption": "The couch closest to table with plants",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "table",
+                "plants"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 10,
+        "caption": "If you are standing on the rug, it is the furthest chair on your left at 11 o'clock.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 3,
+        "caption": "Facing the windows in the back of the room, the coffee table to your left",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "windows",
+                "room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 2,
+        "caption": "If looking straight on at the brown carpet. The coffee table is to the right.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "brown carpet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 11,
+        "caption": "at the bottom of the image select the armchair on your left",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 6,
+        "caption": "the table with nothing on it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 6,
+        "caption": "select the empty table , diagonal to the one with vase on it",
+        "parsed_query": {
+            "Target": "empty table",
+            "Anchor": [
+                "table with vase"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 21,
+        "caption": "There is a plant on the round table by this armchair.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "round table",
+                "armchair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 5,
+        "caption": "The round table with a plant on it",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "plant"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 3,
+        "caption": "choose the coffee table that is NOT askew in front of its couch",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "round table in corner with something black on it",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "Pick the table to your right if you were seated on the blue sofa.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blue sofa"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 9,
+        "caption": "facing the windows pick the right chair closest to the windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 21,
+        "caption": "Choose the chair that is next to the table with the flowers on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "flowers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 31,
+        "caption": "When standing in the room, looking at the windows, the correct one is on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 10,
+        "caption": "Chair on the far rear right of the window, ie look at the scene with the window at top and its the bottom right one.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 1,
+        "caption": "When looking at the rug near the clear doors, you want the couch on the left.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "rug",
+                "clear doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 4,
+        "caption": "The end table closest to the hallway entrance.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "hallway entrance"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 5,
+        "caption": "The round table that has the flowers on it.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "flowers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 31,
+        "caption": "the window on the left-hand side of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "left-hand side",
+                "room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 2,
+        "caption": "with the windows to your front, you want the table on the right",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 31,
+        "caption": "with a couch on the left, and one on the right - the window in front of you - you want the left window near the shelf and not the table",
+        "parsed_query": {
+            "Target": "left window",
+            "Anchor": [
+                "couch",
+                "left window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 4,
+        "caption": "The table closest to the hallway.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 4,
+        "caption": "round table top of image furthest away from windows",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "image",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 6,
+        "caption": "The end table on the bottom right when facing the windows.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 3,
+        "caption": "CHoose the coffee table that is straightest, not askew,  and has no rectanglular table behind it.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "straightest",
+                "not askew",
+                "no rectangular table behind it"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 3,
+        "caption": "coffee table next to the sofa with a flower on the round table",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "sofa",
+                "round table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 6,
+        "caption": "If you were standing on the rug facing the couches, it is the furthest end table on your left.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "rug",
+                "couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 11,
+        "caption": "Staring at the window with the rug in front of it, you want the closest chair to your left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "rug"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 5,
+        "caption": "End table with flowers on it",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "flowers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 2,
+        "caption": "If you are facing the rug infront of the windows and glass doors leading outside, the table you are looking for is the square one on your right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "rug",
+                "windows",
+                "glass doors",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 10,
+        "caption": "The arm chair on the right of the couch on the side that does not have a plant.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 30,
+        "caption": "Face 2 windows inside of the room. You need the right hand side one",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "right hand side one"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 0,
+        "caption": "The couch has tow empty tables on either side, not the one next to table with a plant.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "table with a plant"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "select the end table nearest the larger table at the sofas",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "larger table",
+                "sofas"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 0,
+        "caption": "The couch between the two tables that do NOT have a plant on them.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "table",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 5,
+        "caption": "select the end table that has flowers on it",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "flowers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 3,
+        "caption": "The rectangular coffee table closest to the circular table with the flower vase on it.",
+        "parsed_query": {
+            "Target": "rectangular coffee table",
+            "Anchor": [
+                "circular table",
+                "flower vase"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 1,
+        "caption": "The couch next to the end table with a plant on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "end table",
+                "plant"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "The end table has a blue object on it",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "blue object"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 30,
+        "caption": "The window on the right when facing the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 10,
+        "caption": "The armchair between the circular table and the rectangular table. There are several of these, so look for the one closest to a crescent-shaped black mark on the floor tile just diagonal to it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "circular table",
+                "rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 31,
+        "caption": "window with shelves in front of it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "The round table directly next to the rectangular wooden table.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "rectangular wooden table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 4,
+        "caption": "The end table on the other side of the couch from the tabletop plant.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "couch",
+                "top table plant"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 11,
+        "caption": "The chair on the far right when entering through the glass doors",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "glass doors"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 0,
+        "caption": "If you turn so you're facing the rug instead of over the rug there is a black couch to your right.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": [
+                "rug"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 1,
+        "caption": "Looking for a blue couch, next to it is a circle table with flowers on it",
+        "parsed_query": {
+            "Target": "blue couch",
+            "Anchor": [
+                "circle table",
+                "flowers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 2,
+        "caption": "The coffee table on the right, when facing the windows.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 9,
+        "caption": "armchair close to the blue photo on the round table",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "blue photo",
+                "round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 10,
+        "caption": "Facing the double doors, you need to select the chair that i closest to you on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "double doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 9,
+        "caption": "the chair that is close to the window and the rectangular table near the couch",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "rectangular table",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 31,
+        "caption": "Facing the windows, the one on the LEFT, behind the shelves",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 1,
+        "caption": "If you stand on the brown rug, it's the couch on the right.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "brown rug"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 6,
+        "caption": "When facing the windows, the end table on the lower right.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 3,
+        "caption": "Facing the windows, the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 1,
+        "caption": "Facing the windows, the couch that is on the left side of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 9,
+        "caption": "A person sitting in this armchair would have a couch to their left and a rectangular table behind them.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch",
+                "rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 31,
+        "caption": "Choose the window with the shelving unit sitting in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelving unit"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 4,
+        "caption": "The table next to the table with a plant.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "plant"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "The end table sandwiched by the rectangular table, a chair, and couch. There are no flowers on it. It is hard to access this end table.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "rectangular table",
+                "chair",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 5,
+        "caption": "If you face the double doors you need to select the end table that is furthest away from you on the left.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "double doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 11,
+        "caption": "Facing the windows, the arm chair in the lower left corner.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 21,
+        "caption": "The left armchair closest to the windows.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 0,
+        "caption": "the couch that has a rectangular table between it and the wall with the windows - there is a lot of light hitting that table close to the couch you want",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "rectangular table",
+                "windows",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 4,
+        "caption": "There are 4 round end tables in the scene.  The windows at the top, lighting the square rug is the reference point.  If the windows are set to be on top, the end table we want is in the lower left of the scene, near the green extension of the room.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "square rug",
+                "green extension"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 11,
+        "caption": "facing the window, near left chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "left chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "The round table without a plant on it, but a picture on it, to the left of the leather couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "leather couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 21,
+        "caption": "It's the arm chair that is next to the round table with the flowers on it, and it's back is to another chair.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "round table with the flowers on it",
+                "another chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 30,
+        "caption": "Facing the windows in the back of the room want the window on the far right",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "windows",
+                "back of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 2,
+        "caption": "Facing the window, the coffee table to the right.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 21,
+        "caption": "Find the armchair that is closest to the vase of flowers.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "vase of flowers"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 7,
+        "caption": "The end table is surrounded by a couch, a chair, and a large table.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "couch",
+                "chair",
+                "large table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 0,
+        "caption": "The couch is between empty tables",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "empty tables"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 30,
+        "caption": "The window near the table, not the one near the shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 9,
+        "caption": "Blue chair in front of the desk.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 30,
+        "caption": "when standing in the room facing towards the windows the correct window is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 11,
+        "caption": "It's to the left of the coffee table when image is viewed with the V-shaped cut on the left.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "coffee table",
+                "V-shaped cut"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": 4,
+        "caption": "If you are standing on the rug, facing the couches, it is the furthest end table on the right.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "rug",
+                "couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

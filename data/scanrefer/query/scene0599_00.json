@@ -1,0 +1,57 @@
+[
+    {
+        "scan_id": "scene0599_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "window. in a meeting room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "meeting room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "this chair is on the top left. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "this chair is facing away. it is wooden.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": "4",
+        "target_name": "whiteboard",
+        "caption": "this whiteboard is blank. it is on the right.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "right"
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,2149 @@
+[
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 46,
+        "caption": "The pillow on the bed that is on the far end of the room and is at the rear and right hand side of the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "far end of the room",
+                "rear",
+                "right hand side of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 40,
+        "caption": "The rear, left hand side pillow on the bed that is closest to the cabinets",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 46,
+        "caption": "looking at the beds, pick the pillow that is the furthest on the right",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 46,
+        "caption": "The pillow at the back on the right, on the bed closet to the heater.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "closet",
+                "heater"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 46,
+        "caption": "The pillow that is closest to the air conditioning unit on the wall and that is behind another pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "air conditioning unit",
+                "pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 44,
+        "caption": "Standing at the foot of the bed looking at the head on the bed.  It is the pillow in the from on the bed on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "head on the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 44,
+        "caption": "Standing at the end of the beds the pillow to choose is on the right side and is the front middle pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds",
+                "right side",
+                "front middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 44,
+        "caption": "Once you have entered the room, find the two twin beds. Position yourself at the foot of the beds in the center. Facing the headboards. Go to the head of the bed on your right. There are a total of three boxes containing pillows. The one you want is in front of the other two setting  side by side closest to the headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "twin beds",
+                "headboards",
+                "bed on the right",
+                "side by side",
+                "headboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 44,
+        "caption": "looking at the beds, pick the pillow on the right bed, that is the closest to you",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "right bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 41,
+        "caption": "On the bed with the laptop its the pillow by the light",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "laptop",
+                "bed",
+                "light"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 41,
+        "caption": "at the foot of the beds, you want the left bed. The pillow closest to the lamp in the center of the room",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds",
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 41,
+        "caption": "On the bed on the left, this pillow is furthest right, next to nightstand.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "nightstand"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 41,
+        "caption": "Standing at the foot of both beds looking at the head of the bed, The pillow is on the left bed.  and it's the pillow in the back on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "foot of both beds",
+                "head of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 40,
+        "caption": "When facing the beds, on the bed on your left, it's the furthest pillow on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "left pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 40,
+        "caption": "The pillow closest to the small refrigerator and red bag on the ground",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "small refrigerator",
+                "red bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 40,
+        "caption": "facing the beds, pick the pillow that is on the left bed, furthest left",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds",
+                "left bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 39,
+        "caption": "looking at the ebds, pick the pillow that is on the left bed closest to you",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 39,
+        "caption": "Facing the beds you want the front pillow on the left bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds",
+                "left bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 39,
+        "caption": "Standing at the end of the beds, choose the bed on the left and choose the smaller front pillow on that bed.",
+        "parsed_query": {
+            "Target": "smaller front pillow",
+            "Anchor": [
+                "beds",
+                "left bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 39,
+        "caption": "The front pillow on the bed with the laptop",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "laptop"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 45,
+        "caption": "Facing beds, it's the pillow closest to lamp on the right-hand bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds",
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 45,
+        "caption": "the pillow on the bed near the window. It is the closest option to the lamp in the center",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window",
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 45,
+        "caption": "If you are standing at the foot of the bed looking at the pillows, you are looking for the leftmost pillow on the bed that is on your right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "foot of the bed",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 45,
+        "caption": "the pillow is directly to the right of the lamp",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "lamp"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 40,
+        "caption": "The bed with papers on it, the pillow is in the back on the dresser side.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "pillow",
+                "dresser"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 41,
+        "caption": "The bed next to the dresser, it is the pillow in the back, closest to the nightstand.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "dresser",
+                "nightstand"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 45,
+        "caption": "In the main area of the room along one wall are two beds with a total 6 pillows, this is opposite the wall with the dresser and table with chairs. Between the two beds is a small table, the pillow you are interested in is the closest one to the right side of the table. Or the pillow closest to the wall next to the bed stand on the bed without the laptop.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "bed",
+                "table",
+                "dresser",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 39,
+        "caption": "Standing at the end of the beds, choose the bed on the left and choose the front pillow.",
+        "parsed_query": {
+            "Target": "front pillow",
+            "Anchor": [
+                "beds",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 44,
+        "caption": "pick the pillow on the right bed, that is in front of the other pillows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "right bed",
+                "other pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 46,
+        "caption": "standing at the foot of the beds, you want the bed near the window. The back right pillow",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 8,
+        "caption": "the bed that doesn't have a laptop on it",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 13,
+        "caption": "the door at the end of the hallway",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "hallway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 47,
+        "caption": "the table is beside the door",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 17,
+        "caption": "The trashcan is on the ground right next to cabinets and a fridge. The cabinets have a coffee maker and microwave on them. The garbage can is brown.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "cabinets",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 51,
+        "caption": "The towel in the furthest corner of the room",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 22,
+        "caption": "the poster closest to the heater",
+        "parsed_query": {
+            "Target": "poster",
+            "Anchor": "heater"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 13,
+        "caption": "The door at the very end of the room, leading to the outside",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "end of the room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "choose the bag right next to the door.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 19,
+        "caption": "the bag closest to the bed of the left",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "bed",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 17,
+        "caption": "The trash can to the right of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 17,
+        "caption": "Small bin on the side of the desk",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 6,
+        "caption": "The larger of the tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 29,
+        "caption": "chair in front of bed with laptop",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "laptop"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 26,
+        "caption": "the door next to the stand-in closet",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "stand-in closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 8,
+        "caption": "bed beside heater",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "heater"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 30,
+        "caption": "This trash can is closest to the foot of the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 6,
+        "caption": "The round table that has two chairs placed at it in the corner of the room.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "chairs",
+                "corner of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 7,
+        "caption": "The bed next to the microwave and shelf.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "microwave",
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 19,
+        "caption": "the bag closest to the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 13,
+        "caption": "The door farthest from the beds.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 17,
+        "caption": "choose the trash can on the floor next to the dresser by the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "dresser",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 18,
+        "caption": "A red bad directly next to a white cupboard, that has 2 brown cupboards next to it",
+        "parsed_query": {
+            "Target": "red bad",
+            "Anchor": [
+                "white cupboard",
+                "2 brown cupboards"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 47,
+        "caption": "choose the table closest to the closet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 50,
+        "caption": "Facing the door, the towel to the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 18,
+        "caption": "bag second from the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 6,
+        "caption": "The round table in the room",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 8,
+        "caption": "Facing the beds, the bed to the right.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "beds"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 8,
+        "caption": "The bed that is the closest to the round table and chairs.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "round table",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 22,
+        "caption": "The picture farthest from the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 50,
+        "caption": "The correct towel is closest to the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 26,
+        "caption": "The brown door in the room.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 51,
+        "caption": "The towel farther from the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 18,
+        "caption": "The box is right against the dresser with a light colour on side",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "dresser",
+                "light"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 7,
+        "caption": "Choose the bed on the left when facing them, it's the one furthest from the air conditioner.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bed",
+                "air conditioner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 47,
+        "caption": "The correct table is square and close to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 6,
+        "caption": "the round table in the corner of the room",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 26,
+        "caption": "The door across from the end of the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 18,
+        "caption": "bag on the floor, farthest left from the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 30,
+        "caption": "The trash can underneath the right side of the desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 21,
+        "caption": "choose the picture over the left bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "left bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 26,
+        "caption": "The correct door is closer to the beds.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "beds"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 22,
+        "caption": "The picture closest to the air conditioner.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "air conditioner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "The bag closest to the door.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 3,
+        "caption": "Choose the black chair that is between the desk and the round table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "desk",
+                "round table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 7,
+        "caption": "the bed that has the laptop on it",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "laptop"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 51,
+        "caption": "The towel closest to a corner of the room.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 21,
+        "caption": "It is the painting over the bed with a laptop on it.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "bed",
+                "laptop"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 30,
+        "caption": "The trash can that is across from the bed and next to the dresser.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bed",
+                "dresser"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 13,
+        "caption": "The door to find has two paper notes on it. It has a rectangular plate where the lever door handle is. The door you are not looking for has a regular knob type handle. The door you need to find is next to the open door with the light shining out of the bathroom. The door is not the door across from the beds. If you were to walk into this room from the correct door the beds will be on your left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "paper notes",
+                "rectangular plate",
+                "light shining out of the bathroom",
+                "bathroom",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 50,
+        "caption": "the dispenser to the right , closer to the edge of the counter",
+        "parsed_query": {
+            "Target": "dispenser",
+            "Anchor": [
+                "counter",
+                "edge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 3,
+        "caption": "The black chair at the table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 48,
+        "caption": "trash can under the sink",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 21,
+        "caption": "The picture above the bed with the laptop on it",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed",
+                "laptop"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "Choose the white thing on the small square table between the dresser and the door to the adjoining room.",
+        "parsed_query": {
+            "Target": "white thing",
+            "Anchor": [
+                "small square table",
+                "dresser",
+                "door to the adjoining room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 3,
+        "caption": "Find the black chair across from the bed without the laptop.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "laptop"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 8,
+        "caption": "The bed furthest from the door",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 6,
+        "caption": "It is the round table in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 3,
+        "caption": "The chair furthest from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 21,
+        "caption": "picture above the bed that has stuff on it",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 29,
+        "caption": "The correct chair is tucked into the desk. It is NOT black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "black"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 29,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "these are used to store items in, sometimes laundry, sometimes chips, sometimes clothing and you always get them when you purchase something",
+        "parsed_query": {
+            "Target": "containers",
+            "Anchor": [
+                "for storing items",
+                "laundry",
+                "chips",
+                "clothing"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 21,
+        "caption": "The picture closest to the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 18,
+        "caption": "the bag farthest left from the side of the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "side of the bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 18,
+        "caption": "bag farthest left from the the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 3,
+        "caption": "Choose the chair at the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 6,
+        "caption": "The table between the two black chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "black chair",
+                "black chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 48,
+        "caption": "the trash under the sink counter furthest from the bed",
+        "parsed_query": {
+            "Target": "trash",
+            "Anchor": "sink counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 19,
+        "caption": "Looking at the beds head on, the bag nearest to the bed on the left.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 13,
+        "caption": "Choose the door with 2 notices on it at the end of the room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 17,
+        "caption": "the trash can next to the door, by the cabinets.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 47,
+        "caption": "This table is located in front of the first bed in the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 21,
+        "caption": "The picture on the left",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "bag on a table",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 7,
+        "caption": "Bed with items on it like a laptop",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "laptop"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 7,
+        "caption": "The bed on the left if you are facing the wall with the pictures and lamp.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "wall with the pictures and lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 48,
+        "caption": "Select the smaller option that is closest to the brown door.",
+        "parsed_query": {
+            "Target": "smaller option",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 51,
+        "caption": "Choose the towel closer to the corner of the counter and wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "corner of the counter",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 30,
+        "caption": "If you just walk through the door, the trash can on the right that's the farthest away.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "farthest away"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 13,
+        "caption": "select the door in the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 50,
+        "caption": "Facing the towels, the one on the left in the corner.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towels"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 50,
+        "caption": "Choose the towel closest to the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 51,
+        "caption": "Locate the towel that is further away from the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 19,
+        "caption": "bag closest to the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 3,
+        "caption": "The larger of the chairs near the octagonal table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "octagonal table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 8,
+        "caption": "if looking at the beds from the middle of the room, the bed on the right.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 13,
+        "caption": "The GREEN COLORED door down the hallway",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "hallway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 51,
+        "caption": "It is the towel furthest from the closed yellow door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "closed yellow door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 19,
+        "caption": "the first bag to the left of the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 17,
+        "caption": "The trash can you want to pick is the one closest to the bathroom door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 30,
+        "caption": "trash can under the table next to the desk",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "table",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 50,
+        "caption": "The towel on the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 30,
+        "caption": "The trash can closest to the foot of the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "foot of the bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 47,
+        "caption": "The square table to the right of the drawers.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": [
+                "drawers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 48,
+        "caption": "Trash can closest to the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 17,
+        "caption": "The trash can next to the door and dresser",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "dresser"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 47,
+        "caption": "The smaller table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "The bag on top of the table.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 51,
+        "caption": "Facing the towels, the towel on the left.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "the bag on the table",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 22,
+        "caption": "If you face the beds you will see the heating and cooling system on the right it is the picture above the bed on the right closest to the heating and cooling system.",
+        "parsed_query": {
+            "Target": "heating and cooling system",
+            "Anchor": [
+                "beds",
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 6,
+        "caption": "The table is shaped like an octogon",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 3,
+        "caption": "The chair to the left of the desk not pushed under the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 19,
+        "caption": "Facing the wall between the bed and cabinet section, the bag closest to the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "bed",
+                "cabinet section",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 22,
+        "caption": "facing the beds, right picture",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 48,
+        "caption": "Trash can in bathroom",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 7,
+        "caption": "This bed is the one with a laptop and a paper on it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "laptop",
+                "paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 31,
+        "caption": "The bag on the desk across from the beds.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "desk",
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 18,
+        "caption": "The bag is an orange color",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 29,
+        "caption": "The chair that is tucked in to the desk at the foot of the beds",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "foot",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 29,
+        "caption": "The chair tucked under the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 48,
+        "caption": "the trash can under the counter in the sink area",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "sink area"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 47,
+        "caption": "It is the square table directly across from the bed with the computer on it.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 29,
+        "caption": "The chair under the desk across from the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 8,
+        "caption": "The bed closest to the wall heater",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall heater"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 26,
+        "caption": "click the door that is closest to the beds",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "beds"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 22,
+        "caption": "facing the beds, right picture",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "beds",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 26,
+        "caption": "the door that is in the room with the beds",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 21,
+        "caption": "picture above the bed on the left",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 22,
+        "caption": "the picture above the bed without the laptop",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "above",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 45,
+        "caption": "Facing the wall with the two beds, look at the bed on your right. It is the box in the back on the bed that is farthest to your LEFT that you want.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "two beds",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 39,
+        "caption": "Facing the beds, its on the left-hand bed, the pillow in the center.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds",
+                "left-hand bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 46,
+        "caption": "The pillow that is closest to the air conditioner unit.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "air conditioner unit"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 41,
+        "caption": "Facing beds, it's on the left-hand bed and is closest to the lamp.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 40,
+        "caption": "Facing beds, its on the left-hand bed, and is the pillow on the far left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "left-hand bed",
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 44,
+        "caption": "Facing beds, it's the center pillow on the right-hand bed.",
+        "parsed_query": {
+            "Target": "center pillow",
+            "Anchor": [
+                "right-hand bed",
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 29,
+        "caption": "the chair is underneath the brown table in front bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown table",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 50,
+        "caption": "The towel closest to the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 19,
+        "caption": "The box is the closest one to the left side of the bed with the papers on it.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 30,
+        "caption": "The box closest to the door.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 7,
+        "caption": "This bed is closer to the dresser and is to the left of the other bed. This bed has white papers and maybe an open laptop on it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "dresser",
+                "other bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 26,
+        "caption": "The wooden door nearest to the bed first bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 48,
+        "caption": "The trash can closest to the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 39,
+        "caption": "The middle pillow on the bed with the laptop",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "laptop"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 40,
+        "caption": "Standing at the end of the two beds, choose the back left pillow of the bed on the left side.",
+        "parsed_query": {
+            "Target": "back left pillow",
+            "Anchor": [
+                "end of two beds",
+                "bed on the left side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 41,
+        "caption": "On the bed close to the door it's the pillow next to the light on the nightstand",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "door",
+                "light",
+                "nightstand"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 45,
+        "caption": "Standing at the foot of the beds. The bed on the right, you want the pillow in the back, on the nightstand side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "nightstand"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 46,
+        "caption": "Staring at both beds from their foot, you want the bed on the right. The pillow is the back right option.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bed",
+                "pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": 44,
+        "caption": "If you're standing at the feet of the beds, looking toward the beds, it's the pillow at the front of the pillow arrangement on the right bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "beds",
+                "pillow arrangement"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

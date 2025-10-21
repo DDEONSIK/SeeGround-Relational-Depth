@@ -1,0 +1,72 @@
+[
+    {
+        "scan_id": "scene0583_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "three black shelves sit in a super dark room. they have a plant on their top shelf.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "three black shelves",
+                "dark room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": "2",
+        "target_name": "toilet",
+        "caption": "a toilet sits to the left of the sink. there is a plunger in the left corner near it.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink",
+                "plunger"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": "19",
+        "target_name": "picture",
+        "caption": "a painting hangs on the wall to the right of a window. it's to the left of the mirror.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "window",
+                "mirror"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": "10",
+        "target_name": "stool",
+        "caption": "a stool sits in the corner of the bathroom. it's to the right of the sink.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0583_00",
+        "target_id": "10",
+        "target_name": "stool",
+        "caption": "a stool sits in the corner of the bathroom by the door. it's to the right of the sink.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "sink",
+                "bathroom",
+                "door"
+            ]
+        },
+        "unique": false
+    }
+]

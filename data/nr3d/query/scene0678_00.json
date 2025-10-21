@@ -1,0 +1,802 @@
+[
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 25,
+        "caption": "This is the middle box of the three on the same table",
+        "parsed_query": {
+            "Target": "middle box",
+            "Anchor": [
+                "three boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 32,
+        "caption": "The window in the middle of the room next to the black floor mat",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "black floor mat"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 31,
+        "caption": "the closed door in front of the row of washing machines",
+        "parsed_query": {
+            "Target": "closed door",
+            "Anchor": [
+                "row of washing machines"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 25,
+        "caption": "This is the central of 3 of the other windows on a wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 26,
+        "caption": "When standing in the middle of the room facing the windows, the correct window is second from the right. There is a blue painting on the wall beside it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window",
+                "blue painting"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 21,
+        "caption": "Choose the door closes to the long row of dryers.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "long row of dryers"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 25,
+        "caption": "Facing the side with three windows, the middle window.",
+        "parsed_query": {
+            "Target": "middle window",
+            "Anchor": "three windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 23,
+        "caption": "The left side first window of three along the back wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 29,
+        "caption": "the smaller more upright one with a hamper in front",
+        "parsed_query": {
+            "Target": "closet",
+            "Anchor": [
+                "closet",
+                "hanger"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 30,
+        "caption": "The picture with the blue background and trees above the plastic chest of drawers.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "blue background",
+                "trees",
+                "plastic chest of drawers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 29,
+        "caption": "select the picture near the washing basket, on the wall opposite the pepsi machine",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "washing basket",
+                "wall",
+                "Pepsi machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 8,
+        "caption": "The door that is closest to the long gray counter and has no door mat.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "long gray counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 32,
+        "caption": "You are looking for the tall window that is on the wall by itself.",
+        "parsed_query": {
+            "Target": "tall window",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 29,
+        "caption": "The smaller picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 21,
+        "caption": "This door is at the end of the long wall of dryers.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "dryers"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 29,
+        "caption": "picture above the counter",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "counter"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 23,
+        "caption": "if you are facing the three windows on one wall, it is the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "three windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 26,
+        "caption": "The window with the washing basket sitting infront",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "washing basket"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 32,
+        "caption": "This object is a tall white object to the right of the blue picture hanging on the wall. It appears to be some sort of machine, either a refrigerator or possibly a heating system.  It has an opening in the bottom that might be a vent.",
+        "parsed_query": {
+            "Target": "machine",
+            "Anchor": [
+                "blue picture",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 30,
+        "caption": "look from  above so the double stack of washing machines is on your left at the top you should see a lime green small bin on the floor. there is a table next to this and next to that a picture on the wall this picutre is what you  are looking for.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "washing machines",
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 30,
+        "caption": "The picture closer to the door and soda machines",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door",
+                "soda machines"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 30,
+        "caption": "the picture not above the counter",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 21,
+        "caption": "Choose the door to the outside that is in the corner, NOT the one near the vending machines.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "outside",
+                "corner",
+                "not",
+                "near",
+                "vending machines"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 31,
+        "caption": "The door closest to the vending machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "vending machine"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 32,
+        "caption": "Window with an exit sign located directly below it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "exit sign"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 26,
+        "caption": "Far right window facing the set of three windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "set of three windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 21,
+        "caption": "the door next to the fire extinguisher",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "fire extinguisher"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 29,
+        "caption": "Picture in the corner above the greenish colored shelf.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "greenish colored shelf",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 8,
+        "caption": "facing the windows, the right door in the corner",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 25,
+        "caption": "facing the row of windows, the middle one",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 26,
+        "caption": "If you are standing at the Pepsi machine, it is the window directly in front of you.",
+        "parsed_query": {
+            "Target": "Pepsi machine",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 8,
+        "caption": "the door between the two pictures with blue in them.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "pictures",
+                "blue"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 8,
+        "caption": "This large rectangle that you would walk through.  It does not contain shelve but does not exactly look like you could open it.  It is very white.",
+        "parsed_query": {
+            "Target": "rectangle",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 21,
+        "caption": "The door that has an exit sign near the bottom of the door, and has a fire extinguisher and fire alarm beside it",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "exit sign",
+                "fire extinguisher",
+                "fire alarm"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 25,
+        "caption": "When facing the long gray counter it is the window in the middle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "long gray counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 29,
+        "caption": "The smaller picture tucked away in the corner.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 23,
+        "caption": "if looking at the wall with three windows from the middle of the room, the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "three windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 8,
+        "caption": "When facing the Pepsi machine this door is in the bottom left hand corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "Pepsi machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 21,
+        "caption": "the doorway is kitty-corner from the pepsi machine",
+        "parsed_query": {
+            "Target": "doorway",
+            "Anchor": "pepsi machine"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 31,
+        "caption": "The door that is closer to the vending machine, pepsi",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "vending machine",
+                "pepsi"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 21,
+        "caption": "The door on the side with the washing machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "washing machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 26,
+        "caption": "When facing the three windows choose the one on the far right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "three windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 30,
+        "caption": "The picture closest to the pepsi machine.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "pepsi machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 26,
+        "caption": "There are three windows over the folding counter, select the window to the far right",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "folding counter",
+                "far right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 29,
+        "caption": "Looking into the room with the soda machine in the front right corner choose the picture furthest to the left.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "soda machine",
+                "front right corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 23,
+        "caption": "window above the counter to the right of the white trash can",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "counter",
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 30,
+        "caption": "Choose the picture in the middle of the room.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 31,
+        "caption": "The door closest to the Pepsi vending machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "Pepsi vending machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 23,
+        "caption": "The window next to a red fire extinguisher",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "red fire extinguisher"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 23,
+        "caption": "looking at the wall of 3 windows from the middle of the room, the far left window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 25,
+        "caption": "The middle window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 8,
+        "caption": "It's the door completely across the room from the soda machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "soda machine"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 31,
+        "caption": "The door that is centered on the aisle between machines, with a set of windows just beside it",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "machines",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 23,
+        "caption": "it is the smallest window in the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 31,
+        "caption": "Tall and white with a long knob closest to the middle of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "middle of the room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 25,
+        "caption": "middle window of back wall",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "back wall",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 32,
+        "caption": "The correct window is taller and touches the ground.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 32,
+        "caption": "The window is part of the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 26,
+        "caption": "Facing the three windows, the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "three windows",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 31,
+        "caption": "The door closest to the pepsi machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "pepsi machine"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 8,
+        "caption": "The wall across the room from the pepsi machine(s) near a table with folded clothes",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "pepsi machine(s)",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 30,
+        "caption": "There is a painting on the wall that is blue and has multiple palm trees in it.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "blue",
+                "palm trees"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": 32,
+        "caption": "When standing in the room looking at the windows the correct one is on the far right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

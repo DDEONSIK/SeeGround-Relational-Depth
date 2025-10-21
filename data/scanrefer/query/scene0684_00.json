@@ -1,0 +1,73 @@
+[
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this black chair is in front of a desk. it is in front of the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "this is a small black window. it is above a tan table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "tan table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "this window is above the phone on the table. it is the closest window to the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "phone",
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a rectangular table. it is between the wall and a white cabinet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "white cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a large table. it is under the window of the corner of the room.",
+        "parsed_query": {
+            "Target": "large table",
+            "Anchor": [
+                "window",
+                "corner",
+                "room"
+            ]
+        },
+        "unique": true
+    }
+]

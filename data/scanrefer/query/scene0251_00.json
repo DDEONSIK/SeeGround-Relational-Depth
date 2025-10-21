@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "12",
+        "target_name": "trash_can",
+        "caption": "the trash can is the farthest left one out of a row of cans. the trash can is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "row of cans"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door is right of a gray trash can. the door is a brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "gray trash can",
+                "brown rectangle"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "14",
+        "target_name": "door",
+        "caption": "this is a brown object that covers an opening to a room. it must be opened to enter the room.",
+        "parsed_query": {
+            "Target": "brown object",
+            "Anchor": "opening to a room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "this is a black object used to dispose of waste. it is the second closes object to the open door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "open door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "this is a brown wooden object used to cover an opening to a room. it must be opened to pass into the room on the other side.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

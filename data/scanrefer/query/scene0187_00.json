@@ -1,0 +1,75 @@
+[
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "2",
+        "target_name": "seat",
+        "caption": "the seat is located to the left of a yellow seat and directly to the left of the square table near the yellow seat. the seat is to the right of the left wall.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "yellow seat",
+                "square table",
+                "left wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "15",
+        "target_name": "seat",
+        "caption": "the red seat is located along the back wall. the seat is to the left of the tan chair with the small black workspace arm.",
+        "parsed_query": {
+            "Target": "red seat",
+            "Anchor": [
+                "back wall",
+                "tan chair with the small black workspace arm"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this chair is located behind a rectangular table that is to the left of the low square table. the chair is the second to the left of the red seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "rectangular table",
+                "low square table",
+                "red seat"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "this rectangular table is directly to the right of and very near the yellow seat and to the left of a backpack. table is the second table from the rear wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "yellow seat",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is just to the left of center of the back wall of the room. the coffee table is directly in front of a chair with circular black workspace arm and to the right of a red seat.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "back wall",
+                "chair",
+                "red seat"
+            ]
+        },
+        "unique": false
+    }
+]

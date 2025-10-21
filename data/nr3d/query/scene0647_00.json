@@ -1,0 +1,1291 @@
+[
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 22,
+        "caption": "The door next to the orange stool and by the tv",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "orange stool",
+                "tv"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 0,
+        "caption": "The stool closest to the tv",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "tv"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 11,
+        "caption": "This object is a very small table with a circular top.  The top is mounted on a slender pole that is somehow afixed to the floor.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 17,
+        "caption": "The largest picture in the room.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 12,
+        "caption": "the bar stool closest to the booth couch",
+        "parsed_query": {
+            "Target": "bar stool",
+            "Anchor": [
+                "booth couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 20,
+        "caption": "The couch is the furthest from the ping pong table. There is nothing on the wall above it. It is also has a brown, wood chair close to it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "ping pong table",
+                "brown wood chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 18,
+        "caption": "Of the two pictures hanging on the same wall, the one on the left.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 22,
+        "caption": "Facing the picture, the door to the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 8,
+        "caption": "the small orange chair next to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 20,
+        "caption": "When standing in the middle of the room facing the couches in the corner, the correct one is on the right and has a backpack beside it.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "couches",
+                "room",
+                "couches in the corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "The correct table is a square with two dark grey benches around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "dark grey bench"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 12,
+        "caption": "chair to right of gray table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "gray table"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 1,
+        "caption": "You should select the sofa which is facing the TV on the opposite wall.  If you are standing behind the table tennis table and are FACING the sofa's, you should select the one on the LEFT.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "table tennis table",
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 20,
+        "caption": "find the couch next to the backpack and chair",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "backpack",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 18,
+        "caption": "The smaller blue picture frame above the 2 orange chairs",
+        "parsed_query": {
+            "Target": "smaller blue picture frame",
+            "Anchor": [
+                "2 orange chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 12,
+        "caption": "When looking at the window that is between the square table with L-shaped benches and the round table and stools, choose the stool closest to the window.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "square table with L-shaped benches",
+                "round table",
+                "stools"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 22,
+        "caption": "You are looking for the door between the table near the TV screen, and the colorful poster.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "table",
+                "TV screen",
+                "colorful poster"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 17,
+        "caption": "the large blue painting",
+        "parsed_query": {
+            "Target": "large blue painting",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 11,
+        "caption": "The table in the corner against the wall",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "This is the round table by the closed white door.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "closed white door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 22,
+        "caption": "the door is close to the orange stool and wooden chair",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "orange stool",
+                "wooden chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 0,
+        "caption": "the chair is to the right of the white door and the white table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white door",
+                "white table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 16,
+        "caption": "The door is the one on the same wall as the large flower picture.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "large flower picture"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 18,
+        "caption": "choose the left picture of the wall with two.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "two"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "the table closest to the green couch",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 16,
+        "caption": "Facing the mural of a dandy lion, the door to the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "mural"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 19,
+        "caption": "The small picture above the green corner couches.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "green corner couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 18,
+        "caption": "the picture is a blue yellow sun",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "blue",
+                "yellow",
+                "sun"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 13,
+        "caption": "under the painting (not the TV) , in the corner",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "corner",
+                "not the TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 11,
+        "caption": "circle table nearest the square one",
+        "parsed_query": {
+            "Target": "circle table",
+            "Anchor": "square one"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "Choose the table that has two orange stools and a painting above it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "stools",
+                "painting"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 1,
+        "caption": "The farthest couch from the door.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 17,
+        "caption": "Select the large painting near the ping pong table.",
+        "parsed_query": {
+            "Target": "large painting",
+            "Anchor": [
+                "ping pong table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 22,
+        "caption": "A door handle.",
+        "parsed_query": {
+            "Target": "door handle",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 17,
+        "caption": "This is apparently a painting, the background is a bluish-green with something that looks like a dandelion taking up the left half in a brownish/red color.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": "dandelion"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 16,
+        "caption": "the door with a large knob.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 13,
+        "caption": "The orange stool closest to the corner of the room at the round table under the blue and yellow poster.",
+        "parsed_query": {
+            "Target": "orange stool",
+            "Anchor": [
+                "round table",
+                "blue and yellow poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 8,
+        "caption": "The stole is located closest to white door",
+        "parsed_query": {
+            "Target": "stole",
+            "Anchor": [
+                "white door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "You can eat on top of these or put food items on them its circular",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "The table furthest from the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 19,
+        "caption": "On the wall over the corner table/booth; rectangular in shape.",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "corner table/booth",
+                "rectangular in shape"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 19,
+        "caption": "The picture on the wall above the corner bench booth.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "corner bench",
+                "bench",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 18,
+        "caption": "picture above the small circular table.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "small circular table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 8,
+        "caption": "The stool between the door and the tv",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "door",
+                "tv"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 13,
+        "caption": "There is a round table with stools under a small piece of art. Facing that small piece of art, the stool on the left side",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 22,
+        "caption": "door right next to the orange stool",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "orange stool"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 13,
+        "caption": "The stool is at the table with the picture above it, on the left side",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "table with the picture",
+                "left side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 20,
+        "caption": "The sofa that is against the wall facing the ping pong table",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "wall",
+                "ping pong table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 0,
+        "caption": "Choose the stool that is in the corner, underneath the television mounted on the wall.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "television",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 17,
+        "caption": "The largest picture of a dandelion, closest to the blue ping pong table.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "blue ping pong table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "facing the TV, the table closest to it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 1,
+        "caption": "Find a couch with circle patterns on it and is right under a painting on the wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "painting",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 12,
+        "caption": "The stool next to the couch near the doorway",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "couch",
+                "doorway"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 11,
+        "caption": "The round cocktail table in the corner of the room with the blue and yellow poster.",
+        "parsed_query": {
+            "Target": "cocktail table",
+            "Anchor": [
+                "blue and yellow poster",
+                "corner of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 1,
+        "caption": "The couch has a picture directly above it and is closer to the orange stool at the table",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "picture",
+                "orange stool",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 17,
+        "caption": "The biggest picture with an orange flower",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 0,
+        "caption": "This stool is in the corner under the TV.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 13,
+        "caption": "The stool closest to the blue and yellow wall art",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "blue and yellow wall art"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 1,
+        "caption": "green section of couch directly below frame",
+        "parsed_query": {
+            "Target": "green section of couch",
+            "Anchor": [
+                "frame"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "Light brown table next to the orange bar stool beside it.",
+        "parsed_query": {
+            "Target": "light brown table",
+            "Anchor": [
+                "orange bar stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "square table in the corner",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 11,
+        "caption": "the silver high table below a poster",
+        "parsed_query": {
+            "Target": "silver high table",
+            "Anchor": "poster"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 18,
+        "caption": "The picture above the small round table with two orange stools.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "small round table",
+                "two orange stools"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 16,
+        "caption": "It is the door with the big silver handle on the wall with the large yellow and orange and blue painting.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall",
+                "large yellow and orange and blue painting"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "The square table in front of the fabric teal couches.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "fabric teal couches"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 12,
+        "caption": "the stool closest to the open door.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "open door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 19,
+        "caption": "The picture in the corner above the couches and square table",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "couches",
+                "square table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 13,
+        "caption": "Facing the wall with a large painting of a dandelion on it, look to the right and select the chair closest to this wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "large painting"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 0,
+        "caption": "The stool closest to the television.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "television"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "Choose the table sitting in the corner next to the wall mount TV.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall mount TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 19,
+        "caption": "When standing in the middle of the room facing the pictures, the correct one is on the far right and is above the benchs.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "pictures",
+                "bench"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 20,
+        "caption": "the couch that is close to the brown chair with the colorfull picture",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "brown chair",
+                "colorfull picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "The table you want to pick is the one closest to the closed door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "closed door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 8,
+        "caption": "The stool just to the right of a door that has a door handle on the right side, if you are facing the door. If the door handle is on the left side, that is the wrong door.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "door",
+                "door handle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 12,
+        "caption": "It is the chair at the table under the small painting that is closest to the square table and couches.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "small painting",
+                "square table",
+                "couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 0,
+        "caption": "The stool closest to the TV.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "TV"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 16,
+        "caption": "The door that is on the same wall as the large blue and orange wall art.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "large blue and orange wall art"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 1,
+        "caption": "couch in the corner under the picture",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 19,
+        "caption": "This picture is above a couch/bench.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "couch",
+                "bench"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 8,
+        "caption": "This stool is by itself on the end of the room that has the dandelion wall art.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "dandelion wall art"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 17,
+        "caption": "Choose the large picture with the orange tree.",
+        "parsed_query": {
+            "Target": "large picture",
+            "Anchor": "orange tree"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 18,
+        "caption": "The small blue and yellow picture above the round table that has two orange stools at it",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "round table",
+                "two orange stools"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 11,
+        "caption": "The circular table.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 22,
+        "caption": "select the door to the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 16,
+        "caption": "It's the door to the right of the large orange and blue painting.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "large orange and blue painting"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "white   square table",
+        "parsed_query": {
+            "Target": "white square table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 12,
+        "caption": "table under the blue/yellow picture, the stool towards the middle of the room",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "table",
+                "blue/yellow picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 11,
+        "caption": "As you come in the door, the table is on your left in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "The gray table in the corner in front of a dark blue restaurant style seat/cushioned bench.",
+        "parsed_query": {
+            "Target": "gray table",
+            "Anchor": [
+                "dark blue restaurant style seat",
+                "cushioned bench"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 20,
+        "caption": "the couch that doesnt have a picture above it",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 0,
+        "caption": "The orange chair closest to the black TV",
+        "parsed_query": {
+            "Target": "orange chair",
+            "Anchor": [
+                "black TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 19,
+        "caption": "It is the picture furthest from the ping-pong table, in the corner with the square table and the two long bench seats.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "ping-pong table",
+                "square table",
+                "two long bench seats"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 10,
+        "caption": "Choose the square table, by the green couch.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": [
+                "green couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 13,
+        "caption": "The left stool at the foot of the ping pong table with a poster on the wall",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "ping pong table",
+                "poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 16,
+        "caption": "The door closest to the blue table.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "blue table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 1,
+        "caption": "The couch with the picture on the adjacent wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 9,
+        "caption": "the round table with two orange stools",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "two orange stools"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 8,
+        "caption": "round orange bar-stool by door",
+        "parsed_query": {
+            "Target": "round orange bar-stool",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 20,
+        "caption": "The banquet seat that is on the same wall as the door and the side that is near the backpack and wooden chair.",
+        "parsed_query": {
+            "Target": "banquet seat",
+            "Anchor": [
+                "door",
+                "backpack",
+                "wooden chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": 8,
+        "caption": "GO TO THE ROUND TABLE NEXT TO THE TV AND DOOR, THE TABLE ACROSS FORM THE ORANGE AND RED AND BLUE PAINTING ON THE WALL. CHOOSE THE BOX NEXT TO THE DOOR",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "round table",
+                "door",
+                "table",
+                "orange and red and blue painting",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

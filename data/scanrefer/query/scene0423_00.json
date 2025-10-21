@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "small round table. the round table is positioned in the middle of four armchairs. the color of the table is brown or black.",
+        "parsed_query": {
+            "Target": "small round table",
+            "Anchor": [
+                "four armchairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "it is a white armchair. the white armchair is the chair on the left.",
+        "parsed_query": {
+            "Target": "white armchair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "4",
+        "target_name": "armchair",
+        "caption": "the object is a white armchair. it is the white armchair on the right. a table is sitting in front of it.",
+        "parsed_query": {
+            "Target": "white armchair",
+            "Anchor": [
+                "white armchair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "the table has a round top. the table has chairs facing it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "the armchair is facing the table. there is another chair to the right of it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    }
+]

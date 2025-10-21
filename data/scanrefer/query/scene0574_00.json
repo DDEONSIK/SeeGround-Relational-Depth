@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "24",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is to the left of two other towels.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel",
+                "towel"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "this is a gray trash can. it is by the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "25",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is in between two other towels.",
+        "parsed_query": {
+            "Target": "white towel",
+            "Anchor": [
+                "two other towels"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a white door. it is to the left of the towels.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": [
+                "towels"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "25",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is in the center of the towels.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towels"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 0,
+        "caption": "It is the larger and longer window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 17,
+        "caption": "You should select the SMALLER set of windows which have a trashcan in FRONT of them and what appear to be 3 trashcans OUTSIDE through the window.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "outside",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 0,
+        "caption": "The largest window that makes the wall on the long side of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 0,
+        "caption": "the window is the bigger one behind the table",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 0,
+        "caption": "The window is the one on the long side of the room, behind the three red chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "long side of the room",
+                "three red chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 17,
+        "caption": "The window opposite to the red wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "red wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 0,
+        "caption": "The windows behind the three red chairs",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": [
+                "three red chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 17,
+        "caption": "the window at the head of the table",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "head of the table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 17,
+        "caption": "the smaller window",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 0,
+        "caption": "the window with a red wall on its left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "red wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 17,
+        "caption": "The smaller of the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 0,
+        "caption": "the long window directly across from three chairs",
+        "parsed_query": {
+            "Target": "long window",
+            "Anchor": [
+                "three chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 17,
+        "caption": "The smaller of the two windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": 17,
+        "caption": "the window behind the red chair",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "red chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

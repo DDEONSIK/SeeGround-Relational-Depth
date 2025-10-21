@@ -1,0 +1,1219 @@
+[
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 34,
+        "caption": "The correct rail is under the window. It is beside the white radiator.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "window",
+                "white radiator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 45,
+        "caption": "It's the vertical rail",
+        "parsed_query": {
+            "Target": "vertical rail",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "safety object used to make sure you do not fall while in the shower",
+        "parsed_query": {
+            "Target": "safety object",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 34,
+        "caption": "The rail under the window.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 35,
+        "caption": "the toilet paper roll holder next to the toilet",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "toilet paper roll holder",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 43,
+        "caption": "the railing next to the doorway",
+        "parsed_query": {
+            "Target": "railing",
+            "Anchor": "doorway"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 8,
+        "caption": "This toilet paper is on the counter but is not stacked.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 43,
+        "caption": "The rail attached to the smaller dividing wall",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "smaller dividing wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "The correct rail is in the shower stall, it is the one in the middle of the other two. It is the horiztonal one that is under the one that runs vertically.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "shower stall",
+                "middle",
+                "horizontally",
+                "vertically"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 13,
+        "caption": "This mirror is not above a counter-top.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 39,
+        "caption": "The rail over the toilet",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 34,
+        "caption": "There is toilet paper underneath this railing.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "railing"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 35,
+        "caption": "The toilet paper that is on a roll next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 25,
+        "caption": "trash can under the sink on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 10,
+        "caption": "The larger bin under the counter.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "mirror is above the sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 8,
+        "caption": "the tower of toilet roll, select the BOTTOM toilet roll",
+        "parsed_query": {
+            "Target": "bottom toilet roll",
+            "Anchor": [
+                "tower of toilet roll"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 43,
+        "caption": "The rail farthest from the toilet.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 25,
+        "caption": "There are 2 trash cans under the sink. Select the smaller one on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 26,
+        "caption": "This trash can is right next to the toilet in the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet",
+                "bathroom"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 45,
+        "caption": "it is the only vertical rail.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 39,
+        "caption": "It's the rail above the toilet.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 34,
+        "caption": "Its the towel bar that's below the windows and next to the air conditioning unit.",
+        "parsed_query": {
+            "Target": "towel bar",
+            "Anchor": [
+                "windows",
+                "air conditioning unit"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 39,
+        "caption": "The bar behind the toilet.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 10,
+        "caption": "choose the bigger trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 34,
+        "caption": "This rail is alongside the toilet, not over it.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "It is the horizontal bar under the showerhead.",
+        "parsed_query": {
+            "Target": "bar",
+            "Anchor": "showerhead"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 8,
+        "caption": "choose the bottom most outside roll of toilet paper, the one closest to the black toiletry bag on the counter.",
+        "parsed_query": {
+            "Target": "bottom most outside roll of toilet paper",
+            "Anchor": [
+                "black toiletry bag",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 13,
+        "caption": "choose the towel racknext to the door.",
+        "parsed_query": {
+            "Target": "towel rack",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "Choose the horizontal rail under the shower head",
+        "parsed_query": {
+            "Target": "horizontal rail",
+            "Anchor": "shower head"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 26,
+        "caption": "The trash can next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 45,
+        "caption": "The rail the is vertical to the ground",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 25,
+        "caption": "the trash bin under the counter in the corner",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "counter",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 7,
+        "caption": "the toilet paper in the middle of the stack on the sink",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "middle",
+                "stack",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "choose the horizontal bar in the shower",
+        "parsed_query": {
+            "Target": "horizontal bar",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 35,
+        "caption": "the toilet paper roll on the right side of the room.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": "right side of the room"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 26,
+        "caption": "The rectangular white object directly beside the toilet.",
+        "parsed_query": {
+            "Target": "rectangular white object",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 26,
+        "caption": "The trash can is located inside the washroom by toilet",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "washroom",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 43,
+        "caption": "the wall handle across from the shower, against the wall that leads to the sink",
+        "parsed_query": {
+            "Target": "wall handle",
+            "Anchor": [
+                "shower",
+                "wall that leads to the sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 10,
+        "caption": "Nearest to the front door",
+        "parsed_query": {
+            "Target": "nearest object",
+            "Anchor": "front door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 6,
+        "caption": "the toilet paper on top in the stack",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "the mirror above the sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 6,
+        "caption": "The toilet paper on the very top of the stack by the sink.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "stack",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 10,
+        "caption": "The large trash can under the sink",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "You can look at yourself when washing your hands with this object",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 26,
+        "caption": "The trash can next to the toilet",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 35,
+        "caption": "The toilet paper that is hanging on the roll next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 13,
+        "caption": "Choose the square patch of white with nothing there to the left of the door handle.",
+        "parsed_query": {
+            "Target": "square patch of white",
+            "Anchor": "door handle"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 25,
+        "caption": "The trash can below the hand sanitizer and next to the wet floor sign.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "hand sanitizer",
+                "wet floor sign"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 43,
+        "caption": "the hand rail on the wall connecting the sink to the shower",
+        "parsed_query": {
+            "Target": "hand rail",
+            "Anchor": [
+                "sink",
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "The mirror above the sink.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 6,
+        "caption": "The correct toilet paper is the one on top of the other two.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet paper"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 45,
+        "caption": "vertically mounted rail with shower head mounted on it in the shower area",
+        "parsed_query": {
+            "Target": "shower head",
+            "Anchor": [
+                "rail",
+                "shower area"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 7,
+        "caption": "There are 3 boxes by the paper towel dispenser. It's the middle box.",
+        "parsed_query": {
+            "Target": "middle box",
+            "Anchor": [
+                "paper towel dispenser",
+                "3 boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 26,
+        "caption": "The white trash can next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 45,
+        "caption": "The vertical rail in the shower stall.",
+        "parsed_query": {
+            "Target": "vertical rail",
+            "Anchor": [
+                "shower stall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "The horizontal rail nearest to the seat in the shower.",
+        "parsed_query": {
+            "Target": "horizontal rail",
+            "Anchor": "seat"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "It is the mirror over the sink.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 25,
+        "caption": "The sink that is below the soap dispenser, to the left of the yellow Caution sign",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "soap dispenser",
+                "yellow Caution sign"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 39,
+        "caption": "The horizontal rail behind the toilet.",
+        "parsed_query": {
+            "Target": "horizontal rail",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 13,
+        "caption": "The mirror hanging next to the exit door.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "exit door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 43,
+        "caption": "The rail that is closest to the sink.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 13,
+        "caption": "The larger mirror next to the door.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 8,
+        "caption": "The toilet paper directly touching the counter.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 6,
+        "caption": "The highest one in the stack to the left of the sink.",
+        "parsed_query": {
+            "Target": "item",
+            "Anchor": [
+                "stack",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 10,
+        "caption": "The trash can below the sink on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 35,
+        "caption": "It is the toilet paper next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 7,
+        "caption": "select the bottom roll of toilet paper from the pile",
+        "parsed_query": {
+            "Target": "bottom roll of toilet paper",
+            "Anchor": "pile"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 45,
+        "caption": "Please select the vertical rail in the shower",
+        "parsed_query": {
+            "Target": "vertical rail",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 7,
+        "caption": "Facing the exit door, the toilet paper in the middle of the stack on the right.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "exit door",
+                "middle of the stack",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 34,
+        "caption": "I am the rail on the wall with the toilet paper",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet paper",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 6,
+        "caption": "The toilet paper roll on the top of the stack of rolls next to the sink.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "stack of rolls",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 6,
+        "caption": "The toilet paper stacked on the very top",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 35,
+        "caption": "It is the toilet paper that is closest to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 39,
+        "caption": "The rail behind the toilet.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 8,
+        "caption": "Zoom into the picture and look at the three boxes of toilet paper that are stacked on top of each other and choose the bottom box. This toilet paper is sitting directly on the counter beneath the other two rolls.",
+        "parsed_query": {
+            "Target": "bottom box of toilet paper",
+            "Anchor": [
+                "three boxes of toilet paper",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 7,
+        "caption": "The middle option near the paper towels",
+        "parsed_query": {
+            "Target": "middle option",
+            "Anchor": [
+                "paper towels"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 45,
+        "caption": "The rail in the shower stall. It is facing vertically.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 6,
+        "caption": "Corner of the sink choose the top toilet paper",
+        "parsed_query": {
+            "Target": "top toilet paper",
+            "Anchor": [
+                "corner of the sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 26,
+        "caption": "The trash can next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 35,
+        "caption": "the toilet paper roll on the wall next to the toilet",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "toilet",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 34,
+        "caption": "The larger rail close to the toilet.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 25,
+        "caption": "The trash can is under the sink on the right side.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 39,
+        "caption": "The rail that is on the wall behind the toilet",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 39,
+        "caption": "rail behind the toilet.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "the mirror behind the sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "Face the shower the horizontal rail with a vertical rail on one end is the rail to choose",
+        "parsed_query": {
+            "Target": "horizontal rail",
+            "Anchor": [
+                "shower",
+                "vertical rail"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "the mirror directly above the sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 10,
+        "caption": "Nearest the door, furthest from the toilet.",
+        "parsed_query": {
+            "Target": "closet",
+            "Anchor": [
+                "door",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 44,
+        "caption": "The rail that runs under the showerhead and shower controls, the rail that is parallel to the floor",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "showerhead",
+                "shower controls"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 13,
+        "caption": "let of the sink you will see a door.  Click the window to the left of the door. It located next to the door handle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door",
+                "door handle"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 7,
+        "caption": "The middle toilet paper roll in the stack next to the sink.",
+        "parsed_query": {
+            "Target": "middle toilet paper roll",
+            "Anchor": [
+                "toilet paper roll",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 8,
+        "caption": "The toilet paper on the bottom on the sink.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 13,
+        "caption": "it is the larger mirror next to the door",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 43,
+        "caption": "The rail on the side opposite side of 2 other rails.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "rail"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 10,
+        "caption": "Trash can under the sink closest to the white door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "white door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 8,
+        "caption": "The toilet paper on the bottom of the stack.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 25,
+        "caption": "the small trash can under the sink, located underneath on the right",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "on the right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 7,
+        "caption": "The middle toilet paper out of the options",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": 2,
+        "caption": "The mirror above the kitchen sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "kitchen sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

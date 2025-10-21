@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "11",
+        "target_name": "couch",
+        "caption": "the object is a black couch . it has a chair with a orange blanket draped over it in front of it and a shelf to the left of it against the wall.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": [
+                "chair",
+                "shelf",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "47",
+        "target_name": "bed",
+        "caption": "it is a bed above a brown desk. the bed is made from wood.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "brown desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair has an orange shirt on it. the chair is made out of a dark wood.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "orange shirt",
+                "dark wood"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "10",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is located next to the drawers. it is a black fridge.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "drawers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair has blue fabric and is made out of wood. it is located next to the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    }
+]

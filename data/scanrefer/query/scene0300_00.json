@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "it is a silver table with two monitors on it. the table is behind two chair.",
+        "parsed_query": {
+            "Target": "silver table",
+            "Anchor": [
+                "two chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "12",
+        "target_name": "picture",
+        "caption": "it is a picture to the left of the window. the picture is on the right of the two pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "window",
+                "two pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "it is a table to the right of the windows. the table has 1 grey chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is to the left of the door. the bookshelf is on the right of the two bookshelves.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "door",
+                "two bookshelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table has a blue backpack on it. the table is to the left of a grey trash can on the floor.",
+        "parsed_query": {
+            "Target": "blue backpack",
+            "Anchor": [
+                "table",
+                "grey trash can"
+            ]
+        },
+        "unique": false
+    }
+]

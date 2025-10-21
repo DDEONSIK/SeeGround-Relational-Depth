@@ -1,0 +1,7 @@
+models/
+referit3d/
+outputs/
+weights/
+*.pth
+*.tar.gz
+Depth-Anything-V2/checkpoints/

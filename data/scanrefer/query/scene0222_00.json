@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "another similar window can be seen on the right of this window. a fan is present in front of another window. .",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window",
+                "another window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "it is a black and silver mini fridge. there is a blue trashcan and a brown desk next to it.",
+        "parsed_query": {
+            "Target": "black and silver mini fridge",
+            "Anchor": [
+                "blue trashcan",
+                "brown desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "the window has blinds on it. it is to the right of the bed in the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the desk chair is brown with a blue cushion. it goes with the brown desk in the image.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "brown desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "20",
+        "target_name": "pillow",
+        "caption": "the white pillow is on top of the black bed. it is to the left of the brown dresser.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "black bed",
+                "brown dresser"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "the white wooden chair that is slightly pulled out from under the white legged, wood topped desk it sits under.  it is to the right of an identical chair that is pushed under the table more.  there is a rolling chopping board directly to the right of the chair.",
+        "parsed_query": {
+            "Target": "white wooden chair",
+            "Anchor": [
+                "white legged, wood topped desk",
+                "identical chair",
+                "rolling chopping board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the main prep table in the center of the room.  it is a blonde colored wood and has stainless steel shelves under it.",
+        "parsed_query": {
+            "Target": "main prep table",
+            "Anchor": [
+                "room",
+                "blonde colored wood",
+                "stainless steel shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "a vertical stack of shelves and tubs mounted to the back wall.  it sits in the far back corner.  the tubs are transparent.",
+        "parsed_query": {
+            "Target": "stack of shelves and tubs",
+            "Anchor": [
+                "back wall",
+                "far back corner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "8",
+        "target_name": "cart",
+        "caption": "a white rolling caddy with three shelves.  it is in between a blue caddy and a beige colored caddy.",
+        "parsed_query": {
+            "Target": "white rolling caddy",
+            "Anchor": [
+                "blue caddy",
+                "beige caddy"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "a six shelved storage unit mounted to the back wall.  it has a combination of flat shelves and tubs for storage and is white in color with clear shelves and tubs.",
+        "parsed_query": {
+            "Target": "six shelved storage unit",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 2,
+        "caption": "There is a table in front of this armchair",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "armchair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 1,
+        "caption": "Facing the chairs its the one on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 2,
+        "caption": "The chair in the right corner with a table in front of it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 2,
+        "caption": "The chair at the corner and there is a square table in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "square table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 1,
+        "caption": "Facing the chairs, the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 2,
+        "caption": "Facing the window, the arm chair on the right.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 1,
+        "caption": "Comfy that is to the left of the room.",
+        "parsed_query": {
+            "Target": "comfy",
+            "Anchor": "room"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 2,
+        "caption": "Standing in front of the windows, choose the armchair on the right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 1,
+        "caption": "looking at the window, the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 1,
+        "caption": "Facing the window, it's the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 1,
+        "caption": "Looking at the window its the armchair on the left",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 2,
+        "caption": "click the arm chair infront of the table",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 2,
+        "caption": "When you are facing both chairs, this is the chair that is on the right side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": 1,
+        "caption": "chair that does not have a table in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

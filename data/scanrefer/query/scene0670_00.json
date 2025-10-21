@@ -1,0 +1,69 @@
+[
+    {
+        "scan_id": "scene0670_00",
+        "target_id": "28",
+        "target_name": "kitchen_cabinets",
+        "caption": "brown kitchen cabinets to the left of the oven and stove.  they are under the counter.",
+        "parsed_query": {
+            "Target": "brown kitchen cabinets",
+            "Anchor": [
+                "oven",
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "one of three similar sized pictures arranged vertically on the wall. it is the one on the very bottom.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "three similar sized pictures",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": "18",
+        "target_name": "picture",
+        "caption": "a small square picture hung on the wall opposite the sink.  it is the top in the vertical row of three identical sized pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sink",
+                "vertical row of three identical sized pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": "8",
+        "target_name": "sink",
+        "caption": "a two basin kitchen sink.  it is on the counter under the kitchen windown.",
+        "parsed_query": {
+            "Target": "two basin kitchen sink",
+            "Anchor": [
+                "counter",
+                "kitchen window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0670_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "this window is bright. it is facing inward.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is single painting. its on a wall.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "this is wooden chair. its a kitchen chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "77",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a kitchen cabinet . its hanging up in a kitchen.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "kitchen"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "37",
+        "target_name": "rice_cooker",
+        "caption": "this is  a mini cooker. its a portable stove top.",
+        "parsed_query": {
+            "Target": "mini cooker",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "58",
+        "target_name": "kitchen_cabinets",
+        "caption": "there is a brown wooden kitchen cabinet unit. it is located directly under the kitchen sink.",
+        "parsed_query": {
+            "Target": "brown wooden kitchen cabinet unit",
+            "Anchor": [
+                "kitchen sink"
+            ]
+        },
+        "unique": false
+    }
+]

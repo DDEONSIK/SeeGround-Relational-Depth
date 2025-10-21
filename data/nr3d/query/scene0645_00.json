@@ -1,0 +1,2560 @@
+[
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "'The lamp not next to the beds.'",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "'The lamp between the beds. The lamp on the nightstand.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds",
+                "nightstand"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "'The lamp above the chair. It is the only lamp attached to the wall.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "chair",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 57,
+        "caption": "The picture above bed closest to the window",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "The correct lamp is inbetween the two beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 57,
+        "caption": "Choose the frame over the bed closest to the window.",
+        "parsed_query": {
+            "Target": "frame",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 14,
+        "caption": "Facing the beds, the rightmost backpack.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 23,
+        "caption": "The armchair that is right in the corner",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 41,
+        "caption": "Of the two curtains in the corner, it is the one closest to the couch.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 11,
+        "caption": "Its the smaller mirror next to the couch",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 77,
+        "caption": "The trash can under the sink",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 46,
+        "caption": "choose the ottoman on the right.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 38,
+        "caption": "The door in the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 0,
+        "caption": "This backpack is on the floor to the right of the tv, close to a bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "tv",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 11,
+        "caption": "The mirror on the right side of the couch.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 75,
+        "caption": "The soap dish on the sink.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 24,
+        "caption": "The correct arm chair is closest to the lamp that is turned on and closest to the beds.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "lamp",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "the lamp in the curtains sections",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 0,
+        "caption": "The backpack near the foot of the bed",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 21,
+        "caption": "The bed that is closest to the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 24,
+        "caption": "The yellow window seat is directly behind this armchair.",
+        "parsed_query": {
+            "Target": "yellow window seat",
+            "Anchor": "armchair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "The lamp next to a mirror.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 24,
+        "caption": "The lighter colored armchair under the lamp",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 14,
+        "caption": "The backpack between the couch and desk.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "couch",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 21,
+        "caption": "this object is by a window with another object just like it by the bathroom",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "window",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 46,
+        "caption": "the chair closest to the picture on the wall next to the beige couch",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "picture",
+                "beige couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 75,
+        "caption": "The soap dish on the countertop next to the sink.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "countertop",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 41,
+        "caption": "The window option to the right but away from the lamp, behind a chair near a sofa",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "lamp",
+                "chair",
+                "sofa"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "The lamp is in a nook behind a chair",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "chair",
+                "nook"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 24,
+        "caption": "The chair that is closer to the beds.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "beds"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 17,
+        "caption": "It is the curtain next to the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 58,
+        "caption": "The artwork directly above the bed nearest the bathroom.",
+        "parsed_query": {
+            "Target": "artwork",
+            "Anchor": [
+                "bed",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 20,
+        "caption": "Facing the beds, the bed on the left.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "beds"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 14,
+        "caption": "students carries their book in these",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 42,
+        "caption": "The object in the bay window.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 20,
+        "caption": "It is the bed with fewer items on it. It is also closest to the bathroom.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 21,
+        "caption": "facing the beds, the correct bed is the one on the right with items on it",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "beds",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 55,
+        "caption": "the curtain next to the bed",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 42,
+        "caption": "The smaller window of the two.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 3,
+        "caption": "The rectangular box that's closest to the hallway leading out of the room.",
+        "parsed_query": {
+            "Target": "rectangular box",
+            "Anchor": "hallway"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 83,
+        "caption": "The highest soap dish on the wall in the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "wall in the shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 72,
+        "caption": "Mirror in the bathroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 41,
+        "caption": "Standing in the middle of the room looking at all 3 curtains, it's the curtain on the far right",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "curtain"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 3,
+        "caption": "Find the backpack on the floor on the left side of the TV.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 84,
+        "caption": "Lowest soap dish in the shower/tub.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "shower",
+                "tub"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 42,
+        "caption": "The window behind the arm chair, not by the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "arm chair",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 23,
+        "caption": "There is a couch against the wall with a picture hanging above it. Just to the right of the couch is an armchair with a pillow on it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch",
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 58,
+        "caption": "painting above the bed to the left",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "bed",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "This lamp is on a table between the beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "table",
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 23,
+        "caption": "Chair that is tightly in the corner",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "If you are SITTING on the sofa, select the lamp on the table to the LEFT.  Ignore the lamp between the beds or behind the armchair by the window.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "sofa",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 29,
+        "caption": "the trash can next to the desk lamp",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "desk lamp"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 17,
+        "caption": "the curtain near the bed",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 50,
+        "caption": "It is the ottoman on the left, that is closest to the side of the room that contains the beds.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "The correct lamp is infront of the mirror on the wall and near a blue recycling bin on the ground.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "mirror",
+                "blue recycling bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 11,
+        "caption": "the mirror in front of the desk next to the couch",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "desk",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 58,
+        "caption": "the picture is on the right when looking at the beds",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 83,
+        "caption": "The highest soap dish in the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 57,
+        "caption": "It's the picture frame closest to the window shades.",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": "window shades"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 5,
+        "caption": "The door across from the wall mirror",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 11,
+        "caption": "This mirror is above a desk by a sofa.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "desk",
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 46,
+        "caption": "ottoman nearest the sofa",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 41,
+        "caption": "put beds on left side of room. choose curtain farthest to right.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "left side of room"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 50,
+        "caption": "A box containing an ottoman used as a leg rest for the chair closest to the right of the right bed.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "ottoman",
+                "right bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 40,
+        "caption": "the curtains  in the middle",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 21,
+        "caption": "There is a curtained window alongside this bed.",
+        "parsed_query": {
+            "Target": "curtained window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 42,
+        "caption": "the small window next to the shining lamp",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 57,
+        "caption": "the artwork above the bed with objects on it",
+        "parsed_query": {
+            "Target": "artwork",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 29,
+        "caption": "The correct trash can is NOT in the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 72,
+        "caption": "The mirror that's in the bathroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 84,
+        "caption": "Soap dish on the bottom shelf of the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "bottom shelf, shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 38,
+        "caption": "the door into the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 5,
+        "caption": "The door handle in the small space away from the beds",
+        "parsed_query": {
+            "Target": "door handle",
+            "Anchor": [
+                "small space",
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 42,
+        "caption": "the window behind the lamp and chair",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "lamp",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 50,
+        "caption": "the ottoman that's closest to the bed",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 23,
+        "caption": "The chair tucked into the corner with a blanket on it.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "The light next to the mirror near the small trash receptacles",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "mirror",
+                "trash receptacles"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 0,
+        "caption": "if you are looking at the picture with the couch to the left and beds to the right, the backpack is to the right of the dresser on the floor.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "dresser",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 46,
+        "caption": "The ottoman closest to the couch",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 72,
+        "caption": "The mirror in the bathroom.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 40,
+        "caption": "The lamp and curtain behind the chair near the window",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "curtain",
+                "chair",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 17,
+        "caption": "It is the curtain over the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "bay window next to the chair",
+        "parsed_query": {
+            "Target": "bay window",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "The lamp on the table between the beds",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 50,
+        "caption": "Choose the ottoman on the side closest to the bed.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 40,
+        "caption": "The window behind the lamp that is on",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 5,
+        "caption": "the doorway handle of the entrance",
+        "parsed_query": {
+            "Target": "entrance",
+            "Anchor": "doorway handle"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 29,
+        "caption": "Choose the small trash can next to the lamp.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 20,
+        "caption": "looking at beds the one on the left",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 5,
+        "caption": "door closest to the backpack at the corner of the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "backpack",
+                "corner of the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 24,
+        "caption": "armchair closest to the bay window",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "bay window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 72,
+        "caption": "the mirror in the bathroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 20,
+        "caption": "choose the bed with nothing on it other than pillows.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "pillows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 40,
+        "caption": "the curtain directly behind a white chair",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "white chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 84,
+        "caption": "The lower soap dish, closer to the bathtub, in the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "bathtub",
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 29,
+        "caption": "The trash can that is NOT in the toilet area.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 77,
+        "caption": "trash can in the bathroom",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 77,
+        "caption": "the trash can in the bathroom",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 3,
+        "caption": "the backpack closest to the door the enter/exit the room.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 7,
+        "caption": "The larger hallway door not connected to the bathroom.",
+        "parsed_query": {
+            "Target": "hallway door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "lamp in between the beds",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 50,
+        "caption": "Light brown ottoman",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 7,
+        "caption": "Choose the largest door that appears to lead out of the suite.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 84,
+        "caption": "the soap dish closest to the bottom of the tub and furthest from the top of the wall",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "bottom of the tub",
+                "top of the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "lamp between the beds",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 7,
+        "caption": "facing the lamp, it is to your right",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 84,
+        "caption": "lower soap dish above the bath",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "bath"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 57,
+        "caption": "The picture on the right, facing the pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 75,
+        "caption": "if you are sitting on the toilet, this soap dish would be on the sink to your right.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 38,
+        "caption": "Pick the door that is directly in front of the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 21,
+        "caption": "There are two beds next to each other.  You need to select the bed closest to the window. Do not  select the bed next to the bathroom",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "The lamp on the desk,  with a mirror or picture behind it.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "desk",
+                "mirror",
+                "picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 20,
+        "caption": "This bed is on the left when looking from the foot of the beds.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "foot of the beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 58,
+        "caption": "The picture above the bed closest to the bathroom.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 11,
+        "caption": "The mirror above the desk.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 58,
+        "caption": "Face your view so you are looking at the two beds with the light in the middle.  The picture you want to select is the one that is above the bed on the left.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "two beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 40,
+        "caption": "select the curtain beside the chairs , the one on your left",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "chairs",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 11,
+        "caption": "You are looking at 2 boxes containing mirrors. The mirror you are looking for is over the desk in the living area.  There is a lamp directly in front of the mirror.  You do NOT want the mirror in the bathroom.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "desk",
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 42,
+        "caption": "bay window, behind armchair",
+        "parsed_query": {
+            "Target": "bay window",
+            "Anchor": [
+                "armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 20,
+        "caption": "Facing the beds, it's the one on the left nearest the bathroom.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "beds",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 40,
+        "caption": "Looking for curtains on the vertical walls on the left side of the exterior wall of the alcove.  Using the two large beds as reference point rotate the scene so the two large beds are on the left.  The bathroom should be on the bottom with the extension or alcove at the top.  The curtain you are looking for is on the left in the alcove behind the chair.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "vertical walls",
+                "exterior wall",
+                "alcove",
+                "two large beds",
+                "bathroom",
+                "extension",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 24,
+        "caption": "The armchair with more light on it and without stuff on it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 83,
+        "caption": "the top soap dish in the bath tub.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "bath tub"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 0,
+        "caption": "backpack at the bottom of the bed",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 14,
+        "caption": "It is the backpack which is next to the narrow edge of the couch, between the couch, a chair, and a rectangular table.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "couch",
+                "chair",
+                "rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 29,
+        "caption": "There is a large mirror on the wall opposite the beds. You need to select the small trashcan that is on the floor to the right of the mirror.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "wall",
+                "mirror",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 72,
+        "caption": "mirror in the bathroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 84,
+        "caption": "This is the lower soap dish inside the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 38,
+        "caption": "select the bathroom door",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "It is the lamp in the nook with the windows.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "nook with windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 23,
+        "caption": "This is an arcmhair standing in the corner right next to the 3-seater sofa",
+        "parsed_query": {
+            "Target": "arcmhair",
+            "Anchor": [
+                "3-seater sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 5,
+        "caption": "the door leading into the bathroom that is near the main door to the room, farthest away from the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom",
+                "main door to the room",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 55,
+        "caption": "if you are standing facing the foot of the beds, the window to the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 17,
+        "caption": "The larger curtains with the pelmet and tie backs.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "pelmet",
+                "tie backs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 21,
+        "caption": "The bed that has a remote and magazines on it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "remote",
+                "magazines"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 38,
+        "caption": "the bathroom door, its open",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 14,
+        "caption": "The backpack you want is on the floor between the sofa and the desk with a chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "sofa",
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 84,
+        "caption": "It is not the soap near the sink, it is the soap closest to the floor of the bathtub.",
+        "parsed_query": {
+            "Target": "soap",
+            "Anchor": [
+                "bathtub"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 55,
+        "caption": "The tall window next to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 41,
+        "caption": "Facing the wall with 2 curtains, the curtain on the right.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 50,
+        "caption": "when facing the window, it is the ottoman on the left-hand side",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 0,
+        "caption": "The backpack is next to the TV stand and is on the floor between the bottom of the bed and the TV stand.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "TV stand",
+                "bottom of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 75,
+        "caption": "the soap dish on the counter",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 77,
+        "caption": "The trashcan under the bathroom sink.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "bathroom sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 21,
+        "caption": "bed next to the window",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 83,
+        "caption": "It is in the bathroom it is the highest soap dish under the tile design.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "bathroom",
+                "tile design"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 55,
+        "caption": "window right next to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 3,
+        "caption": "As you are facing the tall dresser with the TV on top, go to the room to left of that dresser then straight ahead to find the bag.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "tall dresser",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 5,
+        "caption": "The door leading to the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 75,
+        "caption": "It's the soap dish on the bathroom sink.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "bathroom sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 57,
+        "caption": "when facing the two beds.....it is the picture above the right bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "two beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 46,
+        "caption": "Facing the feet of the beds, the ottoman in the lower right corner.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "feet of the beds",
+                "lower right corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 7,
+        "caption": "The door not leading to the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 24,
+        "caption": "This armchair is closer to the beds.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "the lamp in the window",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 72,
+        "caption": "the mirror in the bathroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 41,
+        "caption": "Facing the curtains, the curtain on the far right.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 23,
+        "caption": "The armchair with a blue thing on it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "blue thing"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 75,
+        "caption": "soap dish near the sink",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 11,
+        "caption": "Find the mirror that is not in the bathroom.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 3,
+        "caption": "Looking straight at the the tv, the backpack directly to its left.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 55,
+        "caption": "The heavily curtained window that is right next to the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 42,
+        "caption": "The window closest to the armchairs in the back of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "armchairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 7,
+        "caption": "the door that leads in/out, NOT a bathroom door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 3,
+        "caption": "Select the backpack that is closest the the main entrance of the room.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "main entrance"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 58,
+        "caption": "The picture above the bed closer to the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 77,
+        "caption": "The correct trash can is in the washroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "washroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 58,
+        "caption": "When facing towards the 2 photos, choose the photo on the LEFT",
+        "parsed_query": {
+            "Target": "photo",
+            "Anchor": [
+                "2 photos"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 7,
+        "caption": "The door that does not lead into the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 83,
+        "caption": "The soap dish is the higher of the two within the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 41,
+        "caption": "The curtains hanging above the window-seat behind the chairs.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "window-seat",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 17,
+        "caption": "the curtain closest to the bed with the stuff on it",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "The lamp in front of the mirror.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "mirror"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 12,
+        "caption": "The lamp that is on the desk",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "The correct lamp is in the middle. Closest to the window. It is turned on, above a chair.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 77,
+        "caption": "the trash can in the bathroom",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 14,
+        "caption": "The backpack nearest the couch.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 83,
+        "caption": "The higher soap dish in the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 72,
+        "caption": "Please select the mirror that is located in the bathroom.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 34,
+        "caption": "The taller lamp above a chair.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 57,
+        "caption": "I am the picture closest to the window",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 83,
+        "caption": "Soap on the wall, the higher one.",
+        "parsed_query": {
+            "Target": "soap",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 7,
+        "caption": "The correct door is farthest from the beds. When standing in the middle of the room facing the doors, it's on the far left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "beds",
+                "doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 29,
+        "caption": "Choose the trash can that is not in the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 38,
+        "caption": "door in the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 0,
+        "caption": "It is the backpack closest to the bed, near the opening between the bedroom and the bathroom.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "opening between the bedroom and the bathroom"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 46,
+        "caption": "When facing the ottomans, it's the ottoman on the right.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 50,
+        "caption": "when facing the two Ottomans it is the one on the left hand side",
+        "parsed_query": {
+            "Target": "Ottoman",
+            "Anchor": [
+                "left hand side",
+                "Ottomans"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 55,
+        "caption": "The correct window is closest to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 17,
+        "caption": "The curtains closest to the bed.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 20,
+        "caption": "The bed closest to the bathroom.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 29,
+        "caption": "the trashcan located in the living room",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "living room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "The lamp between the beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 5,
+        "caption": "If you are looking at the dresser with the tv on it the door is on the next wall to the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "dresser",
+                "tv"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 23,
+        "caption": "The armchair next to the sofa.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 40,
+        "caption": "the window in the seating area, on the left, right behind the chair",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "seating area",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 75,
+        "caption": "The soap by itself.",
+        "parsed_query": {
+            "Target": "soap",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 0,
+        "caption": "black backpack to right of the dresser with tv on it nearest the opening to the bathroom and the end of the bed,",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": [
+                "dresser with tv on it",
+                "opening to the bathroom",
+                "end of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 14,
+        "caption": "The backpack is located on the floor by the from the couch, furthest away from picture frame on wall",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "couch",
+                "picture frame"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 33,
+        "caption": "The light on the nightstand between the two beds.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "nightstand",
+                "two beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 46,
+        "caption": "The ottoman closest to the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 55,
+        "caption": "The window closest to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 77,
+        "caption": "The object you are looking for is a trash can. The trash can is in the bathroom, to the left of the toilet, under the sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bathroom",
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 17,
+        "caption": "Nearest the bed in the corner.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 3,
+        "caption": "the backpack is located on floor directly in front of mirror",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "mirror"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": 38,
+        "caption": "The door to the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0578_00",
+        "target_id": "17",
+        "target_name": "monitor",
+        "caption": "the monitor is black and on a desk. it is to the right of the whiteboard.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": "17",
+        "target_name": "monitor",
+        "caption": "the monitor is square and black and white. it is above the brown desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "brown desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair brown and wooden. it is the first chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown wooden"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table is rectangular and wooden. it is surrounded by brown chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "brown chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is brown. the chair is on the left of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

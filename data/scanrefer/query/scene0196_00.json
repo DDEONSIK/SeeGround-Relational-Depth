@@ -1,0 +1,73 @@
+[
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this table is placed in the right side of the room. another table lying parallel to this table can be seen. .",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a tan. metal frame chair. the chair is at the second table back,on the right side of the room. this chair is on the front left side edge of the table.",
+        "parsed_query": {
+            "Target": "tan metal frame chair",
+            "Anchor": [
+                "second table back",
+                "room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the small chair. the chair is in the middle of the two tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the tiny chair. the chair is on the left under the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "left",
+                "under",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the little armchair. the hair is under the table in the middle on the right.",
+        "parsed_query": {
+            "Target": "little armchair",
+            "Anchor": [
+                "table",
+                "middle",
+                "right"
+            ]
+        },
+        "unique": false
+    }
+]

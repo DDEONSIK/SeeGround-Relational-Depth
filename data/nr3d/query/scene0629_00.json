@@ -1,0 +1,1025 @@
+[
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 17,
+        "caption": "larger shelf up on the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 0,
+        "caption": "If you come in the room through this door, the white railing is on your right.",
+        "parsed_query": {
+            "Target": "white railing",
+            "Anchor": [
+                "this door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 25,
+        "caption": "The black picture on the wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 22,
+        "caption": "the darker cabinet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 6,
+        "caption": "This is the white cabinet.",
+        "parsed_query": {
+            "Target": "white cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 24,
+        "caption": "The thin, white picture next to the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 32,
+        "caption": "The picture that is slightly behind the air matress propped on the wall",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "air mattress",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 32,
+        "caption": "This picture is partly behind something that looks like a standing air mattress.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "standing air mattress"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 22,
+        "caption": "CHoose the black box in front of the crib.",
+        "parsed_query": {
+            "Target": "black box",
+            "Anchor": "crib"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 30,
+        "caption": "The chair closest to the doorway into the bedroom.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "doorway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 24,
+        "caption": "the rectangular picture that's hung next to the door",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 27,
+        "caption": "The correct shelf is on the ground and in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "ground",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 24,
+        "caption": "This is the narrow, vertical picture next to the closed white door.",
+        "parsed_query": {
+            "Target": "narrow, vertical picture",
+            "Anchor": "closed white door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 22,
+        "caption": "cabinet is the  black one",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 2,
+        "caption": "the door that is closed",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 6,
+        "caption": "It is a white cupboard that has nothing on top of it, next to a brown cupboard that has something sitting on top of it.",
+        "parsed_query": {
+            "Target": "white cupboard",
+            "Anchor": [
+                "brown cupboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 17,
+        "caption": "The correct shelf is NOT on the ground.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 6,
+        "caption": "The white cabinet closest to the door that is completely closed.",
+        "parsed_query": {
+            "Target": "white cabinet",
+            "Anchor": [
+                "door",
+                "completely closed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 31,
+        "caption": "the chair farthest towards the corner of the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 22,
+        "caption": "Facing the cabinets, the cabinet farthest from the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "cabinets"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 14,
+        "caption": "A red, yellow wall painting to the left of the white bedroom door. It's hung o the wall",
+        "parsed_query": {
+            "Target": "red, yellow wall painting",
+            "Anchor": [
+                "white bedroom door",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 17,
+        "caption": "This is a shelf on the back wall. It looks like it has blankets, and other items on it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "back wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 32,
+        "caption": "It appears to be a black framed painting or picture on the left wall of the room that is partially obscured by an air mattress.",
+        "parsed_query": {
+            "Target": "black framed painting or picture",
+            "Anchor": [
+                "left wall of the room",
+                "air mattress"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 2,
+        "caption": "The exit door of the room.",
+        "parsed_query": {
+            "Target": "exit door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 14,
+        "caption": "1 of the walls has a door that is slightly ajar and to its right, an opening through to another room.  The picture you are looking for is on this same wall, to the left of the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 25,
+        "caption": "the small dark one to the left of the door and to the right of the exercise machine",
+        "parsed_query": {
+            "Target": "dark object",
+            "Anchor": [
+                "door",
+                "exercise machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 27,
+        "caption": "A black trunk to the side of an air mattress and is also directly behind the back stretcher exercise machine.",
+        "parsed_query": {
+            "Target": "black trunk",
+            "Anchor": [
+                "air mattress",
+                "back stretcher exercise machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 30,
+        "caption": "the chair closest to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 17,
+        "caption": "Find the shelf located across the room from the black mat.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "black mat"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 22,
+        "caption": "On the side of the loft with the mattress and inversion table you'll see a white cabinet and dark cabinet next to each other against the stair rail. Find the dark cabinet.",
+        "parsed_query": {
+            "Target": "dark cabinet",
+            "Anchor": [
+                "white cabinet",
+                "stair rail"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 2,
+        "caption": "The object is a fully closed door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 2,
+        "caption": "This closed door has a label with the letter 'A' on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 6,
+        "caption": "The white cabinet closes to the closed door.",
+        "parsed_query": {
+            "Target": "white cabinet",
+            "Anchor": [
+                "closed door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 27,
+        "caption": "the shelf is located near the exercise equipment",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "exercise equipment"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 30,
+        "caption": "The chair on the right, closer to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 27,
+        "caption": "Find the smaller shelf sitting on floor to the right of the black mat.",
+        "parsed_query": {
+            "Target": "smaller shelf",
+            "Anchor": [
+                "black mat",
+                "floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 31,
+        "caption": "the chair furthest back in the closet",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 27,
+        "caption": "the shelf behind the workout equipment",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "workout equipment"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 14,
+        "caption": "the pink and orange painting",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 24,
+        "caption": "Its a tall skinny white picture with a brown frame",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "white",
+                "brown frame",
+                "tall skinny"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 14,
+        "caption": "big one, with red/yellow squares",
+        "parsed_query": {
+            "Target": "big one",
+            "Anchor": [
+                "red/yellow squares"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 14,
+        "caption": "The big picture by door near the stairs/seating area",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door",
+                "stairs/seating area"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 25,
+        "caption": "select the painting on the left side of the door",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 30,
+        "caption": "The chair that is closest to the doorway into the room with the exercise equipment.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "doorway",
+                "exercise equipment"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 2,
+        "caption": "The only closed door in the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 17,
+        "caption": "the shelf hanging against the wall by the paintings",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "paintings"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 31,
+        "caption": "This chair is the one FURTHEST AWAY from the air mattress.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 22,
+        "caption": "This cabinet is dark and further away from the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 31,
+        "caption": "Chair to the far left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 6,
+        "caption": "This is a white 2-door cabinet standing next to the white door",
+        "parsed_query": {
+            "Target": "white 2-door cabinet",
+            "Anchor": [
+                "white door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 25,
+        "caption": "Small dark picture to the left of the closed door.",
+        "parsed_query": {
+            "Target": "small dark picture",
+            "Anchor": [
+                "closed door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 17,
+        "caption": "The big shelf at the end of the room that has something big and red on it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "end of the room",
+                "has something big and red"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 30,
+        "caption": "the chair closest to the doorway",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "doorway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 31,
+        "caption": "Orient your view so you are facing the black mattress thing that is leaning against the wall.  The chair you want to pick is the one that is furthest away from the black mattress thing.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "black mattress",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 0,
+        "caption": "If you face the air mattress, it's the door on the left.",
+        "parsed_query": {
+            "Target": "air mattress",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 27,
+        "caption": "This is a small shelf located in the corner, behind the exercise machine.",
+        "parsed_query": {
+            "Target": "small shelf",
+            "Anchor": [
+                "exercise machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 25,
+        "caption": "The dark picture to the left of the door with the letter A on it.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door",
+                "letter A"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 0,
+        "caption": "The door right beside the mirror.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "mirror"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 6,
+        "caption": "the cabinet thats closest to the CLOSED narrow white door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "CLOSED narrow white door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 25,
+        "caption": "picture to the left of the closed door as you look at it",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "closed door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 0,
+        "caption": "Pick the door which is opposite to the one with the letter A",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 30,
+        "caption": "The chair closest to the mirror in the nook.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "mirror"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 24,
+        "caption": "The picture by the door that is closed",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 22,
+        "caption": "The cabinet is dark with a can on top of it",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "can"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 14,
+        "caption": "It is the picture on the wall next to the open door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 25,
+        "caption": "The picture on the left of the closed door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "closed door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 0,
+        "caption": "The door that is slightly open",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 32,
+        "caption": "The picture opposite of the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 31,
+        "caption": "when entering through the white door, chair on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 2,
+        "caption": "The skinnier of the 2 doors.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 27,
+        "caption": "The shelf next to the office chair.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "office chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 6,
+        "caption": "The white cabinet without anything on it",
+        "parsed_query": {
+            "Target": "white cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 24,
+        "caption": "The correct is beside a door with an \"A\" on it, it is white and tall and thin.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 0,
+        "caption": "Pick the door that is slightly open, and is closer to the red an yellow painting.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "red",
+                "yellow painting"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 17,
+        "caption": "This shelf is higher on the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 30,
+        "caption": "If you face the room and the door is in front of you the chair is the first one on the left of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 31,
+        "caption": "Chair farther away from door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 2,
+        "caption": "Select the closed door closest to the weights bench.",
+        "parsed_query": {
+            "Target": "closed door",
+            "Anchor": "weights bench"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 24,
+        "caption": "The picture to the right hand side of the door, the right side of the letter \u2018A\u2019",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door",
+                "letter A"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 14,
+        "caption": "The most colorful picture in the room",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 32,
+        "caption": "This picture is partly behind the standing dark 'air mattress' thing.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "air mattress"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 32,
+        "caption": "The picture on the wall nearest the plant on the end table. It is partially covered by an air mattress.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "plant",
+                "end table",
+                "air mattress"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 32,
+        "caption": "Look for the picture that is behind the flowers.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "flowers"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": 0,
+        "caption": "The correct door is open .",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

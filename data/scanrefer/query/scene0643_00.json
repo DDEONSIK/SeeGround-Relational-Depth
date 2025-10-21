@@ -1,0 +1,62 @@
+[
+    {
+        "scan_id": "scene0643_00",
+        "target_id": "13",
+        "target_name": "monitor",
+        "caption": "this is a standard black computer monitor. it is located on the small desk in between the two white book shelves (one of which is behind the door. .",
+        "parsed_query": {
+            "Target": "black computer monitor",
+            "Anchor": [
+                "small desk",
+                "white book shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0643_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a brown wooden chair. next to the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0643_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "a brown wooden desk. on the side of the room.",
+        "parsed_query": {
+            "Target": "brown wooden desk",
+            "Anchor": "room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0643_00",
+        "target_id": "38",
+        "target_name": "shelf",
+        "caption": "a gray wooden shelf. on the side of the wall.",
+        "parsed_query": {
+            "Target": "gray wooden shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0643_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "a brown wooden desk. on the right to the gray shelf.",
+        "parsed_query": {
+            "Target": "brown wooden desk",
+            "Anchor": [
+                "gray shelf"
+            ]
+        },
+        "unique": false
+    }
+]

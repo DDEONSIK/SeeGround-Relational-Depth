@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0354_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a black arm chair. placed in front of the table.",
+        "parsed_query": {
+            "Target": "black arm chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0354_00",
+        "target_id": "17",
+        "target_name": "whiteboard",
+        "caption": "this is a white whiteboard. it is on a red wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "red wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0354_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a red chair. it is to the right of a black chair.",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": [
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0354_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the left of a red chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "red chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0354_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the right of a red chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red chair"
+            ]
+        },
+        "unique": false
+    }
+]

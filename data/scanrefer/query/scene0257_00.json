@@ -1,0 +1,74 @@
+[
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is the second chair from the right in the first row of chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "first row of chairs",
+                "right"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a purple wire chair. the wire chair is beside a door with a metal bar.",
+        "parsed_query": {
+            "Target": "purple wire chair",
+            "Anchor": [
+                "door",
+                "metal bar"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "there is a black chair with a brown desk. the chair is in the front row, the second one from the right.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "brown desk",
+                "front row",
+                "second one from the right"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "second chair from the right on the first row. the desk is in the front row two seats in.",
+        "parsed_query": {
+            "Target": "second chair",
+            "Anchor": [
+                "first row",
+                "front row",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the second chair from left in the front row. the chair is in the front row two seats in.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "front row two seats in",
+                "front row"
+            ]
+        },
+        "unique": false
+    }
+]

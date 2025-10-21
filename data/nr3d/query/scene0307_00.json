@@ -1,0 +1,1218 @@
+[
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 4,
+        "caption": "The left hand side sink beneath the window",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 4,
+        "caption": "Choose the sink that is to the right of the washer and not next to the wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "washer",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 4,
+        "caption": "The sink that is closest to the washer machine",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "washer machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 4,
+        "caption": "Sink closer to the closed white door w/ window.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "closed white door with window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 5,
+        "caption": "The items you are looking for are used to wash dirty dishes.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 4,
+        "caption": "The sink closest to the washing machine.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "washing machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "The window that's close to the refrigerator",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 0,
+        "caption": "It the closest door to the middle of the space.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "middle of the space"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 33,
+        "caption": "the door that is opeened next to the water heater",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "water heater"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 23,
+        "caption": "part of the washer & dryer set",
+        "parsed_query": {
+            "Target": "washer",
+            "Anchor": "washer & dryer set"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 25,
+        "caption": "The short cabinet in the corner furthest from the washing machine.",
+        "parsed_query": {
+            "Target": "short cabinet",
+            "Anchor": [
+                "corner",
+                "washing machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 25,
+        "caption": "The cabinet closest to door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 15,
+        "caption": "the largest ones against the wall",
+        "parsed_query": {
+            "Target": "ones",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 35,
+        "caption": "The open door by the sink",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 22,
+        "caption": "This is a tall white cabinet by an open door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "open door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 15,
+        "caption": "The largest shelf by the door",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "square or rectangular object on top of room that allows light to come in from outside, immediately left of exterior door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "exterior door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 35,
+        "caption": "This open door is next to laundry sinks.",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": "laundry sinks"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 25,
+        "caption": "Cabinet in room near the door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 25,
+        "caption": "This low cabinet is directly next to a shut door.",
+        "parsed_query": {
+            "Target": "low cabinet",
+            "Anchor": "shut door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 25,
+        "caption": "the cabinet is to the left of the washer",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "washer"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "the window near the fridge",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 35,
+        "caption": "the door is the smallest one",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 15,
+        "caption": "the bookcase next to the white cabinet on the far side of the room",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "white cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 33,
+        "caption": "The open door furthest away from all the others.",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 24,
+        "caption": "This is a single set of shelves. Right next to it is a wooden chair with a slatted back and green cushion.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wooden chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 26,
+        "caption": "The smallest of the shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 0,
+        "caption": "The entrance with the messy shelf to the left and a blue wall to the right in the center of the room",
+        "parsed_query": {
+            "Target": "entrance",
+            "Anchor": [
+                "messy shelf",
+                "blue wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 24,
+        "caption": "This shelf is the one in the middle of the room",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 0,
+        "caption": "An open door right next to shelving; directly across from shower stall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelving",
+                "shower stall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 26,
+        "caption": "A small shelf with clothing on it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 26,
+        "caption": "Something behind the room under the red and white \"ball\" near the ceiling",
+        "parsed_query": {
+            "Target": "something",
+            "Anchor": [
+                "room",
+                "red and white ball",
+                "ceiling"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 5,
+        "caption": "The basin in the right side of the sink next to the washing machine.",
+        "parsed_query": {
+            "Target": "basin",
+            "Anchor": [
+                "sink",
+                "washing machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 5,
+        "caption": "The sink closest to the laundry machine is NOT the one you want. Pick the next one beside it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "laundry machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 5,
+        "caption": "select the sink further from the washer",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "washer"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 26,
+        "caption": "A 2 level shelf. The color is brown.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 5,
+        "caption": "The sink is in the corner",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 35,
+        "caption": "The open door by the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "Looking towards the windows from the inside, it is the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "windows",
+                "inside"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 2,
+        "caption": "It is the door next to the washing machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "washing machine"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 26,
+        "caption": "The unit in the middle room",
+        "parsed_query": {
+            "Target": "unit",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 15,
+        "caption": "GO TO THE ROOM WITHOUT THE SINK IN IT, CHOOSE THE LARGEST BOX ON THE WALL, ITEM IN BOX IS A SHELF WITH LOTS OF DIFFERENT ITEMS ON IT. LOOKING AT BOX FROM OUTSIDE THE ROOM THE BOX COVERS THE ENTIRE WALL",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "room without the sink in it",
+                "wall",
+                "shelf with lots of different items on it"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 18,
+        "caption": "window closer to the corner",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 22,
+        "caption": "Locate the tall cabinet box to the right of the two windows.",
+        "parsed_query": {
+            "Target": "tall cabinet box",
+            "Anchor": [
+                "two windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 2,
+        "caption": "Choose the white door that is closed and at the end, a square window near the top of it.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": [
+                "square window",
+                "closed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 33,
+        "caption": "The door to the left of the water heater",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "water heater"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 22,
+        "caption": "tall cabinet next to the fridge",
+        "parsed_query": {
+            "Target": "tall cabinet",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 22,
+        "caption": "This object is a storage unit that is next to a short refrigerator.  It has a sticker that is faded red and white on the top portion. There is an ironing board in front of the refrigerator to its left.",
+        "parsed_query": {
+            "Target": "storage unit",
+            "Anchor": [
+                "short refrigerator",
+                "ironing board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 2,
+        "caption": "door nearest to washing machine",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "washing machine"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 23,
+        "caption": "the cabinet next to a washer",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "washer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 22,
+        "caption": "You want the cabinet next to the refrigerator.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 35,
+        "caption": "door next to the utility sink",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "utility sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 24,
+        "caption": "The shelf with all the flower pots",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "flower pots"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 23,
+        "caption": "large receptacle next to open door",
+        "parsed_query": {
+            "Target": "receptacle",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 18,
+        "caption": "the window farthest away from the laundry room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 23,
+        "caption": "lower cabinet with a sink, next to washer",
+        "parsed_query": {
+            "Target": "lower cabinet",
+            "Anchor": [
+                "sink",
+                "washer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 2,
+        "caption": "closed white door with window",
+        "parsed_query": {
+            "Target": "closed white door",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "facing windows, one on the right",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 2,
+        "caption": "The only closed door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "facing windows the one on the right, near fridge",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 18,
+        "caption": "This window is on the left, in the corner of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "left",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 33,
+        "caption": "the door that opens into the boiler room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "boiler room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 25,
+        "caption": "cabinet with the yellow cloth on it",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "yellow cloth"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 18,
+        "caption": "the window on the left, nearest to the corner of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "left",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 23,
+        "caption": "The cabinet in the laundry room next to the washer",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "laundry room",
+                "washer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 24,
+        "caption": "Shelf across from the washer and dryer.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "washer",
+                "dryer"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 23,
+        "caption": "It is the cabinet next to the washing machine with the sink on top of it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "washing machine",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 35,
+        "caption": "Door that is next to the green chair",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "green chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 0,
+        "caption": "This door is open and in front of the shower stall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "shower stall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 22,
+        "caption": "It's the cabinet next to the fridge, across from the red cylinder",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "fridge",
+                "red cylinder"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 24,
+        "caption": "The correct shelf is medium size and closest to the open door.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "open door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 23,
+        "caption": "cabinet under the sink, near washer",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "washer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 24,
+        "caption": "Choose the shelf next to the blue shower.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "blue shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "The window closest to the washing machine and drying rack, not the window in the corner of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "washing machine",
+                "drying rack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 18,
+        "caption": "The window closer to the corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 15,
+        "caption": "the larger of the two shelves in the room with the hot water heater",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "hot water heater"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 2,
+        "caption": "Pick the door with the small window that is next to the washer.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "washer",
+                "small window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 22,
+        "caption": "select the tall cabinets near the fridge",
+        "parsed_query": {
+            "Target": "tall cabinets",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 26,
+        "caption": "The smallest of the shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 15,
+        "caption": "click the large storage shelf",
+        "parsed_query": {
+            "Target": "large storage shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 35,
+        "caption": "the door that is open near the shelf with many items on it to come into the two rooms",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelf",
+                "two rooms"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 33,
+        "caption": "the door near the white water tank",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white water tank"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 26,
+        "caption": "the shelf with the big round things next to it and two spheres above it",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "big round things",
+                "spheres"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 25,
+        "caption": "cabinet in the smaller room in the corner, NOT under the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "smaller room",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 18,
+        "caption": "The window closest to the corner of the room, closest to the exit door and wall of shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "exit door",
+                "wall of shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 2,
+        "caption": "The white door with a window in it, to the left of the laundry machine",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "laundry machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 17,
+        "caption": "Facing the large red water heater, choose the window closest to the heater.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "large red water heater"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 0,
+        "caption": "open door that separates the 2 rooms",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 5,
+        "caption": "This sink is to the right of the washer and dryer. It is the one that is closest to the wall and furthest away from the washer dryer",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "washer",
+                "dryer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 4,
+        "caption": "The sink next to the washing machine.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "washing machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 33,
+        "caption": "The door not in the grouping of three doors.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 33,
+        "caption": "The door not a part of the three door group",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 0,
+        "caption": "The middle doorway to get into the other room, connects what looks like the pantry in the middle of the room and pipes on the other side.",
+        "parsed_query": {
+            "Target": "doorway",
+            "Anchor": [
+                "pantry",
+                "pipes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 15,
+        "caption": "The shelves that line the entire back wall just near the windows",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "back wall",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 24,
+        "caption": "The cluttered shelf in the kitchen with pipes behind it",
+        "parsed_query": {
+            "Target": "cluttered shelf",
+            "Anchor": [
+                "kitchen",
+                "pipes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 18,
+        "caption": "The window without a vase on the windowsill.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 0,
+        "caption": "Choose the door that is between the two main rooms that are pictured here.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "two main rooms"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 5,
+        "caption": "The sink is closer to the wall",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": 4,
+        "caption": "Face the door with the little window in it. You want the box closest to that door.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "little window"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

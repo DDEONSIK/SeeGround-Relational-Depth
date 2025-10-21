@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this is a black ,rolling office chair. this chair sits at the desk,at the end of the bed.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this is a wood frame twin bed. the bed is in the corner of the room,by the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "corner of the room",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this is a wood frame, twin size bed with a maroon mattress on it. this bed is in the corner of the room.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "corner of the room"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this is a rolling office chair. this office chair is in front of the window.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "6",
+        "target_name": "trash_can",
+        "caption": "this is a small tan trash can. this trash can is in the corner,across from the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "corner",
+                "across from the bed"
+            ]
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0169_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "there is a chair with it's back to the wall. it is the chair all the way to the left of the row of similar chairs. .",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "row of similar chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is in the farthest northwest corner of the room. the chair has five legs and armrests. .",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": "44",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "another chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "this is a tan cabinet. it is below a picture.",
+        "parsed_query": {
+            "Target": "tan cabinet",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a chair with arms. it is in between two chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "unique": false
+    }
+]

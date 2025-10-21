@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "4",
+        "target_name": "toilet_paper",
+        "caption": "there is a full roll of toilet paper on the top right of the toilet. this toilet paper roll is to the right of another toilet paper roll.",
+        "parsed_query": {
+            "Target": "full roll of toilet paper",
+            "Anchor": [
+                "toilet",
+                "toilet paper"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "there is a large window with bars on the glass. the window is right above the toilet and to the left of the shower.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "toilet",
+                "shower"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "24",
+        "target_name": "toilet_paper",
+        "caption": "there is a toilet paper roll on top of the left side of the toilet. this roll is situated to the left of another toilet paper roll.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "toilet",
+                "toilet paper roll"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "1",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a medium brown bathroom vanity in the corner of the room. the vanity is to the right of the shower.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": [
+                "shower"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "14",
+        "target_name": "towel",
+        "caption": "there is a slightly beige towel hanging on the wall. to the right of the towel is a ladder and to the left is the vanity and sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "ladder",
+                "vanity and sink"
+            ]
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,1245 @@
+[
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 38,
+        "caption": "The pillow closest to the foot of the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 41,
+        "caption": "The pillow second from the back of the row on the right hand side of the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "row",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "'The lamp next to the red curtains.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "red curtains"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "'The lamp to the left if you are lying on the bed. The lamp nearest the bed.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 43,
+        "caption": "The pillow is buried under another white pillow and has a step stool nearby",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "another white pillow",
+                "step stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 43,
+        "caption": "Looking from the foot of the bed, this pillow is on the left side and below the others. It's next to the small step ladder.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "small step ladder"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 43,
+        "caption": "Facing foot of bed, it's the bottom pillow on the left.",
+        "parsed_query": {
+            "Target": "bottom pillow",
+            "Anchor": [
+                "foot of bed",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 43,
+        "caption": "Looking up from the end of the bed, choose the pillow on the very bottom of the left side of the bed.  It is right touching the stool.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "end of the bed",
+                "bed",
+                "stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 39,
+        "caption": "The blackish pillow under another blue pillow",
+        "parsed_query": {
+            "Target": "blackish pillow",
+            "Anchor": [
+                "blue pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 39,
+        "caption": "the pillow is the under the other blue pillow",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "other blue pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 39,
+        "caption": "Dark pillow directly behind/under blue square pillow.",
+        "parsed_query": {
+            "Target": "dark pillow",
+            "Anchor": [
+                "blue square pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 39,
+        "caption": "You are looking for the gray pillow closest to the headboard.",
+        "parsed_query": {
+            "Target": "gray pillow",
+            "Anchor": [
+                "headboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 38,
+        "caption": "The blue pillow that is on top of all the other pillows",
+        "parsed_query": {
+            "Target": "blue pillow",
+            "Anchor": "pillow"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 38,
+        "caption": "Last pillow closest to the end of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 38,
+        "caption": "choose the blue pillow in front of all the pillows on the bed",
+        "parsed_query": {
+            "Target": "blue pillow",
+            "Anchor": [
+                "pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 40,
+        "caption": "the large white pillow behind the small dark pillows",
+        "parsed_query": {
+            "Target": "large white pillow",
+            "Anchor": [
+                "small dark pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 40,
+        "caption": "the pillow is the big white one under all the blue pillows on the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "blue pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 40,
+        "caption": "Standing at the end of the bed, choose the pillow that is on the right side of the bed and is equal in size place as the one on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 40,
+        "caption": "Facing the bed, it's the large white pillow on the right.  The 2nd one from the headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "headboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 41,
+        "caption": "Select the ONE white pillow directly behind the dark pillows on the bed.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "dark pillows",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 41,
+        "caption": "Facing the bed, choose the pillow on the right that is closest to the bed's headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "headboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 41,
+        "caption": "The pillow on the very back of the bed with four pillows in front of it",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "four pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 42,
+        "caption": "Big white pillow on top, at left side of bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 42,
+        "caption": "The white pillow on the left as you look at the head of the bed, with no other pillows on top of it..",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "head of the bed",
+                "no other pillows on top"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 42,
+        "caption": "the white pillow on the left of the colored pillows",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "colored pillows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 42,
+        "caption": "Standing at the end of the bed looking at the pillows, choose the pillow on the left side nearest the bathroom.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillows",
+                "bathroom"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 38,
+        "caption": "The front blue pillow.",
+        "parsed_query": {
+            "Target": "blue pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 42,
+        "caption": "When standing at the foot of the bed choose the pillow on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 39,
+        "caption": "A black pillow on the bed in between a dark blue pillow and a white pillow.",
+        "parsed_query": {
+            "Target": "black pillow",
+            "Anchor": [
+                "dark blue pillow",
+                "white pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 40,
+        "caption": "The white pillow behind the blue, and in front of another white pillow",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "white pillow",
+                "blue pillow",
+                "another white pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 43,
+        "caption": "If you are sitting in bed, it's the pillow on the bottom right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 41,
+        "caption": "The pillow closest to the headboard behind the blue pillows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "headboard",
+                "blue pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 32,
+        "caption": "It is the mirror closest to the toilet.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 44,
+        "caption": "The smaller picture out of the two options.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 44,
+        "caption": "The smaller picture hanging on the wall",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 46,
+        "caption": "Facing two pictures adjacent to one another, the larger picture.",
+        "parsed_query": {
+            "Target": "larger picture",
+            "Anchor": [
+                "pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "The lamp on the right side of the bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "It is hanging from the ceiling and has a cylinder shape.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 44,
+        "caption": "Its the smallest picture frame on the wall.",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 36,
+        "caption": "the mirror outside of the bathroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 36,
+        "caption": "This mirror is not above a sink and is by a burgundy curtain.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "burgundy curtain"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "Select the lamp near the red curtains.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "red curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 26,
+        "caption": "The correct light is in the washroom, above the toilet.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "washroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "next to the bed",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 26,
+        "caption": "The light closest to the door.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "The light in the middle of the room on the ceiling",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "room",
+                "ceiling"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 46,
+        "caption": "bigger off the two pictures",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "The lamp by the red curtains",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "red curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 44,
+        "caption": "The smaller of the pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 32,
+        "caption": "The mirror on the white sink which is next to the shower.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "white sink",
+                "shower"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 46,
+        "caption": "This is the much larger picture.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 26,
+        "caption": "Choose the round motor housing of the ceiling fan.",
+        "parsed_query": {
+            "Target": "round motor housing",
+            "Anchor": "ceiling fan"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "The lamp on the square bedside table.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "square bedside table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "The big light over the bed",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 36,
+        "caption": "Choose the mirror closes to the red curtains.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "red curtains"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 36,
+        "caption": "The correct mirror is in the washroom, closest to the toilet.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "washroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 26,
+        "caption": "small light in the batchroom",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 26,
+        "caption": "There is a small bathroom behind the bed and you need to find the cieling light that is in the bathroom.",
+        "parsed_query": {
+            "Target": "ceiling light",
+            "Anchor": [
+                "bed",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 32,
+        "caption": "The mirror closest to the toilet in the bathroom.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 26,
+        "caption": "This light is in the bathroom",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "lamp next to the curtain",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "curtain"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "The table lamp on the side table next to the bed.",
+        "parsed_query": {
+            "Target": "table lamp",
+            "Anchor": [
+                "side table",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 36,
+        "caption": "The lower mirror above the white desk and not in the bathroom.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "white desk",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 46,
+        "caption": "the larger of the two pictures",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 46,
+        "caption": "largest picture",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "The lamp near the maroon curtains",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "maroon curtains"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "Pick the big one in the bedroom.",
+        "parsed_query": {
+            "Target": "bedroom",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "the lamp closest to the bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "The large light above the bed",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 32,
+        "caption": "The correct mirror is sqaure and farther from the ceiling.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "square",
+                "farther from the ceiling"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 32,
+        "caption": "the mirror in the bathroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "The big round hanging light over the bed.",
+        "parsed_query": {
+            "Target": "hanging light",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 36,
+        "caption": "The mirror above the dressing table.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "dressing table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 32,
+        "caption": "I am the mirror in the bathroom with the toilet",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "the larger of the two lights",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "white floor lamp behind a black chair",
+        "parsed_query": {
+            "Target": "white floor lamp",
+            "Anchor": "black chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 26,
+        "caption": "Which light is located within the bathroom?",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 44,
+        "caption": "Smaller picture on the white wall, there is nothing else on that wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "white wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 44,
+        "caption": "The smaller picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "lamp to right of blue pillow on bed sitting on a white table.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "blue pillow",
+                "white table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 46,
+        "caption": "The picture that is closer to the bed",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 39,
+        "caption": "The blue pillow under another blue pillow",
+        "parsed_query": {
+            "Target": "blue pillow",
+            "Anchor": "blue pillow"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 41,
+        "caption": "Facing the bed, it's a far right pillow, closest to the headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "headboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 40,
+        "caption": "The largest pillow on the right hand side of the bed by the lamp",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "right hand side of the bed",
+                "lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 43,
+        "caption": "The pillow next to the step stool and has a white pillow on top of it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "step stool",
+                "white pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 42,
+        "caption": "The large white pillow on the left side of the bed",
+        "parsed_query": {
+            "Target": "large white pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 38,
+        "caption": "The blue square pillow slightly more toward the foot of the bed.",
+        "parsed_query": {
+            "Target": "blue square pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "The lamp that is not located by the bedside",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 5,
+        "caption": "The lamp is next to the bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 36,
+        "caption": "The mirror is located above the vanity that is located outside the washroom",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "vanity",
+                "washroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 4,
+        "caption": "The larger of the two lamps.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 44,
+        "caption": "The smaller of the two pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 2,
+        "caption": "Choose the larger, spherical light that hangs over the bed.",
+        "parsed_query": {
+            "Target": "larger, spherical light",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 32,
+        "caption": "The bathroom mirror that is directly behind the bed.",
+        "parsed_query": {
+            "Target": "bathroom mirror",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 46,
+        "caption": "The correct picture is closer to the bed and is larger sized.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 39,
+        "caption": "The middle pillow on the right side of the bed",
+        "parsed_query": {
+            "Target": "middle pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 38,
+        "caption": "Its the blue pillow on top of another blue pillow",
+        "parsed_query": {
+            "Target": "blue pillow",
+            "Anchor": [
+                "blue pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 41,
+        "caption": "On the right side of the bed is four pillows. Its the second to last pillow in the stack (blue blue, WHITE, white).",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "four pillows",
+                "second to last pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 40,
+        "caption": "White pillow on right behind the two black pillows.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "two black pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 43,
+        "caption": "If you face the bed, you can\u2019t see it. Turn the image to the left counter clockwise so you\u2019re facing the white drawers. You can now see the box you need, on the bottom left under another box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "white drawers",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": 42,
+        "caption": "Big, white pillow on top and on the left side of the bed, when looking from the foot of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

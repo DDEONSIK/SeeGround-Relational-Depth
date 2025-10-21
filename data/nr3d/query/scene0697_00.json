@@ -1,0 +1,1009 @@
+[
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "'The lamp that is not next to the pink dollhouse.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "'The lamp to the right if you are lying on the bed. The lamp closest to the doll house.'",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "doll house"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 10,
+        "caption": "It is the taller dresser on the wall with the painting.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "wall",
+                "painting"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 11,
+        "caption": "The small light brown dresser",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 25,
+        "caption": "There are two pillows by the headboard of the bed. If you are laying in bed, it is the pillow on the left side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "headboard",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 25,
+        "caption": "the pillow that is on the bed next to the nightstand that has a tissue box on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "nightstand"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 6,
+        "caption": "The nightstand to the right of the bed with the blue dog toy in front of it.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "blue dog toy"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 17,
+        "caption": "the pillow on the floor",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 16,
+        "caption": "the storage bin directly to the right of the nightstand on the right side of the bed.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "nightstand",
+                "right side of the bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 11,
+        "caption": "The correct dresser is the shorter one.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 7,
+        "caption": "Nightstand beside the doll house",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "doll house"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "the lamp on the stand with two remotes",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "stand",
+                "two remotes"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 7,
+        "caption": "The nightstand is next to a doll house. If your looking straight on at the bed it is on the left. There is something red sitting on the nightstand as well, it has a pillow in front of it.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "doll house",
+                "bed",
+                "bedroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 15,
+        "caption": "The taller stack of storage bins next to the doll house",
+        "parsed_query": {
+            "Target": "storage bins",
+            "Anchor": [
+                "taller stack",
+                "doll house"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 25,
+        "caption": "The pillow on the right side of the bed, closest to the blue snake toy on the floor.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "blue snake toy"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 16,
+        "caption": "the storage bin with two container and a toy snake in front",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "two container",
+                "toy snake"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 6,
+        "caption": "The nightstand closest to the hallway and furthest from the window.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "hallway",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 7,
+        "caption": "Choose the nightstand on the left of the bed, between the headboard and the dollhouse.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "headboard",
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 15,
+        "caption": "A stack of 6 clear boxes; two with red lids and 4 with green lids, next to the dollhouse.",
+        "parsed_query": {
+            "Target": "stack of clear boxes",
+            "Anchor": [
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 6,
+        "caption": "nightstand near the door",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 17,
+        "caption": "The pillow on the floor with arms.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "floor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 11,
+        "caption": "the shorter of the two dresser",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 6,
+        "caption": "This nightstand is nearer to a corner.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 15,
+        "caption": "Pick the storage bin next to the dollhouse.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": "dollhouse"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 18,
+        "caption": "The correct pillow is in the middle of the other two.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "pillow",
+                "pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 18,
+        "caption": "Of the 3 pillows, this one is in the center. It is on the left side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 7,
+        "caption": "choose the nightstand next to the dollhouse.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "dollhouse"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 16,
+        "caption": "The storage bin is white with a yellow object on top",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "white",
+                "yellow object"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 15,
+        "caption": "In the corner on the side on the bed without the nightstand.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "This lamp is closest to the dollhouse.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 16,
+        "caption": "The white drawers on the right.",
+        "parsed_query": {
+            "Target": "drawers",
+            "Anchor": "right"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 18,
+        "caption": "Facing the bed the pillow under left that is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 25,
+        "caption": "the pillow near the night stand with tissue boxes on top",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "night stand",
+                "tissue boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 25,
+        "caption": "The pillow on the bed closest to the door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 11,
+        "caption": "Facing the foot of the bed, the dresser in the lower right corner.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "foot of the bed",
+                "lower right corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 18,
+        "caption": "Standing at the foot of the bed, looking toward the head of the bed, it's the pillow on the bed on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 10,
+        "caption": "The taller dresser across from the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "The lamp is the one nearer the toy snake on the floor, not the one nearer the dollhouse.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "toy snake",
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 15,
+        "caption": "The one nearer you on the left, top corner",
+        "parsed_query": {
+            "Target": "one nearer you",
+            "Anchor": [
+                "left",
+                "top corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 10,
+        "caption": "The green box is the dresser on the wall opposite the bed.",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": [
+                "dresser",
+                "wall",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "The left side of the bed next to the dollhouse",
+        "parsed_query": {
+            "Target": "left side of the bed",
+            "Anchor": "dollhouse"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 16,
+        "caption": "Desk to a dresser and this object is also up against the side of the wall, it also has something yellow on top of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "dresser",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "the smaller lamp on the right-hand side",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "right-hand side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 10,
+        "caption": "the taller dresser across from the bed and closer to the windows",
+        "parsed_query": {
+            "Target": "taller dresser",
+            "Anchor": [
+                "bed",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 7,
+        "caption": "The nightstand on the left of the bed, between the bed and the dollhouse",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 16,
+        "caption": "The storage bin is closer to the nightstand and dresser and not near the window",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "nightstand",
+                "dresser"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 10,
+        "caption": "This is the yellow overexposes cabinet",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 17,
+        "caption": "It's the pillow on the floor in front of the night table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "floor",
+                "night table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 11,
+        "caption": "If you were laying in bed, this dresser would be on your left. It is long, low, and has a mirror attached to it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 18,
+        "caption": "The middle of the pillows.",
+        "parsed_query": {
+            "Target": "pillows",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 6,
+        "caption": "nightstand closest to door",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 25,
+        "caption": "If you are at the foot of the bed, choose the box pillows near the headboard on the right hand side.",
+        "parsed_query": {
+            "Target": "pillows",
+            "Anchor": [
+                "foot of the bed",
+                "headboard",
+                "right hand side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 17,
+        "caption": "Choose the pillow from the pallet on the floor.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "pallet",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 15,
+        "caption": "I am the larger storage bin without the yellow thing on top",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "The lamp between the dollhouse and bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "dollhouse",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 18,
+        "caption": "From the foot of the bed, this pillow is on the left side of the bed, and not the floor.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 6,
+        "caption": "The nightstand on the right when facing the head of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 15,
+        "caption": "The storage bin on the same wall as the bed at the leftmost corner.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 17,
+        "caption": "The pillow not on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 10,
+        "caption": "There is a tv on top of this dresser",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "dresser"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "The lamp next to the doll house.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "doll house"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 18,
+        "caption": "The pillow on the left side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 10,
+        "caption": "the dresser that has a white bin and photo to the left of it",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "white bin",
+                "photo"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 11,
+        "caption": "The correct dress is not as tall and of darker wood.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 7,
+        "caption": "The nightstand with the blue striped snake in front of it.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "blue striped snake"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "Standing at the foot of the bed looking at the head of the bed, it's the lamp on the right",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 7,
+        "caption": "The nightstand that is between the bed and the dollhouse",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 17,
+        "caption": "pillow with arm rests, on the floor",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "arm rests",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "When facing the bed, the lamp that is on the right side of the bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "If you are looking at the bed so that the dollhouse is on your left, you will choose the lamp on the right side of the bed furthest away from the dollhouse.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 16,
+        "caption": "Facing the foot of the bed, the storage bin on the right.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 11,
+        "caption": "From the foot of the bed choose the dresser that is to your right. it is the shorter dresser with 8 drawers.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "foot of the bed",
+                "right",
+                "shorter dresser with 8 drawers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 25,
+        "caption": "select the pillow nearest the door",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "The lamp on the left side of the bed",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "left",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 19,
+        "caption": "If you are standing at the foot of the bed looking at the bed, the lamp you are looking for is on the right hand side.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "while facing the bed, its the lamp to the left",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 6,
+        "caption": "The darker brown nightstand beside the bed with a lamp sitting on top",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 17,
+        "caption": "The pillow not on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": 20,
+        "caption": "The table lamp on the nightstand next to the dollhouse.",
+        "parsed_query": {
+            "Target": "table lamp",
+            "Anchor": [
+                "nightstand",
+                "dollhouse"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

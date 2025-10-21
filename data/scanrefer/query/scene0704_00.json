@@ -1,0 +1,69 @@
+[
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "5",
+        "target_name": "cabinets",
+        "caption": "there are brown rectangular cabinets. they are under black counters.",
+        "parsed_query": {
+            "Target": "brown rectangular cabinet",
+            "Anchor": [
+                "black counters"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "there are brown cabinets. they are hanging over a black counter.",
+        "parsed_query": {
+            "Target": "brown cabinets",
+            "Anchor": [
+                "black counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "there are wooden cabinets. they are located over a black counter.",
+        "parsed_query": {
+            "Target": "wooden cabinets",
+            "Anchor": [
+                "black counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "18",
+        "target_name": "trash_can",
+        "caption": "the trash can is actually a special trash can called a paper shredder for destroying confidential documents. it is sitting between the cabinets and the copying machine.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "cabinets",
+                "copying machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "0",
+        "target_name": "cart",
+        "caption": "the light tan rolling cart is great for moving small office boxes or copy paper around the office place. the cart is located between the tan cabinet and the water refill jugs.",
+        "parsed_query": {
+            "Target": "light tan rolling cart",
+            "Anchor": [
+                "tan cabinet",
+                "water refill jugs"
+            ]
+        },
+        "unique": false
+    }
+]

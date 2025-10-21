@@ -1,0 +1,68 @@
+[
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "a green couch. between two round wooden tables.",
+        "parsed_query": {
+            "Target": "green couch",
+            "Anchor": [
+                "round wooden table",
+                "round wooden table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "a beige wooden table. in front of the couch.",
+        "parsed_query": {
+            "Target": "beige wooden table",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "a beige wooden table. in the middle of the couches.",
+        "parsed_query": {
+            "Target": "a beige wooden table",
+            "Anchor": [
+                "couches"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "a beige wooden round table. next to the couch.",
+        "parsed_query": {
+            "Target": "beige wooden round table",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "a beige round table. on the right to the couch.",
+        "parsed_query": {
+            "Target": "beige round table",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "unique": false
+    }
+]

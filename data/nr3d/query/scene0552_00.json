@@ -1,0 +1,780 @@
+[
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 31,
+        "caption": "pick the box that is under the other box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "other box"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 30,
+        "caption": "The smaller, darker box that is on top of a white box next to the wall.",
+        "parsed_query": {
+            "Target": "darker box",
+            "Anchor": [
+                "white box",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 31,
+        "caption": "The box is white and is sitting below another box near the brown chair against the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box",
+                "brown chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 30,
+        "caption": "The top box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 27,
+        "caption": "The correct cabinet is the one that is off the ground.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 13,
+        "caption": "the lower kitchen cabinet second to the right of the refrigerator",
+        "parsed_query": {
+            "Target": "lower kitchen cabinet",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 10,
+        "caption": "Facing the refrigerator, the table to the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 32,
+        "caption": "the trash bin closest to the main waste area.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "main waste area"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 10,
+        "caption": "the square table closest to the window",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 31,
+        "caption": "The lower of the boxes.",
+        "parsed_query": {
+            "Target": "boxes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 11,
+        "caption": "Facing he copiers, the table by itself.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "copiers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 32,
+        "caption": "choose the trash can between the two wooden tables next to the copier.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "two wooden tables",
+                "copier"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 13,
+        "caption": "The correct cabinet is on the ground.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 9,
+        "caption": "The table that is in the center of the room yet closest to the copier.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "copier"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 9,
+        "caption": "The table in the middle of the room that is closer to the copier.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "copier",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 16,
+        "caption": "find the trash can next to the copier/printer",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copier",
+                "printer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 13,
+        "caption": "cabinet on the floor next to the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 10,
+        "caption": "It is the table furthest from the large printer.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "large printer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 11,
+        "caption": "The table that is next to the wall and has a green bucket underneath it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green bucket",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 31,
+        "caption": "This lower box has another box stacked on top of it.",
+        "parsed_query": {
+            "Target": "lower box",
+            "Anchor": [
+                "another box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 9,
+        "caption": "When facing the refrigerator , the square dining table on the right.",
+        "parsed_query": {
+            "Target": "dining table",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 30,
+        "caption": "choose the item on top",
+        "parsed_query": {
+            "Target": "item",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 9,
+        "caption": "the square table closest to the copy machine",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "copy machine"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 11,
+        "caption": "The table to the right of the copier/printer with the green cutting board on it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "copier/printer",
+                "green cutting board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 10,
+        "caption": "Choose the square desk without any objects on it that is closest to the wall.",
+        "parsed_query": {
+            "Target": "square desk",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 16,
+        "caption": "The tall black trashcan between the desk and the counter top, not the one under the desk.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "desk",
+                "counter top"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 13,
+        "caption": "The cabinet on the bottom near the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 16,
+        "caption": "The trash can under the table",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 32,
+        "caption": "Gray and square, taller than the other option.",
+        "parsed_query": {
+            "Target": "square item",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 27,
+        "caption": "Choose the long set of cabinets over the fridge and sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "fridge",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 32,
+        "caption": "The bigger trash can, which is not underneath a table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 16,
+        "caption": "The trashcan closest to the large printer.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "large printer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 16,
+        "caption": "The green trash can under the desk with the square green item on it",
+        "parsed_query": {
+            "Target": "green trash can",
+            "Anchor": [
+                "desk",
+                "square green item"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 16,
+        "caption": "It is the trash can to the right of the copy machine.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copy machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 13,
+        "caption": "It is the lower cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 27,
+        "caption": "The entire set of upper kitchen cabinets",
+        "parsed_query": {
+            "Target": "upper kitchen cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 32,
+        "caption": "Pick the trash can that is between the table and the cabinet. It is NOT green.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "table",
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 9,
+        "caption": "The table directly in front of the silver fridge and closest to the black kitchen cabinets.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "silver fridge",
+                "black kitchen cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 9,
+        "caption": "The square table close to the fax machine.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": [
+                "fax machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 13,
+        "caption": "Facing the fridge you need to select the kitchen cabinet that is on the floor (not the suspended one) to the right of the fridge.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "fridge",
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 10,
+        "caption": "It is the table NEXT to the table across from the refrigerator.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 11,
+        "caption": "The table that is against the wall next to the photocopier",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "photocopier"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 10,
+        "caption": "The square table in the middle of the room that is furthest from the fridge.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 27,
+        "caption": "The higher set of kitchen cabinets,  mounted to the wall.",
+        "parsed_query": {
+            "Target": "higher set of kitchen cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 13,
+        "caption": "Look at the furniture that is to the left of the sink.",
+        "parsed_query": {
+            "Target": "furniture",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 16,
+        "caption": "trash can under the white desk",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "white desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 27,
+        "caption": "The longer, higher cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 9,
+        "caption": "Choose the table that is most in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 32,
+        "caption": "the trash can that is furthest away from the copy machine",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copy machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 11,
+        "caption": "The table next to the copier.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "copier"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 32,
+        "caption": "Facing the trash cans, the trash can on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 27,
+        "caption": "The entire upper set of kitchen cabinets, over the sink",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink",
+                "upper set"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 27,
+        "caption": "the upper cabinets",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 10,
+        "caption": "It is the table that is cata-cornered to the table with the square cloth on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 30,
+        "caption": "The box that is sitting on another box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 31,
+        "caption": "The white box that is on the floor",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": "floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 11,
+        "caption": "The table not next to the other two tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 11,
+        "caption": "This is a table that is against a wall, in between what looks like a copy machine and another slightly higher table with a white top. The table in question has a large square object on it that is kind of an olive green color. It is directly across the room from the refrigerator.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "copy machine",
+                "white table",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 31,
+        "caption": "bottom one nearest to the desks.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 31,
+        "caption": "The bottom white  box is the one you want.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 30,
+        "caption": "The box is against the wall on top of the stack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "stack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 30,
+        "caption": "Select the box nearer to the sink unit",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "sink unit"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": 30,
+        "caption": "Facing the boxes, the one on top.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "boxes"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

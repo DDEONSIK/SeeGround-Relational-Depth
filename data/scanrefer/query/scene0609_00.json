@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it is surrounded by chairs and at the wall.",
+        "parsed_query": {
+            "Target": "rectangular wooden table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is on the right side of a table.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "rectangular wooden table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. it is located to the right of the chair beside it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is rectangular. there are two chairs facing it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "unique": false
+    }
+]

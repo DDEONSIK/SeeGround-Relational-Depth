@@ -1,0 +1,176 @@
+[
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 14,
+        "caption": "the white board parallel to the long side of the table",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "long side",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 14,
+        "caption": "The window that is on the same wall as the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 14,
+        "caption": "Choose the wall piece that is on a wall with no door.",
+        "parsed_query": {
+            "Target": "wall piece",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 12,
+        "caption": "The window closest to the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 12,
+        "caption": "The window closest to the phones on the wall",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "phones",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 12,
+        "caption": "Choose the whiteboard with a phone hanging next to it on the wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "phone",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 14,
+        "caption": "The brighter looking window",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 12,
+        "caption": "The window on the side of the room with the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 14,
+        "caption": "This is the window located on the wall opposite of the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 14,
+        "caption": "the window on the wall that is opposite the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 12,
+        "caption": "facing the tv, the window on the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 14,
+        "caption": "The smaller of the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 12,
+        "caption": "the window along the same wall as the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0599_00",
+        "target_id": 12,
+        "caption": "The smaller of the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

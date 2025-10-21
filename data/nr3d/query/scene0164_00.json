@@ -1,0 +1,878 @@
+[
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 11,
+        "caption": "The cabinet next to the open cabinet on the side of the room with the refrigerator",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "open cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 35,
+        "caption": "The hanging cabinet in the corner behind the open cabinet door",
+        "parsed_query": {
+            "Target": "hanging cabinet",
+            "Anchor": [
+                "open cabinet door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 11,
+        "caption": "Facing fridge, this cabinet is middle of the three upper cabinets to the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "fridge",
+                "three upper cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 11,
+        "caption": "Facing fridge, it's the upper right cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 11,
+        "caption": "cabinet next to the open one near the fridge",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "open cabinet",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 35,
+        "caption": "When facing the stove, pick the top cabinet on the left above the microwave",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove",
+                "microwave"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 35,
+        "caption": "Choose the kitchen cabinet that is far left of the stove on the other side of the wall.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "stove",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 35,
+        "caption": "the cabinet above the microwave on the counter",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "microwave",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 12,
+        "caption": "The cabinet to the right of the oven",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "oven"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 12,
+        "caption": "The cabinet with the coffeemaker on it to the right of the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 12,
+        "caption": "the cabinet to the right of the oven",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "oven"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 12,
+        "caption": "Facing stove, lower cabinet directly on its right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 41,
+        "caption": "It's the shorter, red box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 41,
+        "caption": "Please select the red box on the counter",
+        "parsed_query": {
+            "Target": "red box",
+            "Anchor": "counter"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 41,
+        "caption": "The red box next to the microwave in the corner",
+        "parsed_query": {
+            "Target": "red box",
+            "Anchor": [
+                "microwave",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 41,
+        "caption": "The box furthest from the stove",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 24,
+        "caption": "Taller box that's closest to stove.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 24,
+        "caption": "It's the red, white, and blue box next to the stove.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 24,
+        "caption": "the blue, red and white box on the counter",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "blue",
+                "red",
+                "white",
+                "counter"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 24,
+        "caption": "Choose the brown box closest to the stove.",
+        "parsed_query": {
+            "Target": "brown box",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 14,
+        "caption": "Facing the refrigerator, the upper kitchen cabinet that is next to the refrigerator.",
+        "parsed_query": {
+            "Target": "upper kitchen cabinet",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 14,
+        "caption": "There are two cabinets on the wall opposite the stove. Choose the bigger one.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet",
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 14,
+        "caption": "It's the double cabinet right above the paper towels.",
+        "parsed_query": {
+            "Target": "double cabinet",
+            "Anchor": "paper towels"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 14,
+        "caption": "There are two groups of kitchen cabinets; three along the wall with the stove, and two on the opposite wall. Looking at the wall opposite the stove, the one with the refrigerator, please select the kitchen cabinet closest to the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet closest to the refrigerator",
+            "Anchor": [
+                "wall opposite the stove",
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 13,
+        "caption": "pick the cabinet that is on the left side of the stove",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 13,
+        "caption": "chose the lower cabinet to the left of the stove",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 13,
+        "caption": "It is the cabinet to the left of the stove when you are facing the stove and it has some boxes on it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 13,
+        "caption": "Choose the cabinet that is to the left of the stove below the counter, with a red bag on top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 35,
+        "caption": "the small kitchen cabinet over the microwave",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "microwave"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 13,
+        "caption": "Turn to face the stove, it's the cabinet to the left of the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 11,
+        "caption": "While looking at the fridge, you want the cabinet on the top right near the middle",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "fridge",
+                "top right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 41,
+        "caption": "The red, horizontal box on the left.",
+        "parsed_query": {
+            "Target": "red, horizontal box",
+            "Anchor": "left"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 14,
+        "caption": "the top left of the cabinets near the fridge",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinets",
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 12,
+        "caption": "looking at the stove, pick the cabinet that is next to the stove on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 24,
+        "caption": "The box that is NOT a Coca-Cola box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "Coca-Cola box"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 15,
+        "caption": "It is the smaller kitchen cabinet that is directly above the fridge.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 10,
+        "caption": "The kitchen cabinet that is underneath the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 9,
+        "caption": "The larger kitchen cabinets hanging on a wall.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 15,
+        "caption": "It is the cabinet above the refrigerator.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 15,
+        "caption": "This cabinet is above the refrigerator.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 10,
+        "caption": "This cabinet is below the kitchen sink, next to the dishwasher",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "kitchen sink",
+                "dishwasher"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 9,
+        "caption": "The brown cabinet located above kitchen stove",
+        "parsed_query": {
+            "Target": "brown cabinet",
+            "Anchor": [
+                "kitchen stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 9,
+        "caption": "Only the three closed kitchen cabinet doors above and to the right of the oven.",
+        "parsed_query": {
+            "Target": "closed kitchen cabinet doors",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 9,
+        "caption": "a section of cabinets containing the range hood",
+        "parsed_query": {
+            "Target": "range hood",
+            "Anchor": "cabinets"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 10,
+        "caption": "The correct cabinet has a sink in it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 15,
+        "caption": "Choose the small double cabinets over the fridge.",
+        "parsed_query": {
+            "Target": "small double cabinets",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 10,
+        "caption": "you need to select the kitchen cabinet that is underneath the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 15,
+        "caption": "The kitchen cabinets that are above the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 9,
+        "caption": "The cabinet above the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": []
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 15,
+        "caption": "The kitchen cabinet is the one above the fridge.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "fridge"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 10,
+        "caption": "lower cabinet under the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 10,
+        "caption": "The lower kitchen cabinet with the sink in it.",
+        "parsed_query": {
+            "Target": "lower kitchen cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 9,
+        "caption": "Choose the kitchen cabinet above the stove.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 10,
+        "caption": "The kitchen cabinet holds the sink",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen cabinet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 9,
+        "caption": "The bank of cabinets above the stove.",
+        "parsed_query": {
+            "Target": "bank of cabinets",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 13,
+        "caption": "It's the kitchen cabinet with the red box on top of it, also with the blue and white box.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "red box",
+                "blue and white box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 24,
+        "caption": "The box closest to the oven",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "oven"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 11,
+        "caption": "The cabinet that is high up next to the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 41,
+        "caption": "The correct box is closest to the corner.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 12,
+        "caption": "Facing the white stove, its the cabinet on the lower right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "white stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 35,
+        "caption": "It's a small cabinet above a dark rectangular appliance [toaster oven?].",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "dark rectangular appliance"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 14,
+        "caption": "Facing the fridge, its the upper cabinet closest to it.",
+        "parsed_query": {
+            "Target": "upper cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 15,
+        "caption": "The small cabinet above the refrigerator",
+        "parsed_query": {
+            "Target": "small cabinet",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 14,
+        "caption": "The large kitchen cabinet on the wall with the fridge. If you click the left of two larger doors it should select the box",
+        "parsed_query": {
+            "Target": "large kitchen cabinet",
+            "Anchor": [
+                "fridge",
+                "two larger doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 35,
+        "caption": "The small cabinet in the corner of the counter",
+        "parsed_query": {
+            "Target": "small cabinet",
+            "Anchor": [
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 13,
+        "caption": "If you're standing at the stove, like you're cooking, it's the lower cabinet immediately to the left of the stove.",
+        "parsed_query": {
+            "Target": "lower cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 12,
+        "caption": "Select the box that has the coffee maker on top of the counter",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "coffee maker"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 24,
+        "caption": "The red square book sitting next to the large purse",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "large purse"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 11,
+        "caption": "The kitchen cabinet is to the right of the fridge in the corner.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "fridge",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": 41,
+        "caption": "The smaller box further to the left.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

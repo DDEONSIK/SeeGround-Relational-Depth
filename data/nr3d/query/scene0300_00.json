@@ -1,0 +1,821 @@
+[
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 6,
+        "caption": "The big brown table not the white one",
+        "parsed_query": {
+            "Target": "big brown table",
+            "Anchor": [
+                "white table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 8,
+        "caption": "The chair has a monitor in front of it and is by a window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 8,
+        "caption": "This chair is located on the right side where the two computers are. This chair is the one closest to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two computers",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 1,
+        "caption": "The monitor on the right that is closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 5,
+        "caption": "Choose the table with two computers.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "computers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 7,
+        "caption": "the chair farthest from a window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "This chair is at a brown desk back-to-back with another.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 7,
+        "caption": "chair furthest from the windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 5,
+        "caption": "The white desk with two monitors on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "monitors"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 13,
+        "caption": "Choose the picture closes to the red cabinet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "red cabinet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 12,
+        "caption": "This picture is closest to the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 6,
+        "caption": "The smaller table, colored brown, with the backpack on it.",
+        "parsed_query": {
+            "Target": "smaller table",
+            "Anchor": [
+                "brown",
+                "backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 2,
+        "caption": "monitor on the left side of the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 6,
+        "caption": "the shorter brown desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "choose the chair at the desk by itself.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 6,
+        "caption": "It is the brown table with a bag on it.",
+        "parsed_query": {
+            "Target": "brown table",
+            "Anchor": "bag"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 13,
+        "caption": "The picture furthest away from windows",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "If facing the window, you will see two white desks to your left and one brown desk to your right. Find the chair underneath the brown one.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown desk"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 2,
+        "caption": "The computer farthest from the windows.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 8,
+        "caption": "the chair on the right-hand side closest to the window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "right-hand side",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 13,
+        "caption": "Looking at the white desk with two computers on it, you are looking for the computer on the left side of the wall above the desk.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "white desk",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 5,
+        "caption": "the table closest to the red wall",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "red wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 7,
+        "caption": "Of the two chairs next to each other, choose the left one.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 12,
+        "caption": "The picture closest to the window",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 13,
+        "caption": "It is the picture on the left, furthest from the windows.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "left",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 1,
+        "caption": "when facing the wall with 2 pictures, the monitor is on the right, closest to the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "2 pictures",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "Chair under brown desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 1,
+        "caption": "It is the monitor on the right, closest to the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 7,
+        "caption": "The computer chair closest to the red wall",
+        "parsed_query": {
+            "Target": "computer chair",
+            "Anchor": [
+                "red wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 13,
+        "caption": "picture farthest from the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 13,
+        "caption": "Find the picture that is closer to the red wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "red wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 2,
+        "caption": "The black monitor on the left, when facing the monitors.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 5,
+        "caption": "It's the long white table with computers on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "long"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 6,
+        "caption": "The desk with no monitors on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 12,
+        "caption": "While facing the desk that has two computer monitors on it, it is the picture on the wall above the monitor on the right hand side, closest to the window",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "desk",
+                "monitor",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 2,
+        "caption": "The monitor is on the left when facing the table",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 2,
+        "caption": "Facing the monitors on the desk, you need to select the monitor on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitors",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 1,
+        "caption": "The black monitor on the right, when facing the monitors.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 8,
+        "caption": "While facing the desk with the 2 computer monitors on it, it is the chair on the right hand side of the desk, closest to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 1,
+        "caption": "The monitor by the window on the right hand side.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "right hand side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 6,
+        "caption": "This table has a larger screen on top of it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 12,
+        "caption": "the right picture looking at them",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 5,
+        "caption": "The table is white with two monitors on it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 5,
+        "caption": "it is the white table with the two monitors on it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 1,
+        "caption": "The monitor that is next to the windows",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 7,
+        "caption": "The chair nearest the red wall with the sockets on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red wall",
+                "sockets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 13,
+        "caption": "It is the painting on the left, if you are looking at the wall with the paintings.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "wall",
+                "paintings"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 12,
+        "caption": "The picture closest to the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 7,
+        "caption": "Facing the white desk with computers, it's the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 1,
+        "caption": "The computer monitor the is closest to the windows.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 12,
+        "caption": "The picture closest to the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 8,
+        "caption": "of the two chairs next to each other at the white desk, the chair closest to the wall and windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "white desk",
+                "wall",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 6,
+        "caption": "The wooden table and not the white option",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": [
+                "white",
+                "option"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 8,
+        "caption": "The chair in front of the monitor by the window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "monitor",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "When standing in the middle of the room facing the windows, the correct chair is on the right, next to the desk with the backpack.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "desk",
+                "backpack"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "chair with the bag on the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 8,
+        "caption": "The chair at the white table closer to the window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white table",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 2,
+        "caption": "If you are looking straight at the wall with two computers, it is the computer on your left that is the computer  you are looking for.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "wall",
+                "two computers"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 5,
+        "caption": "The white table with two monitors",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": [
+                "two monitors"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 2,
+        "caption": "The monitor further from the window on the left of the table",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "left",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "The chair next to a blue and black back pack",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "back pack"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 12,
+        "caption": "The correct picture is closer to the windows.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 7,
+        "caption": "The chair closest to the red wall. It's paired with another, and it's the one on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red wall",
+                "another",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "The chair that is alone under the smaller tan table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "smaller tan table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": 9,
+        "caption": "The single chair at the brown desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown desk"
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

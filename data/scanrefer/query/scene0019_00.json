@@ -1,0 +1,79 @@
+[
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there are six brown arm chairs stacked against the white wall. they are next to two black chairs and a black couch. it appears  to be leather. it is the brown chair on the top row in the middle.",
+        "parsed_query": {
+            "Target": "brown arm chair",
+            "Anchor": [
+                "white wall",
+                "black chairs",
+                "black couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "there are two black chairs situated between six brown chairs and a black couch. this black chair is next to the black couch. it appears to be leather. it is black. there is a snack machine on the opposite wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "six brown chairs",
+                "black couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this black chair appears to be leather. there is another black leather chair next to it. this black chair is next to the black sofa. the other black chair is next to six brown chairs. there is a snack machine on the opposite wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "black sofa",
+                "six brown chairs",
+                "opposite wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "it is a tall floor  lamp with a white shade. it is next to the snack machine. it is behind the doorway. it is also next to the white wall and it is in the corner.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "snack machine",
+                "doorway",
+                "white wall",
+                "corner"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "9",
+        "target_name": "vending_machine",
+        "caption": "it is next to the tall floor lamp. it is a snack machine and it is full of tasty snacks. it is over by the door. the floor lamp next to it is in the corner of  the room. the machine is tall and brown. it has a glass front.",
+        "parsed_query": {
+            "Target": "snack machine",
+            "Anchor": [
+                "tall floor lamp",
+                "door",
+                "floor lamp",
+                "machine",
+                "machine"
+            ]
+        },
+        "unique": true
+    }
+]

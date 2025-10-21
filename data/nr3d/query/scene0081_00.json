@@ -1,0 +1,700 @@
+[
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 0,
+        "caption": "The couch along the wall and on the left hand side of the other couches, when you are facing the group of couches",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "other couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 8,
+        "caption": "looking at the couches head on choose the last on the right that is directly behind the red ottoman.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "red ottoman"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 8,
+        "caption": "This tiny section of couch is on the far right.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 8,
+        "caption": "the tiny portion of the couch with a red ottoman and table next to it",
+        "parsed_query": {
+            "Target": "portion of the couch",
+            "Anchor": [
+                "red ottoman",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 8,
+        "caption": "The small blue couch that is on the end.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "end"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 7,
+        "caption": "Choose the couch that is across the corner and in between the other two.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "corner",
+                "two"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 7,
+        "caption": "Please select the corner blue bench",
+        "parsed_query": {
+            "Target": "corner blue bench",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 7,
+        "caption": "Middle of the 3 couches.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "couch",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 7,
+        "caption": "Middle part of couch, seams end in between the 2 beige cocktail tables",
+        "parsed_query": {
+            "Target": "middle part of couch",
+            "Anchor": [
+                "beige cocktail tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 0,
+        "caption": "Standing in the middle of the room, it is the long couch on the left.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "standing in the middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 0,
+        "caption": "When facing the couches, it's the couch on the left.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "couches"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 0,
+        "caption": "Please select the left most blue long bench.",
+        "parsed_query": {
+            "Target": "left most blue long bench",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 8,
+        "caption": "the smallest section of the couch on the right",
+        "parsed_query": {
+            "Target": "smallest section of the couch",
+            "Anchor": "couch"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 7,
+        "caption": "Of he three couches, choose the one in the corner and middle of the other two.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 0,
+        "caption": "the left long part of the couch",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "left",
+                "long part"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 6,
+        "caption": "This is the middle of the 3 tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 1,
+        "caption": "Choose the red ottoman that is at the end of the couches not in the middle.",
+        "parsed_query": {
+            "Target": "red ottoman",
+            "Anchor": [
+                "couches"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 5,
+        "caption": "When sitting at the booth, the table that has the red square footrest/seat to its left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "booth",
+                "red square footrest/seat"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 4,
+        "caption": "The table WITHOUT a maroon hassock next to it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "maroon hassock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 5,
+        "caption": "the table at the very end of the couch",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 6,
+        "caption": "The table in the middle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 2,
+        "caption": "The ottoman closer to a table.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 6,
+        "caption": "that table in the middle",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 4,
+        "caption": "Standing in the middle of the room looking at the tables it's the table on the left, the one without a stool",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 1,
+        "caption": "red chair at the end of the couch/bench",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": [
+                "couch",
+                "bench"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 6,
+        "caption": "Select the middle table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 1,
+        "caption": "the ottoman that is not between the two table",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 5,
+        "caption": "The table at the end of the seats with a square red stool to its right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "seats",
+                "red stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 2,
+        "caption": "The box ottoman that is near the middle table",
+        "parsed_query": {
+            "Target": "box ottoman",
+            "Anchor": [
+                "middle table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 2,
+        "caption": "the middle table maroon ottoman",
+        "parsed_query": {
+            "Target": "maroon ottoman",
+            "Anchor": "middle table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 2,
+        "caption": "The correct ottoman is in the middle of the bench, NOT at the end of it.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "bench"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 5,
+        "caption": "Find the table on the far right of the bench seat.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bench seat"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 4,
+        "caption": "The table without a red cube next to it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red cube"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 1,
+        "caption": "The ottoman that is not by the middle table.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "middle table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 5,
+        "caption": "table at the end of the couch right next to a red bin.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couch",
+                "red bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 4,
+        "caption": "the chair that is not near a burgundy object",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 1,
+        "caption": "ottoman in the corner",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 2,
+        "caption": "The ottoman that is partially under the middle table.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "middle table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 4,
+        "caption": "if looking at the tables from in front of the bench, the far left table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bench"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 5,
+        "caption": "Standing in front of all three tables, the table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 1,
+        "caption": "Choose the ottoman that is tucked up underneath the round table in the center of the seating area.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "round table",
+                "seating area"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 4,
+        "caption": "If you are facing al three tables the one one the left, the one that does not have a red food rest",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "right"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 6,
+        "caption": "When facing the couches it is the table that is in the middle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 2,
+        "caption": "While standing in front of the long blue sofa, choose the red ottoman  that is underneath the middle table.",
+        "parsed_query": {
+            "Target": "red ottoman",
+            "Anchor": [
+                "long blue sofa",
+                "middle table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 6,
+        "caption": "it is the table in the middle",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 2,
+        "caption": "ottoman directly under a table",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 4,
+        "caption": "Facing the tables, the table on the far left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "tables"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 6,
+        "caption": "The table that is in the center of the group of 3 tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "group of 3 tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 5,
+        "caption": "round table near the end of the couch",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 0,
+        "caption": "The long/straight section of the couch.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 8,
+        "caption": "This is a huge sectional couch. You want the very small portion of the seating for one that is behind the table and the red ottoman",
+        "parsed_query": {
+            "Target": "small portion of the seating for one",
+            "Anchor": [
+                "table",
+                "red ottoman"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 7,
+        "caption": "The two-seater (loveseat size) in the middle.",
+        "parsed_query": {
+            "Target": "two-seater",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 1,
+        "caption": "The correct ottoman is at the end the bench, not the middle.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "bench"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 7,
+        "caption": "The middle couch that is medium sized",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "medium sized",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 0,
+        "caption": "The long couch on the left.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "left"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": 8,
+        "caption": "It's the shortest section of couch on the right side if you're facing the front of the sectional couch.  It has a table directly in front of it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "sectional couch",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

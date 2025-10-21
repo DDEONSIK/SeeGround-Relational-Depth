@@ -1,0 +1,68 @@
+[
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "13",
+        "target_name": "poster_printer",
+        "caption": "the poster printer occupies the rightmost wall. there are other machinery or equipment to the left of it alongside both walls.",
+        "parsed_query": {
+            "Target": "poster printer",
+            "Anchor": "rightmost wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trash can is green, and located in front of the control panel on the left wall. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "control panel",
+                "left wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table has a roll of blue masking tape atop the right side of it. the table has a table to the right of it.",
+        "parsed_query": {
+            "Target": "blue masking tape",
+            "Anchor": [
+                "table",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is one of two tables against the wall. it is the one on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is one of two tables. it is to the right of the table that has the blue tape atop it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table that has the blue tape atop it"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "19",
+        "target_name": "armchair",
+        "caption": "a gray cotton arm chair. in the corner of the room.",
+        "parsed_query": {
+            "Target": "gray cotton arm chair",
+            "Anchor": "corner of the room"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "14",
+        "target_name": "wardrobe_closet",
+        "caption": "a white wooden cabinet. on the right to the bed.",
+        "parsed_query": {
+            "Target": "white wooden cabinet",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a white wooden small table. on the right to the arm chair.",
+        "parsed_query": {
+            "Target": "a white wooden small table.",
+            "Anchor": [
+                "right",
+                "arm chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a white wooden table. between the chair and bed.",
+        "parsed_query": {
+            "Target": "white wooden table",
+            "Anchor": [
+                "chair",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "25",
+        "target_name": "shelf",
+        "caption": "a white wooden shelf. on the side of the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "side of the wall"
+            ]
+        },
+        "unique": false
+    }
+]

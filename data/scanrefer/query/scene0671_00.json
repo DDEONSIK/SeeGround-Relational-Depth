@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a beige chair. it has a red backpack hanging from it.",
+        "parsed_query": {
+            "Target": "red backpack",
+            "Anchor": [
+                "beige chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a beige chair. it is to the right of a red backpack.",
+        "parsed_query": {
+            "Target": "beige chair",
+            "Anchor": [
+                "red backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "20",
+        "target_name": "cart",
+        "caption": "there is a rectangular brown cart. it is next to a brown cabinet.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "brown cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is beige chair. it is next to a chair with a red backpack.",
+        "parsed_query": {
+            "Target": "beige chair",
+            "Anchor": [
+                "chair",
+                "red backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is in front of a gray table and right of another pillow.",
+        "parsed_query": {
+            "Target": "rectangular pillow",
+            "Anchor": [
+                "gray table",
+                "pillow"
+            ]
+        },
+        "unique": false
+    }
+]

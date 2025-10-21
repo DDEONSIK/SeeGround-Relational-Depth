@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0146_00",
+        "target_id": "16",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is below the grab bar. it is also to the left of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "grab bar",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": "12",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is black in color. it is to the right of the mirror.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "mirror"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "the sink is white in color. it is below and to the left of the black soap dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "black soap dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": "12",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is rectangular in shape. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trash can is made of silver metal. it is to the left of the grab bar.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "grab bar"
+            ]
+        },
+        "unique": true
+    }
+]

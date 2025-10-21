@@ -1,0 +1,167 @@
+[
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 21,
+        "caption": "Facing the white board the rightmost chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 19,
+        "caption": "Black chair nearest to the whiteboard",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 21,
+        "caption": "It is the chair at the large table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "large table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 19,
+        "caption": "Box in corner of the room",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 19,
+        "caption": "the chair next to the red chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 19,
+        "caption": "It is a white chair that is not at the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 21,
+        "caption": "The chair at the end of the table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 21,
+        "caption": "Pushed in red chair at the white board",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": "white board"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 21,
+        "caption": "the red chair at the head of the table",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": "head of the table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 19,
+        "caption": "Please choose the gray chair that is facing the whiteboard.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 21,
+        "caption": "The chair at the end of the table below the white board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 19,
+        "caption": "The chair not near the table. The chair nearest the white board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 19,
+        "caption": "The chair closest to the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": 21,
+        "caption": "It is the chair at the big table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "big table"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

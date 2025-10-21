@@ -1,0 +1,653 @@
+[
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 3,
+        "caption": "This shelf is at the end of the row that's between a gray and purple floor stripe.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "gray floor stripe",
+                "purple floor stripe"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 0,
+        "caption": "The large bookshelf that looks like 4 different shelves and takes up most of the wall",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 17,
+        "caption": "The table to the right that is touching the green carpet",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green carpet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 16,
+        "caption": "Facing the back wall of books, it is the table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "back wall of books"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 0,
+        "caption": "face the corner that makes a ninety degree angle choose the right shelf",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 106,
+        "caption": "Fourth bookcase in on the back wall",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "back wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 1,
+        "caption": "Choose the bookcase that is in the corner next to the long set of shelves.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "corner",
+                "long set of shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 16,
+        "caption": "If you are standing in the middle aisle of the bookstore, the two shorter bookshelfs will be on either side of you. A large bookshelf that's against a wall will be either in front of you or behind you. If standing so that it is behind you, you will see two tables in front of you containing books. Find the one on the left.",
+        "parsed_query": {
+            "Target": "left book on the left table",
+            "Anchor": [
+                "middle aisle",
+                "bookstore",
+                "shorter bookshelf",
+                "wall",
+                "table",
+                "two tables",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "The short bookshelf near the larger one.",
+        "parsed_query": {
+            "Target": "short bookshelf",
+            "Anchor": [
+                "larger one"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "A small bookshelf on top of dark gray/black flooring.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "dark gray/black flooring"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 106,
+        "caption": "There is one wall of books that at a unique angle. Go to the end of that wall that is closest to the two small tables containing books. Find the bookshelf against the angled wall that is just to the left of the furthest right bookshelf.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "two small tables",
+                "furthest right bookshelf",
+                "angled wall",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 3,
+        "caption": "The shelf, from above, that is on orange AND grey carpet in the middle of the room",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "orange AND grey carpet",
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "Facing the largest bookshelf, the bookshelf in the lower right corner.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "largest bookshelf",
+                "lower right corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 1,
+        "caption": "the book shelf in the back corner of the 3 bookshelf row",
+        "parsed_query": {
+            "Target": "book shelf",
+            "Anchor": [
+                "3 bookshelf row",
+                "back corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 16,
+        "caption": "The correct table is sitting on a dark grey and light grey carpet. It is NOT sitting on the green carpet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "dark grey and light grey carpet",
+                "green carpet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 1,
+        "caption": "The correct bookshelf is against the wall and has only green carpet underneith it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "wall",
+                "green carpet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 0,
+        "caption": "four columns of bookshelves",
+        "parsed_query": {
+            "Target": "bookshelves",
+            "Anchor": [
+                "four columns"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 106,
+        "caption": "The correct bookshelf is the large one that is on the curved wall. It has five shelves that make it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "large bookshelf",
+                "curved wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 0,
+        "caption": "You are looking for the large book case on the wall, at the end of the rows of books.",
+        "parsed_query": {
+            "Target": "large book case",
+            "Anchor": [
+                "wall",
+                "end of rows of books"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 17,
+        "caption": "When standing in the aisle, it's the smaller table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "aisle"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 106,
+        "caption": "Along the wall with five shelves, it's the second from the right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "the small shelf on the end cap near the orange and grey carpet but not ON it - only on green",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "end cap",
+                "green"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 106,
+        "caption": "The correct bookshelf is on the curved wall.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "curved wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 16,
+        "caption": "table closer to the slanted shelves",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "slanted shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "CHoose the end cap shelf of books of the shelf in the middle of the room, nearest the wall with five bookcases.",
+        "parsed_query": {
+            "Target": "end cap shelf of books",
+            "Anchor": [
+                "shelf",
+                "middle of the room",
+                "wall with five bookcases"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 1,
+        "caption": "Find the box with the LONGEST set of bookcases, then choose the smaller one in the corner next to it on the left.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "LONGEST",
+                "smaller one",
+                "corner",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 16,
+        "caption": "When facing the two tables, its the one on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "The small bookcase at the end of the row of bookcases that are on the darkest part of the carpet.",
+        "parsed_query": {
+            "Target": "small bookcase",
+            "Anchor": [
+                "row of bookcases",
+                "darkest part of the carpet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 3,
+        "caption": "The bookshelf you want to pick is on the end of the middle bookshelves, next to the shorter strip of orange carpet",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "middle bookshelves",
+                "orange carpet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 0,
+        "caption": "the longest bookshelf",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 17,
+        "caption": "Find the table at the end of the room and it is on the green part of the carpet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green part of the carpet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 3,
+        "caption": "The bookshelf is large and lined across the different colors of carpet",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 17,
+        "caption": "Standing in the middle of the room this table is on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "It is one of the two isolated bookcases in the centre of the room.  If you are standing in between those two bookcases, it is the bookcase furthest from the room corner which contains two bookcases side by side.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "room corner",
+                "two bookcases side by side"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 3,
+        "caption": "The bookshelf that is smaller, and on the end of one of the \"aisles\" of bookshelves. It is an endcap,",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelves",
+                "aisles"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 1,
+        "caption": "This shelf is in the corner of the room, and it is NOT a large wall section",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "corner of the room",
+                "large wall section"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 106,
+        "caption": "This is the angled bookshelf far away from the corner of bookshelfs",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "corner"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 17,
+        "caption": "When facing the two tables choose the one on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 17,
+        "caption": "Looking for a table, it has two orange books on his upper shelf,  its also the furthest table from the kiddy corner book shelves.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "orange books",
+                "kiddy corner book shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 0,
+        "caption": "The largest of the bookshelves.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 106,
+        "caption": "the bookshelf where the brownish-orange color in the rug looks like it's edge is under the bookshelf",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "rug"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 3,
+        "caption": "There are 2 bookshelfs not on the wall, I am the one on the right when looking at both book cases",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 1,
+        "caption": "The book shelf next to the largest bookshelf.",
+        "parsed_query": {
+            "Target": "book shelf",
+            "Anchor": "largest bookshelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 16,
+        "caption": "facing the tables, left",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 17,
+        "caption": "The table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 3,
+        "caption": "The small bookshelf, on the endcap of the shelves in the middle of the room (on the orange carpet)",
+        "parsed_query": {
+            "Target": "small bookshelf",
+            "Anchor": [
+                "shelves",
+                "orange carpet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 2,
+        "caption": "the small book shelf that is a the end, on the site of the chairs of sofa, on the side of the open space",
+        "parsed_query": {
+            "Target": "small book shelf",
+            "Anchor": [
+                "end",
+                "site of the chairs of sofa",
+                "side of the open space"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 16,
+        "caption": "Look for the table that is on top of the gray part of the carpet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "gray part of the carpet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 0,
+        "caption": "The four bookshelf case at the very back.",
+        "parsed_query": {
+            "Target": "four bookshelf case",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": 1,
+        "caption": "When standing in the room, facing the bookshelves in the corner, the correct one is to the left of the corner.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelves",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

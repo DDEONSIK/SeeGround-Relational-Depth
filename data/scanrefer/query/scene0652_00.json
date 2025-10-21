@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0652_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "a white pillow. on the bed next to window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": "13",
+        "target_name": "pillow",
+        "caption": "a white pillow. next to the black pillow.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "black pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": "12",
+        "target_name": "pillow",
+        "caption": "a white pillow. beside the black pillow.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "black pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": "25",
+        "target_name": "tv",
+        "caption": "a black tv. hanging on the wall next to the shelf.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": "7",
+        "target_name": "nightstand",
+        "caption": "this is a bed nightstand. it is near the head of the bed on the left side of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed head",
+                "left side of the bed"
+            ]
+        },
+        "unique": true
+    }
+]

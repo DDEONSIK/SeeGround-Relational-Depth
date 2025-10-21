@@ -1,0 +1,156 @@
+[
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 2,
+        "caption": "Its the door with a wood desk to its right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wood desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 13,
+        "caption": "select the door nearest the bed",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 13,
+        "caption": "door parallel to bed",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 13,
+        "caption": "This door is closer to the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 13,
+        "caption": "The smaller door of the two.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 2,
+        "caption": "White door nearest to desk",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 13,
+        "caption": "in front of the bed",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 2,
+        "caption": "The door closest to the brown desk",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "brown desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 2,
+        "caption": "The door closest to the desk",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 2,
+        "caption": "The door that is to the immediate left of the desk",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 13,
+        "caption": "The door directly across from the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 2,
+        "caption": "Choose the large white open door next to the desk.",
+        "parsed_query": {
+            "Target": "large white open door",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 13,
+        "caption": "click the small door",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": 2,
+        "caption": "The white door in the bottom center.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,720 @@
+[
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 11,
+        "caption": "The foremost pillow on the bed of the group of pillows",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 12,
+        "caption": "When standing at the foot of the bed, the pillow in the middle on the left hand side",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "left hand side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 11,
+        "caption": "The gray pillow in front of all the other pillows",
+        "parsed_query": {
+            "Target": "gray pillow",
+            "Anchor": [
+                "pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 11,
+        "caption": "choose the grey pillow in front of all the other pillows on the bed",
+        "parsed_query": {
+            "Target": "grey pillow",
+            "Anchor": [
+                "pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 11,
+        "caption": "Facing the double bed, please find the first pillow from the end of the bed",
+        "parsed_query": {
+            "Target": "first pillow",
+            "Anchor": [
+                "double bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 14,
+        "caption": "back pillow on the right while standing at the foot of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "foot of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 14,
+        "caption": "Facing foot of bed, it's the upper right pillow, against headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "foot of bed",
+                "headboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 14,
+        "caption": "If you are facing the bed, it is the pillow in the back, on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 14,
+        "caption": "The pillow on the bed that is on the back right",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "back right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 12,
+        "caption": "There are 2 groupings of pillows in this room; one by itself, ignore this one, and a grouping of five at the top of the bed. In this grouping are 2 next to the wall, 2 in the middle, and then 1 in front farthest from the wall. Looking at the bed towards the wall, look at the 2 pillows in the middle, choose the left pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 12,
+        "caption": "The white pillow to the left and just behind the grey front pillow",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "grey front pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 12,
+        "caption": "Standing at the foot of the bed looking at the head of the bed, it's the pillow in the middle on the left side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "head of bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 17,
+        "caption": "The pillow that is by itself on the small couch next to the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "small couch",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 17,
+        "caption": "Select the white pillow on the dark colored bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 17,
+        "caption": "The only pillow that isn't on the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 17,
+        "caption": "choose the one pillow box selection that is by itself",
+        "parsed_query": {
+            "Target": "pillow box selection",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 15,
+        "caption": "From the foot of the bed its the pillow on the far back on the left",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "foot of the bed",
+                "far back on the left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 15,
+        "caption": "the left back pillow while standing at the foot of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 15,
+        "caption": "Facing bed, it's the furthest back left-hand white pillow [under other white pillow].",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "bed",
+                "under other white pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 15,
+        "caption": "From the foot of the bed, it's the pillow on the left in the far back.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "foot of the bed",
+                "far back"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 13,
+        "caption": "If you are standing at the foot of the bed, facing the bed, it is the front pillow on the right hand side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "foot of the bed",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 13,
+        "caption": "Facing bed, this pillow is on the right and closest to you.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 13,
+        "caption": "Standing at the foot of the bed, there are five pillows. Select the one in front of the others on the right side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 13,
+        "caption": "Facing bed, it's the bottom pillow on the right.  Not the middle pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 12,
+        "caption": "On the bed, you want the option in the middle left while standing at the foot of the bed",
+        "parsed_query": {
+            "Target": "option",
+            "Anchor": [
+                "bed",
+                "foot of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 13,
+        "caption": "If you are facing the bed, it is the pillow on the far bottom right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 15,
+        "caption": "Standing at the foot of the bed, the pillow is against the headboard in the back, on the left side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "headboard",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 17,
+        "caption": "pick the pillow that is NOT in the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 11,
+        "caption": "The darker pillow, farthest to the foot of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 14,
+        "caption": "the back right pillow on the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 16,
+        "caption": "The picture above the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 26,
+        "caption": "if you was sitting on the bed facing the mounted television this object is on the wall to the left of the television",
+        "parsed_query": {
+            "Target": "mounted television",
+            "Anchor": [
+                "bed",
+                "mounted television"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 16,
+        "caption": "This picture is right above the headboard of the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "headboard"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 26,
+        "caption": "The tiny picture frame next to the big mirror above the drawers.",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": [
+                "big mirror",
+                "drawers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 16,
+        "caption": "The picture over the bed",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 26,
+        "caption": "At the foot of the bed, against the wall is a dresser. The object you want is a small picture hanging on the wall above this dresser.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "dresser",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 26,
+        "caption": "the picture above the dressers",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "dressers"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 26,
+        "caption": "The smaller picture across from the bed, hung beside a mirror and above a dark dresser.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed",
+                "mirror",
+                "dresser"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 16,
+        "caption": "The picture above the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 16,
+        "caption": "Large rectangular picture above the headboard of the bed.",
+        "parsed_query": {
+            "Target": "large rectangular picture",
+            "Anchor": "headboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 16,
+        "caption": "the picture directly above the bed",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 16,
+        "caption": "choose the picture above the bed",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 26,
+        "caption": "picture that is NOT above the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 14,
+        "caption": "Face the head of the bed from the foot of it. Choose the pillow the furthest back on your right hand side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "foot of the bed",
+                "right hand side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 12,
+        "caption": "If your looking at the headboard its the pillow on the left between two others.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "headboard",
+                "two others"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 17,
+        "caption": "It is the box that is away from all the others, all by itself.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 13,
+        "caption": "If you are facing the bed and looking toward the pillows, this pillow is the one on the far right side",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 11,
+        "caption": "The correct pillow is on the bed and is in the middle of the others.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillow"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 15,
+        "caption": "Stand at the end of the bed with five pillows. You want the one in the back, on the left",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "end of the bed",
+                "five pillows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 26,
+        "caption": "The picture is above the dresser.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "dresser"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 14,
+        "caption": "Pilliow farthest back on the right of the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 11,
+        "caption": "the closest pillow on the left while looking at the bed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 13,
+        "caption": "The pillow on the right of the second row of pillows, when standing at the foot of the bed with five pillows on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "second row of pillows",
+                "foot of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 17,
+        "caption": "the pillow by itself on the daybed",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "daybed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 15,
+        "caption": "Pillow on left that is up against/touching the baseboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "baseboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0652_00",
+        "target_id": 12,
+        "caption": "Out of the pillows on the bed, you want the option on the left just behind the one in the middle",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "pillow on the left",
+                "pillow in the middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

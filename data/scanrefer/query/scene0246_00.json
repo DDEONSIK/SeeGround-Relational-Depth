@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0246_00",
+        "target_id": "14",
+        "target_name": "curtain",
+        "caption": "this is a red curtain. it is to the left of a table.",
+        "parsed_query": {
+            "Target": "red curtain",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "this is a white dresser. it is across from a lamp.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "lamp"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "this is a white cabinet. it is to the left of a toilet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": "4",
+        "target_name": "lamp",
+        "caption": "this is a lamp with a white lampshade. it is in front of a red curtain.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "red curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0246_00",
+        "target_id": "13",
+        "target_name": "bed",
+        "caption": "this is a white bed. it is to the left of a lamp.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "lamp"
+        },
+        "unique": true
+    }
+]

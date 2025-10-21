@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a brown wooden cotton chair. between the window and bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "3",
+        "target_name": "curtain",
+        "caption": "a zebra design curtain. covering the window.",
+        "parsed_query": {
+            "Target": "zebra design curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "a round glass table. in front of the chair.",
+        "parsed_query": {
+            "Target": "a round glass table",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "a white gray pillow. on the left of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "a white gray sheet. covering the double bed.",
+        "parsed_query": {},
+        "unique": true
+    }
+]

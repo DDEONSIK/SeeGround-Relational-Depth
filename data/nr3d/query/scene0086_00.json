@@ -1,0 +1,1340 @@
+[
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 28,
+        "caption": "The narrower of the two stalls",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 1,
+        "caption": "the largest handicap stall",
+        "parsed_query": {
+            "Target": "handicap stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 1,
+        "caption": "chose the larger bathroom stall on the left that is wheel-chair accessible.",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "left",
+                "wheel-chair accessible"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 1,
+        "caption": "The bigger handicap bathroom stall",
+        "parsed_query": {
+            "Target": "handicap bathroom stall",
+            "Anchor": "handicap bathroom stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 1,
+        "caption": "Please select the large spaced bathroom stall",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "large",
+                "spaced"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 28,
+        "caption": "The smaller bathroom stall.",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 28,
+        "caption": "The smallest bathroom stall",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 28,
+        "caption": "Its the smaller bathroom stall closest to the sinks.",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": "sinks"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 1,
+        "caption": "Choose the larger bathroom stall with the handicapped access.",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "handicapped access"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 28,
+        "caption": "pick the smaller one.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 8,
+        "caption": "The door that is closest to the toilets.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "toilets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 19,
+        "caption": "sink nearest the toilet",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 14,
+        "caption": "a smaller trash can inside the bigger stall",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bigger stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 16,
+        "caption": "middle of the bar directly above the toilet flushing part",
+        "parsed_query": {
+            "Target": "middle of the bar",
+            "Anchor": [
+                "toilet flushing part"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 10,
+        "caption": "The stall to the larger bathroom stall.",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": "bathroom stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 6,
+        "caption": "The toilet is located in the biggest washroom stall",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "biggest washroom stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 7,
+        "caption": "The toilet in the smaller stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "smaller stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 29,
+        "caption": "closest of the sink",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 7,
+        "caption": "The toilet inside the stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 8,
+        "caption": "door across from sinks",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sinks"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 16,
+        "caption": "The rail over the toilet",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 8,
+        "caption": "The door directly across from the sinks and closest to the toilet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "sinks",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 14,
+        "caption": "The can closest to the toiletr.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": "toiletr"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 20,
+        "caption": "It is the sink next to the paper towel dispensers and nearest to the trash can.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "paper towel dispensers",
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 13,
+        "caption": "The metal trash can closest to the exit",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "exit"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 15,
+        "caption": "The rail is under the toilet paper",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet paper"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 17,
+        "caption": "The higher towel dispenser.",
+        "parsed_query": {
+            "Target": "towel dispenser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 19,
+        "caption": "the sink closest to the toilets",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "toilets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 17,
+        "caption": "The black dispenser over the yellow one",
+        "parsed_query": {
+            "Target": "black dispenser",
+            "Anchor": [
+                "yellow one"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 6,
+        "caption": "The toilet in the large ADA bathroom.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "large ADA bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 18,
+        "caption": "The beige, lower one",
+        "parsed_query": {
+            "Target": "beige",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 10,
+        "caption": "The bathroom stall door to the large handicapped stall",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "large handicapped stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 15,
+        "caption": "The correct rail is the one beside the toilet, not the one above it.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 18,
+        "caption": "It is the paper towel dispenser closest to the floor and sink.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "floor",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 16,
+        "caption": "This rail is behind the toilet.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 7,
+        "caption": "The smaller stall in the bathroom",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 9,
+        "caption": "Door with large vent.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "large vent"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 29,
+        "caption": "The door to the small stall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "small stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 9,
+        "caption": "The door that's closest to the wall",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 15,
+        "caption": "This object is silver, under the toilet paper, and used to help you stand up.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "toilet paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 17,
+        "caption": "choose the top paper towel dispenser",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 14,
+        "caption": "The toilet paper dispenser below the paper towel dispenser located in wheelchair accessible stall",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "paper towel dispenser",
+                "wheelchair accessible stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 18,
+        "caption": "Locate the lower paper towel dispenser box.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 8,
+        "caption": "It is the door closest to the toilets.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "toilets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 7,
+        "caption": "The toilet with the seat cover dispenser over it",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "seat cover dispenser"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 7,
+        "caption": "toilet in the smaller stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "smaller stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 15,
+        "caption": "Directly to your left of the toilet",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 15,
+        "caption": "the rail on the wall, under the toilet paper holder",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet paper holder"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 13,
+        "caption": "trash can on the wall in the hand washing/sink area",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "hand washing/sink area",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 13,
+        "caption": "The trash can that is on the wall near the sinks.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 13,
+        "caption": "The correct trash can is closer to the sinks.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 17,
+        "caption": "Choose the object with the plant growing out of it on top of the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "plant",
+                "paper towel dispenser"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 19,
+        "caption": "The sink closest to the toilets",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilets"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 20,
+        "caption": "sink next to the plant",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "plant"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 10,
+        "caption": "the stall door to the disabled bathroom",
+        "parsed_query": {
+            "Target": "stall door",
+            "Anchor": "disabled bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 16,
+        "caption": "the rail above the toilet",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 6,
+        "caption": "It is the toilet in the larger stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "larger stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 7,
+        "caption": "Choose the toilet in the small stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "small stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 20,
+        "caption": "The sink next to the plant and towel dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "plant",
+                "towel dispenser"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 9,
+        "caption": "The door located in the corner",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 10,
+        "caption": "Choose the open door of the handicap stall",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": "handicap stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 10,
+        "caption": "the bathroom stall open to the big/handicap stall stall",
+        "parsed_query": {
+            "Target": "bathroom stall",
+            "Anchor": [
+                "big stall",
+                "handicap stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 9,
+        "caption": "facing the doors, the left one",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "left",
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 20,
+        "caption": "The sink closest to the dispensers.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "dispensers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 17,
+        "caption": "the higher up dispenser",
+        "parsed_query": {
+            "Target": "dispenser",
+            "Anchor": "higher up"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 17,
+        "caption": "Choose the paper towel dispenser that is on top of the other dispenser.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "paper towel dispenser"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 13,
+        "caption": "The correct trash can is on the wall and to the right of a tan paper towel dispenser.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "tan paper towel dispenser"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 18,
+        "caption": "It is the paper towel dispenser that is lower on the wall.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 20,
+        "caption": "The sink closest to the hand dryer",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "hand dryer"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 9,
+        "caption": "This door has a square metal grate on it, not a rectangular one.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "metal grate"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 6,
+        "caption": "Toilet in the larger stall",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "larger stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 29,
+        "caption": "The smaller bathroom stall door, leading to the smaller stall.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "bathroom stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 20,
+        "caption": "This is the sink on the right of the pair of sinks.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 6,
+        "caption": "The toilet in the larger stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "larger stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 8,
+        "caption": "This door has a smaller vent.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 10,
+        "caption": "The stall door that goes into the larger stall",
+        "parsed_query": {
+            "Target": "stall door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 29,
+        "caption": "stall door closest to the sinks",
+        "parsed_query": {
+            "Target": "stall door",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 17,
+        "caption": "The black paper towel dispenser above the white dispenser and to the right of 2 white sinks.",
+        "parsed_query": {
+            "Target": "black paper towel dispenser",
+            "Anchor": [
+                "white dispenser",
+                "2 white sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 19,
+        "caption": "Facing the sinks select the sink on the left.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 7,
+        "caption": "Pick the toilet with the smaller stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 19,
+        "caption": "The sink to the left side if facing both sinks.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 8,
+        "caption": "The door that is closer to the toilet",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 15,
+        "caption": "The rail below the toilet paper holder",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet paper holder"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 6,
+        "caption": "Choose the toilet that is in the bigger stall. Likely the handicap toilet.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bigger stall",
+                "handicap toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 14,
+        "caption": "The trashcan is in with the large stall toilet.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "large stall toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 9,
+        "caption": "Look at the entry way to the left.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 15,
+        "caption": "Select the longest rail (to the left of the toilet)",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 10,
+        "caption": "The bathroom stall door leading to the larger stall",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "larger stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 20,
+        "caption": "the sink closest to the plant and paper towel dispenser",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "plant",
+                "paper towel dispenser"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 9,
+        "caption": "When facing these two doors, choose the one on the LEFT with the larger vent",
+        "parsed_query": {
+            "Target": "vent",
+            "Anchor": [
+                "doors",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 16,
+        "caption": "small horizontal rail above toilet",
+        "parsed_query": {
+            "Target": "small rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 16,
+        "caption": "Select the rail directly above the toilet.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 8,
+        "caption": "iit is the door closest to the toilet stalls",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "toilet stalls"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 18,
+        "caption": "The towel dispenser on the bottom",
+        "parsed_query": {
+            "Target": "towel dispenser",
+            "Anchor": "bottom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 19,
+        "caption": "Face the sinks.  The sink you want is the one on the left, closest to the bathroom stall",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "bathroom stall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 14,
+        "caption": "trash can next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 13,
+        "caption": "The trash can near the sinks.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "sinks"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 29,
+        "caption": "The stall door that is open inward and is closest to the 2 wall sinks.",
+        "parsed_query": {
+            "Target": "stall door",
+            "Anchor": [
+                "2 wall sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 16,
+        "caption": "the rail directly above the toilet",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 13,
+        "caption": "trash can in the room with the sinks",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 18,
+        "caption": "Of the two paper towel dispensers on the wall, the bottom one.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "wall",
+                "bottom"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 29,
+        "caption": "The bathroom stall door closest to the sink",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 14,
+        "caption": "it is the trash can next to the toilet",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 18,
+        "caption": "paper towel dispensers, the white one underneath.",
+        "parsed_query": {
+            "Target": "paper towel dispensers",
+            "Anchor": "white dispensers"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 28,
+        "caption": "NOT the bigger handicapped stall.",
+        "parsed_query": {
+            "Target": "handicapped stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 1,
+        "caption": "the handicapped stall",
+        "parsed_query": {
+            "Target": "handicapped stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 6,
+        "caption": "toilet in the larger stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "larger stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 29,
+        "caption": "The bathroom stall door closest to the two white sinks",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "two white sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 19,
+        "caption": "The correct sink is closer to the plant and hand dryer.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "plant",
+                "hand dryer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 14,
+        "caption": "The towel under the towel rail.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "towel rail"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 1,
+        "caption": "The big handicap bathroom stall",
+        "parsed_query": {
+            "Target": "handicap bathroom stall",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": 28,
+        "caption": "The middle of bathroom, you want the stall near the sinks",
+        "parsed_query": {
+            "Target": "stall",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

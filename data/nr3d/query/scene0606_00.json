@@ -1,0 +1,985 @@
+[
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 29,
+        "caption": "The chair in the dark side of the room seated at the long side of the table. Also has the most clutter on its side",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dark side of the room",
+                "long side of the table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 28,
+        "caption": "the chair closest to the clock on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 27,
+        "caption": "The chair closest to the big 12 on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "big 12"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 20,
+        "caption": "The correct plant is right next to a  wall clock",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "wall clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 13,
+        "caption": "This plant sits on the counter and is flanked by pictures.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "counter",
+                "pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 29,
+        "caption": "chair at the table that faces the window and clock",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 23,
+        "caption": "the sofa chair on the left-hand side",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "left-hand side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 20,
+        "caption": "face the clock and then look to the left at the plant.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 4,
+        "caption": "The chair closest to the window and counter full of food",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "counter full of food"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 13,
+        "caption": "The plant in the corner of the room next to the big number 12 on the wall.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "corner of the room",
+                "big number 12 on the wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 21,
+        "caption": "the chair is closest to the clock",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 32,
+        "caption": "When standing in the middle of the room facing the bins, the correct one is on the top left.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 20,
+        "caption": "The correct plant is closer to the clock on the wall.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 20,
+        "caption": "The big plant next to the clock.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 21,
+        "caption": "This chair is closer to the wall clock.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall clock"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 28,
+        "caption": "Chair with it's back to the clock",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 28,
+        "caption": "on the corner",
+        "parsed_query": {
+            "Target": "corner",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 27,
+        "caption": "when facing behind the chairs, the leftmost chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 31,
+        "caption": "the storage bin closest to the clock (in the front)",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 31,
+        "caption": "the bin on the left touching the floor",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 32,
+        "caption": "select the box on top of the other one",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "box"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 29,
+        "caption": "Choose the chair furthest away from the kitchen counter.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "kitchen counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 23,
+        "caption": "The box farthest away from the round clock on the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "round clock",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 27,
+        "caption": "The chair closest to the window near the #12 poster",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 30,
+        "caption": "The storage bin closest to the window",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 21,
+        "caption": "chair closest to the clock on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 20,
+        "caption": "the plant nearest the clock",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 27,
+        "caption": "If you find the wall with the big 12 on it, this is the chair on the same side of the table as that wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "dining table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 21,
+        "caption": "The sofa chair closer to the wall clock",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "wall clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 29,
+        "caption": "Choose the black splotch on the wall directly across from the big clock.",
+        "parsed_query": {
+            "Target": "black splotch",
+            "Anchor": [
+                "big clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 23,
+        "caption": "the sofa chair farthest from the windows",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 4,
+        "caption": "The chair closest to the food on the counter",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "food",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 4,
+        "caption": "chair nearest the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 13,
+        "caption": "the plant closest to the number 12",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "number 12"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 30,
+        "caption": "The lower right storage",
+        "parsed_query": {
+            "Target": "storage",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 21,
+        "caption": "sofa chair closest to the wall clock",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "wall clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 4,
+        "caption": "The chair closest to the food on the counter",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "food on the counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 29,
+        "caption": "the chair farthest away from the messy counter with food on it, farthest away from the bright window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "messy counter with food on it",
+                "bright window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 23,
+        "caption": "If the clock is on the right wall this sofa chair is furthest to the left.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "clock",
+                "right wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 21,
+        "caption": "Turn so you back is towards the large number twelve on the wall and it's the sofa chair ahead below the large clock.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "large number twelve",
+                "large clock"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 23,
+        "caption": "if you face the 2 sofas from inside the room, the sofa chair you're looking for is on the left",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "soufa",
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 13,
+        "caption": "The plant that is next to the number 12.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "number 12"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 31,
+        "caption": "The storage bin directly under the clock and on the bottom of the stack.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "clock",
+                "bottom of the stack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 28,
+        "caption": "chair closest to the clock on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 31,
+        "caption": "If you face the storage bins under the clock choose the one on the left that is under the smaller bin.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "clock",
+                "smaller bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 28,
+        "caption": "The chair nearest the clock on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 30,
+        "caption": "from the middle of the room the bottom bin on the right",
+        "parsed_query": {
+            "Target": "bottom bin",
+            "Anchor": [
+                "middle of the room",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 13,
+        "caption": "It is the plant next to the number 12.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "number 12"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 32,
+        "caption": "When looking at the three storage bins, it is the highest, on top of the other two, and closest to the clock on the wall.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "storage bin",
+                "clock",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 28,
+        "caption": "The chair closest to the clock.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "clock"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 23,
+        "caption": "The chair farthest from the clock.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 28,
+        "caption": "The chair close left when entering the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 32,
+        "caption": "CHOOSE THE STORAGE BIN THAT IS SITTING ON THE TOP OF THE OTHER STORAGE BIN THIS BIN IS ALSO THE SMALLER BIN",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "storage bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 30,
+        "caption": "When facing the clock the storage bin is on the right side.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": "clock"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 4,
+        "caption": "looking at the 12 poster, the chair in the 9 o'clock position",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 30,
+        "caption": "The right storage bin on the floor under the clock.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "clock",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 27,
+        "caption": "the the chair closest to the number 12 on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "number 12",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 32,
+        "caption": "you are looking for a storage bin.  First located the clock on the wall.  Below it you will see a  microwave and a toaster oven.   directly below the middle of those two items in the top storage bin.  Select that item.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "clock",
+                "microwave",
+                "toaster oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 32,
+        "caption": "The storage bin that is on top of another storage bin",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "storage bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 4,
+        "caption": "The chair you want is the one that is closest to the window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 27,
+        "caption": "This chair is closest to the glass doors.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "glass doors"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 4,
+        "caption": "It's the chair on the right, on the same side of the table as the clock, but not on the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 13,
+        "caption": "This plant is next to the big flag or sign displaying the number 12.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "big flag",
+                "sign displaying the number 12"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 21,
+        "caption": "The sofa chair closest to the clock above the counter.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "clock",
+                "counter"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 23,
+        "caption": "the chair farthest away from the clock on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 20,
+        "caption": "The larger of the two plants.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 27,
+        "caption": "Choose the chair that is sitting at the short end of the table and closest to the large number 12 hanging on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "large number 12"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 31,
+        "caption": "The bin that is on the bottom of two stacked bins.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "stacked bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 31,
+        "caption": "standing in the middle of the room looking at the 3 storage boxes under the clock it's the one on the left on the bottom.",
+        "parsed_query": {
+            "Target": "storage box",
+            "Anchor": [
+                "3 storage boxes",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 31,
+        "caption": "The lower bin of the two stacked bins.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "two stacked bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 30,
+        "caption": "The storage bins are under the big round clock and if you are standing in front of them you want to pick the bins on the right.",
+        "parsed_query": {
+            "Target": "storage bins",
+            "Anchor": [
+                "big round clock",
+                "front of them"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 29,
+        "caption": "If you look at number 12 on the wall, it's the chair that is farthest on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "number 12",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 20,
+        "caption": "The larger of the plants.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 29,
+        "caption": "If you stand at the front door, I am the chair on the left next to the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "front door",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 32,
+        "caption": "The storage bin is on top of the other ones.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "storage bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 30,
+        "caption": "the storage bin closest to the food on the counter.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "food",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": 13,
+        "caption": "The object you are looking for is a plant. The plant is sitting on a cabinet next to the number '12'.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    }
+]

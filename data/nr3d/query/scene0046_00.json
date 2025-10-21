@@ -1,0 +1,590 @@
+[
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 21,
+        "caption": "This door is blue and does not lead to a bathroom.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 18,
+        "caption": "The backpack next to the desk with a laptop on it.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 18,
+        "caption": "Backpack beside the blue cushion wicker chair",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "blue cushion wicker chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 50,
+        "caption": "The backpack on the floor near the door of the room.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 52,
+        "caption": "It is the backpack at the foot of the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 26,
+        "caption": "The door to the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 18,
+        "caption": "bag nearest computer",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "computer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 49,
+        "caption": "The shoes furthest from the door and closest to the window.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 52,
+        "caption": "Find the backpack that is near the foot of the bed and in front of the tall cabinet.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "foot of the bed",
+                "tall cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 49,
+        "caption": "choose the shoes on the floor to the left of the desk and in front of the chair by the desk.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "desk",
+                "chair",
+                "floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 50,
+        "caption": "This backpack is alongside a 'square' green chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "square",
+                "green chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 50,
+        "caption": "Find the backpack that is farthest away from the window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 26,
+        "caption": "Choose the open door to the bathroom.",
+        "parsed_query": {
+            "Target": "bathroom",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 52,
+        "caption": "choose the backpack on the floor by the standalone closet/cabinet.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "standalone closet/cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 52,
+        "caption": "The backpack closest to the large closet.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "large closet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 26,
+        "caption": "The door closest to the toilet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 50,
+        "caption": "The backpack closest to the door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 21,
+        "caption": "It is the blue door.",
+        "parsed_query": {
+            "Target": "blue door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 49,
+        "caption": "Find the white sneakers that are closer to the desk chair.",
+        "parsed_query": {
+            "Target": "white sneakers",
+            "Anchor": "desk chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 18,
+        "caption": "backpack nearest window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 52,
+        "caption": "The backpack closest to the bed and big brown cabinet.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "big brown cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 48,
+        "caption": "The shoes closer to the bathroom",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 18,
+        "caption": "The backpack on the chair at the computer desk",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "computer desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 26,
+        "caption": "the door to the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 26,
+        "caption": "It is the door to get into the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 48,
+        "caption": "the shoes closest to the bathroom side, furthest from the window",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "bathroom",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 48,
+        "caption": "The pair of shoes closer to the door.",
+        "parsed_query": {
+            "Target": "pair of shoes",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 48,
+        "caption": "The darker brown shoes that are closer to the bathroom.",
+        "parsed_query": {
+            "Target": "darker brown shoes",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 21,
+        "caption": "the blue door at the beginning",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 50,
+        "caption": "the backpack closest to the door",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 50,
+        "caption": "backpack on the ground to the right of the green chair closest to the door leading to the bathroom",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "green chair",
+                "door leading to the bathroom",
+                "ground"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 49,
+        "caption": "The shoes on the floor, closest to the laptop and chair.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "laptop",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 21,
+        "caption": "the main, closed door. Not the bathroom door",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 48,
+        "caption": "shoes farthest from window",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 52,
+        "caption": "the backpack that is between the bed and window",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 49,
+        "caption": "The light colored shoes that are closer to the window.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 18,
+        "caption": "Find the backpack that is in between the desk and the curtain.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "desk",
+                "curtain"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 21,
+        "caption": "This door is blue.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 49,
+        "caption": "The shoes closest to the window.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 18,
+        "caption": "backpack on the floor next to the computer desk",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "computer desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 48,
+        "caption": "Choose the brown dress shoes.",
+        "parsed_query": {
+            "Target": "dress shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 26,
+        "caption": "the door that is in the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 48,
+        "caption": "the shoes closest to the door",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 52,
+        "caption": "facing the window, right backpack",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 21,
+        "caption": "main door into the room",
+        "parsed_query": {
+            "Target": "main door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 50,
+        "caption": "It is the backpack on the ground next to the green chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "green chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 26,
+        "caption": "The OPEN door to the bathroom",
+        "parsed_query": {
+            "Target": "OPEN door",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 21,
+        "caption": "The correct door is blue and does not lead to the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": 49,
+        "caption": "There are two pairs of shoes sitting together on the floor by a desk. It is the pair that is closest to the desk chair.",
+        "parsed_query": {
+            "Target": "pair of shoes",
+            "Anchor": [
+                "desk",
+                "desk chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

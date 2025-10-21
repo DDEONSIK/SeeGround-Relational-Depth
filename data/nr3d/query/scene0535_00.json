@@ -1,0 +1,946 @@
+[
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 29,
+        "caption": "Look at the shelves next to the gray chair, it's the box on the lower shelf and closest to the chair.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "shelves",
+                "gray chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 8,
+        "caption": "The box is directly behind the chair with a jacket hanging on it.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "chair",
+                "jacket"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 30,
+        "caption": "facing the boxes, pick the furthest left one",
+        "parsed_query": {
+            "Target": "furthest left",
+            "Anchor": "boxes"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 8,
+        "caption": "The box all by itself.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 30,
+        "caption": "The box is on the left side of the shelf near the larger chair against the wall.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "shelf",
+                "larger chair",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 30,
+        "caption": "There is a shelf system with a framed photo on the top shelf and two boxes on a shelf underneath where the box you want is on the left.",
+        "parsed_query": {
+            "Target": "shelf system",
+            "Anchor": [
+                "famed photo",
+                "two boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 29,
+        "caption": "the small box next to the spotted chair",
+        "parsed_query": {
+            "Target": "small box",
+            "Anchor": "spotted chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 10,
+        "caption": "This desk is not by a window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 15,
+        "caption": "the speckled chair against the wall",
+        "parsed_query": {
+            "Target": "speckled chair",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 1,
+        "caption": "There is a cabinet full of junk in front of the window",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 12,
+        "caption": "Facing the window, the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 10,
+        "caption": "When facing the two desk, choose the one on the right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 10,
+        "caption": "Desk on the right, furthest from window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 12,
+        "caption": "When you look through it you can inside outside",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 29,
+        "caption": "small box to the left of the rocking chair",
+        "parsed_query": {
+            "Target": "small box",
+            "Anchor": "rocking chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 15,
+        "caption": "The only chair pushed up against the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 16,
+        "caption": "This tall-legged chair is directly in front of a white table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 30,
+        "caption": "furthest box from the window",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 11,
+        "caption": "The desk closest to the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 12,
+        "caption": "The window to the right to the left side of the desks",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 26,
+        "caption": "the chair between the desks in the middle of the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 8,
+        "caption": "The box near middle of room",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 15,
+        "caption": "It is the chair against the long wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 11,
+        "caption": "choose the drafting table on the left.",
+        "parsed_query": {
+            "Target": "drafting table",
+            "Anchor": "left"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 1,
+        "caption": "This window is not aligned with the two white desks.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "white desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 1,
+        "caption": "The window on the furthest wall next to the shelf on the left side of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "shelf",
+                "furthest wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 26,
+        "caption": "The chair nearest the window,",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 26,
+        "caption": "There are two chairs facing the square white objects.  The target object is the taller chair to the left.",
+        "parsed_query": {
+            "Target": "taller chair",
+            "Anchor": [
+                "square white objects"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 16,
+        "caption": "It is the chair in the middle of the room, not the one that is angled differently.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 11,
+        "caption": "the desk closer to the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 12,
+        "caption": "The window that is close to the right wall near the desks",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "right wall",
+                "desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 12,
+        "caption": "This window is slightly higher and is next to the white desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "white desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 10,
+        "caption": "This desk is shorter and has chairs by it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 9,
+        "caption": "Choose the small chair box  that is furthest away from the windows.",
+        "parsed_query": {
+            "Target": "small chair box",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 11,
+        "caption": "if you look from above you can make out two white desks. One of them looks like it is lit up by light from a  window. This is what you are looking for.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 15,
+        "caption": "the chair with the back on a wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 29,
+        "caption": "The correct box is in the middle.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 15,
+        "caption": "If facing the two windows, it's the gray and black speckled object on the left between the shelf and white cabinet",
+        "parsed_query": {
+            "Target": "gray and black speckled object",
+            "Anchor": [
+                "shelf",
+                "white cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 8,
+        "caption": "There are two boxes on a shelf, but you want the other one.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 9,
+        "caption": "This chair is furthest from the other three chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 9,
+        "caption": "4 chairs in the room but this one sits apart from the others.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 8,
+        "caption": "box with a long vertical pole on top of it",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "vertical pole"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 16,
+        "caption": "In the group of three chairs, it is the one in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "three chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 26,
+        "caption": "The chair closer to the window, in between the two desks",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 9,
+        "caption": "the chair furthest away from the others.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 1,
+        "caption": "With the desks to the right and the chairs to the left, you want the window straight ahead on the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desks",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 16,
+        "caption": "The chair that could easily be placed under the desk without having to twist or turn it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 16,
+        "caption": "The chair in the middle of the four.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "four"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 16,
+        "caption": "the tall chair thats in the middle of the tall chair and short chair - they are like a row and its the middle one.",
+        "parsed_query": {
+            "Target": "tall chair",
+            "Anchor": [
+                "short chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 10,
+        "caption": "Facing the desks, its the shorter one on the right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 15,
+        "caption": "The shortest chair with wooden armrests",
+        "parsed_query": {
+            "Target": "shortest chair",
+            "Anchor": "wooden armrests"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 10,
+        "caption": "This desk is further from the two narrow windows.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "two narrow windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 12,
+        "caption": "Choose the window on the right, behind the white desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "white desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 16,
+        "caption": "The chair in front of the white table and between the three other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white table",
+                "three other chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 26,
+        "caption": "The chair nearest the two windows.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 11,
+        "caption": "The taller of the desks.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 10,
+        "caption": "When facing the desks choose the one on the right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "right"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 9,
+        "caption": "chair against the back wall, only chair here",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "back wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 1,
+        "caption": "stand in front of window , pick the one on left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 11,
+        "caption": "The desk is taller and closer to the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 1,
+        "caption": "the window that DOES NOT have a desk right in front t it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 26,
+        "caption": "The chair closest to the windows.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 12,
+        "caption": "The higher of the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 11,
+        "caption": "it is the desk closest to the Windows",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "Windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 15,
+        "caption": "The blue and white floral chair against the wall, beside the low light brown bookshelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bookshelf",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 9,
+        "caption": "The smaller chair nearest the shelving on the floor.",
+        "parsed_query": {
+            "Target": "smaller chair",
+            "Anchor": [
+                "shelving"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 30,
+        "caption": "Face the two windows. The box is the one closest to you.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "two windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 8,
+        "caption": "If you are facing the reclining chair this box is to the immediate right",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "reclining chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 29,
+        "caption": "Underneath the desk is a box that is on the right side on the floor",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "desk",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 1,
+        "caption": "The lower window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 30,
+        "caption": "The box is located below table an the table is the closest to wall and has a picture frame sitting on top",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 9,
+        "caption": "The chair is not in the center of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 26,
+        "caption": "The tallest chair in between the two desks on the wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desks",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 29,
+        "caption": "When standing in the room looking at the boxes, the correct one is in the middle.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "boxes"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 29,
+        "caption": "the middle of the three boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 8,
+        "caption": "If you are facing the 3 boxes, it is the box on your far right.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "3 boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": 30,
+        "caption": "When facing towards the windows, it is the box closest to you.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

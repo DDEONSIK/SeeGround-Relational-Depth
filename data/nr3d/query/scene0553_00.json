@@ -1,0 +1,173 @@
+[
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 10,
+        "caption": "The toilet paper sitting on top of a cabinet",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 8,
+        "caption": "Face the toilet and then look to the right at the white mound.",
+        "parsed_query": {
+            "Target": "white mound",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 8,
+        "caption": "Toilet paper located directly below the metal holding bar and directly to the left of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "metal holding bar",
+                "toilet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 8,
+        "caption": "select the toilet paper nearest the urinal",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "urinal"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 10,
+        "caption": "the toilet paper closest to the backpack",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 10,
+        "caption": "This toilet paper is atop a tall cabinet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "tall cabinet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 10,
+        "caption": "Small object sitting on a black rectangular box.",
+        "parsed_query": {
+            "Target": "small object",
+            "Anchor": "black rectangular box"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 8,
+        "caption": "It is the toilet paper next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 10,
+        "caption": "The toilet paper roll standing on the object resembling refrigerator",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 8,
+        "caption": "The paper that is next to the toilet",
+        "parsed_query": {
+            "Target": "paper",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 8,
+        "caption": "The lower roll of toilet paper.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 10,
+        "caption": "the toilet paper on the paper towel dispenser",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "paper towel dispenser"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 8,
+        "caption": "The toilet paper on the roll next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "roll"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": 10,
+        "caption": "WHITE ITEM, RESTING ON TOP OF PAPER TOWEL DISPENSER, CLOSE TO THE DOOR.",
+        "parsed_query": {
+            "Target": "item",
+            "Anchor": [
+                "paper towel dispenser",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

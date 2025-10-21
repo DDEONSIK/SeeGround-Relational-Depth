@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "there is a door in the wall. it is to the left of a chair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "this is a brown wood table, set against a wall. the table is to the right of a bed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "14",
+        "target_name": "dresser",
+        "caption": "this is a dark brown or black wood dresser sitting in the corner of the room. there is a closet to the left of it and a small white table to the right.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "closet",
+                "small white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "this is a white rectangular pillow. it is sitting at the head of the bed.",
+        "parsed_query": {
+            "Target": "white rectangular pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "this is a white nightstand. it is sitting at the foot of the bed just to the right of a dark dresser.",
+        "parsed_query": {
+            "Target": "white nightstand",
+            "Anchor": [
+                "dark dresser",
+                "bed"
+            ]
+        },
+        "unique": true
+    }
+]

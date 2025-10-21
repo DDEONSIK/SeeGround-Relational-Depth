@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "2",
+        "target_name": "toilet",
+        "caption": "a white toilet. hanging on the wall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "11",
+        "target_name": "door",
+        "caption": "a wooden door. on he side of the bathroom.",
+        "parsed_query": {
+            "Target": "wooden door",
+            "Anchor": [
+                "bathroom"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "5",
+        "target_name": "trash_bin",
+        "caption": "a silver bin. hanging on the wall.",
+        "parsed_query": {
+            "Target": "silver bin",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "11",
+        "target_name": "door",
+        "caption": "a brown wooden door. on side of the bathroom.",
+        "parsed_query": {
+            "Target": "brown wooden door",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "9",
+        "target_name": "dispenser",
+        "caption": "a sliver plate. placed on the wall on the left to the bin.",
+        "parsed_query": {
+            "Target": "sliver plate",
+            "Anchor": [
+                "bin"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,1298 @@
+[
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "The window closest to the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 13,
+        "caption": "The desk closest to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 14,
+        "caption": "The desk adjacent to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 7,
+        "caption": "This chair is pulled closer to a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 16,
+        "caption": "The blue can that is between a gray can and the bunk beds.",
+        "parsed_query": {
+            "Target": "blue can",
+            "Anchor": [
+                "gray can",
+                "bunk beds"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 3,
+        "caption": "door on the same side of the windows",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 7,
+        "caption": "the chair nearest the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 17,
+        "caption": "The blue object that's closest to the bed with the blue sheets.",
+        "parsed_query": {
+            "Target": "blue object",
+            "Anchor": [
+                "bed with blue sheets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 13,
+        "caption": "A brown desk that is opposite to the other brown desk that is in between the brown door and bed",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk",
+                "door",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 5,
+        "caption": "CHoose the bed with the lighter blue blanket by the windows.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "lighter blue blanket",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 17,
+        "caption": "the grey bin closest to the door",
+        "parsed_query": {
+            "Target": "grey bin",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 24,
+        "caption": "The door across from the bed with the gray blanket.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bed",
+                "gray blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 14,
+        "caption": "You are looking for the desk between the bed, and the door outside.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 34,
+        "caption": "facing the door, it's the blue trash can on your left",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 7,
+        "caption": "The correct chair is pushed under the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 16,
+        "caption": "A blue waste basket, possibly for recycling.",
+        "parsed_query": {
+            "Target": "blue waste basket",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 20,
+        "caption": "The pillow on the bed close to the light blue object in room",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "light blue object"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 14,
+        "caption": "The smaller desk with a blue trash can next to it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 19,
+        "caption": "The pillow closer to the door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 13,
+        "caption": "The desk with a fan on it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "fan"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 17,
+        "caption": "The trash can to the left of the two trash cans that are side by side",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 13,
+        "caption": "the desk is beside the bed",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 20,
+        "caption": "The pillow on the bed farthest from the door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 34,
+        "caption": "the trash can is blue  one left to the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 19,
+        "caption": "It is the pillow closest to the door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 3,
+        "caption": "The large black shelf across from the bed with the dark blanket and white pillow",
+        "parsed_query": {
+            "Target": "large black shelf",
+            "Anchor": [
+                "bed with the dark blanket and white pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 6,
+        "caption": "The un-pushed in chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 16,
+        "caption": "Small blue bin on the back wall",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "back wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 0,
+        "caption": "The bed farthest from the door.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 14,
+        "caption": "in front of the chair with clothes on",
+        "parsed_query": {
+            "Target": "clothes",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "Pick the window not over the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 6,
+        "caption": "Chair pulled out from desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 24,
+        "caption": "next to two files cabinet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "two files"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 34,
+        "caption": "blue and next to desk",
+        "parsed_query": {
+            "Target": "blue",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 5,
+        "caption": "The bed next to the two windows.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "two windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 20,
+        "caption": "Pillow on the bed in the left corner",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "left corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 7,
+        "caption": "The computer desk chair that is more pushed in",
+        "parsed_query": {
+            "Target": "computer desk chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 0,
+        "caption": "bed with dark/black blanket",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "dark/black blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 17,
+        "caption": "The green box is the trashcan that is tan/grey in color. Not a recycling bin.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "green box",
+                "brown/grey trashcan"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 6,
+        "caption": "This chair is pulled out from its desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 6,
+        "caption": "the chair closest to the teal drawers",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "teal drawers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 20,
+        "caption": "pillow on the bed NOT next to the windows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 17,
+        "caption": "the garbage can, not the recycling bin",
+        "parsed_query": {
+            "Target": "garbage can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 29,
+        "caption": "window above the wooden desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wooden desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 16,
+        "caption": "It is a blue wastebasket sitting next to the bed.",
+        "parsed_query": {
+            "Target": "blue wastebasket",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 5,
+        "caption": "The bed across from the door.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 0,
+        "caption": "the bed farthest from the door.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 16,
+        "caption": "The blue trash can close to the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 3,
+        "caption": "The open closet door at the foot of the bed",
+        "parsed_query": {
+            "Target": "open closet door",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 7,
+        "caption": "the chair at the desk with the blue trash can",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 19,
+        "caption": "The pillow is on the mostly grey with blue bedding near the window",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "mostly grey with blue bedding",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 14,
+        "caption": "This desk is farther away from the windows",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "from the middle of the room the window on the left",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "middle of the room"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 24,
+        "caption": "The door along the same wall as the 2 windows",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "2 windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 7,
+        "caption": "The chair ticked in beneath the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 5,
+        "caption": "The bed next to the windows.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 34,
+        "caption": "The blue trash can to the right of the small desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "small desk",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 5,
+        "caption": "The bed under the window",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "the leftmost window here",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 3,
+        "caption": "The door to the closet.  The door is open.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 29,
+        "caption": "The window that is closest to the desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 6,
+        "caption": "the chair pulled away from the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 19,
+        "caption": "This pillow is on a bed that sits against a long wall that has two windows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "long wall",
+                "two windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 34,
+        "caption": "Once you go in through the door, go right and you'll see a desk, and then you need to look on the floor to the right of the desk and what you need is the blue trash can.",
+        "parsed_query": {
+            "Target": "blue trash can",
+            "Anchor": [
+                "desk",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "The window next to the bunk bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bunk bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 29,
+        "caption": "The window on the right that has a fan in front of the middle of it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "right",
+                "fan"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 13,
+        "caption": "this desk is longer and located at the foot of the bed. It is located on the opposite wall from the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "foot of the bed",
+                "opposite wall from the door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 20,
+        "caption": "The pillow on the bed that is furthest from the door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 5,
+        "caption": "The bed closest to the door.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 5,
+        "caption": "the bed with blue blankets",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "blue blankets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 6,
+        "caption": "It is the chair closest to the dark closet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dark closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 7,
+        "caption": "The chair on the opposite wall of the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "opposite wall",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 24,
+        "caption": "The door closest to the closet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 34,
+        "caption": "the lone trash can between the door and the desk",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 17,
+        "caption": "Beside the bed closest to the door, it's the gray trash can that is sitting next to a blue one.",
+        "parsed_query": {
+            "Target": "gray trash can",
+            "Anchor": [
+                "bed",
+                "door",
+                "blue trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 13,
+        "caption": "The longer desk near the black door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "black door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 24,
+        "caption": "It does not cover the closet, but it does have a door silencer on the top left corner, so it can not slam.",
+        "parsed_query": {
+            "Target": "door silencer",
+            "Anchor": [
+                "closet",
+                "slam"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 19,
+        "caption": "Choose the pillow on the bed with blue sheets.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 20,
+        "caption": "Pillow on the bed without the windows",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 29,
+        "caption": "Standing in the middle of the room looking at both windows, it's the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 0,
+        "caption": "it is the bed in the corner of the room next to the light blue cabinet",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "light blue cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 6,
+        "caption": "The chair that someone forgot to push in",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "the window directly above the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 16,
+        "caption": "It is the trash bin nearest to the bed.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 14,
+        "caption": "desk with chair tucked under it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "It is the window that is behind the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 17,
+        "caption": "Facing the 2 cans next to one another, the can on the left.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "2 cans",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 0,
+        "caption": "the bed in the corner of the room furthest from the door",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "corner",
+                "room",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 3,
+        "caption": "Door on the same wall as the windows, to the right of a desk",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "windows",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 19,
+        "caption": "The pillow on the bed near the window",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 29,
+        "caption": "This window is on the right when looking outside.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 13,
+        "caption": "The shorter of the desks.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 20,
+        "caption": "The pillow farthest from the door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 3,
+        "caption": "The open door that leads to the closet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 16,
+        "caption": "blue trash can next to the bed",
+        "parsed_query": {
+            "Target": "blue trash can",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 34,
+        "caption": "It is the trash can next to the desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 0,
+        "caption": "This bed is placed farther away from the windows",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 0,
+        "caption": "The bed farthest from the door.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 14,
+        "caption": "The desk closest to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 29,
+        "caption": "The window closest to the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 28,
+        "caption": "the window in the left in front of the bed",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 24,
+        "caption": "The door with the handle on the right side, which is also the door you use to enter and exit the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 24,
+        "caption": "nearest the small bins.",
+        "parsed_query": {
+            "Target": "small bins",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 19,
+        "caption": "pillow directly across from the door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 29,
+        "caption": "The mirror above the desk.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": 3,
+        "caption": "The object you are looking for is a door. The door is the closet door and is standing open. Inside the closet shirts are hanging up.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "closet",
+                "closet door",
+                "open"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 3,
+        "caption": "Choose the safety rail next to the toilet and above the toilet paper.",
+        "parsed_query": {
+            "Target": "safety rail",
+            "Anchor": [
+                "toilet",
+                "toilet paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 10,
+        "caption": "the railing between the toilet and sink",
+        "parsed_query": {
+            "Target": "railing",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 3,
+        "caption": "When standing in the middle of the room facing the toilet, the correct rail is on the left. It is opposite of the door.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 3,
+        "caption": "This rail is not on the same wall where the toilet is mounted.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 10,
+        "caption": "the horizontal bar next to the sink",
+        "parsed_query": {
+            "Target": "horizontal bar",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 10,
+        "caption": "The rail between the toilet and sink.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 3,
+        "caption": "the wider of the two rails.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 10,
+        "caption": "horizontal rail between toilet and sink",
+        "parsed_query": {
+            "Target": "horizontal rail",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 3,
+        "caption": "the rail on the wall with the toilet paper dispenser",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "toilet paper dispenser"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 3,
+        "caption": "The longer rail furthest from sink",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 10,
+        "caption": "the rail between the toilet and sink",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 3,
+        "caption": "Choose the longer rail.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 10,
+        "caption": "The rail closest to the sink.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0146_00",
+        "target_id": 10,
+        "caption": "The rail closest to the sink.",
+        "parsed_query": {
+            "Target": "rail",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,738 @@
+[
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 24,
+        "caption": "The window nearest the front doors.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "front doors"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "the cabinet next to a blackboard",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "blackboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 15,
+        "caption": "This trash can is next to a large black television.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "large black television"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 24,
+        "caption": "The window furthest away from the wall mounted TV",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall mounted TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 23,
+        "caption": "When standing in the middle of the room facing the windows the correct one is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 15,
+        "caption": "This trashcan is by a large screen on the wall.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "large screen on the wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 32,
+        "caption": "This trashcan is by a double door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "double door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 24,
+        "caption": "The left window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 32,
+        "caption": "face the fridge and then move to the trash can on the ground in the left corner.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "fridge",
+                "ground",
+                "left corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "If you are facing the cabinets, it's the one on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 2,
+        "caption": "This is the large conference table with many chairs.",
+        "parsed_query": {
+            "Target": "large conference table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "the smaller cabinet to the right",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "the desk directly below the board on the wall",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "board on the wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 2,
+        "caption": "The biggest table in room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 28,
+        "caption": "This is the taller cabinet, which extends to the floor.",
+        "parsed_query": {
+            "Target": "taller cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 28,
+        "caption": "The cabinets closest to the double doors.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "double doors"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 32,
+        "caption": "Find the trash can next to the double doors.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "double doors"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 24,
+        "caption": "When facing the windows, the one on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 28,
+        "caption": "The steel refrigerator between the kitchen sink and the doors.",
+        "parsed_query": {
+            "Target": "steel refrigerator",
+            "Anchor": [
+                "kitchen sink",
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 2,
+        "caption": "The large table in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "The thin wooden table underneath the television and immediately to the left of the trash can.",
+        "parsed_query": {
+            "Target": "thin wooden table",
+            "Anchor": [
+                "television",
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 24,
+        "caption": "the window on the left near the fridge",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 23,
+        "caption": "If you are facing the windows, it is the one on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "smaller table against the wall",
+        "parsed_query": {
+            "Target": "smaller table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 28,
+        "caption": "The cabinet by the door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 15,
+        "caption": "the trash can under the large painting",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "large painting"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 2,
+        "caption": "select the long table in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 32,
+        "caption": "Select the trash can nearest the patio doors",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "patio doors"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 28,
+        "caption": "cabinet next to the doors.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "doors"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 32,
+        "caption": "Select the garage holding device that is closer to the double doors.  Not the one by the TV.",
+        "parsed_query": {
+            "Target": "garage holding device",
+            "Anchor": [
+                "double doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 24,
+        "caption": "The square window on the left side of the stove vent, right next to the fridge",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "stove vent",
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 15,
+        "caption": "The trash can nearest the chair that is the least tucked under the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "chair",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 32,
+        "caption": "trash can in the corner, near the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "corner",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "choose the table that is up against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 23,
+        "caption": "The window is the one closer to the TV",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 2,
+        "caption": "The long conference table in the middle of the room.",
+        "parsed_query": {
+            "Target": "conference table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 28,
+        "caption": "The cabinet next to the doors.  furtherest from the tv",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "doors",
+                "tv"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "The smaller cabinet  in the center of the room",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 23,
+        "caption": "If you are looking across the desk towards the two windows that are on the same wall as the fridge, you are looking for the window on your right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "two windows",
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "Choose the table that sits against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 23,
+        "caption": "The window to the right of the oven hood",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "oven hood"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 2,
+        "caption": "The largest table in the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "Select the table underneath the TV.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 28,
+        "caption": "The correct cabinet is next to the double doors. When standing in the middle of the room facing the cabinets, it is on the left.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "double doors",
+                "cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "With the cabinets located on the back wall, choose the one on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "back wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 15,
+        "caption": "The correct trash can is grey and next to the TV on the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "TV",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 32,
+        "caption": "The trash can located next to the two doors leading out",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "two doors leading out"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 15,
+        "caption": "Trash can next to the blackboard on the wall",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blackboard",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 23,
+        "caption": "Staring at the cabinets, you want the window on the right side near the picture hanging on the wall",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "cabinets",
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 15,
+        "caption": "This trashcan is by the monitor on the wall.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "monitor",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 24,
+        "caption": "when facing the walls with two windows, it is the one on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "The cabinet closest to the picture.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "picture"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "A small table below the television on the wall",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "television",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "This cabinet does not sit on the floor and is in the corner near a wall-mounted dark screen.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall-mounted dark screen"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 23,
+        "caption": "The window is in the corner closest to the fridge.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 2,
+        "caption": "The very big dining table in the center of the room.",
+        "parsed_query": {
+            "Target": "dining table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 17,
+        "caption": "The shelf under the television",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "television"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "the cabinet closest to the tv screen",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "tv screen"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "cabinet closest to the TV",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": 20,
+        "caption": "cabinet touching the wall farthest from entrance door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "entrance door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

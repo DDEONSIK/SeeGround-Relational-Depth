@@ -1,0 +1,2053 @@
+[
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "The maroon colored chair that is facing away from the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "The monitor sitting by itself and not in the group of three.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 23,
+        "caption": "A blue trashcan is closest to this door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "seat nearer the doors were no bins are near",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "doors",
+                "bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "Facing the chairs, the middle one",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 7,
+        "caption": "Stand in front of the couch that has its back to the door and then look at the furniture to the center left.",
+        "parsed_query": {
+            "Target": "furniture",
+            "Anchor": [
+                "couch",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 30,
+        "caption": "Facing the monitors, the monitor in the lower left corner.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 6,
+        "caption": "It is the table with three monitors sitting on top of it, and a black office chair near it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "monitor",
+                "office chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 29,
+        "caption": "the file cabinet next to the red rolling chair",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "red rolling chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 25,
+        "caption": "Of the two bins next to each other, choose the gray one.",
+        "parsed_query": {
+            "Target": "gray bin",
+            "Anchor": [
+                "two bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 39,
+        "caption": "The door that is on the same wall as the white board but does not have a poster on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 25,
+        "caption": "the grey trash bin between the two doors",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "two doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 32,
+        "caption": "The silver Monroe closest to the two doors located on same wall",
+        "parsed_query": {
+            "Target": "silver Monroe",
+            "Anchor": [
+                "two doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "This is the black chair pulled all the way up to the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 5,
+        "caption": "A gray trash can is nearest to this door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 25,
+        "caption": "Facing the cans, the middle can.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 1,
+        "caption": "Its the couch with the backpack on it",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 33,
+        "caption": "If you are facing the table with all the monitors on it from the couches area, choose the monitor BEHIND the middle monitor on your side.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "middle monitor",
+                "couches area"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "This chair is not reddish and it is not pulled up under a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 1,
+        "caption": "The couch with a backpack on it touching the wall",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "backpack",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 7,
+        "caption": "Pick the table that has only one office chair and two monitors on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "office chair",
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 30,
+        "caption": "On the side with just two boxes, choose the skinny thin one.",
+        "parsed_query": {
+            "Target": "skinny thin box",
+            "Anchor": [
+                "two boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "This chair is red and facing out into the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 39,
+        "caption": "Door directly NEXT to the door with a red poster",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door with a red poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 29,
+        "caption": "The file cabinet closest to the door with the white sign on it, that has the recycling bin and garbage cans near it.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "door with the white sign on it",
+                "recycling bin and garbage cans"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 6,
+        "caption": "the square table near the black chairs",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "black chairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 2,
+        "caption": "Facing the white board, the leftmost couch.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 27,
+        "caption": "The grey trash can that is not next to the blue trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 33,
+        "caption": "This monitor is next to the partition between desks and is behind another monitor that has a chair in front of it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "partition",
+                "desk",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "This is a black chair pulled up to the desk and monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 41,
+        "caption": "The door with a red poster hung on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "red poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 27,
+        "caption": "this trash can is an open plastic container lined with a plastic bag. it is sitting on the floor to the right of a door. there is not a blue container next to it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 32,
+        "caption": "This monitor is furthest to the end of the table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 6,
+        "caption": "The desk with the grey chair and NOT the red",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "grey chair",
+                "red"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 39,
+        "caption": "It is a door with no labels on it. It's nearest to a small black chair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "small black chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 23,
+        "caption": "door closest to the 8 pictures on the wall",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "pictures on the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 2,
+        "caption": "find the couch closest to the two desks",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 36,
+        "caption": "file cabinet under desk with all black chair at desk",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "all black chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 32,
+        "caption": "the only white monitor",
+        "parsed_query": {
+            "Target": "white monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 29,
+        "caption": "The file cabinet next to the red chair.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "red chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "the chair that is facing outward",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 33,
+        "caption": "On the desk with three monitors, it is the one furthest from the couches.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "three monitors",
+                "couches"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 41,
+        "caption": "the door with the picture on it, closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 2,
+        "caption": "Brown and very comfortable sitting in the middle of room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 39,
+        "caption": "The door alongside this one has a long whiteboard next to it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "with the whiteboard on the left, choose the rightmost monitor.",
+        "parsed_query": {
+            "Target": "rightmost monitor",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 14,
+        "caption": "the blue bin between the doors",
+        "parsed_query": {
+            "Target": "blue bin",
+            "Anchor": [
+                "doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 33,
+        "caption": "The monitor has 2 other screens around it. One screen is right behind it facing away from it. There is also another screen on the desk facing the same direction. The monitor can barely be seen.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "screen",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 27,
+        "caption": "Silver trash can in the corner to the right of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 8,
+        "caption": "find the table in the corner of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 25,
+        "caption": "the grey trashcan located between the two doors",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "two doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 41,
+        "caption": "the door with a poster on it",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "the chair is the closest to the blue trash can",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 7,
+        "caption": "choose the table closest to the door with the white sign.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door",
+                "white sign"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 1,
+        "caption": "The couch, against the wall, with a briefcase on it",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "briefcase"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "The black chair that is not pulled in under the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 32,
+        "caption": "the monitor is farthest from the blue trash can",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "blue trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 8,
+        "caption": "The table is int he corner without anything on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "on desk with only one other box, not closest to chair",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 41,
+        "caption": "This is the door that is closest to the dry erase board.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "dry erase board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 33,
+        "caption": "The monitor is  between two others, a gray chair is facing it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "gray chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 14,
+        "caption": "I am a blue trashcan next to the middle door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "middle door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 8,
+        "caption": "Find the small table located in the corner of the room.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": "corner of the room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 7,
+        "caption": "The table nearest to the doors with the bins",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "doors",
+                "bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 14,
+        "caption": "The blue recycle bin.",
+        "parsed_query": {
+            "Target": "blue recycle bin",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 5,
+        "caption": "door to the right of the blue recycling bin",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "blue recycling bin"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 29,
+        "caption": "This file cabinet is under the desk/table next to the burgundy chair.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "table",
+                "burgundy chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 32,
+        "caption": "white monitor close to the door with red picture",
+        "parsed_query": {
+            "Target": "white monitor",
+            "Anchor": [
+                "door",
+                "red picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 2,
+        "caption": "It is the couch that does not have a bag on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 36,
+        "caption": "You are sitting in the two seater on the far wall away from the computer desks, and looking at the desks there is an object underneath the desk on the right and right next to the chair at the desk. Grab that object.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "The middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 8,
+        "caption": "the table with nothing on it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 39,
+        "caption": "Two doors (no trash can in between them) The left door (no poster.",
+        "parsed_query": {
+            "Target": "left door",
+            "Anchor": [
+                "two doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "black chair on the corner of the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 7,
+        "caption": "Table with red colored chair near it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 7,
+        "caption": "The desk behind the burgundy red chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "burgundy red chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 30,
+        "caption": "The correct monitor is the one closest to the red chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "red chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 12,
+        "caption": "monitor facing black chair",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "black chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 23,
+        "caption": "Choose the door that is closest to the blue recycling bin. It is on the left side of it if you are facing the bin.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "blue recycling bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 25,
+        "caption": "The are 2 small trashcans in between two doors very close to each other. If you are facing those doors it's the trashcan that it on the right (not the blue one).",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "doors",
+                "trashcan"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 12,
+        "caption": "monitor at the desk with a black chair, facing the sofa",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "black chair",
+                "sofa"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 14,
+        "caption": "The blue trash can to the left of the grey trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "grey trash can",
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 8,
+        "caption": "This table is located in the corner and there is nothing on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 2,
+        "caption": "The couch in the middle of the room, away from the wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "the chair closest to the blue trash can",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 41,
+        "caption": "the door that has a red sign on it and is next to the whiteboard",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "red sign",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 30,
+        "caption": "The monitor at the desk with the red chair facing the wrong way",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "red chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 14,
+        "caption": "It is the blue trash can that is furthest to the left if you are facing the trashcans.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "choose the middle chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 27,
+        "caption": "Face the two doors and look at the bin that is on the floor on the right.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "two doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 33,
+        "caption": "It is the monitor on the right side desk that is facing away from the chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 1,
+        "caption": "the couch with the bag on it",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "bag"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "select the red chair near the blue bins",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": "blue bins"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 5,
+        "caption": "choose the door closest to the small grey garbage can on the floor.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "small grey garbage can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 12,
+        "caption": "The monitor sitting to the left of the white cubicles, and there is another monitor facing the opposite direction on the right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "white cubicles",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 23,
+        "caption": "the door to the left of the trash cans",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "On the desk that only has 2 monitors, it's the monitor farthest from the chair",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "It is the chair closest to the two doors that do not have recycling and trash bins between them.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two doors",
+                "recycling and trash bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 14,
+        "caption": "The blue trash can that is in between two doors.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 30,
+        "caption": "The monitor directly behind the red desk chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "red desk chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 12,
+        "caption": "Its the monitor facing the couches and has two black chairs next to it",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "couches",
+                "black chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 36,
+        "caption": "The file cabinet on the side of the room with the whiteboard.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 2,
+        "caption": "the couch closer to the computer desks",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "computer desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "Look at the desk that has two computer monitors on it. Orient the image so that you are looking at only those two monitors with the white divider shelf behind them. Now choose the monitor that is on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "white divider shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 33,
+        "caption": "on the table with the three monitors, it's the monitor that you can see the entire black screen",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "three monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 1,
+        "caption": "The couch with its back against a wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 5,
+        "caption": "The door to the right of the grey trash bin.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "grey trash bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 1,
+        "caption": "the couch against the wall",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 39,
+        "caption": "Facing the white board, the far left door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 6,
+        "caption": "Table with no red chair in front of it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 12,
+        "caption": "the monitor where the chair is under the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "chair",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 27,
+        "caption": "looking at the wall with 2 doors/3 trash cans, the far right trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "2 doors/3 trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 36,
+        "caption": "You are looking for a file cabinet to the right of a black chair under a desk with smaller gray chair to the right of the cabinet.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "black chair",
+                "desk",
+                "smaller gray chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 29,
+        "caption": "If you sat on the couch facing the desks, it is the file cabinet under the desk on the left.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 7,
+        "caption": "The table on the same side of the room as the three trash cans.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 25,
+        "caption": "The trash can in the middle of the three.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "three"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "desk closest to the doors with trash bins between them, the monitor facing the outside of the room",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "trash bins",
+                "doors",
+                "outside of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 36,
+        "caption": "Pick the cabinet under the desk that does NOT have a red chair. It is on the side of the office with the whiteboard.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "desk",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 41,
+        "caption": "The door that is the the whiteboard",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "with the 5 at the top of your screen (2 left/3 right), pick the monitor that is the top left corner.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "top left corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 8,
+        "caption": "The small table in the corner of the room, underneath some pictures.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "pictures",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 36,
+        "caption": "Facing the computers the filing cabinet on the right hand side under the desk",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "computers",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "It is the chair closest to the door with the red poster and the whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "red poster",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 29,
+        "caption": "It's the file cabinet closer to the blue recycling bin.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "blue recycling bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 27,
+        "caption": "The trashcan sitting on its own.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 6,
+        "caption": "The table with three computer monitors on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "three computer monitors"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "It is the chair closest to the two doors.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 39,
+        "caption": "Facing the whiteboard, it's the door furthest to the left without the poster on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "It is the chair that is pushed in under the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 6,
+        "caption": "Select the table closest to the wall that has two doors and a large white board.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "two doors",
+                "large white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 25,
+        "caption": "Between the two brown doors are a blue bin and a grey bin, and you want the grey bin/trash can.",
+        "parsed_query": {
+            "Target": "grey bin",
+            "Anchor": [
+                "two brown doors",
+                "blue bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "Choose the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 32,
+        "caption": "the white monitor furthest from the trash cans which are in between the two doors",
+        "parsed_query": {
+            "Target": "white monitor",
+            "Anchor": [
+                "trash cans",
+                "two doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 30,
+        "caption": "The monitor on the desk with the wine colored chair that is facing away.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "wine colored chair",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 5,
+        "caption": "the doors with the trash bins between them, the door on the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash bins",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 29,
+        "caption": "Facing the desks select the small filing cabinet under the desk on the left.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "desks",
+                "under",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 32,
+        "caption": "The white monitor closest to the doors.",
+        "parsed_query": {
+            "Target": "white monitor",
+            "Anchor": "doors"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 41,
+        "caption": "The door to the left of the white board with a poster on the door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white board",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 30,
+        "caption": "Facing the 2 Brown doors, the monitor in the lower right corner.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "2 Brown doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 23,
+        "caption": "The left door on the opposite wall of the whiteboard.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 2,
+        "caption": "the couch in the middle of the room",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 36,
+        "caption": "File cabinet nearest the whiteboard",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 27,
+        "caption": "Facing the cans on the wall, the can away from the other cans.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "cans on the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 14,
+        "caption": "the two trash cans between the doors, the one on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "doors",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 1,
+        "caption": "The brown couch on the wall with a black back pack on it",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "black backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 31,
+        "caption": "Facing the monitors, the monitor in the top right corner.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 8,
+        "caption": "This table is empty and is under two rows of four pictures each.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two rows of four pictures each"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 5,
+        "caption": "the door on the right with a trash can on either side",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash can",
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 12,
+        "caption": "In this room put the whiteboard on the right hand side. Your view should be looking directly at the study desks.  The object you are looking for is a black monitor on the desk on the right. It will be right next to the partition that is between the two desks.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "study desks",
+                "partition"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "the small black chair not in front of the computer but at the corner of the desk",
+        "parsed_query": {
+            "Target": "small black chair",
+            "Anchor": [
+                "corner of the desk",
+                "not in front of the computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 6,
+        "caption": "The big computer table with a grey chair beside it",
+        "parsed_query": {
+            "Target": "computer table",
+            "Anchor": [
+                "grey chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 5,
+        "caption": "The door in-between the two gray trash bins.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "gray trash bin",
+                "gray trash bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 23,
+        "caption": "door to the left of the blue recycling bin.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "blue recycling bin"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 23,
+        "caption": "the door closest to the 8 posters",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "8 posters"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 12,
+        "caption": "The single monitor facing the whiteboard",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "red office chair that's facing away from desk",
+        "parsed_query": {
+            "Target": "red office chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 13,
+        "caption": "The chair is next to the desk that is closest to the blue trashcan.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "trashcan"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "The black chair closest to the computer monitor",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "computer monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 34,
+        "caption": "The chair in the middle of the three",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "three"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "black chair closest to the large whiteboard",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "large whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": 37,
+        "caption": "black chair closest to the couch",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

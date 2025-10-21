@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0700_00",
+        "target_id": "34",
+        "target_name": "trash_can",
+        "caption": "it is a black trash can. the black trash can sits to the left of another black trash can that has a clear white trash bag in it.",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": [
+                "another black trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": "17",
+        "target_name": "monitor",
+        "caption": "it is a black monitor. the black monitor  is the monitor that is on the right of the desk that is in the sitting in the  right corner of the room.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "desk",
+                "sitting",
+                "room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": "7",
+        "target_name": "bookshelf",
+        "caption": "it is a white bookshelf. the white bookshelf sits to the left of the door.",
+        "parsed_query": {
+            "Target": "white bookshelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is to the left of the backpack.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0700_00",
+        "target_id": "10",
+        "target_name": "cabinet",
+        "caption": "this is a gray cabinet. it is to the left of a white cabinet.",
+        "parsed_query": {
+            "Target": "gray cabinet",
+            "Anchor": [
+                "white cabinet"
+            ]
+        },
+        "unique": false
+    }
+]

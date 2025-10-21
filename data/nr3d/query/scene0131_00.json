@@ -1,0 +1,805 @@
+[
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 28,
+        "caption": "The single computer tower under the desk in the corner",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 29,
+        "caption": "the tower is the one closest to the art painting on the wall",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "art painting"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 29,
+        "caption": "The tower on the left if you are facing the picture, it's the only one directly under the picture.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 29,
+        "caption": "Choose the computer tower that is in the center of room underneath desk, you will see a photo on the wall with a blue sky and building, the tower begins at the start of the building on the left side and is about 24 inches long.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "wall",
+                "building",
+                "left side",
+                "24 inches"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 29,
+        "caption": "the tower without a monitor above it",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 11,
+        "caption": "the middle table with the grey chair pulled out has a tower next to another. You want that right option",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": "grey chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 11,
+        "caption": "Select the right hand computer tower of the two side by side",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "side by side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 11,
+        "caption": "When facing the landscape picture you will see 2 computer towers, side by side.  Choose the tower on the right.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "landscape picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 11,
+        "caption": "It's the middle of the 3 towers under the long wall of desks.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "3 towers",
+                "long wall of desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 28,
+        "caption": "Tower under desk that is not part of the long wall of desks.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 28,
+        "caption": "When facing the picture of the sky, clouds and yellow flowers, choose the computer tower that is underneath the table furthest to the left.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "table",
+                "picture of the sky, clouds and yellow flowers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 28,
+        "caption": "the tower is on the shorter wall of computers",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "shorter wall",
+                "computers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 30,
+        "caption": "the tower is the furthest right when staring at all of them at the door",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 30,
+        "caption": "See the 4-drawer wood filing cabinet underneath the desktop along the longest wall, select the computer tower to the right of that cabinet.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "4-drawer wood filing cabinet",
+                "desktop",
+                "longest wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 30,
+        "caption": "Facing the picture with blue sky, clouds and yellow flowers, choose the computer tower furthest to the right of the room.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "picture with blue sky, clouds and yellow flowers",
+                "right of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 30,
+        "caption": "the choose tower that is by itself",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 30,
+        "caption": "pick the computer tower that is under the tab\u015fe with two chairs.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "tab\u015fe",
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 28,
+        "caption": "We are searching for the computer tower which is the nearest to the set of several photographs on the smaller wall",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "set of several photographs",
+                "smaller wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 11,
+        "caption": "The middle computer tower along the very long wall.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "long wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 29,
+        "caption": "Facing the long wall of desks, this tower is on the left and behind another.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "desks",
+                "tower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 38,
+        "caption": "The longest, highest whiteboard, on top of the other highlighted whiteboard.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "highlighted whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 12,
+        "caption": "The monitor that has two chairs pushed all the way in to the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "two chairs",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 43,
+        "caption": "The correct whiteboard is the one that's on the ground.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 20,
+        "caption": "Facing the monitors, the monitor in the middle.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "monitors"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 43,
+        "caption": "This whiteboard is on the floor.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 43,
+        "caption": "The correct whiteboard is on the ground.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 38,
+        "caption": "The correct whiteboard is on the wall and not on the ground. It is wider.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 13,
+        "caption": "The monitor that sits by itself by the wooden shelf on the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "wooden shelf",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 20,
+        "caption": "The computer screen to the right of the landscape picture on the wall.",
+        "parsed_query": {
+            "Target": "computer screen",
+            "Anchor": [
+                "landscape picture",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 13,
+        "caption": "When standing in the middle of the room facing the monitors, the correct one is on the far left. There are a bunch of pictures on the wall behind it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitors",
+                "pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 13,
+        "caption": "This monitor is not on the same long wall with the other 2.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "long wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 20,
+        "caption": "This is the middle of the 3 monitors.",
+        "parsed_query": {
+            "Target": "monitors",
+            "Anchor": [
+                ""
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 43,
+        "caption": "The whiteboard is on the ground nearest to the grey carpet.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "grey carpet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 12,
+        "caption": "There is a whiteboard across from the monitor",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "monitor"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 38,
+        "caption": "The longer whiteboard on the right.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 12,
+        "caption": "choose the computer monitor which is the farthest from the shelf",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 20,
+        "caption": "The monitor in the middle of the office",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "office"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 13,
+        "caption": "The monitor on the shorter desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "shorter desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 20,
+        "caption": "The middle monitor at the desk",
+        "parsed_query": {
+            "Target": "middle monitor",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 43,
+        "caption": "These whiteboards are stacked....one on top of the other.  You want the whiteboard on the bottom, closest to the floor.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "bottom",
+                "closest to the floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 38,
+        "caption": "the higher whiteboard",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 20,
+        "caption": "The middle of the three monitors.",
+        "parsed_query": {
+            "Target": "monitors",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 12,
+        "caption": "In one corner of the room there are 5 desk chairs together, in that area of the room there is a computer monitor sitting against the wall.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "5 desk chairs",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 43,
+        "caption": "the whiteboard that is actually on the floor",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 13,
+        "caption": "Monitor next to the shelves underneath the pictures on the wall",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "shelves",
+                "pictures on the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 13,
+        "caption": "Choose the monitor on the smaller desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "smaller desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 12,
+        "caption": "when you walk through the door, the computer to the right.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 43,
+        "caption": "it is the whiteboard onn the floor",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 38,
+        "caption": "It is the higher whiteboard on the wall, not the one on the ground underneath.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "ground"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 20,
+        "caption": "the monitor in the middle of the room",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 12,
+        "caption": "The monitor closest to the blue printer",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "blue printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 38,
+        "caption": "Facing the wall where the white boards are mounted, the whiteboard on the right side that is drawn on (not the blank one leaning on the wall under it)",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "whiteboards"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 38,
+        "caption": "The longer, higher whiteboard.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 12,
+        "caption": "There is a whiteboard directly across from this monitor and a fan on the table by it",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "monitor",
+                "fan"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 29,
+        "caption": "facing the picture on the wall, the tower on the left closest to the picture",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "picture",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 28,
+        "caption": "Large computer tower, directly opposite to the bench which has a blue item on the corner.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "bench",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 30,
+        "caption": "Facing the long wall of desks, its the tower furthest right.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "long wall",
+                "desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 11,
+        "caption": "The slim black tower right next to the right of the other slim black tower, when facing them.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "tower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 13,
+        "caption": "The monitor that is alone on the far wall near the small pictures on the wall.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "far wall",
+                "small pictures on the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 11,
+        "caption": "The computer tower under the middle of the long brown desk, next to the chair that is infront of the monitor.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "long brown desk",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 30,
+        "caption": "choose the computer tower that is by itself",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 29,
+        "caption": "of the 2 computer towers in the center of the room. the one on the left",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "computer tower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": 28,
+        "caption": "Select the computer tower by the pictures on the all with a chair and the upper shelves",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "pictures",
+                "chair",
+                "upper shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

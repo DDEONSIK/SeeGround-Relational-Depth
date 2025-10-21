@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0307_00",
+        "target_id": "31",
+        "target_name": "refrigerator",
+        "caption": "there is a old white fridge located to the right of two windows.  there is a table or drying rack in front of it.  there is some material piled up to the left of the fridge and below the windows. .",
+        "parsed_query": {
+            "Target": "old white fridge",
+            "Anchor": [
+                "two windows",
+                "table",
+                "drying rack",
+                "material"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": "26",
+        "target_name": "shelf",
+        "caption": "there is a brown wooden shoe shelf. placed on the corner of the room.",
+        "parsed_query": {
+            "Target": "brown wooden shoe shelf",
+            "Anchor": "corner of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": "12",
+        "target_name": "drying_rack",
+        "caption": "there is a white drying rack. placed next to another one.",
+        "parsed_query": {
+            "Target": "white drying rack",
+            "Anchor": [
+                "another one"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "there is a brown wooden chair. placed next to the door.",
+        "parsed_query": {
+            "Target": "brown wooden chair",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0307_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a white table. placed on the right to the door.",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": "door"
+        },
+        "unique": true
+    }
+]

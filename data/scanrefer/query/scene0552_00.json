@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a wooden chair. next to the table in the middle of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "middle of the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "12",
+        "target_name": "refrigerator",
+        "caption": "a silver fridge. on the left to the cabinets.",
+        "parsed_query": {
+            "Target": "silver fridge",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a wooden square table. in the middle of the room.",
+        "parsed_query": {
+            "Target": "wooden square table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a wooden chair. next to the wooden table.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen black cabinets are under the counter top. the cabinets are to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen black cabinets",
+            "Anchor": [
+                "counter top",
+                "fridge"
+            ]
+        },
+        "unique": false
+    }
+]

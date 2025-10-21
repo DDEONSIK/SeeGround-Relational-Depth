@@ -1,0 +1,72 @@
+[
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "32",
+        "target_name": "toilet_flush_button",
+        "caption": "it is beige and it flushes the toilet. it is a button. it is between the sink and the bathtub on the top side of the toilet.",
+        "parsed_query": {
+            "Target": "button",
+            "Anchor": [
+                "sink",
+                "bathtub",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "it is the black door at the end of  the hallway. it has a red and white sign on it.",
+        "parsed_query": {
+            "Target": "black door",
+            "Anchor": [
+                "hallway",
+                "red and white sign"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "this is down at the end of a long hallway. it is between two doors. it is black. it is the black door at the end of the hallway.",
+        "parsed_query": {
+            "Target": "black door",
+            "Anchor": [
+                "two doors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "4",
+        "target_name": "wardrobe",
+        "caption": "this is the tall  brown cabinet next to the blue plaid curtains. it is the wardrobe next to the window.",
+        "parsed_query": {
+            "Target": "tall brown cabinet",
+            "Anchor": [
+                "blue plaid curtains",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "36",
+        "target_name": "towel",
+        "caption": "this is the blue towel hanging betwen the sink and the toilet. it is on a bar.",
+        "parsed_query": {
+            "Target": "blue towel",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "unique": true
+    }
+]

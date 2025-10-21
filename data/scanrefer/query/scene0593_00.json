@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "21",
+        "target_name": "copier",
+        "caption": "there is a rectangular copier. it is to the right of a teal cabinet.",
+        "parsed_query": {
+            "Target": "rectangular copier",
+            "Anchor": [
+                "teal cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "21",
+        "target_name": "copier",
+        "caption": "there is a rectangular copier. it is to the left of a trash can.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "4",
+        "target_name": "window",
+        "caption": "thsi window is straight ahead. it is bright.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "24",
+        "target_name": "couch",
+        "caption": "this sofa is tan. it is smooth.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "27",
+        "target_name": "door",
+        "caption": "there is a rectangular brown cabinet. it is next to a gray trash can.",
+        "parsed_query": {
+            "Target": "rectangular brown cabinet",
+            "Anchor": "gray trash can"
+        },
+        "unique": false
+    }
+]

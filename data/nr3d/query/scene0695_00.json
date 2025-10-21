@@ -1,0 +1,160 @@
+[
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 22,
+        "caption": "the box away from the bed on the floor",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 0,
+        "caption": "It's the box directly next to the bed.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 22,
+        "caption": "This box is not directly by the bed.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 22,
+        "caption": "The box closest to the curtain.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "curtain"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 22,
+        "caption": "the box on the floor directly in front of the shelf",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 0,
+        "caption": "the brown chair by the bed and against wall",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 22,
+        "caption": "The camouflage backpack on top of the cardboard box.",
+        "parsed_query": {
+            "Target": "camouflage backpack",
+            "Anchor": "cardboard box"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 0,
+        "caption": "Behind the door and near to the bed",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 0,
+        "caption": "The box that is next to the bed",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 22,
+        "caption": "The box to the right of the laptop.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "laptop"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 22,
+        "caption": "The box near the window curtains",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "window curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 0,
+        "caption": "the box on the right of the bed. its closest",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 0,
+        "caption": "pick the box beside the bed",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": 0,
+        "caption": "The open box touching the bed frame.",
+        "parsed_query": {
+            "Target": "open box",
+            "Anchor": "bed frame"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "15",
+        "target_name": "bin",
+        "caption": "it is a grey bin with handles. it is sitting on the floor in front of the shelves. .",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is white and open. it is to the right of the shelves.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is white. it is under the counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "counter"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "20",
+        "target_name": "bucket",
+        "caption": "the bucket is white. it is to the right of the copier.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": [
+                "copier"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "16",
+        "target_name": "door",
+        "caption": "the door is light grey. it is to the left of the shelves.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelves"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "an office chair faces the wall. it's got it's back to us from this vantage point.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "a tv hangs from the wall. it's to the right of another tv just like it.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "a long table sits in the center of the room. it's got two tv's hanging on the wall closest to the far side of the table.",
+        "parsed_query": {},
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "a chair sits in a row of like chairs. it's second from the right in the line of chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "row of like chairs",
+                "line of chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "15",
+        "target_name": "door",
+        "caption": "it is a white door. the white door sits behind the table with chairs.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "unique": true
+    }
+]

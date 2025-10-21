@@ -1,0 +1,72 @@
+[
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "a long tall window to the left of the glass door. there is an \"exit\" sign at the bottom.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "glass door",
+                "exit sign"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "14",
+        "target_name": "washing_machines",
+        "caption": "the center row of washers that face the wall.  there is an orange bottle of soap on top of them.",
+        "parsed_query": {
+            "Target": "orange bottle",
+            "Anchor": [
+                "center",
+                "washers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "0",
+        "target_name": "vending_machine",
+        "caption": "a tall \"pepsi\" vending machine.  there is a snack vending machine to it's left and dryers on it's right.",
+        "parsed_query": {
+            "Target": "vending machine",
+            "Anchor": [
+                "snack vending machine",
+                "dryers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "a long skinny window beside the front door.  it has an \"exit\" sign at the bottom of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "front door",
+                "sign"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "31",
+        "target_name": "door",
+        "caption": "a glass swinging door.  it is the entrance to the room and has a floor mat in front of it.",
+        "parsed_query": {
+            "Target": "glass swinging door",
+            "Anchor": [
+                "entrance to the room",
+                "floor mat"
+            ]
+        },
+        "unique": false
+    }
+]

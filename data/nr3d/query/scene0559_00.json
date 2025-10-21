@@ -1,0 +1,172 @@
+[
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 12,
+        "caption": "If you are facing the whiteboard,  it's the bench on the left.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 12,
+        "caption": "Staring at the whiteboard with blue writing, it is the left side option under the table",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "table",
+                "left side",
+                "blue writing"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 13,
+        "caption": "If you face the whiteboard with writing, the bench is the one on the right side of the table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "whiteboard",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 12,
+        "caption": "if facing the whiteboard, it's the bench on your left",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 13,
+        "caption": "Full row on your right of the table",
+        "parsed_query": {
+            "Target": "full row",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 12,
+        "caption": "The bench furthest from the white closet.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "white closet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 12,
+        "caption": "Looking at the whiteboard, it is on the left.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 13,
+        "caption": "facing the tall whiteboard, the right bench",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "tall whiteboard"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 13,
+        "caption": "facing the whiteboard, the right bench",
+        "parsed_query": {
+            "Target": "right bench",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 12,
+        "caption": "The bench that is best hidden under the table. If looking directly at the whiteboard, it is the left bench.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "table",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 13,
+        "caption": "The bench nearest the white wall with the sockets on it.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "white wall with the sockets on it"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 12,
+        "caption": "bench under the plastic bag with something blue in it",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "plastic bag"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 13,
+        "caption": "Standing in the middle of the room looking at the white board, it's the bench on the right",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": 13,
+        "caption": "The bench on the right.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

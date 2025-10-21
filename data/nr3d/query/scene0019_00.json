@@ -1,0 +1,170 @@
+[
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 10,
+        "caption": "the door next to the trash bin",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 19,
+        "caption": "Its the wooden door with a vending machine to its left.",
+        "parsed_query": {
+            "Target": "wooden door",
+            "Anchor": [
+                "vending machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 19,
+        "caption": "the large brown door next to the vending machine",
+        "parsed_query": {
+            "Target": "large brown door",
+            "Anchor": "vending machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 10,
+        "caption": "It is the door across from the vending machine, next to the trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "vending machine",
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 19,
+        "caption": "Find the door that is closest to the vending machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "vending machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 10,
+        "caption": "The open door which is closest to the trash bin.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 19,
+        "caption": "door close to the vending machine",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "vending machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 10,
+        "caption": "the door currently open",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 10,
+        "caption": "the door closest to the trash can and directly across from the vending machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash can",
+                "vending machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 19,
+        "caption": "The door that is closest to the lamp and the vending machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "lamp",
+                "vending machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 19,
+        "caption": "the door closer to the vending machine",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "vending machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 10,
+        "caption": "the door farthest away from the vending machine",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "vending machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 19,
+        "caption": "door closer to the vending machine",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "vending machine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": 10,
+        "caption": "The door with a handle, closest to the garbage can and furthest from the vending machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "garbage can",
+                "vending machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

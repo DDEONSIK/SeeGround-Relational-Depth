@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0651_00",
+        "target_id": "25",
+        "target_name": "recycling_bin",
+        "caption": "this is a blue bin that is placed in the corner. it is in the area to the left of the sink and in front of a cabinet. .",
+        "parsed_query": {
+            "Target": "blue bin",
+            "Anchor": [
+                "sink",
+                "cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": "0",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter is white, and shaped like the letter l. it is located above the white cupboards, and to the left of the white stove.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "white cupboards",
+                "white stove"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": "20",
+        "target_name": "kitchen_cabinet",
+        "caption": "the cabinet with the white door facing forward.  it is just to the left of the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": "6",
+        "target_name": "stove",
+        "caption": "the stove directly ahead.  it is to the left of the refrigerator.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": [
+                "stove",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0651_00",
+        "target_id": "6",
+        "target_name": "stove",
+        "caption": "the gray stove directly ahead.  it is to the left of the refrigerator.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": [
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    }
+]

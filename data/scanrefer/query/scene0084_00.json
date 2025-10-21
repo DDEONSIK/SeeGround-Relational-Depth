@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0084_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser. it is above the sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": "40",
+        "target_name": "toilet_seat_cover_dispenser",
+        "caption": "this is a rectangular toilet seat cover dispenser. it is to the left of a silver bar on the wall.",
+        "parsed_query": {
+            "Target": "rectangular toilet seat cover dispenser",
+            "Anchor": [
+                "silver bar",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "this is a round trash can. it is under the counter top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "counter top"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is under the counter top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "counter top"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0084_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser. it is on the wall above the sink.",
+        "parsed_query": {
+            "Target": "white soap dispenser",
+            "Anchor": [
+                "wall",
+                "sink"
+            ]
+        },
+        "unique": false
+    }
+]

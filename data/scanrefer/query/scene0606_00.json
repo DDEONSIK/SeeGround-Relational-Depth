@@ -1,0 +1,74 @@
+[
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "the chair is west of the left-most table. the chair is dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "left-most table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "23",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is on the northwest side of the room. the sofa chair dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "northwest side of the room",
+                "dark brown",
+                "four legs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one that is next to the left-most table. the chair is dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "left-most table",
+                "left-most one",
+                "dark brown",
+                "four legs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is the south-most one on the left-most table. the chair is dark brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "left-most table",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "21",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is left of the clock. the sofa chair is dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "clock",
+                "clock"
+            ]
+        },
+        "unique": false
+    }
+]

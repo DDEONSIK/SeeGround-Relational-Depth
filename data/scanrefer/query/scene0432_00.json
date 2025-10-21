@@ -1,0 +1,67 @@
+[
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "1",
+        "target_name": "sofa_chair",
+        "caption": "this is a blue sofa chair. it is the second chair from the window.",
+        "parsed_query": {
+            "Target": "blue sofa chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "this is a brown coffee table. it is in front of two blue chairs.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "two blue chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "it is a blue sofa chair. it is diagonal to the coffee table.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "this is a blue sofa chair. it is against a yellow wall.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "yellow wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "it is a blue sofa chair. it is close to the glass door.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "glass door"
+            ]
+        },
+        "unique": false
+    }
+]

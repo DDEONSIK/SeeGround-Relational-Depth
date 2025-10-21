@@ -1,0 +1,1815 @@
+[
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 35,
+        "caption": "The office chair closest to the door.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 9,
+        "caption": "The keyboard closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 20,
+        "caption": "the suitcase closer to the window",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 3,
+        "caption": "The desk that is closest to the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 35,
+        "caption": "chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 20,
+        "caption": "face the whiteboard and then look at the suitcase in the center left beneath it.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 3,
+        "caption": "Black chair near the bottom",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 32,
+        "caption": "This wall-mounted shelf has just one monitor under it.",
+        "parsed_query": {
+            "Target": "wall-mounted shelf",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 28,
+        "caption": "the monitor is the white one",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 4,
+        "caption": "The desk closest to the brown door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 30,
+        "caption": "This floor-length shelf has a smaller white shelf on the floor next to it.",
+        "parsed_query": {
+            "Target": "floor-length shelf",
+            "Anchor": [
+                "smaller white shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 16,
+        "caption": "The recycling bin near the almost empty shelf",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "almost empty shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 9,
+        "caption": "The keyboard on the desk closer to the door, farther from the windows.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "door",
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 16,
+        "caption": "the blue trashcan in the  middle of the room",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 6,
+        "caption": "The office chair closest to the window.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 18,
+        "caption": "Suitcase nearest to the door",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 36,
+        "caption": "the file cabinet that is closest to the door",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 30,
+        "caption": "choose the shorter shelf next to the three shelf shelf up high.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "three shelf shelf up high"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 37,
+        "caption": "Facing the window, the trash can on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 24,
+        "caption": "The correct file cabinet is closer to the windows.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 0,
+        "caption": "The shelf closest to the door.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 14,
+        "caption": "The telephone on the black cabinet.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "black cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 4,
+        "caption": "computer desk with only one monitor",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "one monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 26,
+        "caption": "The correct keyboard is closest to the window.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 11,
+        "caption": "Its the singular computer monitor below three shelves.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "three shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 4,
+        "caption": "desk closest to the door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 18,
+        "caption": "The suitcase farther from the window.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 32,
+        "caption": "two boxes are far from the window. of those two, pick the farthest from the door.",
+        "parsed_query": {
+            "Target": "farthest box",
+            "Anchor": [
+                "two boxes",
+                "window",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 0,
+        "caption": "This shelf is closest to the door",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 18,
+        "caption": "The correct box is closer to the door.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 20,
+        "caption": "This suitcase is sitting closer to the window.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 11,
+        "caption": "The monitor not next to another monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 10,
+        "caption": "Choose the monitor that's closest to the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 6,
+        "caption": "chair in front of desk near window",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 36,
+        "caption": "The file cabinet is under the table near the door",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 26,
+        "caption": "The correct keyboard is the one closest to the window.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 18,
+        "caption": "The suitcase is the farthest away from the window. It is to the right of the other suitcase, it is also closest to the door.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": [
+                "window",
+                "other suitcase",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 24,
+        "caption": "The box under the window.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 24,
+        "caption": "The correct cabinet is the one closer to the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 14,
+        "caption": "find the telephone under the whiteboard",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 36,
+        "caption": "the file cabinet closest to the brown door",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 23,
+        "caption": "Find the shelving unit that is above dual monitors.",
+        "parsed_query": {
+            "Target": "shelving unit",
+            "Anchor": [
+                "dual monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 32,
+        "caption": "The correct shelf is the one that is above the desk that is closest to the door. It is not next to the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 10,
+        "caption": "The monitor closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 37,
+        "caption": "The trash can closest to the brown door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 3,
+        "caption": "The desk closest to the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 20,
+        "caption": "The suitcase closest to the window",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 28,
+        "caption": "The correct monitor is the one to the left of the white board.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 32,
+        "caption": "The shelf with a SINGLE computer monitor below it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "computer monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 14,
+        "caption": "Phone closest to a computer monitor",
+        "parsed_query": {
+            "Target": "phone",
+            "Anchor": [
+                "computer monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 30,
+        "caption": "standing on the floor next to the window",
+        "parsed_query": {
+            "Target": "standing",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 18,
+        "caption": "This backpack or luggage piece is next to a recycling bin.",
+        "parsed_query": {
+            "Target": "backpack or luggage piece",
+            "Anchor": "recycling bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 26,
+        "caption": "The keyboard on the desk that has two monitors.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 23,
+        "caption": "The shelf over the desk that has 2 flat screen monitors",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "2 flat screen monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 10,
+        "caption": "Monitor nearest to the windows",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 37,
+        "caption": "trash can closest to the brown door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 10,
+        "caption": "The monitor is next to another one and closest to the window",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "another monitor",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 4,
+        "caption": "The desk next to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 6,
+        "caption": "Windows are at the back of this gray office chair.",
+        "parsed_query": {
+            "Target": "back of gray office chair",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 16,
+        "caption": "the trash can further from the door, in front of the shelves.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 3,
+        "caption": "The desk furthest from the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 23,
+        "caption": "Choose the shelves that has dual computer monitors underneath it.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "dual computer monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 34,
+        "caption": "telephone on the corner table",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "corner table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 35,
+        "caption": "The office chair closest to the exit door and furthest from the window.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "exit door",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 28,
+        "caption": "It is the monitor closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 23,
+        "caption": "If you are facing the windows from the door, it is the shelf closest to the window on the right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 4,
+        "caption": "This desk is closest to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 30,
+        "caption": "standing at the door, the farthest shelf on the left side.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door",
+                "farthest"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 28,
+        "caption": "desk with two monitors, the one closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 26,
+        "caption": "The keyboard closer to the window with chair facing into the room toward the entrance",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "window",
+                "chair",
+                "entrance"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 34,
+        "caption": "This telephone is on a lighter brown desk.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 34,
+        "caption": "The telephone nearest the monitor with a black screen.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "monitor",
+                "black screen"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 11,
+        "caption": "solo monitor on the desk next to the door",
+        "parsed_query": {
+            "Target": "solo monitor",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 28,
+        "caption": "The monitor with the lighter screen of the two sitting side by side.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 0,
+        "caption": "the shelf is to the left beside the door",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 9,
+        "caption": "The keyboard on the desk closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 4,
+        "caption": "The desk closest to the door, that has only one computer monitor on it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door",
+                "computer monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 37,
+        "caption": "Trash can underneath desk",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 20,
+        "caption": "Standing in the middle of the room looking at both suitcases, it's the one on the left.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": [
+                "suitcase"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 32,
+        "caption": "The shelves over the desk with only one computer monitor.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "desk",
+                "computer monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 9,
+        "caption": "It is the keyboard closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 35,
+        "caption": "the office chair furthest away from the window, closest to the doorway",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "window",
+                "doorway"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 10,
+        "caption": "There is one desk that holds two monitors next to each other. If you were working at that desk, the monitor you want is located on the left (closer to the window).",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 36,
+        "caption": "Choose the filing cabinet under the desk with one computer monitor and small yellow post its.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": [
+                "desk",
+                "one computer monitor",
+                "small yellow post its"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 6,
+        "caption": "The chair behind the desk closest to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 9,
+        "caption": "Choose the keyboard on the desk that is the furthest distance away from the window.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 34,
+        "caption": "The telephone that is on the brown desk and is next to the computer monitor.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "brown desk",
+                "computer monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 6,
+        "caption": "Choose the office chair sitting at the desk by the window.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 20,
+        "caption": "The suitcase that is further from the door",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 30,
+        "caption": "From the door its on the back left",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 35,
+        "caption": "Find the office chair closes to the door.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 37,
+        "caption": "The trash can closest to the exit door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "exit door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 11,
+        "caption": "Choose the single monitor on the desk by the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 35,
+        "caption": "When you enter the office through the door it is the first chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "office"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 16,
+        "caption": "When standing in the middle of the room facing the door, the correct trash can is on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "middle"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 24,
+        "caption": "file cabinet beside the roller office chair",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "roller office chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 6,
+        "caption": "It is the chair by the desk that is closest to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 16,
+        "caption": "trash can under the shelf with the brown box",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "shelf",
+                "brown box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 0,
+        "caption": "These shelves are closest to the door.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 32,
+        "caption": "when you walk through the door, the first shelf on the left",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 14,
+        "caption": "The correct telephone is on the black desk.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": "black desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 26,
+        "caption": "keyboard closest to the window",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 37,
+        "caption": "click the trash can nearest the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 34,
+        "caption": "The dark phone next to the monitor.",
+        "parsed_query": {
+            "Target": "dark phone",
+            "Anchor": "monitor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 14,
+        "caption": "The telephone on the black cabinet, underneath the white board.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "black cabinet",
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 34,
+        "caption": "The smaller telephone on the table",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 6,
+        "caption": "the office chair on the desk that has a window above it",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 11,
+        "caption": "Monitor by itself closest to the door",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 18,
+        "caption": "iit is the suitcase closest to the brown door",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 10,
+        "caption": "monitor closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 9,
+        "caption": "the keyboard further from the windows",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 24,
+        "caption": "The file cabinet that is under the desk that is next to the window.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 18,
+        "caption": "The suitcase closest to the door.",
+        "parsed_query": {
+            "Target": "suitcase",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 24,
+        "caption": "The correct cabinet is farthest from the door and closest to the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "door",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 26,
+        "caption": "It is the keyboard closer to the window.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 23,
+        "caption": "facing the window, far right  shelf",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window",
+                "far right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 37,
+        "caption": "The trash can closest to the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 0,
+        "caption": "These shelves are closest to the door.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 36,
+        "caption": "The correct cabinet is farthest from the window, closest to the door and under the corner desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window",
+                "door",
+                "corner desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 3,
+        "caption": "the desk right next to the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 4,
+        "caption": "choose the desk closes to the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 20,
+        "caption": "facing the suitcases, left",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 10,
+        "caption": "The monitor closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 11,
+        "caption": "The correct monitor is closest to the door and is NOT beside another monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 11,
+        "caption": "monitor closest to the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 16,
+        "caption": "facing the door, left trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 30,
+        "caption": "Facing the window, the shelf in the upper left corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 32,
+        "caption": "When facing the door, it's the shelf above the desk on the right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 24,
+        "caption": "Select the cabinet that is under the desk closest to the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 3,
+        "caption": "The desk closer to the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 28,
+        "caption": "there are two computer monitors right next to each other, you want the one closest to the whiteboard on the wall",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 23,
+        "caption": "shelf above the computer desk with two monitors",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "computer desk",
+                "two monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 14,
+        "caption": "Choose the telephone on the smaller, darker desk.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "smaller",
+                "darker desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 0,
+        "caption": "The shelves closest to the door.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 23,
+        "caption": "White shelves with nothing on the top two shelves mounted above a desk",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 28,
+        "caption": "The object is the computer monitor with a white screen.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 36,
+        "caption": "the cabinet is located underneath the dark brown computer desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "computer desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 34,
+        "caption": "The device on the desk to the right of the monitor.",
+        "parsed_query": {
+            "Target": "device",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 9,
+        "caption": "The keyboard closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 35,
+        "caption": "Choose the chair that is closest to the door, *not* the chair that's closest to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 26,
+        "caption": "one on the desk near the most clutter.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "most clutter"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 14,
+        "caption": "The white pad under the whiteboard on a black shelf",
+        "parsed_query": {
+            "Target": "white pad",
+            "Anchor": [
+                "whiteboard",
+                "black shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 3,
+        "caption": "Find the desk that is further away from the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 30,
+        "caption": "The shelf on the left closest to the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 36,
+        "caption": "The correct file cabinet is under the corner desk.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "corner desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 0,
+        "caption": "The correct shelf is closest to the door.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0663_00",
+        "target_id": 16,
+        "caption": "The correct trash can is a recycling bin next to the back pack. It is NOT near the chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "recycling bin",
+                "back pack"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

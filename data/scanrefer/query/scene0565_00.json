@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0565_00",
+        "target_id": "22",
+        "target_name": "cart",
+        "caption": "this cart is on the right side. it is brown.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "right side"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": "22",
+        "target_name": "cart",
+        "caption": "this cart is on the right side. it is second from viewer.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "viewer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": "24",
+        "target_name": "chair",
+        "caption": "this chair is facing viewer. it is green.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "this chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": "36",
+        "target_name": "shelf",
+        "caption": "this shelf is on the other side. it is on the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0565_00",
+        "target_id": "35",
+        "target_name": "shelf",
+        "caption": "this shelf is disfigured. it is tan.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

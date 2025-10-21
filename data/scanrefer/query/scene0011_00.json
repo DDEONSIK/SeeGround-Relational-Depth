@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0011_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a dark brown wooden and leather chair. placed in the table of the kitchen.",
+        "parsed_query": {
+            "Target": "dark brown wooden and leather chair",
+            "Anchor": [
+                "table",
+                "kitchen"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "there is a brown wooden chair. placed beside other chairs in the middle of the kitchen.",
+        "parsed_query": {
+            "Target": "brown wooden chair",
+            "Anchor": [
+                "chairs",
+                "middle of the kitchen"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there is a dark brown chair. brown leather and placed in he kitchen table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "kitchen table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": "1",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are brwon wooden cabinets. placed on the side of the kitchen.",
+        "parsed_query": {
+            "Target": "brown wooden cabinets",
+            "Anchor": "kitchen"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0011_00",
+        "target_id": "18",
+        "target_name": "tv",
+        "caption": "there is a black square tv. placed on the wall of the kitchen.",
+        "parsed_query": {
+            "Target": "black square tv",
+            "Anchor": "wall of the kitchen"
+        },
+        "unique": true
+    }
+]

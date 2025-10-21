@@ -1,0 +1,894 @@
+[
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 13,
+        "caption": "It is the towel on the wall closest to the mirror.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "wall",
+                "mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 13,
+        "caption": "The correct towel is on the wall with the three towels, it is the one farthest from the door, on the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "three towels",
+                "wall",
+                "door",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 9,
+        "caption": "Very tall with a chrome knob.",
+        "parsed_query": {
+            "Target": "drawer",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 27,
+        "caption": "Small window to the right of the door and not at the sink",
+        "parsed_query": {
+            "Target": "small window",
+            "Anchor": [
+                "door",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 10,
+        "caption": "The door on the opposite side of the sink",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 7,
+        "caption": "the shoes closest to the door",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 24,
+        "caption": "in the row of three, the towel closest to the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "row of three",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 5,
+        "caption": "This towel is the only one NOT hung up with the other towels. It is sitting to the right of the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 10,
+        "caption": "The door away from the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 25,
+        "caption": "The target towel is the middle one to the left of the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 7,
+        "caption": "The shoes that are closer to the door with the large silver handle.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door",
+                "large silver handle"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 23,
+        "caption": "the shoes further away from the door",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 10,
+        "caption": "The main door on the left wall.",
+        "parsed_query": {
+            "Target": "main door",
+            "Anchor": [
+                "left wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 10,
+        "caption": "The box showing the door handle portion of door only",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 26,
+        "caption": "The larger of the two window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 7,
+        "caption": "These shoes are closest to a door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 13,
+        "caption": "The lamp close to the wall where door is located, closest to mirror",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "door",
+                "mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 24,
+        "caption": "The first white towel on the left that is farthest from the mirror and closest to the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "mirror",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 23,
+        "caption": "the pair of shoes nearest to the bench",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "bench"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 5,
+        "caption": "the towel on the right side of the counter next to the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "counter",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 25,
+        "caption": "Find the 3 towels on one wall, it's the middle one",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 5,
+        "caption": "The towel by itself.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 5,
+        "caption": "It is the disheveled pile of towels to the right of the sink.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 5,
+        "caption": "The crumpled up towels on the right side of the sink.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 25,
+        "caption": "It's the middle towel out of the 3 that's all beside each other, disregard the only towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 25,
+        "caption": "The middle towel on the left side of the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 26,
+        "caption": "The object is where a mirror would typically go above the counter with the sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "counter with the sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 23,
+        "caption": "the shoes nearest to the door with the vent above it",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door",
+                "vent"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 24,
+        "caption": "the towel and wash cloth closest to the door near the bench",
+        "parsed_query": {
+            "Target": "wash cloth",
+            "Anchor": [
+                "towel",
+                "door",
+                "bench"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 26,
+        "caption": "mirror above the sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 24,
+        "caption": "the white towels closest to the door",
+        "parsed_query": {
+            "Target": "white towels",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 27,
+        "caption": "Choose the small square across from the phone outside the bathroom.",
+        "parsed_query": {
+            "Target": "small square",
+            "Anchor": [
+                "phone",
+                "bathroom"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 27,
+        "caption": "The window, NOT the mirror.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 26,
+        "caption": "The large, horizontal mirror.",
+        "parsed_query": {
+            "Target": "large, horizontal mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 26,
+        "caption": "The long mirror above the sink.",
+        "parsed_query": {
+            "Target": "long mirror",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 23,
+        "caption": "The shoes closest to the bench.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "bench"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 10,
+        "caption": "Door under an air vent next to the sink and mirror",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "air vent",
+                "sink",
+                "mirror"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 7,
+        "caption": "Choose the shoes closest to the door with the locks.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door",
+                "locks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 9,
+        "caption": "tall door with yellow note",
+        "parsed_query": {
+            "Target": "tall door",
+            "Anchor": "yellow note"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 27,
+        "caption": "Locate the smaller mirror that is closer to the ground.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "ground"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 10,
+        "caption": "The lower, smaller door furthest from the counter top.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "counter top"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 13,
+        "caption": "towel to the left of the sink, closest to the mirror.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink",
+                "mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 5,
+        "caption": "the towels are sitting on the sink, not hanging up",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "sink",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 9,
+        "caption": "If you were standing at the sink and looking in the mirror, this door would be located next to your left hand.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "sink",
+                "mirror"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 24,
+        "caption": "The towel hanging closest to the narrow white door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "narrow white door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 24,
+        "caption": "towel closest to the door on the left side of the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "door",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 5,
+        "caption": "the crumpled up towel",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 27,
+        "caption": "The smaller, lower mirror.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 25,
+        "caption": "group of 3 towels, the one in the middle.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 9,
+        "caption": "The door with a vent over it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "vent"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 13,
+        "caption": "The towel on the left closest to the mirrior",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 7,
+        "caption": "Select the shoes closest to the door that is on the wall opposite the sink.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "door",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 26,
+        "caption": "The mirror above the sink.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 23,
+        "caption": "facing the shoes, right",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 9,
+        "caption": "Looking for a white door with two brown papers on it, it also have a circle door knob.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "brown papers",
+                "circle door knob"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 23,
+        "caption": "These shoes are closest to the low bench/table.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "low bench/table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 10,
+        "caption": "Door with the bigger door knob",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 7,
+        "caption": "The shoes closest to the door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 25,
+        "caption": "the hanging towel that has a towel on each side of it",
+        "parsed_query": {
+            "Target": "hanging towel",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 9,
+        "caption": "it is the tall narrow door with a sign on it",
+        "parsed_query": {
+            "Target": "tall narrow door",
+            "Anchor": [
+                "sign"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 13,
+        "caption": "It is the towel that is hanging on the same wall as the door and farthest from the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 9,
+        "caption": "Select the door closest to the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 27,
+        "caption": "Looking for a mirror, its closest to the floor, in front of it is a small door with two brown pieces of paper on it",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "small door",
+                "brown pieces of paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 26,
+        "caption": "The biggest mirror in room above bathroom sink",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "bathroom sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 25,
+        "caption": "This is the central of three towels on the wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel",
+                "towel",
+                "towel"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 13,
+        "caption": "The towel hanging closest to the mirror.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "mirror"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 27,
+        "caption": "The object you are looking for is a mirror. The mirror is NOT the one over the sink. The mirror you are looking for is on the wall.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 7,
+        "caption": "I am a box of shoes farthest from the sink.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 23,
+        "caption": "The box almost under the bench furthest from the door",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "bench",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": 24,
+        "caption": "Third towel AWAY from the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

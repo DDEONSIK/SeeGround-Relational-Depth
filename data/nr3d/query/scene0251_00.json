@@ -1,0 +1,1319 @@
+[
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 16,
+        "caption": "There are no chairs at this rectangular table.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 17,
+        "caption": "The table in the shape of a half circle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 8,
+        "caption": "The light gray bin closes to the side door. It is by itself, has plates in it.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "side door",
+                "side door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 11,
+        "caption": "Find the cylindrical trash can with a blue bag that is touching the pair of rectangular trashcans.",
+        "parsed_query": {
+            "Target": "cylindrical trash can",
+            "Anchor": [
+                "pair of rectangular trashcans"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 11,
+        "caption": "the bin in the corner, third bin in the wall",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "third bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 10,
+        "caption": "Facing the three cans on the far wall, the middle can.",
+        "parsed_query": {
+            "Target": "cans",
+            "Anchor": [
+                "three cans",
+                "far wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 8,
+        "caption": "the trashcan closest to the long table",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "long table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 11,
+        "caption": "The blue bin in the corner of the 4.",
+        "parsed_query": {
+            "Target": "blue bin",
+            "Anchor": [
+                "corner of the"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 7,
+        "caption": "This chair faces two rectangular tables against a wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two rectangular tables",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 21,
+        "caption": "The correct window is wider and has a table with two chairs by it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 13,
+        "caption": "The door to the left of the two long tables.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "two long tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 21,
+        "caption": "The window on the opposite side of the other windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 12,
+        "caption": "It is the trash can directly next to the open door, on a wall with three trash cans.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "open door",
+                "wall with three trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 8,
+        "caption": "The trashcan with a white bag on it",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "white bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 19,
+        "caption": "Window across round table closest to the light coloured cabinet",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "round table",
+                "light coloured cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 19,
+        "caption": "looking at the group of two windows, the window on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "group of windows",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 12,
+        "caption": "When standing in the middle of the room facing the trash cans, the correct one is on the far left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 8,
+        "caption": "When standing in the middle of the room facing the trash cans, the correct one is on the far right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 12,
+        "caption": "The trashcan closest to the open door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "open door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 10,
+        "caption": "Its the dark gray wastebasket with a blue bagged basket to its immediate right.",
+        "parsed_query": {
+            "Target": "dark gray wastebasket",
+            "Anchor": [
+                "blue bagged basket"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 16,
+        "caption": "Its the rectangular wood table with a white bookshelf to its right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 9,
+        "caption": "waste can with a blue liner setting nearest to the trash can that is overflowing with plates and bowls",
+        "parsed_query": {
+            "Target": "waste can with a blue liner",
+            "Anchor": [
+                "trash can",
+                "overflowing with plates and bowls"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "Pick the window that spans the two tables which sit below it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 10,
+        "caption": "second trash can away from open door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "open door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 16,
+        "caption": "the table in front of a floor cabinet",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "floor cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 15,
+        "caption": "Choose the emergency door with a bar across it.",
+        "parsed_query": {
+            "Target": "emergency door",
+            "Anchor": "bar"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 10,
+        "caption": "The trash can that is in between another trash can and a smaller trash can with a blue bag.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "another trash can",
+                "smaller trash can with a blue bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 11,
+        "caption": "The trash can in the corner with the blue bag",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "blue bag"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 21,
+        "caption": "This window is located behind the table and the two chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 17,
+        "caption": "The half-circle table.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 6,
+        "caption": "the chair facing towards the middle of the room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 14,
+        "caption": "The correct door is the one that is beside the two grey, rectangular waste bins.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "waste bins"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 8,
+        "caption": "the lighter one on its own that is full",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 9,
+        "caption": "Second one round from the open door",
+        "parsed_query": {
+            "Target": "round",
+            "Anchor": "open door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "Face the set of two windows above the long tables. choose the window on your left side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "two windows",
+                "long tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 14,
+        "caption": "choose the tall object on the other side of the doorway.",
+        "parsed_query": {
+            "Target": "tall object",
+            "Anchor": "doorway"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 13,
+        "caption": "the open brown door next to the grey trashcan",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "grey trashcan"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 19,
+        "caption": "the monitor is closest to the white door",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "white door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 13,
+        "caption": "Choose the open door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "The small window next to the open door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "open door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 17,
+        "caption": "The table is the one with wooden armed chairs next to it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wooden armed chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 15,
+        "caption": "The closed white door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 19,
+        "caption": "When looking at the two windows that are next to each other, pick the on on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 11,
+        "caption": "Looking at the three trash cans that are lined up, its the trash can on the right, kinda in the corner.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 6,
+        "caption": "Wooden chair at the round table facing the doorway and on side closest to artworks on the wall",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "round table",
+                "doorway",
+                "artworks on the wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 12,
+        "caption": "Of the three trash cans side by side, the one on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "The window (on the side with two windows) that is closest to the trash cans.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 9,
+        "caption": "The blue trash bag to the right, closest to the edge of the connecting wall with another can.",
+        "parsed_query": {
+            "Target": "trash bag",
+            "Anchor": [
+                "connecting wall",
+                "can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 7,
+        "caption": "Chair nearest to the trash can",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "The window is closer to the trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 14,
+        "caption": "The open door on the shortest wall",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "shortest wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 17,
+        "caption": "this table is a half circle with two chairs",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 19,
+        "caption": "Across from the moon shaped table, look directly in front of it to the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "moon shaped table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 7,
+        "caption": "Choose the chair closest to the exit door with a long metal handle across it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "exit door",
+                "metal handle"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 11,
+        "caption": "The trash can in the corner with the blue bag.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "corner, blue bag"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 21,
+        "caption": "The longest window above the table and two chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 6,
+        "caption": "Facing the chairs, this is the one on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 17,
+        "caption": "The half circular table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 6,
+        "caption": "facing the half table, the left chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "half table"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 13,
+        "caption": "The door next to the rectangular trash bin with the white bag that is completely full.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "rectangular trash bin",
+                "white bag",
+                "completely full"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 15,
+        "caption": "The white door with the long metal bar on it.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": "metal bar"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 14,
+        "caption": "select the door on the back wall that is open",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "back wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 12,
+        "caption": "trash can closest to door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 17,
+        "caption": "The table in the shape of a half circle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 9,
+        "caption": "pick the trash can with the blue trash bag that is not in the corner.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue trash bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 11,
+        "caption": "The trashcan with the blue liner that's directly next to the two trashcans with beige liners.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "trashcan",
+                "trashcan"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 7,
+        "caption": "Facing the chair, the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 13,
+        "caption": "the door between grey trash can and two folding tables",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "grey trash can",
+                "two folding tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 15,
+        "caption": "it is the open brown door at the end of the room, next to the trash cans",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": [
+                "trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 12,
+        "caption": "The trashcan next to the open doorway.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "open doorway"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 7,
+        "caption": "chair facing the two tables",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "When facing the two windows choose the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 13,
+        "caption": "When standing in the middle of the room facing the recycling bins, the correct door is on the far right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "recycling bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 16,
+        "caption": "the rectangular table",
+        "parsed_query": {
+            "Target": "rectangular table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 14,
+        "caption": "It is the open door next to the closed door.",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": "closed door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 7,
+        "caption": "Facing the chairs, the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 19,
+        "caption": "The window on the right across from the table and chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 15,
+        "caption": "Facing the side with 2 doors, the door on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "side with 2 doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 14,
+        "caption": "The open door by the trash cans, leading into a room with white flooring.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash cans",
+                "room",
+                "white flooring"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 16,
+        "caption": "Facing the exit door, the table on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "exit door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 16,
+        "caption": "The table that is shaped like a rectangle",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 10,
+        "caption": "group of trash cans on the wall, the middle black one",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": [
+                "trash can",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 8,
+        "caption": "The trashcan sitting on its own, beside the door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 17,
+        "caption": "it is the table in the shape of a semicircle",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 21,
+        "caption": "The window above the round table with two chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "round table",
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 9,
+        "caption": "The trash can has a blue bag near the edge of the wall",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue bag",
+                "edge of the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 21,
+        "caption": "The side with the sole window.",
+        "parsed_query": {
+            "Target": "side",
+            "Anchor": [
+                "sole window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 8,
+        "caption": "Facing the two tables the trashcan on the left by itself. Closest to the door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "two tables",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 12,
+        "caption": "Of the four bins together, the black one furthest from the two blue bins.",
+        "parsed_query": {
+            "Target": "black bin",
+            "Anchor": [
+                "two blue bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 15,
+        "caption": "select the door with the bar across it",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bar"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "If you are looking directly at the windows the window is the one closest to the trashcan on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "trashcan"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 18,
+        "caption": "click the window closest to the trash can",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "trash can"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 21,
+        "caption": "The very long window opposite the two smaller windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "two smaller windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 7,
+        "caption": "Facing the chairs select the chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 19,
+        "caption": "Select the window that is closer to the white cabinet that has 4 drawers.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "white cabinet",
+                "4 drawers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 10,
+        "caption": "Its the rectangular trash ca in between another rectangular trash can a cylindrical one",
+        "parsed_query": {
+            "Target": "rectangular trash can",
+            "Anchor": [
+                "another rectangular trash can",
+                "cylindrical one"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 16,
+        "caption": "The rectangular table.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 13,
+        "caption": "When standing in the middle of the room facing the recycling bins, the correct door is on the far right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "recycling bins"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 14,
+        "caption": "the open door next to the trash cans leading to the outside",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": [
+                "trash cans"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 6,
+        "caption": "Choose the chair that is facing the trashcans.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "trashcans"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 9,
+        "caption": "Of the 2 bins with blue bags, the bin not in the corner.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "blue bags",
+                "not in corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 6,
+        "caption": "If facing the table with the chairs, the chair on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 6,
+        "caption": "look for the table, then look at chairs next to table, pick chair facing table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 15,
+        "caption": "the door with the metal release on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "metal release"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 10,
+        "caption": "The second bin, under the wall lights. two in.",
+        "parsed_query": {
+            "Target": "second bin",
+            "Anchor": [
+                "wall lights"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": 9,
+        "caption": "blue bin that's NOT in the row of 3.",
+        "parsed_query": {
+            "Target": "blue bin",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

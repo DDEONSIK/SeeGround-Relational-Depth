@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0095_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "chose the chair at the end of the table which is closest to you . it is on the right side of the table end and has a computer terminal in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table end",
+                "computer terminal"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": "29",
+        "target_name": "keyboard",
+        "caption": "go to the left side of the table closest to you. choose the computer keyboard of the first computer on the long side.",
+        "parsed_query": {
+            "Target": "computer keyboard",
+            "Anchor": [
+                "left side of the table",
+                "first computer on the long side"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": "26",
+        "target_name": "keyboard",
+        "caption": "choose the keyboard of the first computer on the right, long side of the table. it is on the window side of the table.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "first computer",
+                "long side of the table",
+                "window side of the table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "it is a wooden desk chair. the chair is the last on on the left side of the table.",
+        "parsed_query": {
+            "Target": "wooden desk chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0095_00",
+        "target_id": "31",
+        "target_name": "chair",
+        "caption": "it is a wooden desk chair. it is the chair that is second to last on the right side of the table.",
+        "parsed_query": {
+            "Target": "wooden desk chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    }
+]

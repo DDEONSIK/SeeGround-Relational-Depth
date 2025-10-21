@@ -1,0 +1,194 @@
+[
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 13,
+        "caption": "Choose the whiteboard with the two switchplates on the left of it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "switchplates"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 13,
+        "caption": "The whiteboard next to the light switches on the wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "light switches",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 13,
+        "caption": "the box behind three chairs at the table, a large dark screen will be on the left",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "three chairs",
+                "table",
+                "large dark screen"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 14,
+        "caption": "The whiteboard on the side of the room with three chairs.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "side of the room",
+                "three chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 14,
+        "caption": "One of the whiteboards has two light switches next to it, choose the other one. If you stand at the end of the table it is the one to your right.",
+        "parsed_query": {
+            "Target": "light switch",
+            "Anchor": [
+                "whiteboards",
+                "end of the table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 14,
+        "caption": "The whiteboard behind two chairs at the table and a chair to the right almost in the corner.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "chairs",
+                "table",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 14,
+        "caption": "The whiteboard near the chair in the corner",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 13,
+        "caption": "looking at the wall with tv from the end of the table, the whiteboard on the right.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall with tv",
+                "end of the table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 14,
+        "caption": "Looking for a whiteboard, in front of it are three black chairs mostly under the table, to the side of it is a chair in the corner",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "black chairs",
+                "table",
+                "chair",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 13,
+        "caption": "looking at the tv from the end of the table, the whiteboard on the right side.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "tv",
+                "end of the table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 13,
+        "caption": "If facing this white board the chairs at the table will be in this order from left to right. The one on the left will be pushed in and the other two chairs will be pushed out close to the white board.",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 14,
+        "caption": "The smaller of the whiteboards.",
+        "parsed_query": {
+            "Target": "whiteboards",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 14,
+        "caption": "The correct whiteboard has chairs in front of it that are more messy and less aligned than the other.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": 13,
+        "caption": "The whiteboard in the bottom left corner.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "bottom left corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

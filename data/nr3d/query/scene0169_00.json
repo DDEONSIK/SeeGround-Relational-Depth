@@ -1,0 +1,351 @@
+[
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 26,
+        "caption": "position the room so you face the bank of 7 gray chairs on the back wall, choose the cabinet in the back left corner",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "7 gray chairs",
+                "back wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 14,
+        "caption": "The window farthest from the large table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "large table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 14,
+        "caption": "The window with a trashcan right in front of it",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 26,
+        "caption": "The smaller cabinet.",
+        "parsed_query": {
+            "Target": "smaller cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 12,
+        "caption": "The wooden desk directly below the painting.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "painting"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 12,
+        "caption": "This is the much larger rectangular cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 14,
+        "caption": "The window that reaches the floor.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 26,
+        "caption": "The cabinet on the left end of the long row of chairs.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "long row of chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 28,
+        "caption": "When facing the row of grey chairs, the window that is over the chairs on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "row of grey chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 28,
+        "caption": "The window at the end of the grey line of chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "grey line",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 12,
+        "caption": "The largest of the tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 14,
+        "caption": "the wall behind the grey receptacle",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "grey receptacle"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 26,
+        "caption": "the cabinet in the corner of two walls on the left side of the red chair along the wall",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "red chair",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 28,
+        "caption": "the window above the row of chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "row of chairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 12,
+        "caption": "It is the large cabinet on the wall under the apinting.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "painting"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 26,
+        "caption": "Choose the smaller cabinet that sits at the end of the row of grey chairs.",
+        "parsed_query": {
+            "Target": "smaller cabinet",
+            "Anchor": [
+                "end",
+                "row",
+                "grey chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 28,
+        "caption": "The window above the end of the row of chairs against the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "end",
+                "row",
+                "chairs",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 12,
+        "caption": "The long table next to the wall near a picture",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": [
+                "wall",
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 28,
+        "caption": "window above a row of chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "row of chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 28,
+        "caption": "the window by the row of chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "row of chairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 12,
+        "caption": "There is a blue and yellow painting above this cabinet",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 14,
+        "caption": "window behind the garbage can",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "garbage can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 14,
+        "caption": "The interior window behind the gray trashcan",
+        "parsed_query": {
+            "Target": "interior window",
+            "Anchor": [
+                "gray trashcan"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 26,
+        "caption": "Small square cabinet in the corner, with a chair in front of it.",
+        "parsed_query": {
+            "Target": "small square cabinet",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 12,
+        "caption": "Find the shorter of the yellowish rectangle objects with the a painting on the wall next to it.",
+        "parsed_query": {
+            "Target": "yellowish rectangle",
+            "Anchor": "painting"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 26,
+        "caption": "The smaller cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 14,
+        "caption": "The correct window has a grey waste bin in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "grey waste bin"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0169_00",
+        "target_id": 28,
+        "caption": "The correct window has grey chairs in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chairs"
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

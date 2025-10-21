@@ -1,0 +1,272 @@
+[
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "Pick the cup in the center.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 3,
+        "caption": "The white/beige cup furthest from the sink and closest to the toilet.",
+        "parsed_query": {
+            "Target": "white/beige cup",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 3,
+        "caption": "When looking at counter, choose the cup on the farthest to the left.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "counter"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "The target is the middle of the three cups.",
+        "parsed_query": {
+            "Target": "middle of the three cups",
+            "Anchor": [
+                "first cup",
+                "second cup",
+                "third cup"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 19,
+        "caption": "You are looking for the cups nearest to the sink basin.",
+        "parsed_query": {
+            "Target": "cups",
+            "Anchor": [
+                "sink basin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 19,
+        "caption": "Facing the bathroom sink, the rightmost cup.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "bathroom sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 19,
+        "caption": "The cup that is the closest to the sink.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "The cup in the middle",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 19,
+        "caption": "cup closest to the sink",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 3,
+        "caption": "The toothbrush holder furthest away from sink",
+        "parsed_query": {
+            "Target": "toothbrush holder",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "The cup in the middle of the other 2 cups.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "cup"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 3,
+        "caption": "The cup you want to choose is the one that is furthest away from the sink.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 3,
+        "caption": "The cup closest to the toilet.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 3,
+        "caption": "if facing the cups the one on your left. furthest from the sink",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 19,
+        "caption": "the cup closest to the sink",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 19,
+        "caption": "Standing in the middle of the room looking at all 3 cups, it's the cup on the right",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "cups"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 3,
+        "caption": "The cup that is most to the left when facing the counter. Also, farthest from the sink.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "counter",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "Pick the cup that is in the middle.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "The cup sitting in the middle near the sink.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 19,
+        "caption": "the cup closest to the sink itself",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "If you are facing the sink there are 3 cups to the left of the sink, you need to select the middle cup.",
+        "parsed_query": {
+            "Target": "middle cup",
+            "Anchor": [
+                "sink",
+                "cups"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": 18,
+        "caption": "The cup is the lone light blue cup in between the cream cup and teal cup.",
+        "parsed_query": {
+            "Target": "cup",
+            "Anchor": [
+                "cream cup",
+                "teal cup"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

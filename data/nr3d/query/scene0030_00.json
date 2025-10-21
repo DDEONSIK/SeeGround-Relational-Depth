@@ -1,0 +1,1810 @@
+[
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 2,
+        "caption": "The chair that's tucked right into the table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "The shorter bookcase between the two taller bookcases.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "taller bookcase",
+                "taller bookcase"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 49,
+        "caption": "It is the table that is along the same wall as the two windows and has books and papers stacked on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 47,
+        "caption": "The correct table is the brown one closest to the reclining chair in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "reclining chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 20,
+        "caption": "find the bookshelf in the corner that is next to the door",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "The short bookshelf in between the two tall bookshelves",
+        "parsed_query": {
+            "Target": "short bookshelf",
+            "Anchor": [
+                "tall bookshelf 1",
+                "tall bookshelf 2"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 50,
+        "caption": "the small white table farthest from the windows and it is touching the wall with two chairs which is in front of a green chalk board.",
+        "parsed_query": {
+            "Target": "small white table",
+            "Anchor": [
+                "two chairs",
+                "green chalk board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 20,
+        "caption": "smaller cabinet to the right of the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 18,
+        "caption": "When facing the wall of bookshelves, choose the box to the  left.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "wall of bookshelves"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 51,
+        "caption": "The table closest to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "Facing the four shelves, the shelf second from the left.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "four shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 51,
+        "caption": "When facing the windows, this table is on the right by the yellow shelving, and further from the windows.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "windows",
+                "yellow shelving"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 21,
+        "caption": "This is the longer blackboard with a row of tables facing it.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": "tables"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 1,
+        "caption": "On the side with two chairs, the chair not pushed in.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 2,
+        "caption": "The brown chair next to the blue chair facing the blackboard.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "blue chair",
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 25,
+        "caption": "three stacked boxes, pick one on top, closest to ceiling, furthest from floor",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "three stacked boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 48,
+        "caption": "The empty brown table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 47,
+        "caption": "The smaller dark brown desk in front of chalkboard",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 26,
+        "caption": "The medium sized window closest to the green chalkboard.",
+        "parsed_query": {
+            "Target": "medium sized window",
+            "Anchor": "green chalkboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 22,
+        "caption": "The green chalkboard on the wall closest to the door.",
+        "parsed_query": {
+            "Target": "green chalkboard",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 23,
+        "caption": "object is the book on the very bottom",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 26,
+        "caption": "The window closest to the chalk board",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chalk board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 23,
+        "caption": "The correct books are on the ground.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 23,
+        "caption": "The lowest box of books.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 48,
+        "caption": "The table that is slightly closest to the book shelves",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "book shelves"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 50,
+        "caption": "choose the table closest to the chalkboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chalkboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 48,
+        "caption": "When looking at the shelves of books, this table runs parallel to the shelves and is on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "shelves of books"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 51,
+        "caption": "The table closest to the white door with a black handle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white door",
+                "black handle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "a short bookshelf which is tan in color and has three compartments to hold books or other items and things can be displayed or stored on the top of the unit.",
+        "parsed_query": {
+            "Target": "short bookshelf",
+            "Anchor": [
+                "tan",
+                "three compartments"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 24,
+        "caption": "the middle shelf in the corner full of books",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "corner",
+                "full of books"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 58,
+        "caption": "the window in the middle",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 48,
+        "caption": "The correct table is the smallest one with the light brown top that is by the bookshelf and the window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bookshelf",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 24,
+        "caption": "The 3 tier shelf by door it's the middle portion of it",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door",
+                "middle portion"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 18,
+        "caption": "Choose the bookcase on the far left.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 19,
+        "caption": "The cabinet in the corner farthest away from the door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "entrance door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 27,
+        "caption": "When standing in the middle of the room facing the windows the correct one is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 17,
+        "caption": "The tall bookshelf directly to the left of the door.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 0,
+        "caption": "Face the door at the opposite end of the room and then look at the seat in front of you.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "door",
+                "opposite end"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 49,
+        "caption": "Choose the long table near the windows.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 19,
+        "caption": "the smallest bookshelf in the corner of the room",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 24,
+        "caption": "It is the books on the middle shelf.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": [
+                "middle shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 17,
+        "caption": "The tall bookshelf that is closest to the door,",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 1,
+        "caption": "Choose the chair that is pulled out completely from the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 26,
+        "caption": "the window next to the chalkboard",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chalkboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 17,
+        "caption": "the taller bookshelf next to the door",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 25,
+        "caption": "This row of books is on the top shelf, above the other 2 rows.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": "top shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 17,
+        "caption": "The taller shelf next to the door.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 22,
+        "caption": "the blackboard near the door",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 20,
+        "caption": "the smaller bookshelf right next to the door",
+        "parsed_query": {
+            "Target": "smaller bookshelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 18,
+        "caption": "the long bookshelf near a window",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 49,
+        "caption": "The correct table is the one closest to the windows.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 26,
+        "caption": "the window is the one that is to the left of the others, close to the green chalkboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "green chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 19,
+        "caption": "The small bookshelf by the chalkboard and window",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "chalkboard",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 2,
+        "caption": "Look at the two tables that have more chairs around it. One black chair in the center is slightly pulled out from the table. Choose the brown chair that is next to that black chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "black chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 24,
+        "caption": "The books in the middle next to the chalkboard",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": [
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 51,
+        "caption": "A black object sits on this table",
+        "parsed_query": {
+            "Target": "black object",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 58,
+        "caption": "This is a rectangular white object which seems to be protruding from the wall between the venetian blinds and above the piles of clothing.",
+        "parsed_query": {
+            "Target": "rectangular white object",
+            "Anchor": [
+                "venetian blinds",
+                "above the piles of clothing"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 58,
+        "caption": "The small window in the middle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 0,
+        "caption": "the single chair closest to the chalkboard",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chalkboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 49,
+        "caption": "The long table against the windows",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 22,
+        "caption": "There are two chalkboards in this room. Find the one that does not have a clock above it.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 21,
+        "caption": "With your back to the bookshelves and looking straight ahead you are looking dead at it. Long and rectangular and you write on it with chalk.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": [
+                "bookshelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 1,
+        "caption": "The black chair in the middle of the room",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 1,
+        "caption": "The blue office chair in the middle of the room, behind another chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "office chair",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 50,
+        "caption": "Choose the table under the table next to the short bookshelf.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "short bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 25,
+        "caption": "Choose the very top shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 17,
+        "caption": "first bookshelf to the left of the door.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 23,
+        "caption": "Look at the bookcase to the left of the blackboard.  Choose the books on the lowest level.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 23,
+        "caption": "the lower option of the shelf",
+        "parsed_query": {
+            "Target": "option",
+            "Anchor": "shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 0,
+        "caption": "Find the brown easy chair backed up against the blackboard.  The target chair is the black chair on the side of the table the blackboard is on that is closest to the brown easy chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "easy chair",
+                "blackboard",
+                "black chair",
+                "table",
+                "brown easy chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 27,
+        "caption": "It is the window next to the bookshelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookshelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "The small bookshelf between two taller ones",
+        "parsed_query": {
+            "Target": "small bookshelf",
+            "Anchor": [
+                "taller bookshelf",
+                "taller bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 26,
+        "caption": "There are three windows on the wall, choose the large window on the left.",
+        "parsed_query": {
+            "Target": "large window",
+            "Anchor": [
+                "wall",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 50,
+        "caption": "The table directly under the blackboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "blackboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 58,
+        "caption": "small window in the middle of all the windows",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "all the windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 23,
+        "caption": "The bottom shelf with books",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "books"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 47,
+        "caption": "table parallel to longest chalk board",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chalk board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 48,
+        "caption": "The table is the shorter lighter one with the pulled out chair at it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 21,
+        "caption": "longest chalkboard in room",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 17,
+        "caption": "the shelf touching the left side of the white door.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "white door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 50,
+        "caption": "It is the table directly under the chalkboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chalkboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 24,
+        "caption": "select the middle row of books",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 49,
+        "caption": "The long table along the wall with several stacks of papers on it.",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": [
+                "wall",
+                "stacks of papers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 19,
+        "caption": "The bookshelf in the corner by the blackboard.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 1,
+        "caption": "the chair pulled out from the table",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 18,
+        "caption": "The tall bookshelf furthest from the door.",
+        "parsed_query": {
+            "Target": "tall bookshelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 2,
+        "caption": "looking at the blackboard, its the chair on the side where there is two but the office chair on the right",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "blackboard",
+                "two"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 18,
+        "caption": "When facing the green chalk board this bookshelf is the one on the right.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "green chalk board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 51,
+        "caption": "Table facing the bookshelves but next to the table with the blackboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bookshelves",
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 25,
+        "caption": "The books on the highest shelf.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": "shelves"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "The short bookshelf that is between two taller ones.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "taller one",
+                "taller one"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 24,
+        "caption": "The books on the middle shelf of the bookshelf.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": "middle shelf, bookshelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 19,
+        "caption": "Bookshelf near the chalkboard",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "chalkboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 19,
+        "caption": "The bookshelf between the chalkboard and window",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "chalkboard",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "it is the small bookshelf located between the two larger bookshelves",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "larger bookshelf",
+                "larger bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 22,
+        "caption": "blackboard opposite windows",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 48,
+        "caption": "short table closest to the window.",
+        "parsed_query": {
+            "Target": "short table",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 24,
+        "caption": "the middle bookshelf",
+        "parsed_query": {
+            "Target": "middle bookshelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 22,
+        "caption": "the board opposite the windows",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 1,
+        "caption": "Looking from the bookshelves against the wall, the blue office chair on the right side of the far table that is sticking out the most",
+        "parsed_query": {
+            "Target": "blue office chair",
+            "Anchor": [
+                "bookshelves",
+                "far table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 27,
+        "caption": "The window closest to the shelves filled with books.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelves filled with books"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 26,
+        "caption": "Facing the windows, the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 50,
+        "caption": "Select the table underneath the blackboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "blackboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 25,
+        "caption": "The books on the top of the other two",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 20,
+        "caption": "The bookcase nearest the green black board that does not have a clock above it.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "green black board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 47,
+        "caption": "The table directly in front of a bookshelf with books on it, closest to the door. It has a black thing on it and is a darker shade of wood on top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bookshelf",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 49,
+        "caption": "The table under the window on the far side of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 58,
+        "caption": "small window in the middle of the wall",
+        "parsed_query": {
+            "Target": "small window",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 0,
+        "caption": "The office chair closest to the blackboard.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "blackboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 0,
+        "caption": "The chair on the side with only one chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 23,
+        "caption": "It's the books on the bottom shelf of the bookshelf.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": "bottom shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 19,
+        "caption": "The small book shelf closest to the window and blackboard.",
+        "parsed_query": {
+            "Target": "small book shelf",
+            "Anchor": [
+                "window",
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 47,
+        "caption": "The correct table has a dark brown wooden top and is closest to the two black boards.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "dark brown wooden top",
+                "two black boards"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 0,
+        "caption": "focus on the wall with the longer chalkboard. the side of the table closest to this chalkboard has several chairs that are facing away from this chalkboard. select the office chair that lines up center to the chalkboard and is slightly angled away from the table",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "chalkboard",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 25,
+        "caption": "There is a stand alone bookshelf in the corner between the door and the chalkboard. Select the top row of books on this bookshelf.",
+        "parsed_query": {
+            "Target": "top row of books",
+            "Anchor": [
+                "bookshelf",
+                "door",
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 21,
+        "caption": "The smaller blackboard.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 51,
+        "caption": "Face the windows and it's the dark colored table on the right side.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 27,
+        "caption": "Facing the windows, choose the one on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 49,
+        "caption": "Facing the room with a blackboard on the right and one on the far wall, choose the table closest to you.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blackboard",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 1,
+        "caption": "The chair in the middle of the room pulled out the most",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 26,
+        "caption": "When facing the three windows, you need to choose the one all the way to the left",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 51,
+        "caption": "Facing the bookshelves, the table in the top right corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 58,
+        "caption": "The window that is in the middle of the other windows",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 18,
+        "caption": "On the wall opposite to the clock face - the shelf on the left when facing these 3.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "clock face"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 21,
+        "caption": "click the black board that is longer",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 20,
+        "caption": "the smaller shelf in the corner of the room next to the blackboard",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 21,
+        "caption": "the blackboard behind the recliner",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "recliner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 48,
+        "caption": "There is a single white book on this table",
+        "parsed_query": {
+            "Target": "white book",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 25,
+        "caption": "Choose the books on the top shelf.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": "top shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 2,
+        "caption": "The seat in front of the chalkboard second from the wall.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "chalkboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 18,
+        "caption": "Taller bookshelf closest to the window",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "window",
+                "taller"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 17,
+        "caption": "if you are facing the door, the bookshelf that is to the very left of the door.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 68,
+        "caption": "the bookshelf that has boxes above and behind it",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "boxes",
+                "behind"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 58,
+        "caption": "The smallest window in the room, in the middle",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "room",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 27,
+        "caption": "The window that is closets to tall bookshelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "tall bookshelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 22,
+        "caption": "NOT the blackboard that is directly opposite the many bookshelves.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "many bookshelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 47,
+        "caption": "the area under the desk, not the top itself",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 27,
+        "caption": "The big window on the right, closest to the big shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "big shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 47,
+        "caption": "The table with five chairs around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "five chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 22,
+        "caption": "smaller of the two chalkboards.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 50,
+        "caption": "one nearest the back wall.",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 20,
+        "caption": "Select the short bookshelf that is both next to the blackboard and NOT under a window.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "blackboard",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 20,
+        "caption": "the bookshelf closest to the door handle.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "door handle"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 2,
+        "caption": "there are two long tables. one has more chairs than the other.  on the table with more chairs, one side of the table has 5 chairs.  of the four chairs, if chair #1 is the one closest to the window, and chair #5 is the one furthest from the window, the object is chair #2.",
+        "parsed_query": {
+            "Target": "chair #2",
+            "Anchor": [
+                "table with more chairs",
+                "five chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 0,
+        "caption": "Find the chair that is under the clock.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "clock"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 2,
+        "caption": "This chair is brown, not blue, and is pulled up to a long, light-colored table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown",
+                "light-colored table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 21,
+        "caption": "the largest of the two blackboards.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": 27,
+        "caption": "large window to the right, near the bookshelf.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

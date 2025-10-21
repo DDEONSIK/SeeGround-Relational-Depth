@@ -1,0 +1,599 @@
+[
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 26,
+        "caption": "the box is above the brown cabinets",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "brown cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 26,
+        "caption": "This smaller box is atop a tall brown cabinet.",
+        "parsed_query": {
+            "Target": "smaller box",
+            "Anchor": [
+                "tall brown cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 21,
+        "caption": "Facing the 2 monitors, the cabinet to the left.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "2 monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 5,
+        "caption": "Facing the window, the rightmost monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 0,
+        "caption": "Choose the cabinets with lots of stuff on top to the right of the fake wood cabinet.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "fake wood cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 21,
+        "caption": "taller cabinet to the left of the computer monitors.",
+        "parsed_query": {
+            "Target": "taller cabinet",
+            "Anchor": [
+                "computer monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 5,
+        "caption": "the monitor that is NOT tilted",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 0,
+        "caption": "Back wall on your left",
+        "parsed_query": {
+            "Target": "back wall",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 32,
+        "caption": "On the side of the room with one closed cabinet and one with open and cluttered shelves, it is the closed cabinet.",
+        "parsed_query": {
+            "Target": "closed cabinet",
+            "Anchor": [
+                "one closed cabinet",
+                "one with open and cluttered shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 22,
+        "caption": "The cabinets with 2 computer monitors on top.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "computer monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 21,
+        "caption": "There are 2 sets of boxes. The box you want is on the left in the set of 2 long boxes",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "long boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 26,
+        "caption": "choose the small blue square in the corner.",
+        "parsed_query": {
+            "Target": "small blue square",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 21,
+        "caption": "cabinet has a black coffee maker on it",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "black coffee maker"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 32,
+        "caption": "the smallest brown cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 5,
+        "caption": "When standing in the middle of the room facing the monitors the correct one is on the right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitors",
+                "middle of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 4,
+        "caption": "Facing the monitors, the monitor on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "monitors"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 26,
+        "caption": "The box on the brow cabinet that is blue",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "blue"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 26,
+        "caption": "blue box on top of cupboard",
+        "parsed_query": {
+            "Target": "blue box",
+            "Anchor": "cupboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 22,
+        "caption": "The cabinets underneath the monitors",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "monitors"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 0,
+        "caption": "The cabinet closest to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 4,
+        "caption": "monitor closest to the window",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 22,
+        "caption": "the cabinet with the monitor on it",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "monitor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 0,
+        "caption": "Choose the set of shelves with a lot of stuff on them, NOT solid brown.",
+        "parsed_query": {
+            "Target": "set of shelves",
+            "Anchor": "solid brown"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 4,
+        "caption": "The monitor on the left, when looking at the monitors.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "monitors"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 5,
+        "caption": "facing the monitors, one on the right",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 21,
+        "caption": "The cabinet next to the cabinet with two monitors on top of it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet with two monitors on top of it"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 22,
+        "caption": "The long cabinet that has two computer monitors on it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "computer monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 21,
+        "caption": "You are looking at 4 boxes containing cabinets. Orient yourself so you are looking at the cabinet with the 2 computer monitors on it. The cabinet you want is the the LEFT of the one with the 2 computer monitors. It has a coffee machine on it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "2 computer monitors",
+                "coffee machine"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 22,
+        "caption": "The cabinet with 2 monitors on it,",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 0,
+        "caption": "Find the messy cabinet closes to the doorway.",
+        "parsed_query": {
+            "Target": "messy cabinet",
+            "Anchor": "doorway"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 5,
+        "caption": "facing the monitors, right monitor",
+        "parsed_query": {
+            "Target": "right monitor",
+            "Anchor": "monitors"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 0,
+        "caption": "cabinet closest to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 32,
+        "caption": "the large cabinet with a long white container next to a blue container on top",
+        "parsed_query": {
+            "Target": "large cabinet",
+            "Anchor": [
+                "long white container",
+                "blue container"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 4,
+        "caption": "Click the monitor on the left near the window",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 5,
+        "caption": "Face the monitors.  The one you want to pick is the right one.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "right monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 22,
+        "caption": "the cabinet with the two computer monitors on top",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "computer monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 21,
+        "caption": "if you walk through the door, the cabinet in the far right corner",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 32,
+        "caption": "A white square is in the very corner of the table closest in front of this brown cabinet.",
+        "parsed_query": {
+            "Target": "white square",
+            "Anchor": [
+                "brown cabinet",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 4,
+        "caption": "If you face the two monitors, pick the one of the left side that is closer to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "two monitors",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 32,
+        "caption": "You want the closed cabinet next to the really messy cabinet",
+        "parsed_query": {
+            "Target": "closed cabinet",
+            "Anchor": [
+                "messy cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 4,
+        "caption": "When facing the monitors, it's the monitor on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 26,
+        "caption": "The little blue box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 32,
+        "caption": "The cabinet opposite corner of the television.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "television"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 32,
+        "caption": "The brown shelf with a white rectangular box on top",
+        "parsed_query": {
+            "Target": "brown shelf",
+            "Anchor": [
+                "white rectangular box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 4,
+        "caption": "the monitor furthest from the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 22,
+        "caption": "The set of low cabinets with two computer monitors on top",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "low cabinets"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 0,
+        "caption": "It is the cabinet with out doors. It is also the closest cabinet to the main door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "main door",
+                "cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 5,
+        "caption": "The monitor screen that is closest to what appears to be another electronic device such as a printer.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": 26,
+        "caption": "The box on top of the shelf towards the center of the room",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "shelf",
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

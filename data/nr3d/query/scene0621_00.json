@@ -1,0 +1,614 @@
+[
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 2,
+        "caption": "The correct table has a light grey color and is in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 0,
+        "caption": "The largest section of table located in a corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 4,
+        "caption": "The farthest corner but second table from the corner.",
+        "parsed_query": {
+            "Target": "second table",
+            "Anchor": "corner"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 3,
+        "caption": "This table is at the far end of the room near the open door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "open door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 2,
+        "caption": "the desk in the middle of the room",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 1,
+        "caption": "the long wall that only has one table against it, choose that table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "long wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 1,
+        "caption": "the table that has only two chairs",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 16,
+        "caption": "It is the blackboard with two chairs under it.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 0,
+        "caption": "The table in the corner next to the chairs that are pushed up against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 3,
+        "caption": "The last table on the end of the room with the blackboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 4,
+        "caption": "This is one of two tables on the same wall, and it is not in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 17,
+        "caption": "the chalkboard nearest to the blinds",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": "blinds"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 4,
+        "caption": "Look at the blackboard with two tables in front of it, and pick the left of those two tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blackboard",
+                "two tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 16,
+        "caption": "This is the wider of the two blackboards and has the most chairs near it.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 16,
+        "caption": "the chalkboard with only two chairs below it",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 2,
+        "caption": "Th table in middle of room with 4 chairs",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 4,
+        "caption": "The table to the right of the two free standing chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two free standing chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 1,
+        "caption": "The only table that is resting against a wall on it's own",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 17,
+        "caption": "the blackboard that has tables right in front of it",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": "tables"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 16,
+        "caption": "It is the blackboard with only two chairs underneath it.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 0,
+        "caption": "Two chairs are against the same wall, select the table on the same side furthest away",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 17,
+        "caption": "What you're looking for is on the wall and you write on it with chalk, except this one is more rectangular. Longer than the other but also shorter height wise.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 17,
+        "caption": "the board above the cluttered tables and chairs",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "cluttered tables",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 2,
+        "caption": "The table that is in the center of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 17,
+        "caption": "Standing in the middle of the room looking at both blackboards, it's the blackboard on the right.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 3,
+        "caption": "choose the table that's by itself on the short wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "short wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 4,
+        "caption": "I am the table closest to wall between the blackboards.",
+        "parsed_query": {
+            "Target": "blackboards",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 17,
+        "caption": "facing chalkboards, right chalkboard",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": [
+                "chalkboard",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 1,
+        "caption": "On you left hand side there is a table there are three chairs on this wall with the table there is one white chair next to the table , it is the table next to it",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": [
+                "table",
+                "chairs",
+                "wall",
+                "white chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 2,
+        "caption": "the weathered table in the middle",
+        "parsed_query": {
+            "Target": "weathered table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 1,
+        "caption": "If you walk in through the door its the only table on the right side of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 0,
+        "caption": "The desk with five chairs around it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "five chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 0,
+        "caption": "Select the table furthest away from the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 16,
+        "caption": "Pick the blackboard that has two chairs sitting directly in front of it.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 16,
+        "caption": "the board with only 2 chairs under it",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 0,
+        "caption": "there are two tables against the wall/blackboards and its the one nearest the corner of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blackboards"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 2,
+        "caption": "it is the table directly in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 3,
+        "caption": "Choose the table closest to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 16,
+        "caption": "While facing the blackboards, choose the one on the left.",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 17,
+        "caption": "click the blackboard with two tables infront",
+        "parsed_query": {
+            "Target": "blackboard",
+            "Anchor": [
+                "two tables"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 4,
+        "caption": "facing the door, going top to bottom, the middle table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "middle",
+                "bottom",
+                "door",
+                "top"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 0,
+        "caption": "The table furthest from the open beige door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 3,
+        "caption": "When facing the blackboards, it's the table furthest to the left by itself.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blackboards"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 4,
+        "caption": "If you face the blackboard, it is the table closest to the blackboard, on its right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 3,
+        "caption": "the table furthest away from the rest of them",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 1,
+        "caption": "Black desk that has grey chairs at it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "grey chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 1,
+        "caption": "only table under the white board.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 3,
+        "caption": "Table nearest to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": 2,
+        "caption": "The correct table is closer to the middle of the room, it has four chairs around it and is light grey.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "middle of the room",
+                "four chairs",
+                "light grey"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

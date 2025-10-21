@@ -1,0 +1,958 @@
+[
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 16,
+        "caption": "The whiteboard with a projector hanging over it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "projector"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 18,
+        "caption": "Choose the whiteboard with an electical outlet (maybe light switch?) on the right side of it at the bottom.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "electrical outlet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "the window is on the bottom side of the right wall and is white.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "right wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 18,
+        "caption": "When facing this whiteboard head on, there is a small black box on the right side attached to the wall.",
+        "parsed_query": {
+            "Target": "small black box",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 6,
+        "caption": "The correct chair is closest to the door, it is directly beside the chair with the blue back pack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "chair with the blue back pack on it"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 19,
+        "caption": "This horizontal window is closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "horizontal window",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 16,
+        "caption": "The white board facing the windows.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 11,
+        "caption": "The correct table is in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 11,
+        "caption": "This is the rectangular larger table in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 8,
+        "caption": "Choose the chair with the blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue backpack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 5,
+        "caption": "The chair that is closest to the monitor",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "monitor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 8,
+        "caption": "Chair with blue object on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue object"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 19,
+        "caption": "This window is adjacent to a whiteboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 11,
+        "caption": "The large table with four chairs around it.",
+        "parsed_query": {
+            "Target": "large table",
+            "Anchor": [
+                "four chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 19,
+        "caption": "The window on the left, closest to the white board.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 18,
+        "caption": "The whiteboard across from the door.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 8,
+        "caption": "Choose the chair that is on the right of the table if you are facing the whiteboard with the projector on the top of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 13,
+        "caption": "the door is under",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 18,
+        "caption": "This whiteboard is adjacent to the windows, not opposite them.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 5,
+        "caption": "The chair that is directly across from the one that has a blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 6,
+        "caption": "Facing the door, the upper left chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 7,
+        "caption": "It's a chair facing you on the far side of the table that is smaller and has less slats showing",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "far side of the table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 10,
+        "caption": "the table in between the two whiteboards in the corner",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "whiteboard",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 19,
+        "caption": "Facing the two large windows, the window on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "large window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "Choose the window to the right, near the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 10,
+        "caption": "The desk type table up against the wall",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 11,
+        "caption": "LOOK DOWN ON ROOM FROM CEILING, CHOOSE BOX LOCATED IN THE CENTER OF THE ROOM, ITS ALSO THE LARGEST BOX TO SELECT.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "Of the two long windows, it is the window closest to the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 10,
+        "caption": "The very small desk table holding the monitor next to the whiteboard.",
+        "parsed_query": {
+            "Target": "desk table",
+            "Anchor": [
+                "monitor",
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 5,
+        "caption": "The correct chair is closest to the computer and desk in the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "computer",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 18,
+        "caption": "I am a white board without the overhead projector.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 8,
+        "caption": "The chair in front of the windows and furthest from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 13,
+        "caption": "the small window above the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 11,
+        "caption": "table in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 13,
+        "caption": "The window that is at the top of the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 7,
+        "caption": "if looking from the door, the front left chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "When facing the 2 windows, this window is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 16,
+        "caption": "the board to the left of the computer monitor",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "computer monitor"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 6,
+        "caption": "you are looking for a chair.  It is located on the opposite of the computer and wall screens.  This chair is the one closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "computer",
+                "wall screens",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 18,
+        "caption": "The whiteboard directly across from the exit door and not touching the computer desk against the wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "exit door",
+                "computer desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 8,
+        "caption": "Staring at the whiteboard with the window to the right and another whiteboard to the left, you want the chair to the right back corner",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "whiteboard",
+                "window",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 7,
+        "caption": "The chair that is tucked farthest under the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 19,
+        "caption": "the window with a whiteboard directly to the left of it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 6,
+        "caption": "This chair is nearest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 19,
+        "caption": "Window to the left of the other near the whiteboard",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 13,
+        "caption": "the smallest window above the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 16,
+        "caption": "The whiteboard on the left.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 10,
+        "caption": "The small table with the computer monitor on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "computer monitor"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 13,
+        "caption": "Choose the highest and smallest window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "highest",
+                "smallest"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 5,
+        "caption": "the chair opposite the chair that has a bag on it, its the chair closest to the computer",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 8,
+        "caption": "The chair on the far right when entering the room from the brown door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 16,
+        "caption": "This white board has a piece of paper on the right as well as a computer to the right of it when facing it.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "piece of paper",
+                "computer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 11,
+        "caption": "table in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 5,
+        "caption": "The chair closest to the monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "monitor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 11,
+        "caption": "The big table in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "window right beside the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 10,
+        "caption": "The table with the monitor on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "monitor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 16,
+        "caption": "Select the whiteboard closest to the door.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 6,
+        "caption": "The chair closest to the brown exit door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown exit door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 13,
+        "caption": "The window above the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 16,
+        "caption": "The white board not opposite the door.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 18,
+        "caption": "whiteboard that is facing towards the door",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "the long window by the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 6,
+        "caption": "The chair closest to the door when you walk in",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 5,
+        "caption": "facing the door, its the chair to the bottom right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 19,
+        "caption": "Choose the long window that is closest to the wall with the white board on it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "white board"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 10,
+        "caption": "the table that is not in the middle of the floor",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 7,
+        "caption": "When facing the door it is the chair that is furthest from you on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 8,
+        "caption": "Facing the door, the front left chair.",
+        "parsed_query": {
+            "Target": "front left chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 10,
+        "caption": "Choose the smaller table in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 7,
+        "caption": "When facing the door, the chair on the top right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 7,
+        "caption": "The back of my chair is facing the whiteboard beside the computer and I am closer of those 2 chairs to the brown door",
+        "parsed_query": {
+            "Target": "back of my chair",
+            "Anchor": [
+                "whiteboard",
+                "computer",
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 13,
+        "caption": "The door frame on the right top side of the door.",
+        "parsed_query": {
+            "Target": "door frame",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "The 4 pane window closest to the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 9,
+        "caption": "The window next to the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 5,
+        "caption": "It is the chair with its back to the white board, and closest to the monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white board",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 7,
+        "caption": "It is one of the two chairs, on the side across the chair that has something blue on it. It is the one closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair with something blue on it",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0578_00",
+        "target_id": 6,
+        "caption": "The chair NEXT TO the one with blue and gold item on",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue and gold item"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

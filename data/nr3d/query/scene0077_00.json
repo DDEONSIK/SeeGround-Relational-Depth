@@ -1,0 +1,506 @@
+[
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 13,
+        "caption": "the box below the cabinet with papers",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "cabinet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 2,
+        "caption": "Not the printer that's in front of the window, the other one",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 9,
+        "caption": "to your left of the room",
+        "parsed_query": {
+            "Target": "room",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 2,
+        "caption": "The printer NOT in front of the window",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 13,
+        "caption": "The small black trash can on floor",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 13,
+        "caption": "the trash can closest to the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 8,
+        "caption": "The very small ankle high trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 2,
+        "caption": "the printer on the middle of the counter top next to the bigger printer by the wall",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "middle of the counter top",
+                "bigger printer by the wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 20,
+        "caption": "Standing in the middle of the room facing both doors, it's the door on the right",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "middle of the room",
+                "both doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 20,
+        "caption": "the door leading to the outside of the room",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 13,
+        "caption": "find the trash can directly in front of the door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 8,
+        "caption": "largest out of the trash cans",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 9,
+        "caption": "the door in the hallway",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "hallway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 1,
+        "caption": "White printer/copier in the corner of the room right below the window",
+        "parsed_query": {
+            "Target": "printer/copier",
+            "Anchor": [
+                "window",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 8,
+        "caption": "gray water heater on the wall",
+        "parsed_query": {
+            "Target": "gray water heater",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 9,
+        "caption": "The door closest to the printer sitting on a table.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "printer",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 13,
+        "caption": "The smaller trash can on the floor. ",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 9,
+        "caption": "The door that is open.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 20,
+        "caption": "select the door to the top right",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "to the top right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 9,
+        "caption": "smallest object the corner",
+        "parsed_query": {
+            "Target": "smallest object",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 8,
+        "caption": "tall trash can next to the stove",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 2,
+        "caption": "The black printer on the cabinet under the shelves.",
+        "parsed_query": {
+            "Target": "black printer",
+            "Anchor": [
+                "cabinet",
+                "shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 1,
+        "caption": "It is the printer at the far end of the table.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 1,
+        "caption": "The printer directly in front of the window closest to the corner of the room.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "window",
+                "corner of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 8,
+        "caption": "The tallest trashcan.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 20,
+        "caption": "If facing the wall with the yellow page and mirror, its the door on the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "yellow page",
+                "mirror"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 1,
+        "caption": "The printer is dark and under a cabinet",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "dark",
+                "under",
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 2,
+        "caption": "Face the window in the room.  The printer you want to pick is the one of the left (not the one in front of the window)",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 1,
+        "caption": "The printer right under the window",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 1,
+        "caption": "White that holds papers in the corner.",
+        "parsed_query": {
+            "Target": "white",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 20,
+        "caption": "The door by the trashcan",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trashcan"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 8,
+        "caption": "The larger of the cans.",
+        "parsed_query": {
+            "Target": "cans",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 2,
+        "caption": "The printer the most in front of the window.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 13,
+        "caption": "The small trash can under a yellow paper on the wall",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "yellow paper",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 20,
+        "caption": "If facing the yellow paper on the wall this door will be on the right side.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "yellow paper on the wall"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 20,
+        "caption": "if looking at the window, the door on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 8,
+        "caption": "The trashcan right beside the door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 1,
+        "caption": "The printer most in front of the window.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 2,
+        "caption": "printer under the shelf",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "shelf"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 13,
+        "caption": "I am the trash can in front of the white door",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "white door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 9,
+        "caption": "The door closest to the printer.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "printer"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": 9,
+        "caption": "the door directly opposite the window",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

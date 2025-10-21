@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "13",
+        "target_name": "stool",
+        "caption": "this is a small red stool with a silver metallic base. it is to the left of the round table.",
+        "parsed_query": {
+            "Target": "red stool",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "this is a black flat screen tv. it is mounted to the wall above the round table.",
+        "parsed_query": {
+            "Target": "black flat screen tv",
+            "Anchor": [
+                "wall",
+                "round table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a small round metallic table. it is located between two red stools.",
+        "parsed_query": {
+            "Target": "small round metallic table",
+            "Anchor": [
+                "two red stools"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "13",
+        "target_name": "stool",
+        "caption": "this is a red and silver stool. it is located to the left of the round table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "12",
+        "target_name": "stool",
+        "caption": "this is a red and silver metallic round stool. it is located to the right of the round table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": false
+    }
+]

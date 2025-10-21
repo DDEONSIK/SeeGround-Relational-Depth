@@ -1,0 +1,72 @@
+[
+    {
+        "scan_id": "scene0621_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "this is a black swivel chair. it is pulled up at the side of the grey table.",
+        "parsed_query": {
+            "Target": "black swivel chair",
+            "Anchor": [
+                "grey table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black office chair on wire legs. it is near the white eraser on the black board resting place.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "wire legs",
+                "white eraser",
+                "black board resting place"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a grey plain chair. it is along the back wall near the black chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "back wall",
+                "black chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": "31",
+        "target_name": "chair",
+        "caption": "this is a black chair on a wire frame. it is near the window with blinders and is in the middle of the three chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "window with blinders",
+                "three chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0621_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a black chair near the wall by the blackboard. it is on the bottom left corner of the black board near the plug in.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "blackboard",
+                "plug"
+            ]
+        },
+        "unique": false
+    }
+]

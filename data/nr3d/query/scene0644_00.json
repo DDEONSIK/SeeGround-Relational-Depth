@@ -1,0 +1,1711 @@
+[
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 46,
+        "caption": "This computer tower is the closest to the windows in the row with only two towers.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "windows",
+                "towers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 25,
+        "caption": "table with computer farthest away from the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "computer",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 35,
+        "caption": "This horizontal whiteboard is next to another but closer to the corner.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 48,
+        "caption": "When looking at the windows, it is the farthest computer to the right.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 46,
+        "caption": "If you face the long side of the room with the windows, the target computer tower is the one closer to the windows under the right table.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "long side of the room",
+                "windows",
+                "right table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "the keyboard closest to the dry erase board",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "dry erase board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 25,
+        "caption": "When facing the door, choose the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 60,
+        "caption": "the whiteboard to the right of the door",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 43,
+        "caption": "choose the keyboard alone on its side of the table",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 46,
+        "caption": "The row where there is only one computer.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "row"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 49,
+        "caption": "computer tower right in front of pulled out chair",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "pulled out chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 51,
+        "caption": "The computer tower near the door",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "the cabinet furthest away from the door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 60,
+        "caption": "whiteboard on the same wall as the door",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "at the door, go to the right, there is two sets of double monitors, when you are in front of them, you want the keyboard to the left",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "door",
+                "two sets of double monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 30,
+        "caption": "the longer radiator in the corner of the room",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 25,
+        "caption": "Facing the door, the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 33,
+        "caption": "The smaller radiator, close to the less cluttered desks.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "less cluttered desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 35,
+        "caption": "The bigger whiteboard on the wall perpendicular to the wall the door is in.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 57,
+        "caption": "When standing in the middle of the room facing the keyboards, the correct one is on the far left. It seperate from all the other keyboards.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "keyboards"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 48,
+        "caption": "The computer tower underneath the desk and in front of the desk chair closest to the shelves with blue and yellow totes on them.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "desk chair",
+                "shelves",
+                "blue and yellow totes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 25,
+        "caption": "This table is aligned with the shelving against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "shelving"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 57,
+        "caption": "choose the one boxed keyboard by itself",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "box"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 8,
+        "caption": "closest cabinet to door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 50,
+        "caption": "the smallest computer tower",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 34,
+        "caption": "The whiteboard is longer than it is wider. It also has a chair very near it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 60,
+        "caption": "The correct white board is above a white cabinet.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "white cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 8,
+        "caption": "This cabinet is the closest to the door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 33,
+        "caption": "look to the window at the left corner and then look at the radiator directly beneath it.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "window",
+                "left corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 26,
+        "caption": "Walking into this room, the table would be in front of you and on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "room"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 48,
+        "caption": "The computer tower that's farthest from the door",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "The keyboard is on the table with two chairs.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 8,
+        "caption": "The cabinet closer to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 40,
+        "caption": "When you come in the room, there is a desk all the way to the right side of the room. On the far side of the desk are two sets of computer monitors. It is the keyboard in front of the monitors on the right side.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 41,
+        "caption": "The keyboard on the end of the table.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "end of the table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 41,
+        "caption": "The right keyboard is farthest from the windows. It is near the edge of the table and closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "windows",
+                "door",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 41,
+        "caption": "the keyboard at the outer edge of the desk",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 30,
+        "caption": "When standing in the middle of the room facing the radiators the correct one is on the right.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "radiator"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 34,
+        "caption": "The correct whiteboard is the thinnest and closest to the windows.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 40,
+        "caption": "the keyboard on the right-hand side closest to the window",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 46,
+        "caption": "the computer tower under the middle desk closest to the wall",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "middle desk",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 35,
+        "caption": "The larger whiteboard on the back wall",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "back wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 57,
+        "caption": "This  box is alone and not grouped with the other boxes.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 8,
+        "caption": "One nearest to the door",
+        "parsed_query": {
+            "Target": "nearest",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 30,
+        "caption": "Choose the radiator that is longer.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 30,
+        "caption": "The radiator closest to the wall with whiteboards on it.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "whiteboards"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 33,
+        "caption": "It is the smaller radiator, next to the less cluttered desk.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "The cabinet furthest away from the brown door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 57,
+        "caption": "When you walk in the door, you would walk forward to the last spot on the left. That keyboard is the correct option.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "door",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "the black keyboard in front of the whiteboard",
+        "parsed_query": {
+            "Target": "black keyboard",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 57,
+        "caption": "The keyboard closest to the brown door",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "brown door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 26,
+        "caption": "The neater table with two computer monitors sitting on it.",
+        "parsed_query": {
+            "Target": "neater table",
+            "Anchor": [
+                "two computer monitors"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 49,
+        "caption": "The computer tower farthest away from the brown door",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "brown door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 8,
+        "caption": "The cabinet closest to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 51,
+        "caption": "The correct computer tower is closest to the door.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "These are white and are usually used to store kitchen or food items",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "Choose the tall skinny table next to the machinery by the door.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 43,
+        "caption": "on the desk with 4 keyboard, it's the single keyboard on the inside(middle) of the room.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "4 keyboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 40,
+        "caption": "Choose the keyboard in front of the double monitors in the corner of room closest to the windows",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "double monitors",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 60,
+        "caption": "The whiteboard is by the door and a floor lamp",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door",
+                "floor lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 48,
+        "caption": "This computer tower is furthest from the row of three towers.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "row of three towers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 40,
+        "caption": "The keyboard closest to a window with a black and silver chair in the corner.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "window",
+                "black and silver chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 43,
+        "caption": "a computer keyboard next to a pair of headphones",
+        "parsed_query": {
+            "Target": "computer keyboard",
+            "Anchor": "headphones"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 49,
+        "caption": "if looking from the door, the farthest tower under the left desk.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "left desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 48,
+        "caption": "The tower across from the blue and yellow bins and closest to the door.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "blue and yellow bins",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 40,
+        "caption": "The keyboard in front of whiteboard closest to window",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "whiteboard",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 60,
+        "caption": "Choose the largest of the whiteboards.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 60,
+        "caption": "Align your view so you are facing the door.  The whiteboard you want to select is on the right of the door.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "Select the option that is closer to the corner of the room.  It is further away from the door.",
+        "parsed_query": {
+            "Target": "option",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 41,
+        "caption": "Choose the keyboard closest to the two short shelves.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "two short shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 51,
+        "caption": "The computer tower closest to the door.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 33,
+        "caption": "The smallest of the two radiators.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 25,
+        "caption": "table closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 33,
+        "caption": "from the middle of the room, the smaller one one the far left",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "middle of the room",
+                "far left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 8,
+        "caption": "facing the cabinets, the left one",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 51,
+        "caption": "on the desk with the 3 computers under it, the computer you want is the one on the end of the desk closest to the door.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "desk",
+                "3 computers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 35,
+        "caption": "On the wall with two whiteboards, this whiteboard is on the right.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 41,
+        "caption": "With the door to the room on the right hand side, choose the keyboard that is furthest to the right.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "door to the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 51,
+        "caption": "The computer tower that is closest to the door.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "The cabinet on the right furthest away from the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 33,
+        "caption": "The smallest of the two radiators.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 50,
+        "caption": "the desk with three computers under it, its the one in the middle",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "three computers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 26,
+        "caption": "Choose the smaller table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 43,
+        "caption": "The table with the most keyboards select the one that faces the whiteboard",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "keyboard",
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 34,
+        "caption": "Standing with your back to the door, look to the right.  Select the whiteboard in the far corner.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "door",
+                "far corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 49,
+        "caption": "The tower that is furthest away from door, under the desk on right facing door.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "door",
+                "desk",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 48,
+        "caption": "Choose the computer tower that is located in the very center of the room.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 26,
+        "caption": "If you walk in the door and are looking at the tables you would choose the table to your left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 26,
+        "caption": "If you stand at the door, facing the windows, it is the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 50,
+        "caption": "Of the three compute towers, the tower in the middle.",
+        "parsed_query": {
+            "Target": "compute tower",
+            "Anchor": [
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 48,
+        "caption": "The computer tower nearest the whiteboards and furthest from the door.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "whiteboards",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 30,
+        "caption": "When standing at the door and looking at the radiators, it's the radiator on the right.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 41,
+        "caption": "The keyboard closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 51,
+        "caption": "This tower is under a table at the very corner.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": "table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 35,
+        "caption": "The whiteboard is to the right, near the white shelves with yellow holders",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "white shelves",
+                "yellow holders"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 34,
+        "caption": "Facing the 2 white boards on the wall, the white board on the left.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "white boards"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "when facing all the monitors, the closest keyboard on the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 26,
+        "caption": "When standing at the door and looking at the tables, it's the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door",
+                "tables"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 49,
+        "caption": "The tower furthest from the yellow storage shelves on the wall.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "yellow storage shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 25,
+        "caption": "The larger of the two tables.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 25,
+        "caption": "It is the table to the left of the shelves with cubbies in it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "shelves",
+                "cubbies"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 46,
+        "caption": "The computer tower in the middle of all the desks closest to the window",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desks",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 50,
+        "caption": "The desk that has three computer towers under it, it is the tower in the middle.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "computer tower"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 50,
+        "caption": "the table right in front of the door, the middle tower.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door",
+                "middle tower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 33,
+        "caption": "the radiator furthest away from the whiteboard",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 43,
+        "caption": "The keyboard under the bubble wrap on a monitor",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "bubble wrap",
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 57,
+        "caption": "If you walked through the door, it would be the keyboard by the windows on the far end of the table in front of you.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "windows",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 50,
+        "caption": "look under the table of the three towers you see it is the computer tower in the middle.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "table",
+                "three towers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 49,
+        "caption": "The computer box is the third one on the left opposite the door and facing the windows.",
+        "parsed_query": {
+            "Target": "computer box",
+            "Anchor": [
+                "door",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 43,
+        "caption": "Looking to the windows, focus on the table with 4 keyboards. Pick the keyboard on the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "The cabinet closer to the corner of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 35,
+        "caption": "When facing the wall with two white boards, so that the door is at your right, select the whiteboard on the right",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 46,
+        "caption": "If you walk in from the door its on the back right",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "back",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 26,
+        "caption": "If you walk in through the door its the table on the left",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 30,
+        "caption": "select the longest radiator",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "Standing at the door, you want the closest keyboard to the yellow shelves on the LONG desk",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "yellow shelves",
+                "LONG desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 34,
+        "caption": "Left whiteboard on the wall right of the windows.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 61,
+        "caption": "Standing in the middle of the room looking at the door it's the cabinet on the far right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 57,
+        "caption": "the keyboard on the table by itself",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 46,
+        "caption": "When standing back to the door and facing the windows. The correct computer tower is on the right and closest to the window.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "window",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 51,
+        "caption": "tower directly in front of the door.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 60,
+        "caption": "the whiteboard off by itself and in a corner",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "on the desk facing the wall with two whiteboards on it, the keyboard you want is near the end of the desk with two chairs pushed under it.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "wall",
+                "two whiteboards",
+                "end of desk",
+                "two chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 8,
+        "caption": "The cabinet on the left, closer to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 43,
+        "caption": "As you enter the room, their is a booth with six computers and chairs, the keyboard is with the first computer on your right hand side.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "booth",
+                "first computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 30,
+        "caption": "As you walk in the door the radiator is infront of you to the right.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "door",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 40,
+        "caption": "looking in from the door, the far right keyboard near the window",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "door",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 50,
+        "caption": "When standing in the middle of the room facing the window, the correct computer tower is the middle one on the far left.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "window",
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 40,
+        "caption": "Facing the windows, the keyboard in the upper right corner.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "windows",
+                "upper right corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 38,
+        "caption": "the keyboard closest to the whiteboards and away from the wall.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "whiteboards",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 49,
+        "caption": "Under the desk with two monitors near the radiator.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "two monitors",
+                "radiator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 34,
+        "caption": "whiteboard closest to the desks with computers",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "desks",
+                "computers"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 41,
+        "caption": "The keyboard that is on the little side desk on the end of the big desks and is near the shelves.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "little side desk",
+                "big desks",
+                "shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 35,
+        "caption": "The wider whiteboard on the right hand side of the room closest to the shoe cubbies.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "shoe cubbies"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0644_00",
+        "target_id": 34,
+        "caption": "This is the smaller whiteboard to the left of another whiteboard on the same wall.",
+        "parsed_query": {
+            "Target": "smaller whiteboard",
+            "Anchor": [
+                "another whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

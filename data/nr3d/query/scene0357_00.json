@@ -1,0 +1,1114 @@
+[
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 1,
+        "caption": "the box stacked on top",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 23,
+        "caption": "Shoes at the bottom of the steps.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "steps"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 1,
+        "caption": "The box stacked on top.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 14,
+        "caption": "The correct door is closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 13,
+        "caption": "choose huge wooden cabinet.",
+        "parsed_query": {
+            "Target": "huge wooden cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 14,
+        "caption": "the door in front of the stairs",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "stairs"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 23,
+        "caption": "Shoes at bottom of stairs",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "stairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 0,
+        "caption": "the larger green box underneath the smaller green box",
+        "parsed_query": {
+            "Target": "larger green box",
+            "Anchor": [
+                "smaller green box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 10,
+        "caption": "The correct shelf is beside the staircase.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "staircase"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 21,
+        "caption": "The shoes in front of and to the left of the cabinet with three sections.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "cabinet with three sections",
+                "front",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 13,
+        "caption": "Biggest cabinet located just by stairs",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 22,
+        "caption": "pairs of shoes under the hanging bag",
+        "parsed_query": {
+            "Target": "pairs of shoes",
+            "Anchor": "hanging bag"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 19,
+        "caption": "The shoes underneath the window and closest to the corner of the room.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "window",
+                "corner of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 10,
+        "caption": "the shelf at the bottom of the stairs",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "stairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 5,
+        "caption": "The door underneath of stairs",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "stairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 23,
+        "caption": "The shoes closest to the door.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 21,
+        "caption": "chose the shoes in front of the white nightstand in the middle.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "white nightstand",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 15,
+        "caption": "smaller cabinet close to the stairs",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 0,
+        "caption": "this object is sitting on the table that is to the right of the closet under the stairs. this object also has a lime green box sitting on it.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "table",
+                "closet",
+                "stairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 21,
+        "caption": "Of the two sets of shoes under the three drawer cabinet, the ones on the left.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "three drawer cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 14,
+        "caption": "The closed door next to the small shoe rack.",
+        "parsed_query": {
+            "Target": "closed door",
+            "Anchor": [
+                "small shoe rack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 14,
+        "caption": "the door nearest the wardrobes",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wardrobes"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 15,
+        "caption": "the smaller cabinet below a small windoow",
+        "parsed_query": {
+            "Target": "smaller cabinet",
+            "Anchor": "small window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 10,
+        "caption": "The shelf has a lot of stuff on it. It is right next to a set of stairs.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "stairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 0,
+        "caption": "Choose the greenish object by the stairs, it is under a yellowish box with fruit on it.",
+        "parsed_query": {
+            "Target": "greenish object",
+            "Anchor": [
+                "stairs",
+                "yellowish box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 10,
+        "caption": "The bookshelf to the right of the stairs.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "stairs"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 1,
+        "caption": "The box that is higher.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 21,
+        "caption": "Facing the window, the shoes second to the left.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 22,
+        "caption": "These shoes are closest to a tall crowded shelf.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "tall crowded shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 27,
+        "caption": "the shelf farthest away from the staircase.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 5,
+        "caption": "It is the door under the stairs, not the one next to the massive cabinets.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "stairs",
+                "massive cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 22,
+        "caption": "The shoes directly in front of the metal storage shelf.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "metal storage shelf"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 19,
+        "caption": "the shoes in the corner under the jacket",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "jacket"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 0,
+        "caption": "green box on the bottom",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 5,
+        "caption": "The door that is on the same wall as the staircase.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "staircase"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 19,
+        "caption": "Under the window to the right of the drawers",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "drawers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 5,
+        "caption": "the door that is open",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 0,
+        "caption": "the green books on the shelf (lower box)",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": "shelf (lower box)"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 22,
+        "caption": "the shoes closest to the shelves",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 10,
+        "caption": "The shelf right next to the staircase.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "staircase"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 27,
+        "caption": "if you walk down the stairs and take a right, you will find the shelf you seek",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "stairs",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 23,
+        "caption": "The shoes are the brown ones right at the bottom of the stairs.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "stairs"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 13,
+        "caption": "The cabinet next to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 27,
+        "caption": "The shelf that's through the open doorway and furthest from the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "open doorway",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 20,
+        "caption": "The tan pair of shoes under the window.",
+        "parsed_query": {
+            "Target": "tan shoes",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 23,
+        "caption": "shoes that are the farthest away from the others",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 10,
+        "caption": "Look for the open-face shelf beside the staircase. It has multiple tiers and is full of items.",
+        "parsed_query": {
+            "Target": "open-face shelf",
+            "Anchor": "staircase"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 15,
+        "caption": "lower, small cabinet under the window",
+        "parsed_query": {
+            "Target": "small cabinet",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 19,
+        "caption": "The shoes under the window closest to the closet.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "window",
+                "closet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 21,
+        "caption": "Shoes on the floor in front of the three drawers toward the left side but still in front of the white three drawers. The three drawers is to the right of the stairs if you are looking at the stairs.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "three drawers"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 14,
+        "caption": "Pretend you are coming down the stairs and you are facing the brown closet (NOT the closet under the stairs), the gray door to the right of the brown closet.",
+        "parsed_query": {
+            "Target": "gray door",
+            "Anchor": [
+                "brown closet",
+                "brown closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 5,
+        "caption": "The door that's open.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 19,
+        "caption": "Facing the shoes, the shoes in the upper right corner.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "shoes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 13,
+        "caption": "This is the massive wardrobe-type cabinet.",
+        "parsed_query": {
+            "Target": "massive wardrobe-type cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 23,
+        "caption": "shoes at the bottom of the stairs",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "stairs"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 15,
+        "caption": "The smaller cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 21,
+        "caption": "looking at the window from the staircase, the second pair of shoes from the left.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "window",
+                "staircase"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 13,
+        "caption": "The large brown cabinets.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 20,
+        "caption": "There is a small dresser with 3 drawers, and 2 pairs of shoes in front of it. With that dresser on the far wall, select the pair of shoes on the right.",
+        "parsed_query": {
+            "Target": "pair of shoes",
+            "Anchor": [
+                "dressing table",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 19,
+        "caption": "The shoes on the far right when facing the window with curtains.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "window",
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 23,
+        "caption": "The shoes at the bottom of the staircase",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "staircase"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 5,
+        "caption": "Tall, white colored entrance that is opned.",
+        "parsed_query": {
+            "Target": "entrance",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 20,
+        "caption": "the shoes are in front of a three drawer cabinet to the right front",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "three drawer cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 27,
+        "caption": "This shelf is farther away from the staircase",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "staircase"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 10,
+        "caption": "The shelf is at the bottom of the stairs in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "stairs",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 20,
+        "caption": "It's the shoes in front of the short three drawer chest on the right.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "short three drawer chest",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 22,
+        "caption": "the shoes are under the large messy shelf next to the staircase",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "large messy shelf",
+                "staircase"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 21,
+        "caption": "Of the two sets in front of the white cabinet choose the set on the left",
+        "parsed_query": {
+            "Target": "set",
+            "Anchor": [
+                "two sets",
+                "white cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 20,
+        "caption": "When facing the small window, it's the second shoes from the right on the floor.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "small window",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 14,
+        "caption": "Pick the door that is closed on the same wall as the large caninet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "large cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 22,
+        "caption": "Facing the shoes, the shoes in the upper left corner.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "shoes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 27,
+        "caption": "The correct shelf is farthest from the stair case. It is taller.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "stair case"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 15,
+        "caption": "The small cabinet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 13,
+        "caption": "The wooden cabinet that reaches from the floor to the roof",
+        "parsed_query": {
+            "Target": "wooden cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 20,
+        "caption": "the whitest of the shoes",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 22,
+        "caption": "Face the window.  You want the shoes on the left.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "left"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 5,
+        "caption": "Choose the door that is open and closest to the built in cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "built in cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 27,
+        "caption": "It is NOT the big shelf next to the stairs. It is the shelf in the small room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "small room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 15,
+        "caption": "The smaller cabinet with blankets on top of it.",
+        "parsed_query": {
+            "Target": "smaller cabinet",
+            "Anchor": [
+                "blankets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 0,
+        "caption": "The box on the bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 1,
+        "caption": "This box is on top of the other one.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 19,
+        "caption": "Facing the shoes, the shoes in the right corner.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "shoes"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 14,
+        "caption": "The door closest to the cabinets.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 15,
+        "caption": "The smaller of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 13,
+        "caption": "The big brown cabinet in front of bottom of stairs",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 27,
+        "caption": "Through the doorway next to the staircase",
+        "parsed_query": {
+            "Target": "doorway",
+            "Anchor": [
+                "staircase"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 20,
+        "caption": "The pair of shoes on the floor that is in front of, and almost touching the bottom right front corner of, the small drawers under the window.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": [
+                "small drawers",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 1,
+        "caption": "Choose the smaller, top box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 0,
+        "caption": "The dark plain green box on the table.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 1,
+        "caption": "This is the smaller box on top of the larger box. The box is green with 3 red circles on it.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "smaller box",
+                "larger box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": 1,
+        "caption": "The smaller box on top.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

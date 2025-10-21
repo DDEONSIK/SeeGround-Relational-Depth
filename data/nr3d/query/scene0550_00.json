@@ -1,0 +1,423 @@
+[
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 19,
+        "caption": "The top roll.",
+        "parsed_query": {
+            "Target": "top roll",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 13,
+        "caption": "When standing in the middle of the room facing the toilet paper the correct one is on the far left.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet paper",
+                "middle of the room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 14,
+        "caption": "On the counter in the corner.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "corner"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 18,
+        "caption": "When standing in the middle of the room facing the toilet paper rolles the correct one is on the far right. Closest to the window.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "toilet paper roll",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 18,
+        "caption": "face the hand dryer and then look at the toilet paper above it that is furthest to the right.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "hand dryer"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 19,
+        "caption": "the highest roll of toilet paper.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 13,
+        "caption": "The roll of toilet paper closest to the door",
+        "parsed_query": {
+            "Target": "roll of toilet paper",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 15,
+        "caption": "the sink to the right",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 13,
+        "caption": "The roll on the bottom farthest from the window",
+        "parsed_query": {
+            "Target": "roll",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 18,
+        "caption": "Bottom roll of toilet paper on the right and closest to window",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 15,
+        "caption": "Facing the sink, the sink on the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 15,
+        "caption": "This sink is the one on the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 19,
+        "caption": "The toilet paper roll that is on the top of the stack.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 19,
+        "caption": "3 Rolls of toilet paper sitting on top of the hand dryer",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "hand dryer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 14,
+        "caption": "Choose the sink on the left closes to the windows.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 13,
+        "caption": "the toilet paper on the bottom left",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "bottom left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 14,
+        "caption": "The sink closest to the window",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 19,
+        "caption": "The correct toilet paper is closest to the ceiling.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "ceiling"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 19,
+        "caption": "the top-most roll of toilet paper",
+        "parsed_query": {
+            "Target": "roll of toilet paper",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 18,
+        "caption": "It is the toilet paper closest to the window.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 18,
+        "caption": "toilet paper on top of the paper towel dispenser, its the one at the bottom, closest to the window",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "paper towel dispenser",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 14,
+        "caption": "If you are facing the two sinks, this would be the sink on the left hand side.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 15,
+        "caption": "the sink farthest from the trash can",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 13,
+        "caption": "This toilet paper is on the lower left of the pyramid.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "pyramid"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 13,
+        "caption": "in the triangle of toilet paper rolls, leftmost one",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "triangle",
+                "leftmost"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 14,
+        "caption": "Facing the sinks,  it is the one on the left.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 15,
+        "caption": "Choose the sink closest to the brown entry door.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "brown entry door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 15,
+        "caption": "when facing the two sinks, is the sink on the right-hand side",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "two sinks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 18,
+        "caption": "Pick the one below on the right.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 15,
+        "caption": "Facing the 2 sinks, this one is at the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 14,
+        "caption": "Facing the sinks, choose the one on the left.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 18,
+        "caption": "It's the bottom roll of TP closest to the window.",
+        "parsed_query": {
+            "Target": "bottom roll of TP",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 13,
+        "caption": "When standing in the middle of the room facing the toilet paper, the correct one is on the far left and nearest the door.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "middle of the room",
+                "toilet paper",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 19,
+        "caption": "The toilet paper that is at the very top of the pyramid of toilet paper on the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "pyramid of toilet paper",
+                "paper towel dispenser"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": 14,
+        "caption": "This sink is in the corner by the wall, left of the other sink.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "wall",
+                "other sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

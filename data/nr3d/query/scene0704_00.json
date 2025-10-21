@@ -1,0 +1,1052 @@
+[
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 14,
+        "caption": "the cabinet above the machines",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "machines"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 25,
+        "caption": "The picture above the photocopier",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "photocopier"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 0,
+        "caption": "The grey shelf with boxes and not the empty one",
+        "parsed_query": {
+            "Target": "grey shelf",
+            "Anchor": [
+                "boxes",
+                "empty"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 1,
+        "caption": "Silver and white cart in middle",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "silver",
+                "white"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 25,
+        "caption": "Choose the picture that hangs on wall by itself.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 11,
+        "caption": "The small picture that is closest to the cabinets.",
+        "parsed_query": {
+            "Target": "small picture",
+            "Anchor": "cabinets"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "Facing the door, the can in the upper left corner.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 22,
+        "caption": "have your back to the door and then look to the left with the picture furthest to the corner.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "door",
+                "furthest to the corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 5,
+        "caption": "The black top kitchen cabinet",
+        "parsed_query": {
+            "Target": "black top kitchen cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 0,
+        "caption": "choose the dark cart.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 15,
+        "caption": "Wall mounted cabinet, the one that's not above printer",
+        "parsed_query": {
+            "Target": "wall mounted cabinet",
+            "Anchor": "printer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 8,
+        "caption": "This trashcan is closest to a large grayish cabinet.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "large grayish cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 10,
+        "caption": "The correct picture is on the wall with the three pictures and it is in the middle.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "three pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 18,
+        "caption": "The correct trash can is beside the bin with the blue lid. It is at the end of the counter.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "bin with the blue lid"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 18,
+        "caption": "The correct trash can is closest to the bin with the blue lid and beside the counter top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bin with the blue lid",
+                "counter top"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 10,
+        "caption": "In the grouping of three frames, choose the middle one.",
+        "parsed_query": {
+            "Target": "middle frame",
+            "Anchor": [
+                "first frame",
+                "second frame",
+                "third frame"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 25,
+        "caption": "The painting is on a wall with no other paintings, but there is a bulletin board.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": "bulletin board"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 10,
+        "caption": "On a wall there are three framed pictures. The middle frame is the target.",
+        "parsed_query": {
+            "Target": "middle frame",
+            "Anchor": [
+                "three framed pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 1,
+        "caption": "The cart you're looking for is white on top.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "white",
+                "top"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "The small black trash bin and under the table closest to the row of black filing cabinets.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "under table",
+                "row of black filing cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "This trash can is the closer one and not the one near the blue object.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue object"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 11,
+        "caption": "the wall with the three photos, select the one on your left",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "three photos"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 15,
+        "caption": "The cabinet farthest and highest in the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 22,
+        "caption": "Of the group of 3 pictures, choose the small one on the right.",
+        "parsed_query": {
+            "Target": "small picture",
+            "Anchor": [
+                "pictures",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 5,
+        "caption": "The cabinets that rest on the ground",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 22,
+        "caption": "This picture is the rightmost of three grouped on a wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 11,
+        "caption": "the left artwork directly above the blue shredder",
+        "parsed_query": {
+            "Target": "artwork",
+            "Anchor": [
+                "left",
+                "blue shredder"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 25,
+        "caption": "The picture on a wall by itself.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 18,
+        "caption": "Choose the chair closest to the blue bin.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "blue bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "the round trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 18,
+        "caption": "The trashcan is the largest one, the one that is not as near the wooden table.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "wooden table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 1,
+        "caption": "In the middle of the room is a beige cart. square, top has papers on it and bottom shelf is empty.",
+        "parsed_query": {
+            "Target": "beige cart",
+            "Anchor": [
+                "middle of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 1,
+        "caption": "the one in the middle of the room",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 0,
+        "caption": "The brown desk at an angle.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 14,
+        "caption": "The cabinets above the printer",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "printer"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 14,
+        "caption": "The top cabinet next to door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 15,
+        "caption": "This shorter wall cabinet is perpendicular to the other two cabinets.",
+        "parsed_query": {
+            "Target": "wall cabinet",
+            "Anchor": [
+                "other two cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 1,
+        "caption": "The cart in the center of the room.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 11,
+        "caption": "when facing the three pictures beside each other, choose the left most frame under blue trashcan",
+        "parsed_query": {
+            "Target": "left most frame",
+            "Anchor": [
+                "three pictures",
+                "blue trashcan"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 8,
+        "caption": "The trashcan in between printer and wooden desk",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "printer",
+                "wooden desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 22,
+        "caption": "Three picture frames on the wall behind the copying machine, and you like the one on the right the most.",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": [
+                "copying machine",
+                "picture frame"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 8,
+        "caption": "the trashcan closest to the printer",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 15,
+        "caption": "The cabinet on the wall that is NOT above the printer.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 10,
+        "caption": "3 pictures are together on 1 wall, select the centre one of the 3",
+        "parsed_query": {
+            "Target": "centre one of the 3",
+            "Anchor": "pictures"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 0,
+        "caption": "gray, dark brown cart, not white",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 8,
+        "caption": "The trash can in between the large copier and table",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "large copier",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 8,
+        "caption": "rectangular trash can under yellow desk",
+        "parsed_query": {
+            "Target": "rectangular trash can",
+            "Anchor": "yellow desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 18,
+        "caption": "The trash can is right next to a blue trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 22,
+        "caption": "Face your view so you are looking at the three pictures on the wall that are together.  The picture you want to select is the one in the very middle.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "three pictures",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 11,
+        "caption": "Facing the wall with three pictures, the picture on the left.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "three pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "The circular trash can by the water cooler.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "water cooler"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 5,
+        "caption": "largest cabinet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 8,
+        "caption": "The trash can closest to the copier/printer",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copier/printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 15,
+        "caption": "the upper cabinet that is NOT next to the open door",
+        "parsed_query": {
+            "Target": "upper cabinet",
+            "Anchor": "open door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 18,
+        "caption": "The black trashcan on the end of the cabinets, in front of the blue recycling bin",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "cabinets",
+                "blue recycling bin"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "Choose the trash can furthest from the copy machine.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "copy machine"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 0,
+        "caption": "The cart which is closest to the bottles of water.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "bottles of water"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 5,
+        "caption": "the floor cabinets.",
+        "parsed_query": {
+            "Target": "floor cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 22,
+        "caption": "Look at the 3 pictures grouped together on the same wall. Choose the small picture to the right hand of the center picture in that group.",
+        "parsed_query": {
+            "Target": "small picture",
+            "Anchor": [
+                "center picture",
+                "pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 1,
+        "caption": "The cart is in middle of the room",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 0,
+        "caption": "Facing the door, the cart on the far left.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 14,
+        "caption": "The cabinets on top. Same wall as the door.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 0,
+        "caption": "The cart directly across from the door.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 11,
+        "caption": "of the three frames on the wall, it is the furthest left and over the mops and brooms",
+        "parsed_query": {
+            "Target": "frame",
+            "Anchor": [
+                "wall",
+                "mops and brooms"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 14,
+        "caption": "The cabinet above the printers on the counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "printers on the counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 5,
+        "caption": "It is the under counter cabinets in the kitchen.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "under counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 10,
+        "caption": "The middle picture on the way with three pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 14,
+        "caption": "When standing in the middle of the room facing the cabinets, the correct one is on the left and is off the ground, closest to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 8,
+        "caption": "Trash can closest to the printer.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 14,
+        "caption": "The larger cabinet on the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "When facing the printer it is the trash can that is furthest to the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "printer"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 25,
+        "caption": "The picture frame has many small pictures in it",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 5,
+        "caption": "It's the cabinets on the floor",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 25,
+        "caption": "the single picture above the copier",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "copier"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 15,
+        "caption": "Choose the smaller of the two cabinets that are above the big cabinet. It has a green note attached to it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "big cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 18,
+        "caption": "the trashcan next to the cabinets",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "cabinets"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 1,
+        "caption": "The cart is the one with a white top.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 5,
+        "caption": "The largest of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 10,
+        "caption": "On the wall with three paintings, it is the one in the middle.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "wall",
+                "three paintings"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 9,
+        "caption": "looking in from the door, the trash can on the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 15,
+        "caption": "The cabinet on wall that's not above the printes",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall not above printes"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 11,
+        "caption": "A small picture frame on the left furtherest from the printer.",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": [
+                "printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 10,
+        "caption": "On the wall with three pictures, it's the one in the middle.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "three pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 25,
+        "caption": "The framed pictures are on the wall with many small portraits in the one frame",
+        "parsed_query": {
+            "Target": "framed pictures",
+            "Anchor": [
+                "wall",
+                "many small portraits"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": 22,
+        "caption": "the far right photo in the group of 3",
+        "parsed_query": {
+            "Target": "photo",
+            "Anchor": [
+                "group of 3",
+                "far right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

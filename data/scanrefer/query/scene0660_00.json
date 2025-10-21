@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "a very long wooden table. in the middle of the room.",
+        "parsed_query": {
+            "Target": "a very long wooden table.",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a black leather arm chair. on the side of the table.",
+        "parsed_query": {
+            "Target": "black leather arm chair",
+            "Anchor": [
+                "side",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a black leather chair. next to the wooden table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a black leather arm chair. next to another same chair.",
+        "parsed_query": {
+            "Target": "a black leather arm chair",
+            "Anchor": [
+                "another same chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the black chair is on the left side of the desk. it is the second chair from the right.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "unique": false
+    }
+]

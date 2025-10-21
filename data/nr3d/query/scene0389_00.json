@@ -1,0 +1,856 @@
+[
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 19,
+        "caption": "The nightstand to the right of the bed, closest to the wall with the framed picture.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "wall with the framed picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 22,
+        "caption": "First bag located closet to the telephone on the left side of the bed.",
+        "parsed_query": {
+            "Target": "first bag",
+            "Anchor": [
+                "telephone",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 27,
+        "caption": "Backpack in front of door",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 20,
+        "caption": "The nightstand next to a green box.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "green box"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 20,
+        "caption": "If facing the bed, the nightstand on the left.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 18,
+        "caption": "Facing the foot of the bed, the backpack to the right.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 12,
+        "caption": "The door that has a painting to the left of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "painting"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 27,
+        "caption": "Pick the backpack laying on the ground in between the nightstand and the ironing board.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "nightstand",
+                "ironing board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 2,
+        "caption": "The chair right next to the tv",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tv"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 7,
+        "caption": "The door by the brown curtains",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "brown curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 18,
+        "caption": "The backpack is near the ironing board",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "ironing board"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 19,
+        "caption": "the nightstand is on the right side of the bed where your head lies and is used to store stuff",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "head"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 22,
+        "caption": "The bag on the floor closest to the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 22,
+        "caption": "This bag is nearer to the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 27,
+        "caption": "The backpack closer to the door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 19,
+        "caption": "If you are sitting in bed with your head against the headboard, it is the nightstand to your left.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "headboard"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 7,
+        "caption": "The door next to the AC.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "AC"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 7,
+        "caption": "the main door into the room",
+        "parsed_query": {
+            "Target": "main door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 22,
+        "caption": "The bag is in between a nightstand and another bag.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "nightstand",
+                "bag"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 2,
+        "caption": "The correct chair is closer to the TV.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 18,
+        "caption": "Choose the black backpack on the right side of the head of the bed on the floor.",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": [
+                "head of the bed",
+                "floor"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 12,
+        "caption": "The correct door is the one next to the picture on the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "picture on the wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 2,
+        "caption": "The chair nearest the TV",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 22,
+        "caption": "the bag closest to the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 27,
+        "caption": "Backpack nearest to the door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 23,
+        "caption": "The bag nearest the curtains.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "curtains"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 7,
+        "caption": "white entry door with handle",
+        "parsed_query": {
+            "Target": "entry door",
+            "Anchor": [
+                "white",
+                "handle"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 3,
+        "caption": "The chair is closest to the door into room",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door into room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 18,
+        "caption": "The bin furthest from the door, near the ironing board.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "ironing board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 2,
+        "caption": "the chair closest to the TV",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 23,
+        "caption": "It is the bag closest to the radiator and door.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "radiator",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 23,
+        "caption": "The white bag on the ground, next to the green bag. NOT the green bag",
+        "parsed_query": {
+            "Target": "white bag",
+            "Anchor": [
+                "green bag"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 20,
+        "caption": "If you are standing at the foot of the bed, facing the headboard, you want the nightstand on the left.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "foot of the bed",
+                "headboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 23,
+        "caption": "white bag closer to window",
+        "parsed_query": {
+            "Target": "white bag",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 23,
+        "caption": "The white bag on the left.",
+        "parsed_query": {
+            "Target": "white bag",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 27,
+        "caption": "Choose the backpack that is closest to the desk, not the one near the nightstand.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 20,
+        "caption": "Standing at the foot of the bed, looking at the head of the bed, it's the nightstand on the left.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "foot of the bed",
+                "head of the bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 19,
+        "caption": "The nightstand closest to the closet and furthest from the entry door.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "closet",
+                "entry door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 3,
+        "caption": "Chair next to the trash can",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 7,
+        "caption": "the door next to the curtains and heating/air system",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "curtains",
+                "heating/air system"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 2,
+        "caption": "The chair closest to the TV and furthest from the exit door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "TV",
+                "exit door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 2,
+        "caption": "The chair directly next to the microwave.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "microwave"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 18,
+        "caption": "The backpack lying between the bed and the cloth racks",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "cloth racks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 3,
+        "caption": "chair at the table closest to the main door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "main door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 22,
+        "caption": "the bag closest to the bed",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 27,
+        "caption": "backpack closest to the window.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 19,
+        "caption": "While standing at the end of the bed, choose the nightstand on the right.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 12,
+        "caption": "white door into the bathroom",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 3,
+        "caption": "The green chair is closer to the door",
+        "parsed_query": {
+            "Target": "green chair",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 2,
+        "caption": "The chair that is next to the TV, it is between the table and the tv.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "tv"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 19,
+        "caption": "Nightstand on the right side of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 27,
+        "caption": "The backpack closest to the exit door",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "exit door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 7,
+        "caption": "the large white door net to the window and radiator",
+        "parsed_query": {
+            "Target": "large white door",
+            "Anchor": [
+                "window",
+                "radiator"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 22,
+        "caption": "Stand with your back to the door and look to the left where you'll see two bags sitting next to the nightstand, over near the window, and you want the bag closer to the nightstand and the bed.",
+        "parsed_query": {
+            "Target": "bag",
+            "Anchor": [
+                "nightstand",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 12,
+        "caption": "the door in the funny angled corner of the room, not the one with a window next to it",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "funny angled corner of the room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 3,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 20,
+        "caption": "Of you are facing the bed and nightstands, it is the nightstand on the left.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "nightstands"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 19,
+        "caption": "When facing the head of the bed, it's the nightstand on the right.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 18,
+        "caption": "The backpack farthest from the window and door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 3,
+        "caption": "The chair closet to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 23,
+        "caption": "Where there is a white and green bag against the wall, select the white bag. It should be the bag closest to the window",
+        "parsed_query": {
+            "Target": "white bag",
+            "Anchor": [
+                "white and green bag",
+                "wall",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 18,
+        "caption": "The backpack farthest away from the door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 20,
+        "caption": "Facing the bed, choose the nightstand on the left.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 12,
+        "caption": "Select the door closest to the TV.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 20,
+        "caption": "The nightstand closest to the door.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 3,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 7,
+        "caption": "the large main door to the room",
+        "parsed_query": {
+            "Target": "main door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 23,
+        "caption": "Furthest away from the bed",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 12,
+        "caption": "The door near the television",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "television"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": 12,
+        "caption": "the door next to the painting.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "painting"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

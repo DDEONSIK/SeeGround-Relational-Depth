@@ -1,0 +1,1683 @@
+[
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 5,
+        "caption": "Looking at the books, it's the book on the left.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 5,
+        "caption": "the red book on the desk",
+        "parsed_query": {
+            "Target": "red book",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 5,
+        "caption": "Facing the desk, the book that on the left.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 5,
+        "caption": "As you enter the room you will notice the bed in front of you. Look to your left to see a brown wooden desk. On the left side of the desk you will find the books you are looking for.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 7,
+        "caption": "choose the larger of the two picture box selections",
+        "parsed_query": {
+            "Target": "picture box",
+            "Anchor": [
+                "",
+                ""
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 7,
+        "caption": "Imagine you're sitting in the chair at the desk. You will see two picture frames at head height. Choose the one on the left.",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 7,
+        "caption": "looking at the picture pick the one on the left",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "one"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 7,
+        "caption": "There are two pictures on the shelf. Select the one that is on the left and nearest to the corner of the room.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "shelf",
+                "corner of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 8,
+        "caption": "On the desk shelf, it's the smaller box on the right.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "desk",
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 8,
+        "caption": "pick the smaller one",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 8,
+        "caption": "Picture that is NOT at the very end of the shelf.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 8,
+        "caption": "choose the smaller picture box selection",
+        "parsed_query": {
+            "Target": "picture box",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 6,
+        "caption": "pick the book on the left",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "left"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 6,
+        "caption": "If you are sitting at the big desk with the shelf on top, the books on the right.",
+        "parsed_query": {
+            "Target": "books",
+            "Anchor": [
+                "big desk",
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 6,
+        "caption": "Directly next to the bed (pillow side) you will find a desk.  On the desk are two books on the far left.  you are looking for the darker book that has white pages.",
+        "parsed_query": {
+            "Target": "darker book",
+            "Anchor": [
+                "bed",
+                "desk",
+                "books"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 6,
+        "caption": "Looking at both books on the desk, it is the book on the right.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 8,
+        "caption": "A smaller picture on the right of the other picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 6,
+        "caption": "The book on the right.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 7,
+        "caption": "The larger of the two blue framed pictures, closer to the closet.",
+        "parsed_query": {
+            "Target": "blue framed picture",
+            "Anchor": [
+                "closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 5,
+        "caption": "Red book on the desk",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 25,
+        "caption": "The chair next to the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 9,
+        "caption": "Choose the plant on the right closes to the bed.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 31,
+        "caption": "The desk between the 2 beds",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 31,
+        "caption": "This is on what your monitor sits on",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 25,
+        "caption": "It is not the chair between the two beds.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 4,
+        "caption": "what student carries their books in",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 10,
+        "caption": "Face the bed, and look at the bookshelf to the left. The plant is the one on the left on top of the shelf.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "bed",
+                "bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 22,
+        "caption": "the shelf is on the floor",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 22,
+        "caption": "The shelf next to the purple bed",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "purple bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 15,
+        "caption": "Its the bed that has a rainbow flower wall mount next to it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "rainbow flower wall mount"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 16,
+        "caption": "This desk has brown shelves on top and is not under a bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "brown shelves",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 10,
+        "caption": "The smaller plant in front of the closet",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 14,
+        "caption": "The bed with a purple blanket.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 9,
+        "caption": "choose the plant closest to the bed.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 14,
+        "caption": "The bed with a purple sheet.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "purple sheet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 23,
+        "caption": "Shelf up above the bed",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 10,
+        "caption": "CHoose the plant on top of the shelf on the left as you are facing the shelf.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "shelf",
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 22,
+        "caption": "This shelf unit sits on the floor and is closer to the bed.",
+        "parsed_query": {
+            "Target": "shelf unit",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 38,
+        "caption": "The back is located beside the bed with pink sheets",
+        "parsed_query": {
+            "Target": "back",
+            "Anchor": "bed with pink sheets"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 16,
+        "caption": "The desk that is farther away from the window",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 31,
+        "caption": "The correct desk is in front of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 28,
+        "caption": "The dresser underneath the bed with a purple covering.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "purple covering"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 38,
+        "caption": "Find the backpack in front of the bed with the solid purple bedding.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "solid purple bedding"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 22,
+        "caption": "The shelf closest to the bed with the purple blanket.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed",
+                "purple blanket"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 28,
+        "caption": "The dresser under the bed with the purple blanket",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "purple blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 26,
+        "caption": "Chair in front of desk with computer on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "computer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 16,
+        "caption": "the computer desk that's close to bed that doesn't have the pink bed sheets",
+        "parsed_query": {
+            "Target": "computer desk",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 4,
+        "caption": "the backpack next to the bed",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 23,
+        "caption": "The shelf above the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 24,
+        "caption": "The shelf that is sitting on the desk and has two plants on the very top shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "two plants"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 24,
+        "caption": "The set of shelves directly above the desk that have plants on top of it",
+        "parsed_query": {
+            "Target": "set of shelves",
+            "Anchor": [
+                "desk",
+                "plants"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 4,
+        "caption": "box between desk chair and light circular fan",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "desk chair",
+                "light circular fan"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 15,
+        "caption": "the bed with the white and green bedding",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "white bedding",
+                "green bedding"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 4,
+        "caption": "Find the backpack that is in between the desk and the fan.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "desk",
+                "fan"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 26,
+        "caption": "This chair is at the small table in front of the window between the two beds.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "small table",
+                "window",
+                "two beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 24,
+        "caption": "the shelf next to the bed on the desk",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 31,
+        "caption": "The chair closest to the pink bed",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "pink bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 14,
+        "caption": "The correct bed has a purple blanket.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "purple blanket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 28,
+        "caption": "the set of drawers under the pink bed",
+        "parsed_query": {
+            "Target": "set of drawers",
+            "Anchor": [
+                "pink bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 28,
+        "caption": "It is the dresser under the bed with the purple blanket.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "purple blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 38,
+        "caption": "Choose the blue backpack on the floor next to the bed with the purple blanket.",
+        "parsed_query": {
+            "Target": "blue backpack",
+            "Anchor": [
+                "bed",
+                "purple blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 26,
+        "caption": "There is a desk between the two beds - you want the chair at that desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 23,
+        "caption": "the shelving above the bed",
+        "parsed_query": {
+            "Target": "shelving",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 27,
+        "caption": "The dresser under the bed with the orange pillow.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 16,
+        "caption": "The bigger brown desk to the left of the bed. It has turquoise picture frames on a shelf of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "turquoise picture frames"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 14,
+        "caption": "The bed with the purple blanket.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "purple blanket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 4,
+        "caption": "backpack near the desk",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 24,
+        "caption": "The shelf that is attached to the desk.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 27,
+        "caption": "The dresser under the bed with the patterned bedspread, behind the dark gray box",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed with patterned bedspread",
+                "dark gray box"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 27,
+        "caption": "Dresser underneath the bed without the purple comforter on it",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 27,
+        "caption": "Choose the dresser underneath the bed with a multicolored blanket and an orange pillow.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "multicolored blanket",
+                "orange pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 28,
+        "caption": "dresser under bed with purple bedding",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "purple bedding"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 31,
+        "caption": "This desk is closest to the bed and wall pennants.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "wall pennants"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 16,
+        "caption": "This desk has a gray chair and a ring fan blowing on it.",
+        "parsed_query": {
+            "Target": "ring fan",
+            "Anchor": [
+                "gray chair",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 24,
+        "caption": "The shelf above the desk.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 26,
+        "caption": "The chair in front of the desk with the laptop computer on top.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "laptop computer"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 25,
+        "caption": "This chair is facing the shelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "shelf"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 14,
+        "caption": "the bed with the pennants on the wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "pennants",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 16,
+        "caption": "Choose the desk that is NOT under the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 4,
+        "caption": "backpack near the desk",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 15,
+        "caption": "The bed beside the red flower painting",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "red flower painting"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 10,
+        "caption": "in the corner of the room there is a tall desk to the left of the bed.  On top the  desk is two desk two plants.  THe planst  farthest to the left left is the one to select.   It is cloest to the corner of the room",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "desk",
+                "bed",
+                "corner of the room",
+                "desk",
+                "bed",
+                "corner of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 10,
+        "caption": "plant closest to the mirror.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "mirror"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 31,
+        "caption": "You need to select the small desk that is in between the two beds.",
+        "parsed_query": {
+            "Target": "small desk",
+            "Anchor": [
+                "two beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 22,
+        "caption": "Shelf closest to the twin bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "twin bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 38,
+        "caption": "The backpack next to the black chair with wheels.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "black chair with wheels"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 10,
+        "caption": "The plant on the desk closest to the closet",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "desk",
+                "closet"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 9,
+        "caption": "Choose the plant closest to the bed.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 24,
+        "caption": "Select the shelf that has a plant on top of it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "plant"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 22,
+        "caption": "The shelf that is white and short",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 25,
+        "caption": "it is the chair closest to the exit doorway",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "exit doorway"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 27,
+        "caption": "It is the dresser that is underneath the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 27,
+        "caption": "dresser under the bed. next to the round fan",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "round fan"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 23,
+        "caption": "The highest of the shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 15,
+        "caption": "A bed with black shelving above the head and a patterned multi coloured picture on the wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "black shelving",
+                "patterned multi colored picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 16,
+        "caption": "desk farthest from the large window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "large window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 4,
+        "caption": "The backpack near the brown desk",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "brown desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 25,
+        "caption": "The wooden chair by the fan",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "fan"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 38,
+        "caption": "It's the backpack next to the bed with the purple blanket.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "purple blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 25,
+        "caption": "it is the chair next to the circular white contraption",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "circular white contraption"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 10,
+        "caption": "the plant furthest away from the window",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 25,
+        "caption": "I am the chair without a computer on the desk",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 31,
+        "caption": "The desk in the center of the 2 beds.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 15,
+        "caption": "The bed underneath the shelving unit with the orange pillow.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "shelving unit",
+                "orange pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 23,
+        "caption": "I am the shelf above the bed with red clothes on the bed",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed",
+                "red clothes on the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 26,
+        "caption": "the chair in between both beds",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 14,
+        "caption": "The bed with white and blue sheet with purple blanket",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "white and blue sheet",
+                "purple blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 24,
+        "caption": "the shelf to the left of the bed above the desk",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 22,
+        "caption": "shelf next to the bed with the pink sheet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed",
+                "pink sheet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 27,
+        "caption": "If you walked through the door, it would be the dresser under the bed in front of you with the white, orange and blue comforter.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "comforter"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 26,
+        "caption": "the chair in front of the window and between the beds",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "beds"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 28,
+        "caption": "The dresser underneath the bed with purple and teal bedding.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "purple and teal bedding"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 9,
+        "caption": "The plant on the top shelf on the right",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "top shelf",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 15,
+        "caption": "The bed by the bookshelf under the colorful picture.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bookshelf",
+                "colorful picture"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 6,
+        "caption": "facing the desk, the book on the right",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "desk",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 7,
+        "caption": "The picture is on the far left of the shelf",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "far left",
+                "shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 8,
+        "caption": "This framed picture is on the desk that is to the left of the bed. The picture is on the middle shelf and it is the second picture from the left hand side",
+        "parsed_query": {
+            "Target": "framed picture",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 5,
+        "caption": "there is a desk to the left of the bed. On top of the desk is a few books. The book on the left side is the one you want",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 23,
+        "caption": "The higher of the shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 9,
+        "caption": "This potted plant is on top of the brown bookcase and is closer to the bed than the other pot.",
+        "parsed_query": {
+            "Target": "potted plant",
+            "Anchor": [
+                "brown bookcase",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 38,
+        "caption": "Backpack by the bed with a purple comforter.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "purple comforter"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 28,
+        "caption": "A dresser that is under the bed that has a purple blanket on it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "purple blanket"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 23,
+        "caption": "The highest shelf above the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 14,
+        "caption": "The bed with the purple blanket.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "purple blanket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 9,
+        "caption": "If you were sitting in the desk chair, this plant would be on the top shelf of the hutch and on your right side.",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 9,
+        "caption": "The plant closest to the bed.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "bed"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 15,
+        "caption": "The colorful green, white and orange bed",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 26,
+        "caption": "The stool in between the two beds",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 38,
+        "caption": "the backpack behind the black computer chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "black computer chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 5,
+        "caption": "While sitting at the desk, you want the left option of the two books",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 7,
+        "caption": "The blue framed picture that is to the left (while you sit at the desk) on the desk",
+        "parsed_query": {
+            "Target": "blue framed picture",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 8,
+        "caption": "Sitting at the desk, you want the smaller picture of the two, closer to the right.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "desk",
+                "smallest"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": 6,
+        "caption": "The black and white book on the outside.",
+        "parsed_query": {
+            "Target": "book",
+            "Anchor": "outside"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

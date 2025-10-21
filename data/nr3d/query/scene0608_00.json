@@ -1,0 +1,800 @@
+[
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 25,
+        "caption": "the pillow on top of the couch cushions",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch cushions"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 4,
+        "caption": "The small plant that's in between two larger ones",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "smaller plant",
+                "bigger plant"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 27,
+        "caption": "The correct pillow is higher off the ground and closer to the world map on the wall.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "world map",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 14,
+        "caption": "the smaller plant in the corner of the room",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 28,
+        "caption": "Facing the two chairs, the leftmost chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 28,
+        "caption": "Sofa chair closest to the lazy boy recliner",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "lazy boy recliner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 29,
+        "caption": "The sofa chair farthest from the TV",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 27,
+        "caption": "The pillow under the world map.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "world map"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 14,
+        "caption": "When standing in the middle of the room facing the  plants, the correct one is on the left. Above the TV.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "TV",
+                "plants"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 25,
+        "caption": "The pillow on the couch close to the checkerboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "checkerboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 18,
+        "caption": "The largest plant of the three.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "the three"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 18,
+        "caption": "The tallest plant in the corner.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 4,
+        "caption": "The plant is on a table. There is a guitar on the floor right next to it. There is also a bean bag on the floor close to it as well.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "table",
+                "guitar",
+                "bean bag"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 25,
+        "caption": "The pillow closer to the ground and nearest to the TV.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "ground",
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 9,
+        "caption": "The ottoman that is in front of the chair and close to the table in the middle",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "chair",
+                "table in the middle"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 18,
+        "caption": "This is the largest plant, a potted tree perhaps.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 25,
+        "caption": "the pillow on the floor closest to the television",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "television"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 8,
+        "caption": "The correct ottoman is closer to the world map on the wall and closer the door.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "world map",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 28,
+        "caption": "The chair closest to the television.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tv"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 27,
+        "caption": "pillow above the sofa",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 27,
+        "caption": "When facing the television in the corner, it's the higher pillow of the two on your left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "television"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 9,
+        "caption": "ottoman nearest the coffee table",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "coffee table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 4,
+        "caption": "The green box is the plant in the middle.",
+        "parsed_query": {
+            "Target": "green box",
+            "Anchor": "middle"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 9,
+        "caption": "The box in front of the chair, closer to the coffee table",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "chair",
+                "coffee table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 14,
+        "caption": "the plant behind the TV",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "TV"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 4,
+        "caption": "by the window opening there is  a sink and cabinet. the plant your are lookng for is in front of this sink were you can  just make out something whtie. this is what you are looking for",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "sink",
+                "cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 28,
+        "caption": "The sofa chair closest to the window and TV.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "window",
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 29,
+        "caption": "Face the wall with many small picture frames. This chair will be furthest to the right directly across from the beanie bag.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "many small picture frames",
+                "beanie bag"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 18,
+        "caption": "The plant behind the piano that is next to the manage chair.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "piano",
+                "manage chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 25,
+        "caption": "The pillow on the seat, not on its back.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "seat"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 8,
+        "caption": "It is the Ottoman which is furthest from the guitar.",
+        "parsed_query": {
+            "Target": "Ottoman",
+            "Anchor": "guitar"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 8,
+        "caption": "The ottoman farthest from the TV and window.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "TV",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 4,
+        "caption": "The smallest plant that is sitting close to the floor on a table, to the left of the keyboard and guitar. To the right of the TV",
+        "parsed_query": {
+            "Target": "small plant",
+            "Anchor": [
+                "table",
+                "keyboard",
+                "guitar",
+                "TV"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 27,
+        "caption": "The pillow that's on the back of the couch, under the map.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "map"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 4,
+        "caption": "The plant on the coffee table at the window, under the flag",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "coffee table",
+                "window",
+                "flag"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 9,
+        "caption": "The ottoman closer to the coffee table with the chess board",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "coffee table",
+                "chess board"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 18,
+        "caption": "The plant that is behind the piano",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "piano"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 8,
+        "caption": "You need to select the ottoman that is furthest away from the coffee table.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "coffee table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 4,
+        "caption": "The small plant under the towel in the middle",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": [
+                "towel",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 8,
+        "caption": "Choose the ottoman closest to the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 9,
+        "caption": "Looking for a black ottoman, it's right in front of the love seat sofa with the green pillow",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "love seat sofa",
+                "green pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 27,
+        "caption": "The pillow on the bed closest to the wall.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 14,
+        "caption": "The plant behind the television.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "television"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 28,
+        "caption": "The chair nearest the TV.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 29,
+        "caption": "The sofa chair most below the words on the wall.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "words",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 29,
+        "caption": "The sofa mostly below the words on the wall.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 25,
+        "caption": "pillow closest to the tv",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "tv"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 9,
+        "caption": "I am the ottoman closest to the coffee table",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "coffee table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 18,
+        "caption": "It is the largest plant in the room",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 25,
+        "caption": "the pillow on the seat of the sofa ...Not on the back of the sofa",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "seat",
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 27,
+        "caption": "It's the pillow on the back of the couch, right under the map, and farther from the TV.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "map",
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 28,
+        "caption": "the sofa chair closer to the window",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 9,
+        "caption": "ottoman next to the table in front of the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "table",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 14,
+        "caption": "plant behind the tv.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "tv"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 14,
+        "caption": "The plant that is on top of the television",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "television"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 29,
+        "caption": "The sofa chair furthest from the television.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "television"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 28,
+        "caption": "The sofa chair on the left when looking from the black couch.",
+        "parsed_query": {
+            "Target": "saga chair",
+            "Anchor": [
+                "black couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 29,
+        "caption": "The sofa chair farther from the TV.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 8,
+        "caption": "The option is furthest from the coffee table but closer to the wood flooring near the couch",
+        "parsed_query": {
+            "Target": "option",
+            "Anchor": [
+                "wood flooring",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 18,
+        "caption": "The biggest plant furthest to the right.",
+        "parsed_query": {
+            "Target": "biggest plant",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 8,
+        "caption": "the ottoman closest to the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 14,
+        "caption": "the plant directly above the tv.",
+        "parsed_query": {
+            "Target": "plant",
+            "Anchor": "tv"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": 29,
+        "caption": "The chair closest to the wood floor furthest from the guitar",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wood floor"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

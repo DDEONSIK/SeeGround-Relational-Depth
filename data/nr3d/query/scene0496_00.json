@@ -1,0 +1,529 @@
+[
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 25,
+        "caption": "Facing the blackboard, the window on the far right corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blackboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 27,
+        "caption": "choose the window in the corner behind the chair.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 25,
+        "caption": "When standing in the middle of the room facing the windows the correct one is on the far left. It has a counter in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window",
+                "counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 25,
+        "caption": "The window directly from door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 18,
+        "caption": "select the bin on your left",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "left"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 18,
+        "caption": "Pick the blue trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "blue"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 18,
+        "caption": "The correct trash can is blue.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 27,
+        "caption": "This window is to the right of the 2 wooden chairs when you are looking at it from inside the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "2 wooden chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 19,
+        "caption": "A grey garbage can beside the blue recycling bin",
+        "parsed_query": {
+            "Target": "garbage can",
+            "Anchor": "blue recycling bin"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 25,
+        "caption": "The window is in the back left corner closest to the chalkboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chalkboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 27,
+        "caption": "Brown partcial square with a line through the center right behind a rolling office chair up against the square",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 19,
+        "caption": "the garbage bin NOT the recycling bin near the door",
+        "parsed_query": {
+            "Target": "garbage bin",
+            "Anchor": [
+                "door",
+                "recycling bin"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 26,
+        "caption": "There are two windows by the white door. Choose the smaller of the two.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "white door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 29,
+        "caption": "look at the long table the corner of the table points to a small window this is the window you want",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": [
+                "small window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 26,
+        "caption": "the small area of wall/window between two wood chairs and two blue with wood handle chairs.",
+        "parsed_query": {
+            "Target": "wall/window",
+            "Anchor": [
+                "two wood chairs",
+                "two blue with wood handle chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 29,
+        "caption": "the window in the corner of the desks",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 27,
+        "caption": "window with black office chair directly next to it",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 29,
+        "caption": "The small brown object on the far right.",
+        "parsed_query": {
+            "Target": "brown object",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 18,
+        "caption": "Blue trash can on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "left"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 29,
+        "caption": "When facing the wall of windows, the furthest on the right.",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "wall of windows",
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 25,
+        "caption": "With the brown cabinets on the left, choose the window furthest to the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "brown cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 26,
+        "caption": "select the window behind and in the middle of the two pairs of chairs (dark blue armchairs and the two with the wooden slats)",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "dark blue armchairs",
+                "two with the wooden slats"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 29,
+        "caption": "The window by the corner of the conference table. If you are facing it, it is to the right of the black chair and other window sharing the same wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "conference table",
+                "black chair",
+                "other window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 29,
+        "caption": "The single window in the corner  To the far right of the double wooden chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "double wooden chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 26,
+        "caption": "Window to the right when facing the blue chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blue chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 19,
+        "caption": "There are 2 trash cans side by side on the floor near the large desk. You need to select the trash can on the right (not the blue trashcan)",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "large desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 19,
+        "caption": "The can closest to the door.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 25,
+        "caption": "Facing the windows, the window on the far left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 27,
+        "caption": "The largest of the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 19,
+        "caption": "the trash can that is not blue",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 18,
+        "caption": "Facing the cans, the blue can.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": "cans"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 26,
+        "caption": "the window between the grey chairs and wood chairs",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "grey chairs",
+                "wood chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 19,
+        "caption": "Your are looking for the small gray trashcan, NOT the blue one.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 18,
+        "caption": "When standing in the middle of the room facing the  trash bins, the correct one is on the left and is blue.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "trash bin",
+                "middle of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 26,
+        "caption": "The window between the two blue chair and the two wooded chair",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blue chair",
+                "wooded chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 27,
+        "caption": "This window is directly behind a black office chair and to the right of a pair of wooden chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "black office chair",
+                "pair of wooden chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 29,
+        "caption": "Window to the right of black chair",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "black chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 27,
+        "caption": "window between slat chair and black office chair",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "slat chair",
+                "black office chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 19,
+        "caption": "not the blue one",
+        "parsed_query": {
+            "Target": "color",
+            "Anchor": [
+                "blue"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 18,
+        "caption": "The blue trash bin closest to the whiteboard on the wall.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 25,
+        "caption": "The window is the double pane one behind the 2 light blue chairs next to each other.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "2 light blue chairs next to each other"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0496_00",
+        "target_id": 26,
+        "caption": "This is a small single window behind two gray armchairs and two slat-back brown chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "gray armchairs",
+                "brown chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

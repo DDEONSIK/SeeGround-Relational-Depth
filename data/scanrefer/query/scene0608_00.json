@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a blue and green flag.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blue and green flag"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it is next to a map on the wall.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": "map"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "8",
+        "target_name": "ottoman",
+        "caption": "there is a square brown ottoman. it is at the corner of a couch.",
+        "parsed_query": {
+            "Target": "square brown ottoman",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "6",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular brown coffee table. it is in front of a window.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is in front of a map.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "map"
+            ]
+        },
+        "unique": false
+    }
+]

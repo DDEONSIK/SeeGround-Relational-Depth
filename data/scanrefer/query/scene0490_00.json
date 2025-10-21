@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a chair with arms . the chair is placed in front of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "another chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "this is a black rectangular tv. the tv is hanged on the wall.",
+        "parsed_query": {
+            "Target": "black rectangular tv",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is directly facing the corner of a table.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "corner of a table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is to the right of a chair directly facing the corner of a table.",
+        "parsed_query": {
+            "Target": "square gray chair",
+            "Anchor": [
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. its back is to the tv and it is right of another chair.",
+        "parsed_query": {
+            "Target": "square gray chair",
+            "Anchor": [
+                "tv",
+                "another chair"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "the office chair is yellow. it is to the left of the chair beside it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "chair",
+                "chair beside it"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the office chair is red. it is facing to the right. there is another chair behind it that faces the opposite direction.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "office chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the office chair is one of two that face away from the wall. it is to the right of the yellow chair beside it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "yellow chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the office chair is blue. the back of it is towards the blackboard. the office chair is to the right of the yellow chair next to it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "blackboard",
+                "yellow chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "11",
+        "target_name": "office_chair",
+        "caption": "the office chair is facing right. it is pulled into the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    }
+]

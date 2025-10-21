@@ -1,0 +1,72 @@
+[
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "10",
+        "target_name": "rack_stand",
+        "caption": "silver magazine rack is at the end of the book shelf closest to the wall, it is next to a black magazine rack. they are across from a table that is covered in books.",
+        "parsed_query": {
+            "Target": "silver magazine rack",
+            "Anchor": [
+                "book shelf",
+                "black magazine rack",
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "9",
+        "target_name": "book_rack",
+        "caption": "black magazine rack, next to so a silver magazine rack. both are at the end of the bookshelf closest to the wall.",
+        "parsed_query": {
+            "Target": "black magazine rack",
+            "Anchor": [
+                "silver magazine rack",
+                "bookshelf",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "bookshelf with 7 shelves and 4 sections. it is on the wall opposite the table that has books on it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the front of the table on the right, when viewed from in front the two rows of bookshelves, facing the table. above the gray, purple, green swatch of carpet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two rows of bookshelves",
+                "gray, purple, green swatch of carpet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "106",
+        "target_name": "bookshelf",
+        "caption": "there are some bookshelves full of books. they are to the right of the bench.",
+        "parsed_query": {
+            "Target": "bookshelves",
+            "Anchor": "bench"
+        },
+        "unique": false
+    }
+]

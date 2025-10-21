@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "we are looking for the brown office chair with wheels . it is not pushed all the way in under the table but is in front of the corner  where the   l shaped desk  bends.",
+        "parsed_query": {
+            "Target": "brown office chair",
+            "Anchor": [
+                "l shaped desk",
+                "corner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "38",
+        "target_name": "whiteboard",
+        "caption": "this is a white rectangular board. the board is attached to the wall.",
+        "parsed_query": {},
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "29",
+        "target_name": "computer_tower",
+        "caption": "a black computer tower. it is under a brown table.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "brown table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "11",
+        "target_name": "computer_tower",
+        "caption": "a black computer tower. it is under a brown table.",
+        "parsed_query": {
+            "Target": "black computer tower",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "a black office chair. it is in between with the same chair.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "same chair"
+            ]
+        },
+        "unique": false
+    }
+]

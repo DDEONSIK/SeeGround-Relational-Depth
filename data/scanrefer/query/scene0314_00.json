@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "9",
+        "target_name": "keyboard",
+        "caption": "the keyboard is located on the table in front of a monitor. it is the furthest keyboard to the right.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "0",
+        "target_name": "furniture",
+        "caption": "the furniture is north of the round table. the furniture is curved and has many bars.",
+        "parsed_query": {
+            "Target": "furniture",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southeastern-most one next to the round table. the office chair is brown and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is on top of the round table. the monitor is gray and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "0",
+        "target_name": "furniture",
+        "caption": "this piece of furniture is brown with oval holes. it is behind a black rolling chair.",
+        "parsed_query": {},
+        "unique": true
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0494_00",
+        "target_id": "10",
+        "target_name": "whiteboard",
+        "caption": "this whiteboard is on the far wall. it is facing the observer.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "far wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this chair is partially covered. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this chair is the furthest chair on the right. it is facing inward.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "this door is closed and is in the corner. it is silver.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "silver",
+                "corner"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0494_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this chair is on the top left corner. it is facing the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    }
+]

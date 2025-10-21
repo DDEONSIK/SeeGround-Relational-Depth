@@ -1,0 +1,65 @@
+[
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "this is a white color lamp. the lamp is in front of the mirror.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "mirror"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "36",
+        "target_name": "couch",
+        "caption": "the couch is brown. there is a picture frame hanging above it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "picture frame"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "37",
+        "target_name": "cabinet",
+        "caption": "the cabinet is square and dark brown. it is under the tv.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "50",
+        "target_name": "ottoman",
+        "caption": "the ottoman is rectangular and beige. it is in front of the armchair.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "79",
+        "target_name": "shower_curtain",
+        "caption": "the shower curtain is tall and white. it is to the right of the bathtub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "bathtub"
+            ]
+        },
+        "unique": true
+    }
+]

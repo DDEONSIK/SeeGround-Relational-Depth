@@ -1,0 +1,68 @@
+[
+    {
+        "scan_id": "scene0164_00",
+        "target_id": "18",
+        "target_name": "paper_towel_roll",
+        "caption": "there is a paper towel roll on the counter. it is under some cabinets.",
+        "parsed_query": {
+            "Target": "paper towel roll",
+            "Anchor": [
+                "counter",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": "11",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a kitchen cabinet hanging on the wall. it is directly to the left of an open cabinet.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "open cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": "50",
+        "target_name": "faucet",
+        "caption": "there is a sink installed in a counter. it is to the right of a dish drainer.",
+        "parsed_query": {
+            "Target": "dish drainer",
+            "Anchor": [
+                "sink",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": "43",
+        "target_name": "microwave",
+        "caption": "there is a microwave on a counter top. it is in the corner.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "counter top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0164_00",
+        "target_id": "47",
+        "target_name": "water_bottle",
+        "caption": "there is a water bottle sitting on a counter. it is to the right of a refrigerator.",
+        "parsed_query": {
+            "Target": "water bottle",
+            "Anchor": [
+                "counter",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    }
+]

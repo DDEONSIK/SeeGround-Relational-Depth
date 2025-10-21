@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is facing the table. it is black and solid.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "21",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser. it is above the counter.",
+        "parsed_query": {
+            "Target": "white soap dispenser",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet. it is to the left of more cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this chair is facing left. it is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this brown chair is facing left. it is in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

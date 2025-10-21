@@ -1,0 +1,686 @@
+[
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 4,
+        "caption": "the window is above the trash can",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "trash can"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 0,
+        "caption": "The wall mounted cabinets directly above the table top laser printer.",
+        "parsed_query": {
+            "Target": "wall mounted cabinets",
+            "Anchor": [
+                "table",
+                "laser printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 0,
+        "caption": "highest cabinet on wall",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 12,
+        "caption": "The cabinet on underneath the large shelves in the middle.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "large shelves",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 5,
+        "caption": "The shortest, smallest window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 18,
+        "caption": "Bottom cabinet with a printer next to the standing fan",
+        "parsed_query": {
+            "Target": "bottom cabinet",
+            "Anchor": [
+                "standing fan",
+                "printer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 17,
+        "caption": "The lower cabinet that is in front of the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 18,
+        "caption": "the smallest dark cabinet",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 18,
+        "caption": "the bottom cabinet that houses the sink",
+        "parsed_query": {
+            "Target": "bottom cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 8,
+        "caption": "The smaller can.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 18,
+        "caption": "Find the cabinet that has a small fax/printer on top of it. It is next to a large trashcan.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "large trashcan"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 18,
+        "caption": "The small green cabinet by the trash can",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "trash can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 4,
+        "caption": "The taller of the window.s",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 8,
+        "caption": "It is the small trash can in the corner near the large copier.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "large copier",
+                "corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 8,
+        "caption": "The smaller trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 25,
+        "caption": "The larger of the two cans.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 4,
+        "caption": "the larger window set",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 5,
+        "caption": "When standing in the middle of the room facing the windows the correct one is on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 25,
+        "caption": "the larger trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 25,
+        "caption": "The trash can is really big",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 17,
+        "caption": "It is the cabinets under the windows.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 5,
+        "caption": "smaller window behind the desk",
+        "parsed_query": {
+            "Target": "smaller window",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 12,
+        "caption": "The cabinets in the middle of the room closest to the couch",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 0,
+        "caption": "upper cabinets, gray color",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 0,
+        "caption": "if looking at the window, the cabinet to the right above the trash can.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "trash can",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 5,
+        "caption": "The smaller window closest to the copy machine.",
+        "parsed_query": {
+            "Target": "smaller window",
+            "Anchor": [
+                "copy machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 17,
+        "caption": "The cabinet you want to select is the one directly under the windows",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 12,
+        "caption": "The cabinet underneath the bookshelves.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bookshelves"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 4,
+        "caption": "the larger window section",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 0,
+        "caption": "gray upper cabinets near the window",
+        "parsed_query": {
+            "Target": "upper cabinets",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 25,
+        "caption": "The full sized trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 4,
+        "caption": "The larger window near the black receptacle",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "black receptacle"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 25,
+        "caption": "Trash can directly behind the white standing fan.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "white standing fan"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 5,
+        "caption": "When facing the 2 windows, this window would be on your left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 17,
+        "caption": "lower cabinet under the window",
+        "parsed_query": {
+            "Target": "lower cabinet",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 18,
+        "caption": "You need to select the cabinet that is on the wall opposite the photocopier.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "photocopier"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 8,
+        "caption": "This is the smallest of the trash bins",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 5,
+        "caption": "Choose the window that is closest in proximity to the big white copy machine on the adjacent wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "big white copy machine",
+                "adjacent wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 18,
+        "caption": "This cabinet looks to have a printer on it. It is smaller than the others and on the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "printer",
+                "floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 17,
+        "caption": "The cabinets under the window",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 4,
+        "caption": "The window with the large bin in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "large bin"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 0,
+        "caption": "cabinet above the printer near the garbage can",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "printer",
+                "garbage can"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 12,
+        "caption": "Long cabinet sticking out into the middle of the roof with a document rack on top",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "document rack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 17,
+        "caption": "It is the cabinets under the desk at the window.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 4,
+        "caption": "It is the window next to the hanging cabinets and has a black basin in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "hanging cabinets",
+                "black basin"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 12,
+        "caption": "The cabinet closest to the couch.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 5,
+        "caption": "The short window closest to the copy machine.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "copy machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 0,
+        "caption": "The only cabinet that is wall mounted, not touching the floor.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 25,
+        "caption": "Choose the larger trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 8,
+        "caption": "it is the trashcan closest to the printers",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "printers"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 17,
+        "caption": "The cabinet next to the windows.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 12,
+        "caption": "The black cabinet in front of brown two seater couch",
+        "parsed_query": {
+            "Target": "black cabinet",
+            "Anchor": [
+                "brown two seater couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 8,
+        "caption": "The smaller of the cans.",
+        "parsed_query": {
+            "Target": "cans",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 12,
+        "caption": "The black cabinet directly in front of couch",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 8,
+        "caption": "The smaller of the two cans.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": 25,
+        "caption": "large trash can to the right of the wood desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wood desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

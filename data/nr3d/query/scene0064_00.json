@@ -1,0 +1,687 @@
+[
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 8,
+        "caption": "find the armchair farthest away from the tall bookshelf",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "tall bookshelf"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 2,
+        "caption": "Facing the small bookshelves, the coffee table on the left.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "small bookshelves"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 5,
+        "caption": "Multiple magazines are scattered on the table in front of this couch.",
+        "parsed_query": {
+            "Target": "magazines",
+            "Anchor": [
+                "table",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 7,
+        "caption": "Facing the short bookshelves, the armchair on the left.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "short bookshelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 2,
+        "caption": "brown table on left side",
+        "parsed_query": {
+            "Target": "brown table",
+            "Anchor": [
+                "left side"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 3,
+        "caption": "the coffee table with one magazine on it",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "magazine"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 5,
+        "caption": "This couch is by the table with 3 magazines on top",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "table",
+                "3 magazines"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 0,
+        "caption": "This is the longer lower row of bookshelves.",
+        "parsed_query": {
+            "Target": "bookshelves",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 7,
+        "caption": "the arm chair that's facing the desk that has lots of reading materials on it.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 10,
+        "caption": "The taller bookcases.",
+        "parsed_query": {
+            "Target": "bookcases",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 8,
+        "caption": "Facing the smaller bookcases, the armchair on the right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "smaller bookcases"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 4,
+        "caption": "The correct couch has a backpack on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 8,
+        "caption": "The armchair farthest from the bookshelves.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "bookshelves"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 5,
+        "caption": "This couch faces a coffee table with multiple books on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "coffee table",
+                "multiple books"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 2,
+        "caption": "Coffee table with the most papers on it",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 5,
+        "caption": "The couch where more magazines are on the table",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "table",
+                "magazines"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 2,
+        "caption": "This table has magazines scattered on it.",
+        "parsed_query": {
+            "Target": "magazines",
+            "Anchor": "table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 7,
+        "caption": "The chair closer to the table with many objects on it, not just one.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 2,
+        "caption": "Several magazines are atop this coffee table.",
+        "parsed_query": {
+            "Target": "magazines",
+            "Anchor": "coffee table"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 10,
+        "caption": "The correct shelf is the one that is smaller and not as wide.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 0,
+        "caption": "the bookshelf nearest to the two chairs and sofa",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "two chairs",
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 7,
+        "caption": "The sofa facing the book shelves.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "book shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 4,
+        "caption": "Couch in front of the coffee table that does NOT have papers spread out on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "coffee table"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 7,
+        "caption": "the armchair facing the door",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 5,
+        "caption": "This couch is sitting in front of the brown coffee table with more magazines on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "brown coffee table",
+                "more magazines on it"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 3,
+        "caption": "There is two rectangle lig.ht brown tables in the room. On of them has ONE white object in the middle of the table. This is the one that you are lookng for",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "rectangle lig.ht brown tables"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 10,
+        "caption": "The short long bookcase",
+        "parsed_query": {
+            "Target": "long bookcase",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 2,
+        "caption": "It's the table with the most books on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "books"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 8,
+        "caption": "Looking at the longest bookshelf, the brown armchair that is facing to the right",
+        "parsed_query": {
+            "Target": "brown armchair",
+            "Anchor": [
+                "longest bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 3,
+        "caption": "The table with only one publication on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 0,
+        "caption": "The longer bookshelf",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 4,
+        "caption": "The couch on the opposite end of the room from the bookshelves",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "bookshelves"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 8,
+        "caption": "the armchair the faces the loveseat with the bag",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "loveseat"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 3,
+        "caption": "The table that looks like all the papers are in one pile and is in front of the black couch that looks like it has something sitting on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "black couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 4,
+        "caption": "The lower of the couches.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 2,
+        "caption": "Select the coffee table that has the most stuff on it.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 5,
+        "caption": "Select the couch closest to the small book shelf.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "small book shelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 10,
+        "caption": "Choose the tall bookshelf that has two empty rows on its bottom right corner.",
+        "parsed_query": {
+            "Target": "tall bookshelf",
+            "Anchor": [
+                "bottom right corner"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 8,
+        "caption": "The arm chair on the lower end of the room.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "room"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 7,
+        "caption": "Looking at the bookcase, I am the chair on the left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bookcase"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 0,
+        "caption": "Choose the largest bookshelf.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 10,
+        "caption": "The tall bookshelf is on the smaller wall.",
+        "parsed_query": {
+            "Target": "tall bookshelf",
+            "Anchor": "smaller wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 0,
+        "caption": "long bookshelf with only 2 shelf levels",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 3,
+        "caption": "The coffee table with one magazine on it, between the black leather chair and the brown chair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "black leather chair",
+                "brown chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 3,
+        "caption": "the coffee table near the black couch that has a backpack on it",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "black couch",
+                "backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 10,
+        "caption": "The set of taller bookshelves.",
+        "parsed_query": {
+            "Target": "taller bookshelves",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 5,
+        "caption": "The couch closer to the tall book shelves.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "tall book shelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 7,
+        "caption": "facing the bookshelves, left chair",
+        "parsed_query": {
+            "Target": "left chair",
+            "Anchor": [
+                "bookshelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 0,
+        "caption": "The shorter bookshelf.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 4,
+        "caption": "The box without a bookshelf behind it but it does have one to the side.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "bookshelf"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 4,
+        "caption": "The couch with a backpack on it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 0,
+        "caption": "smaller bookshelf, 2 rows high in 4 sections.",
+        "parsed_query": {
+            "Target": "smaller bookshelf",
+            "Anchor": [
+                "2 rows high",
+                "4 sections"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 4,
+        "caption": "This two seat black couch does not have a wall of bookshelves behind it and has a burgundy pillow or something on it.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": [
+                "wall of bookshelves",
+                "burgundy pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 10,
+        "caption": "the three verticle column brown book shelf behind black couch",
+        "parsed_query": {
+            "Target": "book shelf",
+            "Anchor": [
+                "black couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 8,
+        "caption": "The armchair that is facing the couch which has a piece of black and red luggage sitting on it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch",
+                "black and red luggage"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": 3,
+        "caption": "Table nearest the top of the image.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

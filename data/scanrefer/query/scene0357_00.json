@@ -1,0 +1,60 @@
+[
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "24",
+        "target_name": "closet_doors",
+        "caption": "there is a brown wooden cabinet. placed under the stairs.",
+        "parsed_query": {
+            "Target": "brown wooden cabinet",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "there is a wooden table. placed next to the stairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "stairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "there is a white wooden cabinet. placed under the window of the room.",
+        "parsed_query": {
+            "Target": "white wooden cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "there is a gray steel shelf. placed on the left of the window.",
+        "parsed_query": {
+            "Target": "gray steel shelf",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "30",
+        "target_name": "towel",
+        "caption": "there is a green clothe. hanging on the wall between window and cabinet.",
+        "parsed_query": {
+            "Target": "green clothe",
+            "Anchor": [
+                "window",
+                "cabinet"
+            ]
+        },
+        "unique": true
+    }
+]

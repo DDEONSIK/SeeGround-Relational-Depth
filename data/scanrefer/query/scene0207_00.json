@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "there is a white wooden window. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "white wooden window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "65",
+        "target_name": "bathtub",
+        "caption": "there is a white plastic bath tub. placed on the side of the bathroom.",
+        "parsed_query": {
+            "Target": "bath tub",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "there is a white wooden cabinet. placed on the upper side of the wall.",
+        "parsed_query": {
+            "Target": "white wooden cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "19",
+        "target_name": "kitchen_counter",
+        "caption": "a beige colored counter with various items on it, flat and smooth and l shaped. . it is in the kitchen area to the right of the stove.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": [
+                "stove",
+                "kitchen area"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "18",
+        "target_name": "toilet",
+        "caption": "the toilet is between the bathtub and the sink. the toilet is white and has a oval shape.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bathtub",
+                "sink"
+            ]
+        },
+        "unique": true
+    }
+]

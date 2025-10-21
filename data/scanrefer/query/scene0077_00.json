@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "a black trash can. it is behind the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "a brown door. an open door.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": [
+                "open door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "22",
+        "target_name": "copier",
+        "caption": "a white machine. in front of the lavatory.",
+        "parsed_query": {
+            "Target": "machine",
+            "Anchor": "lavatory"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "a wooden door. a brown open door.",
+        "parsed_query": {
+            "Target": "a wooden door",
+            "Anchor": "brown open door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "a black trash can. it is right in front of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    }
+]

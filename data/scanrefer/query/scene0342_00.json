@@ -1,0 +1,74 @@
+[
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is to the right of another chair. c",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": [
+                "another chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "it is one of the brown chairs that are connected together. it is located at the very back of the room from the right side wall it will be the second chair to your left at the top row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown chairs",
+                "right side wall",
+                "top row"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "from where the speaker stands and talks it is a brown chair located from the right side of the room. is the second chair from the right in the second row.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "right side of the room",
+                "second chair from the right",
+                "second row"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "it is it is a brown chair it is located on the front row from the right side of the room. standing from where the speaker speaks it is the first chair in the first roll from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "row",
+                "right side of the room",
+                "front row"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "it is a brown chair it is located on the top row. it is the first chair from the right side of the room and to your left if you were standing in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "row",
+                "room"
+            ]
+        },
+        "unique": false
+    }
+]

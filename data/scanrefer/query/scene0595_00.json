@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "2",
+        "target_name": "clothes_dryers",
+        "caption": "the clothes dryers are white. they are located perpendicular to the blue wall.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": [
+                "blue wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "the rectangular picture is on the blue wall. it is located above and behind the open clothes dryer door.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": [
+                "blue wall",
+                "open clothes dryer door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "this is a picture on the wall. it looks like a coin operated dispenser. it is in the laundromat on the blue wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "laundromat",
+                "blue wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "2",
+        "target_name": "clothes_dryers",
+        "caption": "these are the clothes dryers in the laundromat. they are installed along the left side wall.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": [
+                "laundromat",
+                "left side wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "0",
+        "target_name": "laundry_basket",
+        "caption": "this is a white laundry basket. it is on top of the first drying machine on the left.",
+        "parsed_query": {
+            "Target": "white laundry basket",
+            "Anchor": [
+                "first drying machine",
+                "left"
+            ]
+        },
+        "unique": true
+    }
+]

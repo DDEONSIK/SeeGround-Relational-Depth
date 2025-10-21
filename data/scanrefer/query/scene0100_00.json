@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0100_00",
+        "target_id": "2",
+        "target_name": "sink",
+        "caption": "it is an tan single bowl porcelain sink. the sink is in the bathroom.",
+        "parsed_query": {
+            "Target": "tan single bowl porcelain sink",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet is tan. the toilet is in the bathroom. the toilet is between the tub and the sink counter.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink counter",
+                "tub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": "8",
+        "target_name": "step_stool",
+        "caption": "the step stool is blue and white and, plastic. the stool is in front of the tub.",
+        "parsed_query": {},
+        "unique": false
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": "4",
+        "target_name": "bathroom_cabinet",
+        "caption": "it is a  long wooden cabinet with a tan countertop. the cabinet is along the wall in the bathroom.",
+        "parsed_query": {
+            "Target": "wooden cabinet",
+            "Anchor": [
+                "bathroom",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0100_00",
+        "target_id": "13",
+        "target_name": "rug",
+        "caption": "this  is a brown run laying on the floor of the kitchen. it is in front of the cabinet to the right, by the wall.",
+        "parsed_query": {
+            "Target": "brown run",
+            "Anchor": [
+                "wall",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    }
+]

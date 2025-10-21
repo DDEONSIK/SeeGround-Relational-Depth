@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "the dull gross pillow. the pillow is on top of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "5",
+        "target_name": "curtain",
+        "caption": "the large window curtain. the curtain is next to the little shelf.",
+        "parsed_query": {
+            "Target": "large window",
+            "Anchor": [
+                "little shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "the large square window. the window is covered by the curtain.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "the small room door. the door is by the little table.",
+        "parsed_query": {
+            "Target": "room door",
+            "Anchor": [
+                "little table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the rolling office chair. the chair is in front of the desk.",
+        "parsed_query": {
+            "Target": "rolling office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    }
+]

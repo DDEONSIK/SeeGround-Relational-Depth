@@ -1,0 +1,71 @@
+[
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "the toilet is right of the bathtub. the toilet is white and round.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "7",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is right of the toilet. the toilet paper is white and round.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "white and round"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "9",
+        "target_name": "bathtub",
+        "caption": "the white bath tub against the wall. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "bath tub",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "7",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is east of the toilet. the toilet paper is a white cylinder.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "east"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is right of the toilet. the toilet paper is a white cylinder.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "cylinder"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,510 @@
+[
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 11,
+        "caption": "This is a long, white cabinet mounted to the wall above the desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 18,
+        "caption": "The pillow on top of the other pillow",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "pillow"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 3,
+        "caption": "the office chair that does not have the yellow bag on it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 18,
+        "caption": "The pillow closest to the wall.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 3,
+        "caption": "Facing the windows, the leftmost chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 10,
+        "caption": "This pillow is the darkest one, and doesn't have a clock on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "dark"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 10,
+        "caption": "It is the box on the couch that is below the other box and seems to contain a plain black object.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "couch",
+                "other box"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 2,
+        "caption": "the office chair is on 4 wheels and is padded for comfort when in use. there are two of these but this one is a brown or light color.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wheels",
+                "padded",
+                "brown",
+                "light color"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 18,
+        "caption": "The pillow that is white.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 18,
+        "caption": "The correct pillow is white and closer to the ceiling.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "ceiling"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 10,
+        "caption": "the black pillow in the corner of the couch",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 13,
+        "caption": "the cabinet by the TV",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "TV"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 3,
+        "caption": "Choose the all black desk chair.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 3,
+        "caption": "The chair closest to the bookshelves.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bookshelves"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 13,
+        "caption": "If your watching tv its the cabinet to the left",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 2,
+        "caption": "chair at the table facing toward the corner closest to orange couch",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "orange couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 2,
+        "caption": "office chair with something yellow on it",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 11,
+        "caption": "the upper cabinets above the desk and chairs (but they look like windows)",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "desk",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 11,
+        "caption": "This cabinet is long and located above a desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 11,
+        "caption": "The windows over the white desk.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": [
+                "white desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 18,
+        "caption": "select the white pillow on the sofa",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 11,
+        "caption": "The horizontal cabinet above the desk with two chairs.",
+        "parsed_query": {
+            "Target": "horizontal cabinet",
+            "Anchor": [
+                "desk",
+                "two chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 2,
+        "caption": "The chair with a yellow jacket on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "yellow jacket"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 11,
+        "caption": "It is the cabinets that are mounted above the desk.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 13,
+        "caption": "The cabinet that is closer to the tv",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "television"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 10,
+        "caption": "Facing the orange sofa, its the black pillow in the front.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "orange sofa"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 3,
+        "caption": "The chair without anything on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 18,
+        "caption": "the pillow you want is the one closer to the wall, that the other pillow is leaning against",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "wall",
+                "pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 3,
+        "caption": "the office chair closer to the shelves and TV",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "shelves",
+                "TV"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 13,
+        "caption": "This is the tall vertical cabinet.",
+        "parsed_query": {
+            "Target": "vertical cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 13,
+        "caption": "The taller of the cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 13,
+        "caption": "large cabinet that is NOT above the desk",
+        "parsed_query": {
+            "Target": "large cabinet",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 2,
+        "caption": "facing the window, right chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 10,
+        "caption": "when standing in the middle room facing the couch, it is the pillow on the very bottom.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 18,
+        "caption": "The pillow you want to select is the mostly white one",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 13,
+        "caption": "The cabinet to the left of the lamp. It is closer to the orange sectional couch on the side with the small pillows on it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "lamp",
+                "orange sectional couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 10,
+        "caption": "black pillow on couch",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 2,
+        "caption": "the office chair with a yellow item on it",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 11,
+        "caption": "Don't choose the tall and skinny item. Choose the smaller item that's up higher. (The AI says that both boxes show \"cabinets\" but I don't think the small items are really cabinets!)",
+        "parsed_query": {
+            "Target": "small item",
+            "Anchor": [
+                "tall and skinny item",
+                "up higher"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 2,
+        "caption": "You are looking for the office chair with the yellow backpack on the back of it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "yellow backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 3,
+        "caption": "the chair on the left next to the open book shelves",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "open book shelves"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": 10,
+        "caption": "black pillow in the corner of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

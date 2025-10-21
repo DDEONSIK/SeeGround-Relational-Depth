@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0430_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a black and brown chair covered partially by a table surface. it is closest to the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "viewer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is the furthest chair at the closest table to the viewer. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "closest table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "this is a black closed door. it is on the wall.",
+        "parsed_query": {},
+        "unique": true
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is the black chair facing left. it is the furthest chair on the right side and closest.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "further chair",
+                "right side",
+                "closest"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0430_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is the color black. it is against the wall facing inwards. it is spaced along the wall beside other chairs",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "other chairs"
+            ]
+        },
+        "unique": false
+    }
+]

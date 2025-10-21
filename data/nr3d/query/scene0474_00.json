@@ -1,0 +1,1754 @@
+[
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 15,
+        "caption": "the black chair facing the chair with a person in it",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair",
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 0,
+        "caption": "The computer tower under the desk near the man",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "man"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 15,
+        "caption": "The chair that is the closest to the middle of the room, away from any desk or wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 23,
+        "caption": "The small vertical window",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 40,
+        "caption": "the computer tower that is next to the chair facing the middle of the room",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "chair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 15,
+        "caption": "THE ONLY CHAIR ON THE LEFT SIDE OF THE ROOM WITH A WRITTEN-ON WHITBOARD BEHIND IT",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "left side of the room",
+                "written-on whitboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 37,
+        "caption": "The red pillow on the blue couch.  This pillow is located on the same wall with the person on the computer.",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": [
+                "blue couch",
+                "person on computer"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 8,
+        "caption": "The backpack that is next to the bookshelf and closer to the door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bookshelf",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 14,
+        "caption": "The chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 9,
+        "caption": "Find the backpack laying on the sectional sofa.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "sectional sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 28,
+        "caption": "The tower closest to the door.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 20,
+        "caption": "The keyboard closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 10,
+        "caption": "The correc monitor is second closest to the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 12,
+        "caption": "It is the monitor that is directly in front of the man. It is the one on the left or far left. It is also right next to a phone. the screen right next to it is under a poster on the wall. The poster kinda looks like a collage of small photos.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "man",
+                "phone",
+                "poster"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 31,
+        "caption": "Keyboard lying directly in front of the man sitting at his desk.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "man",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 12,
+        "caption": "The correct monitor is directly in front of the man who is sitting at it. It is also closest to the couch.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "man",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 11,
+        "caption": "the monitor is to the right of  of the woman sitting at the desk",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "woman",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 8,
+        "caption": "Student uses these to carry books",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 28,
+        "caption": "the tower is nearest the door",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 15,
+        "caption": "This chair is not aligned with the others and is behind the seated man.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "man"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 31,
+        "caption": "The correct keyboard has a person sitting at the desk it is on.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "person",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 16,
+        "caption": "Someone is sitting facing a monitor in this chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 41,
+        "caption": "Facing the door, the monitor on the right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 29,
+        "caption": "The correct monitor is closest to the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 40,
+        "caption": "It's the computer tower opposite where the man is sitting, at a computer without anyone sitting at it.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "man",
+                "computer"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 38,
+        "caption": "When facing the couch from the center of the room, choose the red pillow on the left side of the couch.",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 29,
+        "caption": "The monitor that is the closest to the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 15,
+        "caption": "This chair is not being used at a desk but is facing the desks.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desks"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 41,
+        "caption": "Monitor right next to the whiteboards",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "whiteboards"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 16,
+        "caption": "the chair with the person in it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 36,
+        "caption": "The correct window is farthest from the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 40,
+        "caption": "The computer tower on the small desk behind the person sitting down.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "small desk",
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 23,
+        "caption": "The window to the left of the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 36,
+        "caption": "the big window above the couch",
+        "parsed_query": {
+            "Target": "big window",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 8,
+        "caption": "This is a black backpack sitting on the floor.",
+        "parsed_query": {
+            "Target": "black backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 17,
+        "caption": "A black chair at the end of the desk against the couch.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 29,
+        "caption": "When looking at the 4 monitors, choose the one on the far right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "4 monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 11,
+        "caption": "The monitor next to the person, not the one in front of him",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 12,
+        "caption": "Monitor in front of person",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 37,
+        "caption": "The cushion nearest the office chair",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": [
+                "office chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 29,
+        "caption": "The monitor closest to the dor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "dor"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 40,
+        "caption": "Computer tower directly behind human, it's underneath desk",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "human",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 0,
+        "caption": "Computer tower located underneath desk beside person",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 10,
+        "caption": "The second monitor closest to the door.",
+        "parsed_query": {
+            "Target": "second monitor",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 31,
+        "caption": "the keyboard currently being typed on",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 17,
+        "caption": "The correct chair is the one on the mans left, next to the couch.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 20,
+        "caption": "pretend that you are standing in front of the couch and looking at the door with the long shawl hanging off of it.  now, look to the left of the door.  the keyboard is on the desk, right in front of the greenish/gray office chair that is slightly pulled out.  there is no human in this chair.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "door",
+                "greenish/gray office chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 38,
+        "caption": "The red pillow tucked slightly behind the grey pillow. It is the pillow closest to the backpack.",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": [
+                "grey pillow",
+                "backpack"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 36,
+        "caption": "The window above the couch",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 40,
+        "caption": "the computer tower on the floor not under the desk",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "floor",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 0,
+        "caption": "The computer tower down to the left of the person in the chair.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "person",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 31,
+        "caption": "The keyboard person is using",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "person"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 36,
+        "caption": "The large window above the couch.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 20,
+        "caption": "the keyboard without a person sitting in front of it",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 9,
+        "caption": "the black purse on the gray couch",
+        "parsed_query": {
+            "Target": "purse",
+            "Anchor": "gray couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 38,
+        "caption": "When you are looking at the couch from inside the room, the pillow is on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 17,
+        "caption": "the chair to the left of the person at the desk and in front of the couch",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "person",
+                "desk",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 14,
+        "caption": "chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 8,
+        "caption": "The backpack closest to the door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 31,
+        "caption": "Keyboard directly in front of the man sitting in the chair.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "man",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 10,
+        "caption": "The monitor is one on the right side away from the man sitting at the desk. It is in the middle (to the left of the two)",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "man"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 0,
+        "caption": "computer tower under the long desk, closest to the window.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "long desk",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 20,
+        "caption": "It is the keyboard closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 36,
+        "caption": "the window above the couch.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 41,
+        "caption": "The monitor that is the only one on the side of the room without the man.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "side of the room",
+                "man"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 15,
+        "caption": "chair under the whiteboard",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 10,
+        "caption": "The desk to the right but the monitor of the two options is on the left",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 14,
+        "caption": "It is the chair closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 11,
+        "caption": "viewing the person sitting down from the back it is the second monitor to his right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "person",
+                "second monitor"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 9,
+        "caption": "The backpack closest to the windows.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 0,
+        "caption": "There is a man in the chair right next to the computer tower",
+        "parsed_query": {
+            "Target": "man",
+            "Anchor": [
+                "chair",
+                "computer tower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 17,
+        "caption": "The black chair closest to the gray sofa.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "gray sofa"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 11,
+        "caption": "monitor right under the black poster",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "black poster"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 40,
+        "caption": "Computer tower under the desk adjacent to the wall with 2 white boards",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "wall",
+                "white boards"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 16,
+        "caption": "The chair with the man sitting in it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "man"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 29,
+        "caption": "The monitor you want to pick is the one that is closest physically to the door in the room",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 20,
+        "caption": "keyboard with no person",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 16,
+        "caption": "The chair with a person sitting in it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "person"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 41,
+        "caption": "smallest monitor by itself",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 9,
+        "caption": "The backpack on top of the couch and furthest from the door.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "couch",
+                "door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 41,
+        "caption": "The monitor directly in front of the whiteboard.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 14,
+        "caption": "Stand at the wall with the couch.  The door will be on your right, select the chair in the far left corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "couch",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 28,
+        "caption": "Facing door, the last tower on left under desk.",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 14,
+        "caption": "This chair is closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 28,
+        "caption": "tower in the corner of the room",
+        "parsed_query": {
+            "Target": "tower",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 14,
+        "caption": "If you are looking at the person the chair is to the right and is grey.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "person",
+                "grey"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 8,
+        "caption": "backpack on the floor",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "floor"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 37,
+        "caption": "red pillow laying on the arm of the sofa",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": [
+                "arm",
+                "sofa"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 0,
+        "caption": "Select the computer tower next to the man in the chair",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "man",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 12,
+        "caption": "Facing the side with 4 monitors, the leftmost monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "side with 4 monitors"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 12,
+        "caption": "You need to select the computer monitor that has a man sitting in front of it.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "man",
+                "sitting"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 10,
+        "caption": "it is the black monitor with the white note on it",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 41,
+        "caption": "The screen to the right of the whiteboard.",
+        "parsed_query": {
+            "Target": "screen",
+            "Anchor": [
+                "whiteboard"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 31,
+        "caption": "It's the keyboard the person is using at the desk.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "person",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 17,
+        "caption": "chair closest to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 37,
+        "caption": "red pillow nearest to the corner of the 'L' of the couch",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 28,
+        "caption": "The computer tower under the desk in the corner of the room, closest to the exit door and furthest from the couch.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "exit door",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 10,
+        "caption": "Its the monitor second closest to the door",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 23,
+        "caption": "The tall narrow window next to the exit door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "exit door"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 14,
+        "caption": "chair closest to the door",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 9,
+        "caption": "The backpack on the couch",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 37,
+        "caption": "The red pilow that is leaning against the arm rest of the sofa, the one that looks more fat of the two pillow",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": [
+                "arm rest of the sofa",
+                "two pillow"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 11,
+        "caption": "the right monitor in from of the man",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "man"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 41,
+        "caption": "Facing the door, the only monitor that is on the right side of the room.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 8,
+        "caption": "The backpack on the floor.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 29,
+        "caption": "monitor on the desk closest to the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 31,
+        "caption": "face the desk it is the keyboard on the left",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "desk"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 36,
+        "caption": "They are behind the sectional couch and they let in a lot of light and sometimes fresh air.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": [
+                "sectional couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 15,
+        "caption": "There are three chairs at one long desk. It is the other chair in the middle of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 38,
+        "caption": "when facing the couch it is the pillow on the left-hand side",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 29,
+        "caption": "the monitor at the end of the table closest to the brown door",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "end of the table",
+                "brown door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 12,
+        "caption": "It is the monitor directly in front of the man on the desk (NOT on the long table).",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "man",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 23,
+        "caption": "Pick the small narrow window that is next to the door.",
+        "parsed_query": {
+            "Target": "small narrow window",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 38,
+        "caption": "When standing in the middle of the room looking at the couch and window, the correct pillow is on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 17,
+        "caption": "The chair closest to the couch",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 8,
+        "caption": "Backpack on the ground next to the shelves",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "shelves"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 37,
+        "caption": "If you sit on the grey sofa by the window, you want the pillow on your left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "grey sofa",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 12,
+        "caption": "When facing the two desks it is the monitor that is furthest to the left with the person in front of it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "two desks",
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 16,
+        "caption": "The correct chair is the one in the middle, with the human sitting in it at the desk in front of the monitors.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "monitors"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 20,
+        "caption": "keyboard that has an empty chair in front of it.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "empty chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 11,
+        "caption": "The monitor directly under the picture on the wall.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "picture on the wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 10,
+        "caption": "if looking at the long desk, the second monitor from the door.",
+        "parsed_query": {
+            "Target": "second monitor",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 23,
+        "caption": "the window next to the brown door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "brown door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 40,
+        "caption": "The computer tower on the wall opposite where the man is sitting.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "wall",
+                "man"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 9,
+        "caption": "Select the backpack that is on the couch.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 0,
+        "caption": "click the computer tower next to the man sitting",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "man",
+                "sitting"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 38,
+        "caption": "The pillow on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 38,
+        "caption": "Facing the window and couch, select the red cushion on the left, in the center of the couch",
+        "parsed_query": {
+            "Target": "red cushion",
+            "Anchor": [
+                "couch",
+                "window",
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 20,
+        "caption": "The keyboard closest to the door.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 23,
+        "caption": "window next to the door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 28,
+        "caption": "there computer tower closest to the door",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 16,
+        "caption": "The chair with a person in it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 17,
+        "caption": "The  black office chair closest to the couch with red cushions on it.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "couch",
+                "red cushions"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 16,
+        "caption": "The chair with a person sitting on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "person"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 36,
+        "caption": "the window furthest from the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 37,
+        "caption": "The red pillow nearest to the office chair.",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": [
+                "office chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 11,
+        "caption": "The monitor that is just to the right of the man sitting in the chair. There is a black poster with pictures directly above it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "man",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 28,
+        "caption": "the computer under the desk to the left of the door.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 9,
+        "caption": "the backpack is in front of the couch.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": 23,
+        "caption": "The small rectangular window right next to the entrance door",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "entrance door"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

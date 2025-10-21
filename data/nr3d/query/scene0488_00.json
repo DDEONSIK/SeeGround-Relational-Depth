@@ -1,0 +1,426 @@
+[
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 10,
+        "caption": "the cabinet next to the stove",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 18,
+        "caption": "The cabinets are above the counter that has the sink in it.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "counter",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 10,
+        "caption": "The cabinet right next to the oven.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "oven"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 3,
+        "caption": "The kitchen cabinets above the stove",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 19,
+        "caption": "The cabinets underneath the sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 3,
+        "caption": "The cabinet that is above the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 11,
+        "caption": "Facing the refrigerators, the kitchen counter on the left.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "refrigerators"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 11,
+        "caption": "The correct counter has a sink on it.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 19,
+        "caption": "It is the cabinets under the sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 10,
+        "caption": "the counter next to the stove",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 3,
+        "caption": "The cabinets above the stove",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 3,
+        "caption": "the cabinet is the one above the stove",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 18,
+        "caption": "the cabinets above the sink",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 18,
+        "caption": "pick box on upper cabinets above the sink",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "upper cabinets",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 18,
+        "caption": "contains glasses, on top of the sink",
+        "parsed_query": {
+            "Target": "glasses",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 11,
+        "caption": "The correct kitchen counter has a sink in it.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "sink"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 3,
+        "caption": "It is the cabinets above the stove and oven.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "stove",
+                "oven"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 19,
+        "caption": "The cabinet is a bottom cabinet located under the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 11,
+        "caption": "This counter has a sink in the center, and is not by the stove.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": [
+                "sink",
+                "stove"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 18,
+        "caption": "Choose the upper cabinets over the sink.",
+        "parsed_query": {
+            "Target": "upper cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 11,
+        "caption": "This kitchen counter has the sink in the middle of it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "kitchen counter"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 11,
+        "caption": "2 kitchen counters, the one you are looking for has a kitchen sink in it.",
+        "parsed_query": {
+            "Target": "kitchen sink",
+            "Anchor": [
+                "kitchen counter"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 19,
+        "caption": "The cabinet under the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 10,
+        "caption": "The counter closest to the stove",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 18,
+        "caption": "Please select the cabinets that are above the sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 19,
+        "caption": "lower cabinets under the sink",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 3,
+        "caption": "This kitchen cabinet is placed directly above the stove oven",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove oven"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 3,
+        "caption": "Choose the cabinet above the stove",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 19,
+        "caption": "The lowest kitchen cabinet.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 10,
+        "caption": "Select the kitchen counter that is directly to the left of the oven.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "oven"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 18,
+        "caption": "Facing the sink, the cabinets hanging above it.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 10,
+        "caption": "the counter next to the stove",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "stove"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 19,
+        "caption": "Choose the low cabinets with the sink.",
+        "parsed_query": {
+            "Target": "low cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 11,
+        "caption": "The correct kitchen counter has a sink in it.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": 10,
+        "caption": "the kitchen counter beside stove closest to fridge",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "stove",
+                "fridge"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

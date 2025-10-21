@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "13",
+        "target_name": "bench",
+        "caption": "a dark gray leather seat. under the table.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "dark gray leather",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a beige wooden,gray steel table. in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "center of the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "5",
+        "target_name": "ottoman",
+        "caption": "a green round table. in front the seats.",
+        "parsed_query": {
+            "Target": "green round table",
+            "Anchor": [
+                "seats"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "this is a wooden table. it is big and rectangular.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "7",
+        "target_name": "whiteboard",
+        "caption": "this is a rectangular whiteboard. it is right next to the table.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "table"
+        },
+        "unique": true
+    }
+]

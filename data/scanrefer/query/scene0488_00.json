@@ -1,0 +1,66 @@
+[
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "14",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a beige wooden cabinet. placed on the upper side of the kitchen.",
+        "parsed_query": {
+            "Target": "beige wooden cabinet",
+            "Anchor": "kitchen"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "23",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. on the right to the fridge.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. placed on the upper part on the left to the fridge.",
+        "parsed_query": {
+            "Target": "white wooden cabinet",
+            "Anchor": [
+                "fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "9",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden shelf. on the right to the stove.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "14",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. above the fridge.",
+        "parsed_query": {
+            "Target": "white wooden cabinet",
+            "Anchor": [
+                "above",
+                "fridge"
+            ]
+        },
+        "unique": false
+    }
+]

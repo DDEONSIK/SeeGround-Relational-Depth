@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "a white curtain. covering the door.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "a white wooden shelf. on the side of the room.",
+        "parsed_query": {
+            "Target": "a white wooden shelf.",
+            "Anchor": "side of the room"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "a light green curtain. on the left window.",
+        "parsed_query": {
+            "Target": "light green curtain",
+            "Anchor": "left window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "a black monitor. on the left to the other same monitor.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": [
+                "other same monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "16",
+        "target_name": "mouse",
+        "caption": "it is a white computer mouse. the white computer mouse is connected to the computer keyboard that is on the left of the desk. .",
+        "parsed_query": {
+            "Target": "white computer mouse",
+            "Anchor": [
+                "computer keyboard"
+            ]
+        },
+        "unique": false
+    }
+]

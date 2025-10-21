@@ -1,0 +1,19 @@
+# 최신 vLLM 버전 (torch 2.4 호환)
+vllm
+
+# Qwen2-VL 모델 지원을 위해 최신 transformers 소스에서 직접 설치 (torch extra 포함)
+git+https://github.com/huggingface/transformers#egg=transformers[torch]
+
+# NumPy 2.x 버전과의 충돌을 피하기 위해 버전 고정
+numpy<2.0
+
+# Depth-Anything-V2 및 기타 필요 라이브러리
+opencv-python-headless
+timm
+matplotlib
+open3d
+fvcore
+iopath
+tqdm
+Pillow
+nltk

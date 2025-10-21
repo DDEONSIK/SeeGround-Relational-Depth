@@ -1,0 +1,542 @@
+[
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 16,
+        "caption": "It is the tall table in the middle of the wall on its own.",
+        "parsed_query": {
+            "Target": "tall table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 27,
+        "caption": "the tall table angled in the corner of the room",
+        "parsed_query": {
+            "Target": "tall table",
+            "Anchor": "corner of the room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 24,
+        "caption": "Facing the pool table, the table in the top left corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "pool table"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 24,
+        "caption": "The table near the radiator and window and had two bar stools",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "radiator",
+                "window",
+                "two bar stools"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 26,
+        "caption": "The table between two BLACK chairs against one of DARK walls. It's centered on the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two black chairs",
+                "one of dark walls"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 26,
+        "caption": "The table flat along the green wall that is in between two chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green wall",
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 26,
+        "caption": "The smaller wall, it's the table in the middle of that wall",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 20,
+        "caption": "the tall cocktail table at the end of the room, with just the one table against the green wall.",
+        "parsed_query": {
+            "Target": "tall cocktail table",
+            "Anchor": [
+                "green wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 16,
+        "caption": "The target table is the round one against the wall that is parallel to one end of the pool table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "pool table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 16,
+        "caption": "the light brown round table alone on the wall",
+        "parsed_query": {
+            "Target": "light brown round table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 18,
+        "caption": "the flat table next to the radiator",
+        "parsed_query": {
+            "Target": "flat table",
+            "Anchor": "radiator"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 26,
+        "caption": "At the foot of the pool table.",
+        "parsed_query": {
+            "Target": "pool table",
+            "Anchor": "pool table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 20,
+        "caption": "Its the table in the corner near the long gray table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "gray table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 24,
+        "caption": "the table is near the radiator furthest from door",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "radiator",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 18,
+        "caption": "gray long table near the wall",
+        "parsed_query": {
+            "Target": "gray long table",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 24,
+        "caption": "The correct table is to the direct right of the window and radiator on the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window",
+                "radiator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 27,
+        "caption": "The table on the left side of the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 20,
+        "caption": "Choose the tall table closest to the long rectangular table on the same side of the pool table.",
+        "parsed_query": {
+            "Target": "tall table",
+            "Anchor": [
+                "long rectangular table",
+                "pool table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 18,
+        "caption": "The long rectangular, narrow table that is pressed against the wall and has no chairs around it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 20,
+        "caption": "The table in the corner between two chairs which is closest to the shelf",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 18,
+        "caption": "The long rectangle table against the wall near the dark corner",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "dark corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 27,
+        "caption": "The table in the corner closest to the white door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 27,
+        "caption": "table in the corner wall of the group of 3 tables",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "group of 3 tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 20,
+        "caption": "the table in the corner by the dark colored wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "dark colored wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 24,
+        "caption": "The table is to the right of the window above the heater",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window",
+                "heater"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 26,
+        "caption": "If facing the dark green wall closest to the furnace/heater this table will be between two black chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "dark green wall",
+                "furnace/heater",
+                "two black chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 27,
+        "caption": "The table in the corner of the room with the bowl on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "corner of the room",
+                "bowl"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 27,
+        "caption": "The table in the corner where the green wall meets the white wall, on the wall where the doors are.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green wall",
+                "white wall",
+                "doors"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 16,
+        "caption": "the table close to the pool table that is against the wall that has a bunch of columns sticking out from it",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 16,
+        "caption": "The circular table closest to the pool table, by itself.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": [
+                "pool table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 26,
+        "caption": "If you are facing the pool table vertically Select the table that is on the wall directly opposite the pool table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "pool table"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 20,
+        "caption": "The table in the corner near where you place the cue sticks",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "place",
+                "cue sticks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 24,
+        "caption": "The table to the right of the wall radiator.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall radiator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 20,
+        "caption": "Facing the A/C unit under the window, the table in the left corner",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "A/C unit",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 26,
+        "caption": "The table in the middle against the wall behind the snooker table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "snooker table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 18,
+        "caption": "the largest rectangular, short table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 27,
+        "caption": "The round table in the corner against the wall opposite of the radiator.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "corner",
+                "wall",
+                "opposite",
+                "radiator"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 18,
+        "caption": "Look for the widest table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 18,
+        "caption": "when facing the wall with the black chairs and the radiator it is the table to the left of the room placed alongside the wall",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "black chairs",
+                "radiator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 24,
+        "caption": "standing at the pool table, looking at the radiator, you want the round table with chairs right next to that on the right",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "pool table",
+                "radiator"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 16,
+        "caption": "The circular table closest to the pool table.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": "pool table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": 16,
+        "caption": "The table with a round top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

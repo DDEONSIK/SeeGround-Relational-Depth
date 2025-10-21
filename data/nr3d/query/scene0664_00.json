@@ -1,0 +1,246 @@
+[
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 15,
+        "caption": "The long towel hanging in the shower closest to the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower",
+                "shower curtain"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 14,
+        "caption": "Choose the short towel hanging in the tub stall closest to the corner.",
+        "parsed_query": {
+            "Target": "short towel",
+            "Anchor": "tub stall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 15,
+        "caption": "The correct towel is in the shower and on the left, closer to the door. It is longer.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 24,
+        "caption": "the towels under the counter",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": "counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 24,
+        "caption": "The box under the sink.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 14,
+        "caption": "In the bathtub, the shorter towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathtub"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 24,
+        "caption": "small towel stored under the sink",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 14,
+        "caption": "The smaller piece of wall in the shower",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 15,
+        "caption": "The longest towel hanging up",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 15,
+        "caption": "The longest towel in the shower",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 14,
+        "caption": "It is the shorter towel, probably folded in half.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 24,
+        "caption": "You are looking at 3 boxes containing towels. Orient yourself so you are looking at the sink. Your back is to the shower.  The towels you want are folded and stored in the sink cabinet. They are NOT in the shower.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 15,
+        "caption": "The long towel in the shower.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 24,
+        "caption": "table under the sink",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 14,
+        "caption": "The towel that is folded up",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 15,
+        "caption": "the longer of the two towels hanging over the tub",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "tub"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 14,
+        "caption": "select the square towel  above the bath",
+        "parsed_query": {
+            "Target": "square towel",
+            "Anchor": "bath"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 15,
+        "caption": "Facing the toilet, choose the towel second from the left.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 14,
+        "caption": "The correct towel is the shorter one that is above the bath, it is farther from the floor.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bath"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 24,
+        "caption": "The towel handing under the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0664_00",
+        "target_id": 24,
+        "caption": "The correct towel is under the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

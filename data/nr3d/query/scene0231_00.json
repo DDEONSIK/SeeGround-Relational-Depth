@@ -1,0 +1,1680 @@
+[
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 22,
+        "caption": "The correct trash can is in front of the window. It is farthest from the kitchen.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "window",
+                "kitchen"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 46,
+        "caption": "Windows are not directly above this floor cabinet, which is at the end of the row.",
+        "parsed_query": {
+            "Target": "floor cabinet",
+            "Anchor": [
+                "windows",
+                "row"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 57,
+        "caption": "It is the sink set along the wall and in front of a window.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 56,
+        "caption": "This window is directly above the double sink.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "double sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 80,
+        "caption": "choose the armchair across from the couch.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 31,
+        "caption": "the trash can closest to the clock",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "clock"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 22,
+        "caption": "The trash can next to the arm chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "arm chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 79,
+        "caption": "It is not the armchair under the window. It is the one on the wall with two pictures.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "wall",
+                "two pictures"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 56,
+        "caption": "This window is directly behind the kitchen sink.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "kitchen sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 57,
+        "caption": "The sink is located near the window",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 73,
+        "caption": "The sink in the middle island",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "middle island"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 62,
+        "caption": "the upper cabinet farthest from the window",
+        "parsed_query": {
+            "Target": "upper cabinet",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 45,
+        "caption": "choose the picture seen through the doorway",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "doorway"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 55,
+        "caption": "It is the right side window in the kitchen, not the one over the sink.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "right side",
+                "kitchen",
+                "not over the sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 40,
+        "caption": "The red chair with wheels.",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 39,
+        "caption": "The chair in between the red one and the stool.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red one",
+                "stool"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 57,
+        "caption": "It is the sink under the window, not the one on the island.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "window",
+                "island"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 45,
+        "caption": "The picture on the wall near the kitchen",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 46,
+        "caption": "the cabinets under the higher cabinets",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "higher cabinets"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 20,
+        "caption": "Choose the picture to the right of the recliner.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "recliner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 25,
+        "caption": "The window behind the upholstered chair that is not in the kitchen.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "upholstered chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 45,
+        "caption": "painting on the wall between the kitchen and livingroom",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "kitchen",
+                "livingroom"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 57,
+        "caption": "The sink under the window.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 22,
+        "caption": "A foot stool for the recliner in the living room.",
+        "parsed_query": {
+            "Target": "foot stool",
+            "Anchor": [
+                "recliner",
+                "living room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 22,
+        "caption": "The trash can next to the tall floor lamp.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "tall floor lamp"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 62,
+        "caption": "The upper cabinet to the left of the stove next to the refrigerator and microwave.",
+        "parsed_query": {
+            "Target": "upper cabinet",
+            "Anchor": [
+                "stove",
+                "refrigerator",
+                "microwave"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 22,
+        "caption": "Facing the cans, the can on the left.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "cans"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 40,
+        "caption": "The middle chair directly across from the table in the center of the kitchen.",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "table",
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 62,
+        "caption": "the cabinet is farthest from the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 40,
+        "caption": "The chair in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 58,
+        "caption": "This is the double-sink cabinet, with a window above it.",
+        "parsed_query": {
+            "Target": "double-sink cabinet",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 56,
+        "caption": "The window that has a sink under it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 16,
+        "caption": "It's the picture in the living room that is furthest from the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "living room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 46,
+        "caption": "Of the two bottom cabinets, choose the one on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 73,
+        "caption": "Facing the window, the sink in the middle of the room.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 62,
+        "caption": "The cabinet to the left of the oven",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "oven"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 20,
+        "caption": "the picture is close to the recliner but sits to the right side of it",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "recliner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 61,
+        "caption": "This upper cabinet is between the stove and sinks.",
+        "parsed_query": {
+            "Target": "upper cabinet",
+            "Anchor": [
+                "stove",
+                "sinks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 16,
+        "caption": "The picture above the recliner",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "recliner"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 57,
+        "caption": "Its the sink and faucet in front of the two windows.",
+        "parsed_query": {
+            "Target": "sink and faucet",
+            "Anchor": [
+                "two windows"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 79,
+        "caption": "Facing the window, the armchair on the left.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 61,
+        "caption": "Wall mounted cabinet closest to the window",
+        "parsed_query": {
+            "Target": "wall mounted cabinet",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 39,
+        "caption": "The correct chair is closet to the wall and the clock on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 41,
+        "caption": "When standing look at the back of the chairs, the correct one is on the left hand side.  It has a kitchen counter to the left of it.",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "kitchen counter"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 31,
+        "caption": "The correct trash can is closet to the kitchen.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "kitchen"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 80,
+        "caption": "The fancy armchair on the right, there is a desk and office chair to the right of it.",
+        "parsed_query": {
+            "Target": "fancy armchair",
+            "Anchor": [
+                "desk",
+                "office chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 61,
+        "caption": "the cabinet on the same wall as stove but closest to the window",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 41,
+        "caption": "The chair closest to the sink with a window behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sink",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 58,
+        "caption": "The cabinet is located direct underneath the sink",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 39,
+        "caption": "It is the wooden chair that does not have something thrown on it, closest to the clock.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 73,
+        "caption": "The sink in the middle of the island",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "island"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 31,
+        "caption": "the trash can nearer the clock beside the table",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "clock",
+                "table"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 55,
+        "caption": "This is the window that is not in front of a sink.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 45,
+        "caption": "The picture is the one by itself on a short white wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "short white wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 25,
+        "caption": "windows in living room area",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": []
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 20,
+        "caption": "The picture is next to a window and floor lamp",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "window",
+                "floor lamp"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 45,
+        "caption": "The pictures across from the clock face.",
+        "parsed_query": {
+            "Target": "pictures",
+            "Anchor": "clock"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 80,
+        "caption": "a laz-y-boy type chair with a cushion askew",
+        "parsed_query": {
+            "Target": "laz-y-boy type chair",
+            "Anchor": [
+                "cushion"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 62,
+        "caption": "the cabinet with the red item on the counter beneath it",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 41,
+        "caption": "The chair is the one against the bar table that has a piece of white clothing draped over it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bar table",
+                "white clothing"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 58,
+        "caption": "The cabinet under the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 25,
+        "caption": "window in the dark part of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 41,
+        "caption": "It is the chair that is closest to the cabinets that run the length of the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "cabinets",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 79,
+        "caption": "It is the armchair closest to the couch.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 58,
+        "caption": "lower cabinet, under the sink",
+        "parsed_query": {
+            "Target": "lower cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 73,
+        "caption": "Sink located in the kitchen island",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen island"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 25,
+        "caption": "the window that supplies the light source in the dim room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "light source"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 45,
+        "caption": "The picture that is by itself in a separate room.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "separate room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 56,
+        "caption": "Window with the sink under it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 39,
+        "caption": "standing in the kitchen, the chair on the right, closest to the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 20,
+        "caption": "picture in the corner",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 31,
+        "caption": "The trash can in front of piles of papers that are under a desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "piles of papers",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 20,
+        "caption": "the picture closest to the window",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 16,
+        "caption": "Choose the smallest picture on the wall",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 57,
+        "caption": "in the kitchen, the outer sink",
+        "parsed_query": {
+            "Target": "outer sink",
+            "Anchor": "kitchen"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 79,
+        "caption": "The armchair on the left, when facing the armchairs.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "armchair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 58,
+        "caption": "The cabinets under the sink",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 46,
+        "caption": "Leave the room with the rug and take a right when you see the kitchen island, in the lower corner you will find a cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "kitchen island"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 46,
+        "caption": "The kitchen cabinet on the other side of the wall that has the door, which has a long table in from of it.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "door",
+                "long table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 40,
+        "caption": "Please choose the chair in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 41,
+        "caption": "if you are in the kitchen, and looking at the chairs, the one on your left",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 31,
+        "caption": "This trash can is is the corner of the room, not near the couch.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "corner of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 25,
+        "caption": "Leave the kitchen and select the window in the other room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 16,
+        "caption": "picture on the wall above an armchair facing directly at the kitchen",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "armchair",
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 61,
+        "caption": "Facing the stove, its on the top right.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": [
+                "entrance door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 55,
+        "caption": "the window in the kitchen that does NOT have a sink right in front of it",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "kitchen",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 58,
+        "caption": "choose the lower cabinet that has a window directly over it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 20,
+        "caption": "the picture on the angled wall, near the bright window",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "angled wall",
+                "bright window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 62,
+        "caption": "Facing the stove. The first cabinet on top to the left.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": [
+                "first cabinet",
+                "left"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 56,
+        "caption": "This window is in the kitchen and above the sink. There are two windows in the kitchen. This is the window to the left if facing them both.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "kitchen",
+                "sink",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 31,
+        "caption": "the trash can that has some multicolored folder things on the wall above it",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "multicolored folder things"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 25,
+        "caption": "It's the window near the vertical lamp and armchair.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "vertical lamp",
+                "armchair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 55,
+        "caption": "window in the kitchen, to the right of the sink",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 22,
+        "caption": "the trash can closer to the light window in the dark part of the room",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "light window",
+                "dark part of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 20,
+        "caption": "Facing the wall with two pictures, the picture on the right.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "two pictures"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 61,
+        "caption": "The cabinet is above and to the right of the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 56,
+        "caption": "the window that is directly behind the sink",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 61,
+        "caption": "The kitchen cabinet opposite of the butcher island that is not the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "butcher island",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 46,
+        "caption": "The cabinet under the open shelves to the right of the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "open shelves",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 58,
+        "caption": "kitchen cabinet under the sink",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 79,
+        "caption": "The armchair next to the couch.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "couch"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 55,
+        "caption": "It is the window to the right of the sink in the kitchen area.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sink",
+                "kitchen"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 40,
+        "caption": "The red chair in the middle",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 22,
+        "caption": "It is the trash can next to the torch lamp (long upright pole lamp).",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "torch lamp"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 46,
+        "caption": "The lower kitchen cabinet that is NOT under the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 73,
+        "caption": "The sink that is on the island",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "island"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 56,
+        "caption": "In the kitchen, facing the kitchen sink, select the window on the left side",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "kitchen sink",
+                "left side"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 41,
+        "caption": "chair closest to the windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 62,
+        "caption": "Kitchen cabinet to the left of the stove",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "stove"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 80,
+        "caption": "The armchair underneath a window.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 16,
+        "caption": "it is the picture above the recliner chair",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "recliner chair"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 39,
+        "caption": "If your back is against the kitchen island, and the three chairs are immediately in front of you, the correct chair is to the far right, the furthest chair to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen island",
+                "three chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 45,
+        "caption": "Choose the picture that is on a white wall in a different room from the other 2 pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "white wall",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 31,
+        "caption": "trash can under the colored files",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "colored files"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 40,
+        "caption": "It is the middle chair between the two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 16,
+        "caption": "painting right above the armchair",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": "armchair"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 61,
+        "caption": "Select the smallest wall cabinet.",
+        "parsed_query": {
+            "Target": "smallest wall cabinet",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 57,
+        "caption": "this sink in front of the window",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 40,
+        "caption": "The middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 80,
+        "caption": "The armchair under the window.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 39,
+        "caption": "it is the chair closest to the white wall with a clock on it",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white wall",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 80,
+        "caption": "the chair in front of the windows",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "windows"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 41,
+        "caption": "select the chair nearest to the sink",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 55,
+        "caption": "There are two windows next to each other in the kitchen. Pick the one that is not above the sink. It is on the right if you face the windows.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sink",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 79,
+        "caption": "The armchair is not in front of the window.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 55,
+        "caption": "The window on the right side of the sink.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 73,
+        "caption": "The sink in the middle of the ktichen.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 73,
+        "caption": "one on the main island desk",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": [
+                "main island",
+                "desk"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 79,
+        "caption": "The recliner- rocking chair near the couch, against the wall that with no window.",
+        "parsed_query": {
+            "Target": "recliner-rocking chair",
+            "Anchor": [
+                "couch",
+                "wall",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 16,
+        "caption": "The picture to the left of the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "window"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 25,
+        "caption": "The window is in the darkest corner of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 80,
+        "caption": "the armchair is located in front of the love seat",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "love seat"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": 39,
+        "caption": "The chair closest to the wall near the clock",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "clock"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

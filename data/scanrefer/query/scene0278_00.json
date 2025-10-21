@@ -1,0 +1,69 @@
+[
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "4",
+        "target_name": "trash_can",
+        "caption": "this is a white bucket with a white lid.  it is in the corner adjacent to the copier.",
+        "parsed_query": {
+            "Target": "white bucket",
+            "Anchor": [
+                "copier",
+                "corner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "8",
+        "target_name": "copier",
+        "caption": "this is a white copy machine.  it is located in the corner to the left of the wooden counter.",
+        "parsed_query": {
+            "Target": "copy machine",
+            "Anchor": "wooden counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "4",
+        "target_name": "trash_can",
+        "caption": "this is a white plastic bucket with a white lid. it is the second bucket to the right of the chair.  it is located in the corner adjacent to the copy machine.",
+        "parsed_query": {
+            "Target": "white plastic bucket with a white lid",
+            "Anchor": [
+                "chair",
+                "corner",
+                "copy machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "these cabinets are installed under black counter top. a paper cutter is present above these cabinets.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "black counter top",
+                "paper cutter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "13",
+        "target_name": "paper_cutter",
+        "caption": "this is a green color paper cutter. it is kept above the cabinets.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 3,
+        "caption": "The 3 seater couch closest to the red backpack.",
+        "parsed_query": {
+            "Target": "3 seater couch",
+            "Anchor": "red backpack"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 0,
+        "caption": "The corner, L-shaped portion of the sectional couch.",
+        "parsed_query": {
+            "Target": "corner, L-shaped portion of the sectional couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 0,
+        "caption": "choose the corner of the sectional",
+        "parsed_query": {
+            "Target": "corner",
+            "Anchor": "sectional"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 3,
+        "caption": "choose the three seater couch",
+        "parsed_query": {
+            "Target": "three seater couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 3,
+        "caption": "The correct couch is straight, not bent and is near the red bag.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "red bag"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 3,
+        "caption": "the blue one not part of the sectional",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": "sectional"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 0,
+        "caption": "The correct couch has a 90 degree angle bend in it. It is NOT straight.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 0,
+        "caption": "The small edge of the large couch",
+        "parsed_query": {
+            "Target": "small edge of the large couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 3,
+        "caption": "Choose the couch closest to the couch with the red backback.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "couch",
+                "red backback"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 0,
+        "caption": "L shaped couch",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 0,
+        "caption": "the white corner couch",
+        "parsed_query": {
+            "Target": "corner couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 3,
+        "caption": "You are looking at 2 boxes containing couches. Orient yourself so that the couch with the red bag is on your right and the open space between the couches is on the left. You should be looking at a straight, 3 cushion gray couch that is not connected to the other couches.  This is the couch you want to pick.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "red bag",
+                "open space between the couches",
+                "gray couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 3,
+        "caption": "The straight three seat couch.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": 0,
+        "caption": "Stand in the opening between the two couches. it is the one on the right.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "opening",
+                "two couches"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    }
+]

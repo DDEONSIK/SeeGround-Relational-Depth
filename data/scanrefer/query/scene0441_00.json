@@ -1,0 +1,59 @@
+[
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "7",
+        "target_name": "urinal",
+        "caption": "it is a white urinal. it is to the right of the sink.",
+        "parsed_query": {
+            "Target": "urinal",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "it is a white sink. it is next tho the urinal.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "urinal"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "7",
+        "target_name": "urinal",
+        "caption": "it is a white urinal. it is right in the middle.",
+        "parsed_query": {
+            "Target": "urinal",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "4",
+        "target_name": "bathroom_stall_door",
+        "caption": "it is a white bathroom stall door. it is the first thing on the left.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "first thing on the left"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "8",
+        "target_name": "toilet",
+        "caption": "it is a toilet. it is right in the center.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "the chair is the second south-most one on the left side of the table. the chair has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "left side"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a black chair with black armrests.  this chair is placed at one end of a very long group of tables in the middle of the room.  this chair is the only chair at this end of the group of tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "very long group of tables",
+                "end of the group of tables"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is right of the purple chair. the chair is blue with a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "purple chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "the chair is the leftmost on on the northern end of the table. the chair is blue with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "northern end",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the yellow table. the trash can is a gray cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "yellow table"
+            ]
+        },
+        "unique": false
+    }
+]

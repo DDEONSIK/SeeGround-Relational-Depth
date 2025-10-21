@@ -1,0 +1,1380 @@
+[
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 31,
+        "caption": "Choose the box that is on the floor, beneath the other two boxes.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "floor",
+                "other two boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 27,
+        "caption": "In a stack of three boxes, it is the box on top.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "boxes"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 0,
+        "caption": "Stack of three boxes, it is the big one in the middle.",
+        "parsed_query": {
+            "Target": "stack of three boxes",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 27,
+        "caption": "The box that is on top.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 8,
+        "caption": "bin nearest the toilet",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 8,
+        "caption": "The trash can next to the toilet",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 31,
+        "caption": "the box on the very bottom.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 30,
+        "caption": "It is the trash can in the shower next to the sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "shower",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 31,
+        "caption": "The box is at the bottom of the other boxes. It is on the ground.  There is a small black trash can right near it, on the other side of the shower glass.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "other boxes",
+                "ground",
+                "small black trash can",
+                "shower glass"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 25,
+        "caption": "The correct bottle is beside the toilet.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 10,
+        "caption": "the highest soapdish",
+        "parsed_query": {
+            "Target": "soapdish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 4,
+        "caption": "The stack of toilet paper on the right side of the back of the toilet, closest to the shower",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 28,
+        "caption": "choose the bottle on the middle triangular shelf inside the shower.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "middle triangular shelf",
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 28,
+        "caption": "White bottle in the shower, middle shelf.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shower",
+                "middle shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 11,
+        "caption": "The lowest shelf in the shower with a orange-brown item on it",
+        "parsed_query": {
+            "Target": "lowest shelf",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 29,
+        "caption": "The lower bottle in the shower.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 27,
+        "caption": "Of the three boxes, the one on top.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "top"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 29,
+        "caption": "The bottle is inside shower stall and closest to the shower floor",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shower stall",
+                "shower floor"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 27,
+        "caption": "This is the top box, stacked atop the other two.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 5,
+        "caption": "The toilet paper on the holder.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "holder"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 24,
+        "caption": "The box on the back of the toilet on the wall side with the door",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "back of the toilet",
+                "wall side with the door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 25,
+        "caption": "bottle on the floor behind the toilet",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "floor",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 18,
+        "caption": "The bottle is the only one sitting on the bathroom counter next to the sink",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "bathroom counter",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 9,
+        "caption": "The correct soap dish is in the middle.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 30,
+        "caption": "The larger trash can./",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 24,
+        "caption": "Choose the roll of toilet paper on the left side of the top of the tank of the toilet.",
+        "parsed_query": {
+            "Target": "roll of toilet paper",
+            "Anchor": [
+                "top",
+                "tank",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 5,
+        "caption": "The toilet paper roll that is in the dispenser on the wall next to the commode(toilet).",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "dispenser",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 30,
+        "caption": "The trash can is inside the shower",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "shower"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 31,
+        "caption": "The box on the bottom of the stack.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 24,
+        "caption": "Facing the toilet, the paper in the middle.",
+        "parsed_query": {
+            "Target": "paper",
+            "Anchor": [
+                "toilet",
+                "middle"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 29,
+        "caption": "The lower of the two bottles in the shower.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "bottle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 32,
+        "caption": "The bottle on the floor next to the sink.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "floor",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 28,
+        "caption": "This bottle is on the middle level shelf of the shower.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "middle level shelf",
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 5,
+        "caption": "The toilet paper which is hanging on the holder on the wall.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "holder"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 0,
+        "caption": "the largest box in the middle of the stack",
+        "parsed_query": {
+            "Target": "largest box",
+            "Anchor": [
+                "middle",
+                "stack"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 0,
+        "caption": "The large, middlemost box in the shower.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 0,
+        "caption": "choose the largest box of the three boxes, it is also the middle box",
+        "parsed_query": {
+            "Target": "largest box",
+            "Anchor": [
+                "middle box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 10,
+        "caption": "The top tray in the shower",
+        "parsed_query": {
+            "Target": "tray",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 9,
+        "caption": "The middle shelf in the shower",
+        "parsed_query": {
+            "Target": "middle shelf",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 24,
+        "caption": "The toilet paper roll closest to the toilet paper roll that is in the dispenser.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet paper",
+                "dispenser"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 28,
+        "caption": "the bottle on the second shelf of the shower stall.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "second shelf",
+                "shower stall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 9,
+        "caption": "The middle soap dish on the wall in the shower.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "shower",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 31,
+        "caption": "It's the lowest of the three boxes, which is on the floor level.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "floor level",
+                "three boxes"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 4,
+        "caption": "looking at the toilet the toilet paper on the right",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 25,
+        "caption": "The bottle right beside the toilet.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 10,
+        "caption": "The soap dish behind the glass enclosure on the highest shelf.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "glass enclosure"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 18,
+        "caption": "bottle right next to sink bowl",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "sink bowl"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 8,
+        "caption": "The trash can beside the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 9,
+        "caption": "the middle soap dish.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 32,
+        "caption": "The grey bottle on the floor next to the sink.",
+        "parsed_query": {
+            "Target": "grey bottle",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 0,
+        "caption": "The big box in the middle of the other two",
+        "parsed_query": {
+            "Target": "big box",
+            "Anchor": [
+                "middle",
+                "other two"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 28,
+        "caption": "The white bottle that is on the middle corner shelf in the shower",
+        "parsed_query": {
+            "Target": "white bottle",
+            "Anchor": [
+                "middle corner shelf",
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 10,
+        "caption": "the highest soap dish without anything resting on it",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 32,
+        "caption": "The bottle that is wedged on the ground between the shower and the sink cabinet",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shower",
+                "sink cabinet"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 24,
+        "caption": "There are 2 toilet rolls on top of the toilet, if you are facing the toilet it is the toilet roll on the left.",
+        "parsed_query": {
+            "Target": "toilet roll",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 10,
+        "caption": "Please choose the small soap dish on the very top.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 4,
+        "caption": "The toilet paper that is closest to the shower.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 18,
+        "caption": "It's the bottle with the blue and white label on the sink counter.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "sink counter"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 11,
+        "caption": "the lowest shelf soap dish, with the orange bottle on it",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "orange bottle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 29,
+        "caption": "The bottle on the lower shelf of the shower.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 5,
+        "caption": "The toilet paper on the wall.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 18,
+        "caption": "If you were standing in front of the sink, this blue and white bottle would be located in the right hand corner.",
+        "parsed_query": {
+            "Target": "blue and white bottle",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 8,
+        "caption": "This trash can is sitting next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 9,
+        "caption": "In the shower, the shelf that is in the middle, with the white bottle on it",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "white bottle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 24,
+        "caption": "Left roll of toilet paper directly on top of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 5,
+        "caption": "The roll hanging on the wall.",
+        "parsed_query": {
+            "Target": "roll",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 29,
+        "caption": "There are three shelves in the shower cubicle the item you need to select is the bottle on the bottom shelf.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shelves",
+                "shower cubicle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 8,
+        "caption": "Small trashcan by the toilet.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 4,
+        "caption": "Find the toilet paper that is on the back of the toilet and closer to the shower stall. It is on your right if you face the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "shower stall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 30,
+        "caption": "The trash can inside the shower stall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "shower stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 25,
+        "caption": "pick the bottle beside the toilet",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 30,
+        "caption": "It is the trash can that is in the shower stall area and adjacent to the sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "shower stall area",
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 32,
+        "caption": "the bottle on the floor next to the sink",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "sink"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 10,
+        "caption": "Look into the shower stall, and you want the soap dish at the very top.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": "shower stall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 24,
+        "caption": "Toilet paper on the left of the toilet",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 11,
+        "caption": "The bottom soap dish.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 9,
+        "caption": "The middle soap dish",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 8,
+        "caption": "It is the trash can closest to the toilet, directly below the window.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet",
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 11,
+        "caption": "Facing the shower and the toilet in the corner of the shower the third soap dish down",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "shower",
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 29,
+        "caption": "The bottle in the shower on the bottom shelf",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shower",
+                "bottom shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 5,
+        "caption": "Please choose the roll of toilet paper that is on the holder, NOT the ones on the back of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet paper holder"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 25,
+        "caption": "pick the bottle next to the toilet.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 11,
+        "caption": "The lowest of the soap dishes.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 25,
+        "caption": "choose the bottle that is by the toilet",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 10,
+        "caption": "In the shower, the corner soap dish shelf at the top",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "corner",
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 30,
+        "caption": "look to the left on the sink for the trash can",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 28,
+        "caption": "The top bottle option in the shower",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 30,
+        "caption": "The trashcan inside the shower stall.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "shower stall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 11,
+        "caption": "The soap on the lowest shelf.",
+        "parsed_query": {
+            "Target": "soap",
+            "Anchor": "lowest shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 18,
+        "caption": "The bottle on the sink in the corner.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "sink",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 4,
+        "caption": "When standing in the middle of the room facing the toilet paper, the correct one is on the far right, closest to the shower.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet paper",
+                "shower"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 18,
+        "caption": "it is the bottle on the right-hand side of the sink",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 9,
+        "caption": "The middle soap dish.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 4,
+        "caption": "the toilet paper on the right-hand side of the toilet",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 25,
+        "caption": "Find the bottle on the left of the toilet.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 11,
+        "caption": "The bottom soap dish with orange shampoo bottle on it.",
+        "parsed_query": {
+            "Target": "soap dish",
+            "Anchor": [
+                "orange shampoo bottle"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 0,
+        "caption": "In the stack of boxes, it's the middle one.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": [
+                "box"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 27,
+        "caption": "The highest, colorful box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 31,
+        "caption": "This one is touching the floor",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 5,
+        "caption": "The only toilet paper roll hanging on the wall to the left of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 4,
+        "caption": "The toilet paper closest to the shower.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "shower"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 29,
+        "caption": "The bottle is sitting on the bottom shelf.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": "bottom shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 32,
+        "caption": "The bottle on the floor next to the sink.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 32,
+        "caption": "The bottle on the floor next to the sink.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 18,
+        "caption": "The white and blue bottle on top of the sink counter, closest to the hanging towel.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "sink counter",
+                "hanging towel"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 28,
+        "caption": "The correct bottle is in the shower and closest to the ceiling.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "shower",
+                "ceiling"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 32,
+        "caption": "The correct bottle is on the ground next to the sink.",
+        "parsed_query": {
+            "Target": "bottle",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 27,
+        "caption": "the box is the highest of the 3.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 8,
+        "caption": "The correct trash can is next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 0,
+        "caption": "there is a stack of 3 boxes in the corner of the room next to the sink.  It's the large box in the middle of the pile.",
+        "parsed_query": {
+            "Target": "large box",
+            "Anchor": [
+                "3 boxes",
+                "corner of the room",
+                "sink"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 27,
+        "caption": "It's the one on the very top of the stack.",
+        "parsed_query": {
+            "Target": "one",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": 31,
+        "caption": "the box on the bottom of the stack",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": "stack"
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

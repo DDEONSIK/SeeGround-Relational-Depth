@@ -1,0 +1,61 @@
+[
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "1",
+        "target_name": "sink",
+        "caption": "this is a sink. the sink is attached close to wall.",
+        "parsed_query": {},
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "17",
+        "target_name": "towel",
+        "caption": "the hanging towel. the towel is next to the tub.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "tub"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "2",
+        "target_name": "bathroom_cabinet",
+        "caption": "the small bathroom cabinet. the cabinet is next to the towel.",
+        "parsed_query": {
+            "Target": "bathroom cabinet",
+            "Anchor": [
+                "towel"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "4",
+        "target_name": "shower_curtain",
+        "caption": "the hanging shower curtain. the curtain hangs in the tub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "4",
+        "target_name": "shower_curtain",
+        "caption": "the big shower curtain. the shower curtain is in the tub.",
+        "parsed_query": {
+            "Target": "big shower curtain",
+            "Anchor": [
+                "shower curtain",
+                "tub"
+            ]
+        },
+        "unique": true
+    }
+]

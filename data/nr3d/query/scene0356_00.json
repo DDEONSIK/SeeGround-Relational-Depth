@@ -1,0 +1,252 @@
+[
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 19,
+        "caption": "Choose the white door near the bed.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 23,
+        "caption": "Solid brown door to the right of the others",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 12,
+        "caption": "The door opposite of window",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 19,
+        "caption": "This closed door faces a tan cube.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "tan cube"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 19,
+        "caption": "Have your back to the window and then look at the entry in front of the bed.",
+        "parsed_query": {
+            "Target": "entry",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 23,
+        "caption": "Its the brown door that is open",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 23,
+        "caption": "You are looking for  open, brown door.",
+        "parsed_query": {
+            "Target": "open, brown door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 12,
+        "caption": "The brown door with a window cut out.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 23,
+        "caption": "Facing the window, the door in the lower left corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 12,
+        "caption": "The brown doorat the end of the bed, not on the built out wall",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": [
+                "end of the bed"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 12,
+        "caption": "A tan cube is just right of this brown closed door, which faces a window.",
+        "parsed_query": {
+            "Target": "tan cube",
+            "Anchor": [
+                "brown closed door",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 19,
+        "caption": "The door closest to the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 19,
+        "caption": "select the door nearest the bed",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 19,
+        "caption": "The door closest to the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 12,
+        "caption": "You want the front entrance door",
+        "parsed_query": {
+            "Target": "entrance door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 12,
+        "caption": "the brown door next to the square cabinet",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "square cabinet"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 12,
+        "caption": "the front entrance door",
+        "parsed_query": {
+            "Target": "front entrance door",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 23,
+        "caption": "With the bed on the far wall, select the door nearest you.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 23,
+        "caption": "Face the window.  The door you want is on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 23,
+        "caption": "Facing the windows select the right most door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "windows"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": 19,
+        "caption": "The wall that is the outside of the closet, at the foot of the bed, with what looks like scratch marks.",
+        "parsed_query": {
+            "Target": "outside of the closet",
+            "Anchor": [
+                "bed",
+                "scratch marks"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    }
+]

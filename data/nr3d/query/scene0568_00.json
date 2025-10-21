@@ -1,0 +1,813 @@
+[
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 0,
+        "caption": "The chair that is located to the left of the child's play rug and is NOT below the window.",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "The correct chair is the one closest to the black shelf that's in the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "black shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 6,
+        "caption": "This table has a green top and a blue chair is by it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green top",
+                "blue chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 17,
+        "caption": "You put use this to put stuff on",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 6,
+        "caption": "The green bin next to the window",
+        "parsed_query": {
+            "Target": "green bin",
+            "Anchor": "window"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 9,
+        "caption": "table nearest the sofa",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "two chairs are in a corner next to a tall, dark bookshelf, this chair is closest to the corner and the bookshelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tall, dark bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 2,
+        "caption": "The blue chair in front of the green topped table and directly beneath the curtains.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "green topped table",
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 1,
+        "caption": "the blue circular chair",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 1,
+        "caption": "the multi colored chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 0,
+        "caption": "The two chairs next to the road rug, choose the one closest to the rug",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "road rug"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "Of the two blue chairs next to each other, choose the left one.",
+        "parsed_query": {
+            "Target": "left blue chair",
+            "Anchor": [
+                "blue chair",
+                "two"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "blue chair in the corner",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 17,
+        "caption": "This shelf is on the wall above another shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 20,
+        "caption": "The shelf is located on the odd shape wall",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "odd shape wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 20,
+        "caption": "This shelf is on the floor. It does *not* have another shelf above it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 2,
+        "caption": "Blue empty kid chair by green table right underneath the animals curtains",
+        "parsed_query": {
+            "Target": "blue empty kid chair",
+            "Anchor": [
+                "green table",
+                "animals curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 9,
+        "caption": "beige coffee table next to the red sofa",
+        "parsed_query": {
+            "Target": "beige coffee table",
+            "Anchor": "red sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 2,
+        "caption": "The chair directly below the curtains.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "curtains"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 6,
+        "caption": "Find the small table in front of the curtain.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": "curtain"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 9,
+        "caption": "coffee table near the sofa",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "sofa"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 0,
+        "caption": "The two chairs next to each other near the bookshelves, you want the one on the right next to the neighborhood rug",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "bookshelves",
+                "neighborhood rug"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 1,
+        "caption": "Of the two chairs near the window, it is the one furthest from the window and closest to the couch.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "couch"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 19,
+        "caption": "the shelf closest to the rug/mat on the floor",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "rug/mat"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 9,
+        "caption": "Table closest to red couch",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red couch"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 6,
+        "caption": "the table on the floor right beneath the window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 9,
+        "caption": "The coffee table between the red couch and the television",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "red couch",
+                "television"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 2,
+        "caption": "The chair underneath the window next to the green table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "green table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 0,
+        "caption": "You are looking at 4 boxes containing chairs. The chair you want is a blue chair. The chair you want is closest to the play rug with the streets on it.  The chair you want is to the right of the other blue chair and under the hanging swords on the wall.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "play rug with the streets on it",
+                "hanging swords on the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 19,
+        "caption": "The shelf on the floor near the vehicle rug",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "vehicle rug"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 9,
+        "caption": "This table is sitting between the red couch and the television.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red couch",
+                "television"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 19,
+        "caption": "Shelf underneath another shelf",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "chair in the corner, closest to the black shelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "black shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 20,
+        "caption": "There are three shelves close to each other (1 suspended, 2 on the floor) next to a window. You need to select the book shelf closest to the window.",
+        "parsed_query": {
+            "Target": "book shelf",
+            "Anchor": [
+                "shelves",
+                "window"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 1,
+        "caption": "The round blue chair closest to the TV",
+        "parsed_query": {
+            "Target": "round blue chair",
+            "Anchor": "TV"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 17,
+        "caption": "shelf on the wall above the two other shelves",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "above",
+                "two other shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 20,
+        "caption": "the shelf is closer to the window on the floor near the white curtain",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window",
+                "white curtain"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 1,
+        "caption": "it is the chair closest to the television.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "television"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 0,
+        "caption": "When facing the play carpet, it's the chair to the left not in the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "play carpet"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 19,
+        "caption": "The bottom shelf on the wall with 2 chairs.",
+        "parsed_query": {
+            "Target": "bottom shelf",
+            "Anchor": [
+                "wall",
+                "2 chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 2,
+        "caption": "The blue chair closest to the curtain with animals on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "curtain",
+                "animals"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 17,
+        "caption": "Pick the shelf hanging on the wall above the other shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "above",
+                "other shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 19,
+        "caption": "Shelf right underneath other shelf",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 1,
+        "caption": "The chair nearest the TV.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "TV"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "I am the chair closest to the bookshelf",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bookshelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 1,
+        "caption": "round chair by the little green table",
+        "parsed_query": {
+            "Target": "round chair",
+            "Anchor": "little green table"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 0,
+        "caption": "There is a rug and a black shelf that you need to face. The blue chair is the one on the right of the other blue chair closest to the rug.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "rug",
+                "black shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 17,
+        "caption": "Select the shelves that are mounted on the wall, above the other two.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "wall",
+                "above",
+                "other two"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 2,
+        "caption": "the blue toddler chair that does not have a disney cars theme. it is right in front of the curtains.",
+        "parsed_query": {
+            "Target": "blue toddler chair",
+            "Anchor": [
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 6,
+        "caption": "The table by the window with a green top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 0,
+        "caption": "There are two chairs by the tall bookshelf. Choose the one on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tall bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "While facing the play carpet, it's the farthest chair to the left beside the bookshelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "play carpet",
+                "bookshelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 2,
+        "caption": "The chair closest to the kid's curtains",
+        "parsed_query": {},
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 20,
+        "caption": "The shelf closest to the shower curtain.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "shower curtain"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 17,
+        "caption": "The shelf high up on the wall above the other two shelves",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "other two shelves"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 6,
+        "caption": "The small green table with the blue chair.",
+        "parsed_query": {
+            "Target": "green table",
+            "Anchor": [
+                "blue chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 9,
+        "caption": "This table is in a darker section of the room, and IS NOT under a window",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "darker section of the room"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 17,
+        "caption": "The top shelf of toys under the jut of the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "jut"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 20,
+        "caption": "the shelf is located on the odd shape wall of the room",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "odd shape wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 19,
+        "caption": "The largest shelf with a shelf above it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "shelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 6,
+        "caption": "Small table with a green top in the corner next to a curtain",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": [
+                "green top",
+                "curtain"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 20,
+        "caption": "the shelf is located on the odd shape wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 19,
+        "caption": "The shelf on the floor with another directly above it and another under the curved wall",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "curved wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "blue armed chair closer to the tall bookshelf.",
+        "parsed_query": {
+            "Target": "blue armed chair",
+            "Anchor": "tall bookshelf"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": 15,
+        "caption": "Chair with back against the wall directly next to book shelf",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "book shelf"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

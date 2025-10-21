@@ -1,0 +1,798 @@
+[
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 29,
+        "caption": "Of the three desks, it's the one on your left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 29,
+        "caption": "If you are facing the desks against the wall, it is the one on the left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desks against the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 29,
+        "caption": "Select the left hand desk in the group of 3 in the opposite corner from the door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "opposite corner from the door",
+                "group of 3"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 29,
+        "caption": "The cubicle to the left, near the small rectangular wooden desk",
+        "parsed_query": {
+            "Target": "cubicle",
+            "Anchor": [
+                "small rectangular wooden desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 20,
+        "caption": "The desk is in the corner of the room farthest from the door and at the end of a row of desks.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door",
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 20,
+        "caption": "Select the right hand desk in the group of 4 desks that are in the opposite corner of the room from the door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door",
+                "opposite corner",
+                "4 desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 20,
+        "caption": "Choose the desk that is the smallest at the right end of the group of three desks.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk",
+                "group of three desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 20,
+        "caption": "Of the three desks, this is the smallest one, on your far right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "three desks",
+                "far right"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 2,
+        "caption": "The desk sitting by itself away from the other desks.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 2,
+        "caption": "it is the desk closet to the brown door",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "brown door"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 2,
+        "caption": "pick the desk that is on its own in the corner",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 2,
+        "caption": "It's the desk that's closest to the door, and by itself.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 20,
+        "caption": "the desk is the last cubicle which is really hard to see.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "cubicle"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 2,
+        "caption": "pick the desk that is standing on its own",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 31,
+        "caption": "middle desk next to the small rectangular desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "middle desk",
+                "small rectangular desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 29,
+        "caption": "Facing the wall with a row of desks, this desk is on the left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 18,
+        "caption": "The smallest rectangular desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 19,
+        "caption": "choose the round table furthest from the rectangular tables.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "rectangular tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 16,
+        "caption": "Facing the whiteboard, the table on the right that isn't the small table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "whiteboard",
+                "small table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 15,
+        "caption": "the table closest to the doorway",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 18,
+        "caption": "It is the only desk against a wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 16,
+        "caption": "This item is a rectangular shape that is directly to the right of the item that is just like it. There is a grey wall behind the object",
+        "parsed_query": {
+            "Target": "item",
+            "Anchor": [
+                "item",
+                "grey wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 18,
+        "caption": "pick the smallest box.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 15,
+        "caption": "Rectangular table with the chairs NOT pushed in",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 15,
+        "caption": "If you look at the rectangular tables from behind the round tables, it is the one on the left.",
+        "parsed_query": {
+            "Target": "rectangular table",
+            "Anchor": [
+                "round table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 17,
+        "caption": "The round table with the most objects on top of it",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 17,
+        "caption": "the circular table in the middle of the room",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": "room"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 16,
+        "caption": "The lighter colored table of the two rectangular 4 person tables",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "lighter colored table",
+                "two rectangular 4 person tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 31,
+        "caption": "face the three desk against the wall the desk you seek is the middle desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 31,
+        "caption": "Facing the two single study desks, the right one.",
+        "parsed_query": {
+            "Target": "study desk",
+            "Anchor": [
+                "study desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 31,
+        "caption": "Looking at the row of student desks lined up against the wall, the middle desk",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "student desks"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 18,
+        "caption": "light brown desk with black chair",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 31,
+        "caption": "Its the desk that's in the middle of the other two desks",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 17,
+        "caption": "round table in the middle",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 18,
+        "caption": "The table is the rectangle one that is pushed against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "rectangle",
+                "pushed against the wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 19,
+        "caption": "Choose the circular table located in the corner of the room.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": [
+                "corner",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 15,
+        "caption": "The correct table is a rectangular one with four chairs that are not all the way pushed in.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "four chairs",
+                "pushed in"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 19,
+        "caption": "Find the round table that is closer to the red wall.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "red wall"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 16,
+        "caption": "The rectangular table with the chairs pushed completely in",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 18,
+        "caption": "The table against the wall, with one chair under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 15,
+        "caption": "the table closest to the door",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 19,
+        "caption": "if looking in the room from the door, the circular table on the right.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": [
+                "room",
+                "door"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 17,
+        "caption": "Find the round table that has a dark jacket on it.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "dark jacket"
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 19,
+        "caption": "I am the round table in the corner of the room",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 16,
+        "caption": "Facing the door, The right rectangle table that's not against a wall.",
+        "parsed_query": {
+            "Target": "rectangle table",
+            "Anchor": [
+                "door",
+                "not against a wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 17,
+        "caption": "The round table closest to the two brown booths against the wall.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "two brown booths",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 15,
+        "caption": "table closest to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 18,
+        "caption": "The smallest table, which only has one chair.",
+        "parsed_query": {
+            "Target": "smallest table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 19,
+        "caption": "The round table across from the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 15,
+        "caption": "The correct table is rectangular in shape. It has four chairs that are not pushed all the way in.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "four chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 16,
+        "caption": "The rectangle table with chairs that are pushed in",
+        "parsed_query": {
+            "Target": "rectangle table",
+            "Anchor": [
+                "chairs",
+                "pushed in"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 19,
+        "caption": "The circular table without the black object on it.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": [
+                "black object"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 17,
+        "caption": "large table right in front of the privacy desks",
+        "parsed_query": {
+            "Target": "large table",
+            "Anchor": [
+                "privacy desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 16,
+        "caption": "The square desk with four chairs completely tucked into it, not the square table with chairs untucked from the table.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "chairs",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 2,
+        "caption": "It's the tiny desk closest to the door in the corner.",
+        "parsed_query": {
+            "Target": "tiny desk",
+            "Anchor": [
+                "door",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 29,
+        "caption": "The wall with three desks - you want the one next to the table w/o tall sides.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 31,
+        "caption": "Of the three desks next to each other its the middle one",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 20,
+        "caption": "Facing the group of 3 desks, it's the furthest right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "group of 3 desks"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 17,
+        "caption": "The circular table farthest from the door.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 2,
+        "caption": "The chair not next to another chair against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 29,
+        "caption": "standing at the doorway, you want the far left options for desks. The option from that you want is the left side near a small rectangular table.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "doorway",
+                "small rectangular table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 31,
+        "caption": "The correct desk is against the wall and is in the middle of the other two desks.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": 20,
+        "caption": "The desk in the corner on the right, next to 2 other desks.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]

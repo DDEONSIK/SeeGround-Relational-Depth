@@ -1,0 +1,353 @@
+[
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 11,
+        "caption": "The chair next to the stacked bundles of paper.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "stacked bundles of paper"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 10,
+        "caption": "Walk over to the seats and choose the one furthest to the right.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "seats",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 4,
+        "caption": "The trash can closest to the printer/scanner",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "printer",
+                "scanner"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 4,
+        "caption": "Choose the trash can on the right side closes to the copier.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copier",
+                "right"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 4,
+        "caption": "trash can closest to the copier.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copier"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 11,
+        "caption": "Brown boxes are stacked next to this chair.",
+        "parsed_query": {
+            "Target": "brown boxes",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 4,
+        "caption": "white garbage can to the left of the copier machine",
+        "parsed_query": {
+            "Target": "white garbage can",
+            "Anchor": [
+                "copier machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 5,
+        "caption": "The trash can next to the chairs.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "chairs"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 11,
+        "caption": "The chair next to boxes of printer paper and a tower of more paper on a large cabinet",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "large cabinet",
+                "boxes of printer paper",
+                "tower of more paper"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 5,
+        "caption": "the trash can closest to the brown shares",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown shares"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 10,
+        "caption": "The chair closer to the black poster with what looks like it could be a ribbon on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "black poster",
+                "ribbon"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 5,
+        "caption": "You need to find the trash can that is right next to the chair",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 10,
+        "caption": "When facing the chairs, the one on the right",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 11,
+        "caption": "Find the chair that is closer to the stacks of paper.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "stacks of paper"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 5,
+        "caption": "The trash can that's closer to the copier",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copier"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 11,
+        "caption": "The seat that is right next to the stack of books.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "stack of books"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 11,
+        "caption": "When facing the chairs, it's the chair on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 5,
+        "caption": "the trash can right next to the chairs",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "chairs"
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 5,
+        "caption": "trash can next to the brown chair",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 4,
+        "caption": "if you are looking at the two chairs next to the trash cans if the trash  can on the right",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "chairs",
+                "trash can"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 10,
+        "caption": "the chair closest to the printer/copier",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "printer/copier"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 4,
+        "caption": "Facing the cans, the can on the right.",
+        "parsed_query": {
+            "Target": "can",
+            "Anchor": [
+                "cans"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 11,
+        "caption": "Choose the chair closest to the stack of boxes.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "stack of boxes"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 10,
+        "caption": "Facing the chairs, the chair closest to the printer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "printer",
+                "chairs"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 5,
+        "caption": "When standing in the middle of the room facing the trash cans the correct one is on the left side, next to the chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 4,
+        "caption": "The trash can is in the box closest to the copy machine.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "box",
+                "copy machine"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 10,
+        "caption": "the brown chair closest to the picture frame on wall",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "picture frame",
+                "wall"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": 10,
+        "caption": "Find the chair that is closer to the Stanford poster.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "Stanford poster"
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

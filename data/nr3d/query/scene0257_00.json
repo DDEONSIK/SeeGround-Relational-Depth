@@ -1,0 +1,164 @@
+[
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 34,
+        "caption": "Door nearest to the chalkboard",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "chalkboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 34,
+        "caption": "the shorter door closest to the teacher's desk",
+        "parsed_query": {},
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 6,
+        "caption": "Select the door that is CLOSEST to all the rows of desks in the class.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "rows of desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 34,
+        "caption": "The smaller of the two doors.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 6,
+        "caption": "The taller set of boxes",
+        "parsed_query": {
+            "Target": "boxes",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 6,
+        "caption": "select the door that the chair is holding open",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "chair"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 34,
+        "caption": "The door you want to select is the one that is partially open and closest to the purple chair",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "purple chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 34,
+        "caption": "This door is closed and on the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 6,
+        "caption": "Door closest to the whiteboard",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "whiteboard"
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 6,
+        "caption": "door touching the purple chair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "purple chair"
+            ]
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 6,
+        "caption": "the open door with a bar across it, closest to the student desks",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": [
+                "student desks"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 34,
+        "caption": "The closed door to the left, when facing the doors.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "left",
+                "doors"
+            ]
+        },
+        "easy": true,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 34,
+        "caption": "the one closed door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": 6,
+        "caption": "The larger, open door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "easy": true,
+        "view_dep": false
+    }
+]

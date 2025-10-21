@@ -1,0 +1,64 @@
+[
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "2",
+        "target_name": "cabinet",
+        "caption": "a cabinet sits to the left of a another cabinet with the word \"safe\" on it. it is in the corner.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "another cabinet",
+                "corner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "12",
+        "target_name": "copier",
+        "caption": "a copier sits on the floor near the wall to the right of a cabinet that says \"safe\". it is to the left of a black garbage can.",
+        "parsed_query": {},
+        "unique": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "2",
+        "target_name": "cabinet",
+        "caption": "a black cabinet sits in the corner. it's to the right of some cardboard boxes.",
+        "parsed_query": {
+            "Target": "black cabinet",
+            "Anchor": [
+                "cardboard boxes"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "1",
+        "target_name": "recycling_bin",
+        "caption": "a recycling bin sits in the corner. it's to the right of a copier.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "copier"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "some black cabinets hang on the wall above a black counter top with sever rectangular holes. it's above and to the right of a green garbage.",
+        "parsed_query": {
+            "Target": "black cabinets",
+            "Anchor": [
+                "black counter top",
+                "green garbage"
+            ]
+        },
+        "unique": false
+    }
+]

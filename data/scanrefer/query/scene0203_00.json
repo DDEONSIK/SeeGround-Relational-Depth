@@ -1,0 +1,63 @@
+[
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "there is a black pillow. placed on the floor of the room.",
+        "parsed_query": {
+            "Target": "black pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "42",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is a natural wood color and has 5 shelves.  to the right of the bookshelf is a dark gray/blue lounge chair, a window, and another similar bookshelf. .",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "lounge chair",
+                "window",
+                "similar bookshelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there is a multi color chair. placed on the side of the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "14",
+        "target_name": "pillow",
+        "caption": "this is a white pillow on a bean bag. it is square shaped.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bean bag"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "this is a wooden shelf with something blue on top. it has three separate compartments.",
+        "parsed_query": {
+            "Target": "wooden shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

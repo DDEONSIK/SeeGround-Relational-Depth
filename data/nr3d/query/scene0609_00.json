@@ -1,0 +1,272 @@
+[
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 4,
+        "caption": "The area under the table which stands alone",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 5,
+        "caption": "When facing the two aligned tables horizontally, this table is at the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "aligned tables"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 5,
+        "caption": "the table on the right furthest away from the others and in the corner",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "right",
+                "corner"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 5,
+        "caption": "the table is on the wall with two chairs near it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 5,
+        "caption": "So if you have the two tables in the back and one table in the front, you want the right side",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "two tables in the back"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 4,
+        "caption": "The table sitting in its own row.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 4,
+        "caption": "The table in the middle of the room",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 6,
+        "caption": "This table is next to a second one, and their group appears to be in the room's corner.",
+        "parsed_query": {
+            "Target": "this table",
+            "Anchor": [
+                "second table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 5,
+        "caption": "facing curtains, the right most table",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "curtains"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 5,
+        "caption": "Facing the wall, there are two clusters of tables near the wall. The table that is the furthest right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 6,
+        "caption": "Facing the wall with more desks, it is the furthest left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "wall"
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 6,
+        "caption": "Standing in the middle of the room looking at the two tables that are side by side, it's the table on the left",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 6,
+        "caption": "Of the rectangular tables along the wall, it's the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "rectangular tables",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 5,
+        "caption": "This table has two chairs lined up on one side.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 6,
+        "caption": "The middle table of the three.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 4,
+        "caption": "If you are looking at a view of the room where the two tables are behind the one in the middle of the room, the table in the middle of the room is the table you want.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "room"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 4,
+        "caption": "The square table in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 4,
+        "caption": "This table is not aligned with the other 2.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "other 2"
+            ]
+        },
+        "easy": false,
+        "view_dep": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 4,
+        "caption": "the table that is behind the 2 tables next to each other.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "2 tables",
+                "next to each other"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 6,
+        "caption": "There are two longer desks and one smaller and the one to the left with the smaller directly below it",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "longer desks",
+                "smaller desk"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": 6,
+        "caption": "The larger left table against the wall with a smaller table directly under it",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "big table",
+                "smaller table",
+                "wall"
+            ]
+        },
+        "easy": false,
+        "view_dep": true
+    }
+]
