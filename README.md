@@ -266,4 +266,3 @@ We would like to thank the following repositories for their contributions:
 - [ReferIt3D](https://github.com/referit3d/referit3d)
 - [Vil3dref](https://github.com/cshizhe/vil3dref)
 - [OpenIns3D](https://github.com/Pointcept/OpenIns3D)
-# SeeGround-Relational-Depth
