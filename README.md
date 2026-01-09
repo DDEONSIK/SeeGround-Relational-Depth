@@ -2,10 +2,10 @@
 <h2>Enhancing SeeGround with Relational Depth Text for 3D Visual Grounding</h2>
 </div>
 
-- [2025/10]: Manuscript submitted to Sensors, MDPI (SCIE-indexed, Impact Factor: 3.5).
+- [2025/10]: Manuscript submitted to Sensors, MDPI (SCIE-indexed, Impact Factor: 2.5).
 
 <p align="center">
-    <a href='https://doi.org/10.5302/J.ICROS.2025.25.0168'><img src="https://img.shields.io/badge/Paper-PDF-blue?style=flat&#x26;logo=doi&#x26;logoColor=yello" alt="Paper PDF"></a>
+    <a href='https://doi.org/10.3390/app16020652'><img src="https://img.shields.io/badge/Paper-PDF-blue?style=flat&#x26;logo=doi&#x26;logoColor=yello" alt="Paper PDF"></a>
 </p>
 
 🚀 This project base on [SeeGround](https://github.com/iris0329/SeeGround)
