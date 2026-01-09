@@ -2,7 +2,10 @@
 <h2>Enhancing SeeGround with Relational Depth Text for 3D Visual Grounding</h2>
 </div>
 
-- [2025/10]: Manuscript submitted to Sensors, MDPI (SCIE-indexed, Impact Factor: 2.5).
+- [2025/10]: Manuscript submitted to "Applied Sciences" (MDPI, SCIE-indexed, Impact Factor: 2.5).
+- [2025/12]: Manuscript revised 
+- [2026/01]: Manuscript accepted
+- [2026/01]: This work has been published in the  Applied Sciences
 
 <p align="center">
     <a href='https://doi.org/10.3390/app16020652'><img src="https://img.shields.io/badge/Paper-PDF-blue?style=flat&#x26;logo=doi&#x26;logoColor=yello" alt="Paper PDF"></a>
